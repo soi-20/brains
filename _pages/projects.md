@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 
 
-## Programmed Drones + LEDs Art
+## Programmed Drones 
 - [Project X](https://vimeo.com/111901733)
 
 ![Alt Text](https://media.giphy.com/media/l3mZ5zogGcnzNzbqM/giphy.gif)
