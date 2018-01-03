@@ -4,9 +4,9 @@ title: Projects
 permalink: /projects/
 ---
 
-## 2018 Building now 
+# Building now 
 ## Podcast iOS App
-TARS is “a social network for podcast".
+TARS is “a social network for podcast lover". Future Apple Design Award.
 - [ Join private beta here ](https://upscri.be/e57947/)
 
 ![Alt Text](https://camo.githubusercontent.com/3566ea6dd45bc6a325f1ac96c37ce1221af8deea/68747470733a2f2f692e696d6775722e636f6d2f464a75397947792e706e67)
