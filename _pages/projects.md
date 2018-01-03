@@ -1,11 +1,10 @@
 ---
 layout: content
-title: 
+title: Building Now
 permalink: /projects/
 ---
 
-# Building now 
-## Podcast iOS App
+## Podcast App
 TARS is “a social network for podcast lover". Future Apple Design Award.
 - [ Join private beta here ](https://upscri.be/e57947/)
 
