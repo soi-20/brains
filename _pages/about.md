@@ -5,7 +5,7 @@ permalink: /about/
 ---
 Hi, I'm Allen.I program and write about startup, VC and Machine Learning. 
 
-Contact me (I only use Snap and Slack.)
+Follow me here (I only use Snap and Slack.)
 
 ![Alt Text](https://i.imgur.com/2oGFN7X.png)
 ----
