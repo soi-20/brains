@@ -1,6 +1,6 @@
 ---
 layout: content
-title: Currently Building 
+title: Currently building 
 permalink: /projects/
 ---
 
