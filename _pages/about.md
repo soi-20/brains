@@ -3,9 +3,8 @@ layout: content
 title: 
 permalink: /about/
 ---
-Hi, I'm Allen.I program and write about startup, VC and Machine Learning. 
-
-Follow me here (I only use Snap and Slack.)
+Hi, I'm Allen. 
+Follow me here:
 
 ![Alt Text](https://i.imgur.com/2oGFN7X.png)
 ----
