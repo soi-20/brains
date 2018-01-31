@@ -12,7 +12,7 @@ comments: true
 
 一個圓，沒有人說從哪開始才是對的。
 
-GSV Capital 投資管理團隊的創投家 Li Jiang 之前在 Medium上發了一篇文章，提出技術領域的「萬有理論（the theory of everything）」, 硬體和軟體是共生演化的，彼此影響，最後形成一個完美的演化循環。
+GSV Capital 投資管理團隊的創投家 Li Jiang 之前在 Medium上發了一篇[文章](https://medium.com/global-silicon-valley/the-theory-of-everything-in-technology-c9275f0faf5d)，提出技術領域的「萬有理論（the theory of everything）」, 硬體和軟體是共生演化的，彼此影響，最後形成一個完美的演化循環。
 
 但，Li 可沒說新創公司在萬有理論這個生態系的唯一切入點，就一定要從「佈建 Sensor」 開始。
 
@@ -41,3 +41,5 @@ GSV Capital 投資管理團隊的創投家 Li Jiang 之前在 Medium上發了一
 從 Sensor 出發沒什麼不對，由感應器、智慧型穿戴裝置去搜集有意義的資料（大數據、資料探勘 ….. Whatever …… ），進而推動機器學習、人工智慧與機器人的生態也很好。但前提是你把服務想透了，而不只是邊走邊瞎猜。
 
 而且「一個圓其實沒有終點，也沒有起點」，如果可以從「感應器」切入，為什麼不能從軟體服務裡的「資料」、「機器學習」、「人工智慧」所在的循環點先切入呢？
+
+[Original Post](https://medium.com/@allenleein/sensor-f66b6a9eccac)
