@@ -7,7 +7,7 @@ tags:
 comments: true
 ---
 
-[](https://i.imgur.com/p1aIdy1.jpg)
+[Tech](https://i.imgur.com/p1aIdy1.jpg)
 
 一個圓，沒有人說從哪開始才是對的。
 
