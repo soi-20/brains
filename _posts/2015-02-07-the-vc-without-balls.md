@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "吃軟柿子的 VC 與東南亞矽谷夢"
+title: "吃軟飯的 VC 與他們的東南亞矽谷夢"
 description: ""
 date: 2015-02-07
 tags: 
