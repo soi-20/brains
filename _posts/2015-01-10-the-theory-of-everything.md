@@ -7,7 +7,8 @@ tags:
 comments: true
 ---
 
-[Tech](https://i.imgur.com/p1aIdy1.jpg)
+![alt text](https://i.imgur.com/p1aIdy1.jpg "Logo Title Text 1")
+
 
 一個圓，沒有人說從哪開始才是對的。
 
