@@ -51,6 +51,9 @@ TMI 合夥人 Mark 也曾在 2013 創業小聚暨 AAMA 年會談到東南亞議�
 
 ## 改專注物聯網的VC，卻沒投物聯網新創
 
+![alt text](https://cdn-images-1.medium.com/max/1600/1*9uG1sVIRQL5kmDqFqvsytA.png "Logo Title Text 1")
+
+
 「軟硬整合、物聯網」在台灣的科技領袖圈裡喊了很多次了。「專注移動和物聯網」是 AppWorks 網站上的標語，但我卻在網站裡的 Investments 找不到任何物聯網相關的新創團隊。（2015.2.7 前）
 
 所以我們可以好好想一想，是台灣沒有好的物聯網團隊，還是那些好的物聯網團隊還沒有成熟到值得被 AppWorks 投資？或是 AppWorks 後面的投資人，只對商業模式相對已成熟的電子商務相關題材有興趣，所以 AppWorks 只專注在孵化物聯網團隊，但不投資？
