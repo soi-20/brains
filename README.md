@@ -12,6 +12,8 @@
 - 2017/12/10 - [驅動並進入心流](https://allenleein.github.io/brains/2017/12/trigger-flow)
 
 ## Business 
+
+- 2017/09/01 - [Too Big to Fake](https://allenleein.github.io/brains/2017/09/too-big-too-fake)
 - 2016/04/07 - [Silicon Valley: The Wall Street Without Bubble](https://allenleein.github.io/brains/2016/04/bubble)
 - 2016/06/04 - [不該讓吃軟飯的 VC，發明吃軟柿子的物種](https://allenleein.github.io/brains/2016/06/the-vc-without-balls2)
 - 2015/02/07 - [吃軟飯的 VC 與他們的東南亞矽谷夢](https://allenleein.github.io/brains/2015/02/the-vc-without-balls)
@@ -21,5 +23,6 @@
 - 2014/06/02 - [新創公司的骨架，大公司的靈魂](https://allenleein.github.io/brains/2014/07/startup-mindset)
 
 
+## World
 
-
+- 2017/08/02 - [Dunkirk: The legend ends, the unknown knight rises](https://allenleein.github.io/brains/2017/08/dunkirk)
