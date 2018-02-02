@@ -1,4 +1,4 @@
-# Output of My Brain⚡️
+# Output of My Brains⚡️
 
 
 ## Founder
