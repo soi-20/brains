@@ -1,3 +1,5 @@
+![alt text](https://i.imgur.com/pjCMVrJ.png "Logo Title Text 1")
+
 # Functional MindFlow project
 
 This is an experimental Functional MindFlow project. All thoughts are welcome to contribute here.
