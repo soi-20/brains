@@ -4,7 +4,7 @@
 
 # Functional Mindflow project
 
-This is an experimental Functional MindFlow project. All thoughts are welcome to contribute here.
+This is an experimental Functional MindFlow project(Open-source brains). All thoughts are welcome to contribute here.
 
 If you want to check the flow real-time or comment privately, you can SnapChat me your email and I will send you the link to a private Slack channel synced to this project. 
 
