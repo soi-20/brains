@@ -1,17 +1,26 @@
-# Output of My Brains⚡️
+# Functional MindFlow project
+
+This is an experimental Functional MindFlow project. All thoughts are welcome to contribute here.
+
+If you want to check the flow real-time or comment privately, you can SnapChat me your email and I will send you the link to a private Slack channel synced to this project. 
+
+All the contributions (Github/Slack) will be merged here.
 
 
-## Founder
+## Output of My Brains⚡️
+
+
+### Founder
 
 - 2018/01/01 - [To Funders and Myself](https://allenleein.github.io/brains/2018/01/founders)
 
-## How To Think
+### How To Think
 
 - 2018/01/02 - [母體潰爛的繼承者時代](https://allenleein.github.io/brains/2018/01/mother)
 - 2016/06/10 - [尋找自己的信仰](https://allenleein.github.io/brains/2016/06/goals)
 - 2017/12/10 - [驅動並進入心流](https://allenleein.github.io/brains/2017/12/trigger-flow)
 
-## Business 
+### Business 
 
 - 2017/09/01 - [Too Big to Fake](https://allenleein.github.io/brains/2017/09/too-big-too-fake)
 - 2016/04/07 - [Silicon Valley: The Wall Street Without Bubble](https://allenleein.github.io/brains/2016/04/bubble)
@@ -23,6 +32,6 @@
 - 2014/06/02 - [新創公司的骨架，大公司的靈魂](https://allenleein.github.io/brains/2014/07/startup-mindset)
 
 
-## World
+### World
 
 - 2017/08/02 - [Dunkirk: The legend ends, the unknown knight rises](https://allenleein.github.io/brains/2017/08/dunkirk)
