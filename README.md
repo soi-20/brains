@@ -1,6 +1,6 @@
-<center>
+
 ![alt text](https://i.imgur.com/pjCMVrJ.png "Logo Title Text 1")
-</center>
+
 
 # Functional MindFlow project
 
