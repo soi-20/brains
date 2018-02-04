@@ -3,8 +3,11 @@ layout: content
 title: 
 permalink: /about/
 ---
-Hi, I'm Allen.
-I don't use Facebook,email...only Snap.
+Hi, this is Allen.
+
+[My Books](https://www.goodreads.com/allenleeein)
+
+I don't Facebook,Email,Phone...only Snap can reach me.
 
 ![Alt Text](https://i.imgur.com/Jjyds3p.png)
 
