@@ -5,7 +5,8 @@ permalink: /about/
 ---
 Hi, this is Allen.
 
-[My Books](https://www.goodreads.com/allenleeein)
+[Check my fav books](https://www.goodreads.com/allenleeein)
+[Check my fav fimls](https://www.pinterest.com/buildingtars/films/)
 
 I don't Facebook,Email,Phone...only Snap can reach me.
 
