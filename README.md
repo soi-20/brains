@@ -3,7 +3,7 @@
 
 
 
-# Functional Flow project
+# Functional Flow
 
 This is an experimental Functional Flow project(Open-source brains, Input = [Issues](https://github.com/allenleein/brains/issues), Output = [Blog](https://allenleein.github.io/brains/)).
 
