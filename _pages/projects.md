@@ -30,4 +30,9 @@ TARS is a Podcat player based on crowdsourced bookmarks.
 
 ![Alt Text](https://i.imgur.com/pNz5FOm.jpg)
 
+## A Venture Publication
+A Venture was top VC/ Machine Learning Publisher on Medium 2013-15. Acquired by FF.
+
+![Alt Text](https://i.imgur.com/4bY53O8.jpg)
+
 
