@@ -1,5 +1,6 @@
 
-![alt text](https://i.imgur.com/pjCMVrJ.png "Logo Title Text 1")
+![Alt Text](http://lambdageneration.com/wp-content/uploads/2014/10/original-animated.gif)
+
 
 
 # Functional Mindflow project
