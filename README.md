@@ -7,7 +7,7 @@
 
 This is an experimental Functional Flow project(Open-source brains, Input = [Issues](https://github.com/allenleein/brains/issues), Output = [Blog](https://allenleein.github.io/brains/)).
 
-All thoughts are welcome to contribute HERE (Closed/Open Issues). If you want to check the flow real-time or discuss something with me privately, you can Snap me your email and I will send you the link to a private Slack channel synced to this project. 
+All thoughts are welcome to contribute [HERE](https://github.com/allenleein/brains/issues) (Closed/Open Issues). If you want to check the flow real-time or discuss something with me privately, you can [Snap](https://allenleein.github.io/brains/about/) me your email and I will send you the link to a private Slack channel synced to this project. 
 
 All the contributions (Github/Slack) will be merged here.
 
