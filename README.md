@@ -3,16 +3,16 @@
 
 
 
-# Functional Mindflow project
+# Functional Flow project
 
-This is an experimental Functional MindFlow project(Open-source brains). All thoughts are welcome to contribute here.
+This is an experimental Functional Flow project(Open-source brains). 
 
-If you want to check the flow real-time or comment privately, you can SnapChat me your email and I will send you the link to a private Slack channel synced to this project. 
+All thoughts are welcome to contribute HERE (Closed/Open Issues). If you want to check the flow real-time or discuss something with me privately, you can Snap me your email and I will send you the link to a private Slack channel synced to this project. 
 
 All the contributions (Github/Slack) will be merged here.
 
 
-## Output of My Brains⚡️
+## Output of Brains⚡️
 
 
 ### Founder
