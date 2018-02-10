@@ -4,6 +4,15 @@ title: Currently building
 permalink: /projects/
 ---
 
+# Functional Flow project
+
+[Brains](https://github.com/allenleein/brains) is an experimental Functional Flow project(Open-source brains). 
+
+![Alt Text](http://lambdageneration.com/wp-content/uploads/2014/10/original-animated.gif)
+
+
+
+
 ## Podcast App
 TARS is a Podcat player based on crowdsourced bookmarks.
 
