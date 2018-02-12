@@ -5,7 +5,9 @@
 
 # Functional Flow
 
-This is an experimental Functional [Flow](https://www.wikiwand.com/en/Flow_(psychology)) project. I'm trying to turn my brain into an Open-source brains. Open-source brains are functional flow with its source code made available with a license in which the copyright holder provides the rights to study, change, and distribute the brains to anyone and for any purpose. Open-source brains are developed in a collaborative public manner. 
+This is an experimental Functional [Flow](https://www.wikiwand.com/en/Flow_(psychology)) project. I'm trying to turn my brain into an Open-source brainS. 
+
+Open-source brains are functional flow with its source code made available with a license in which the copyright holder provides the rights to study, change, and distribute the brains to anyone and for any purpose. Open-source brains are developed in a collaborative public manner. 
 
 
 ## Components of a Functional Flow System - Input, Process, Output
@@ -20,7 +22,7 @@ All thoughts are welcome to contribute [HERE](https://github.com/allenleein/brai
 All the contributions (Github/Slack) will be merged here.
 
 
-## Output of Brains⚡️
+# Output of Brains⚡️
 
 
 ### Founder
