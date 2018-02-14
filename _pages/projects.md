@@ -4,7 +4,7 @@ title: Currently building
 permalink: /projects/
 ---
 
-## Functional Flow project
+### Functional Flow project
 
 [Brains](https://github.com/allenleein/brains) is an experimental Functional Flow project(Open-source brains). 
 
@@ -13,7 +13,7 @@ permalink: /projects/
 
 
 
-## Podcast App
+### Podcast App
 TARS is a Podcat player based on crowdsourced bookmarks.
 
 - [ Join private beta ](https://upscri.be/e57947/)
@@ -22,7 +22,7 @@ TARS is a Podcat player based on crowdsourced bookmarks.
 
 
 # Past 
-## Programmed Drones 
+### Programmed Drones 
 - [Project X](https://vimeo.com/111901733)
 
 ![Alt Text](https://media.giphy.com/media/l3mZ5zogGcnzNzbqM/giphy.gif)
