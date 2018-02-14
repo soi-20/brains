@@ -4,7 +4,7 @@ title: Currently building
 permalink: /projects/
 ---
 
-# Functional Flow project
+## Functional Flow project
 
 [Brains](https://github.com/allenleein/brains) is an experimental Functional Flow project(Open-source brains). 
 
