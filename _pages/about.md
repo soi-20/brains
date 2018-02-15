@@ -18,7 +18,7 @@ Hi, this is Allen. I'm building Gargantua.
 
 # Contact
 
-I don't Facebook,Email,Phone...only Snap can reach me.
+I don't Facebook, Email, Phone...only Snap can reach me.
 
 Plz add: allenleein
 
