@@ -7,11 +7,11 @@ Hi, this is Allen. I'm building Gargantua.
 
 ----
 
-[Check my fav books.](https://www.goodreads.com/allenleeein)
+[My fav books.](https://www.goodreads.com/allenleeein)
 
-[Check my fav films.](https://www.pinterest.com/buildingtars/films/)
+[My fav films.](https://www.pinterest.com/buildingtars/films/)
 
-[Check my photos.](https://www.flickr.com/photos/allenandspace/albums)
+[My photos.](https://www.flickr.com/photos/allenandspace/albums)
 
 
 ----
