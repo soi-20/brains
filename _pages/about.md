@@ -7,9 +7,12 @@ Hi, this is Allen. I'm building Gargantua.
 
 ----
 
-[Check my fav books](https://www.goodreads.com/allenleeein)
+[Check my fav books.](https://www.goodreads.com/allenleeein)
 
-[Check my fav films](https://www.pinterest.com/buildingtars/films/)
+[Check my fav films.](https://www.pinterest.com/buildingtars/films/)
+
+[Check my photos.](https://www.flickr.com/photos/allenandspace/albums)
+
 
 ----
 
@@ -17,7 +20,7 @@ Hi, this is Allen. I'm building Gargantua.
 
 I don't Facebook,Email,Phone...only Snap can reach me.
 
-![Alt Text](https://i.imgur.com/Jjyds3p.png)
+Plz add: allenleein
 
 # Or 
 
