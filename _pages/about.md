@@ -19,7 +19,9 @@ I don't Facebook,Email,Phone...only Snap can reach me.
 
 ![Alt Text](https://i.imgur.com/Jjyds3p.png)
 
-Or contact me for $100 on 21.co. All$$ will be donated to Folding at Home.
+# Or 
+
+Contact me for $100 on 21.co. All$$ will be donated to Folding at Home.
 
 [HERE](https://earn.com/allenlee/)
 
