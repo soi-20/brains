@@ -1,9 +1,8 @@
-
-
-
 <dl>
-  <div style="text-align:center">><img width="300" height="300" src="http://lambdageneration.com/wp-content/uploads/2014/10/original-animated.gif"></div>
-</div>
+
+<div style="text-align:center"><img width="300" height="300" src="http://lambdageneration.com/wp-content/uploads/2014/10/original-animated.gif"></div>
+
+</dl>
 
 
 # Functional Flow
