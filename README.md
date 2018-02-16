@@ -3,7 +3,7 @@
 </p>
 
 
-# Functional Flow (Open-source BRAINS)
+# Functional Flow (Open-source Brains)
 
 This is an experimental Functional [Flow](https://www.wikiwand.com/en/Flow_(psychology)) project. I'm trying to turn my brain into an Open-source brains. 
 
