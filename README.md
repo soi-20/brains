@@ -1,8 +1,6 @@
-<dl>
-
-<div style="text-align:center"><img width="300" height="300" src="http://lambdageneration.com/wp-content/uploads/2014/10/original-animated.gif"></div>
-
-</dl>
+<p align="center">
+  <img width="300" height="300" src="http://lambdageneration.com/wp-content/uploads/2014/10/original-animated.gif" alt="Sublime's custom image"/>
+</p>
 
 
 # Functional Flow
