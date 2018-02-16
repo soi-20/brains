@@ -1,8 +1,10 @@
 
 
+<center>
 <dl>
-  <<div><img width="300" height="300" src="http://lambdageneration.com/wp-content/uploads/2014/10/original-animated.gif"></div>
+  <div><img width="300" height="300" src="http://lambdageneration.com/wp-content/uploads/2014/10/original-animated.gif"></div>
 </div>
+</center>
 
 # Functional Flow
 
