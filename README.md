@@ -1,7 +1,7 @@
 
 
 <dl>
-  <center><div><img width="400" height="400" src="http://lambdageneration.com/wp-content/uploads/2014/10/original-animated.gif"></div></center>
+  <<div><img width="600" height="600" src="http://lambdageneration.com/wp-content/uploads/2014/10/original-animated.gif"></div>
 </div>
 
 # Functional Flow
