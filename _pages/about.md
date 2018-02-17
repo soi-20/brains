@@ -3,7 +3,7 @@ layout: content
 title: 
 permalink: /about/
 ---
-Hi, this is Allen. I'm building Gargantua.
+Hi, this is Allen. A fan of CS 1.6.
 
 
 # Social
