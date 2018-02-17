@@ -11,6 +11,7 @@ permalink: /projects/
 ![alt text](http://lambdageneration.com/wp-content/uploads/2014/10/original-animated.gif "Logo Title Text 1")
 
 ### Gargantua
+
 A backup human knowledge.
 
 - [ Join private beta ](https://upscri.be/e57947/)
