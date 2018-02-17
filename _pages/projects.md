@@ -20,12 +20,12 @@ TARS is a Podcat player based on crowdsourced bookmarks.
 
 
 <p align="center">
-  <img width="600" height="400" src="https://camo.githubusercontent.com/3566ea6dd45bc6a325f1ac96c37ce1221af8deea/68747470733a2f2f692e696d6775722e636f6d2f464a75397947792e706e67" alt="Sublime's custom image"/>
+  <img width="800" height="400" src="https://camo.githubusercontent.com/3566ea6dd45bc6a325f1ac96c37ce1221af8deea/68747470733a2f2f692e696d6775722e636f6d2f464a75397947792e706e67" alt="Sublime's custom image"/>
 </p>
 
 
 # Past 
-### Programmed Drones 
+### Programmed Drones - 2013
 - [Project X](https://vimeo.com/111901733)
 
 <p align="center">
