@@ -40,6 +40,8 @@ A backup human knowledge.
 ## A Venture Publication
 A Venture was top VC/ Machine Learning Publisher on Medium 2013-15. Acquired by FF.
 
-![alt text](https://i.imgur.com/4bY53O8.jpg "Logo Title Text 1")
+<p align="center">
+  <img width="300" height="300" src="https://i.imgur.com/4bY53O8.jpg" alt="Sublime's custom image"/>
+</p>
 
 
