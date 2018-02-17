@@ -34,7 +34,7 @@ TARS is a Podcat player based on crowdsourced bookmarks.
 
 
 <p align="center">
-  <img width="800" height="600" src="https://i.imgur.com/pNz5FOm.jpg" alt="Sublime's custom image"/>
+  <img width="900" height="600" src="https://i.imgur.com/pNz5FOm.jpg" alt="Sublime's custom image"/>
 </p>
 
 
