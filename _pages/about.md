@@ -5,6 +5,8 @@ permalink: /about/
 ---
 Hi, this is Allen. I'm building Gargantua.
 
+
+# Social
 ----
 
 [My fav books.](https://www.goodreads.com/allenleeein)
@@ -18,14 +20,11 @@ Hi, this is Allen. I'm building Gargantua.
 
 # Contact
 
-I don't Facebook, Email, Phone...only Snap can reach me.
-
-Plz add: allenleein
+I don't Facebook, Email, Phone...only Snap can reach me. Plz add: allenleein
 
 # Or 
 
-Contact me for $100 on 21.co. All$$ will be donated to Folding at Home.
+[Contact me](https://earn.com/allenlee/) for $100 USD on 21.co. All$$ will be donated to Folding at Home.
 
-[HERE](https://earn.com/allenlee/)
 
 
