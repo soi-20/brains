@@ -15,7 +15,7 @@ permalink: /projects/
 
 ### Gargantua
 
-A backup human knowledge.
+A backup of human knowledge.
 
 - [ Join private beta ](https://upscri.be/e57947/)
 
