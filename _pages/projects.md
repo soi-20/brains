@@ -9,7 +9,7 @@ permalink: /projects/
 [Brains](https://github.com/allenleein/brains) is an experimental Functional Flow project(Open-source brains). 
 
 <p align="center">
-  <img width="400" height="400" src="http://lambdageneration.com/wp-content/uploads/2014/10/original-animated.gif" alt="Sublime's custom image"/>
+  <img width="300" height="300" src="http://lambdageneration.com/wp-content/uploads/2014/10/original-animated.gif" alt="Sublime's custom image"/>
 </p>
 
 
