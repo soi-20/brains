@@ -17,7 +17,7 @@ permalink: /projects/
 
 A backup of human knowledge.
 
-- [ Join private beta ](https://upscri.be/e57947/)
+- [ Enter private beta ](https://upscri.be/e57947/)
 
 <p align="center">
   <img width="300" height="300" src="https://i.imgur.com/1nLWkHH.png" alt="Sublime's custom image"/>
