@@ -8,7 +8,10 @@ permalink: /projects/
 
 [Brains](https://github.com/allenleein/brains) is an experimental Functional Flow project(Open-source brains). 
 
-![alt text](http://lambdageneration.com/wp-content/uploads/2014/10/original-animated.gif "Logo Title Text 1")
+<p align="center">
+  <img width="400" height="400" src="http://lambdageneration.com/wp-content/uploads/2014/10/original-animated.gif" alt="Sublime's custom image"/>
+</p>
+
 
 ### Gargantua
 
@@ -16,8 +19,10 @@ A backup human knowledge.
 
 - [ Join private beta ](https://upscri.be/e57947/)
 
+<p align="center">
+  <img width="400" height="400" src="https://i.imgur.com/1nLWkHH.png" alt="Sublime's custom image"/>
+</p>
 
-![alt text](https://i.imgur.com/1nLWkHH.png "Logo Title Text 1")
 
 
 # Past 
