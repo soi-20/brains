@@ -24,8 +24,8 @@ A backup of human knowledge.
 </p>
 
 
-
 # Past 
+
 ### Programmed Drones - 2013
 - [Project X](https://vimeo.com/111901733)
 
@@ -35,10 +35,8 @@ A backup of human knowledge.
 ![alt text](https://i.imgur.com/pNz5FOm.jpg "Logo Title Text 1")
 
 
-
-
-## A Venture Publication
-A Venture was top VC/ Machine Learning Publisher on Medium 2013-15. Acquired by FF.
+## A Venture Publication - 2013-2015
+A Venture was top 5 VC & Machine Learning Publisher on Medium. Acquired by FF.
 
 <p align="center">
   <img width="300" height="300" src="https://i.imgur.com/4bY53O8.jpg" alt="Sublime's custom image"/>
