@@ -21,7 +21,7 @@ All thoughts are welcome to contribute [HERE](https://github.com/allenleein/brai
 
 All the contributions (Github/Slack) will be merged here.
 
-All the input and output is under [Free Information](https://github.com/allenleein/brains/issues/343).
+If you believe in Free Information, you can also check [How to Bypass Paywall](https://github.com/allenleein/brains/issues/343)
 
 
 # Output of Brains⚡️
