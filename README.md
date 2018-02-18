@@ -21,6 +21,8 @@ All thoughts are welcome to contribute [HERE](https://github.com/allenleein/brai
 
 All the contributions (Github/Slack) will be merged here.
 
+All the input and output is under [Free Information](https://github.com/allenleein/brains/issues/343).
+
 
 # Output of Brains⚡️
 
