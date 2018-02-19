@@ -19,7 +19,11 @@ Open-source brains are functional flow with its source code made available with 
 * Output - [Brains](https://allenleein.github.io/brains/).
 
 
-All thoughts are welcome to contribute information layer1:[Issues](https://github.com/allenleein/brains/issues) (Closed/Open Issues) and information layer2: [⚡️Output-observables](https://github.com/allenleein/brains/labels/%E2%9A%A1%EF%B8%8FOutput-observables). 
+All thoughts are welcome to contribute to:
+
+* Information layer1: [Issues](https://github.com/allenleein/brains/issues) (Closed/Open Issues) 
+
+* Information layer2: [⚡️Output-observables](https://github.com/allenleein/brains/labels/%E2%9A%A1%EF%B8%8FOutput-observables). 
 
 If you want to check the flow real-time(Warning: maybe too many notifications for normal people) or discuss something with me privately, you can [Snap](https://allenleein.github.io/brains/about/) me your email and I will send you the link to a private Slack channel synced real-time to this project. 
 
