@@ -28,7 +28,8 @@ Or [contact me](https://earn.com/allenlee/) for $100 USD on 21.co. All$$ will be
 
 ### Functional Brains
 
-* [Brains](https://github.com/allenleein/brains) is an experimental Functional Flow project(Open-source brains). 
+* [Brains](https://github.com/allenleein/brains) is an experimental Functional Flow project(Open-source brains). I'm trying to turn my brain into an Open-source brains. 
+ 
 
 <p align="center">
   <img width="300" height="300" src="http://lambdageneration.com/wp-content/uploads/2014/10/original-animated.gif" alt="Sublime's custom image"/>
