@@ -19,7 +19,7 @@ Open-source brains are functional flow with its source code made available with 
 * Output - [Brains](https://allenleein.github.io/brains/).
 
 
-All thoughts are welcome to contribute to:
+### All thoughts are welcome to contribute to:
 
 * Information layer1: [Issues](https://github.com/allenleein/brains/issues) (Closed/Open Issues) 
 
