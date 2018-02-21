@@ -58,12 +58,7 @@ Or [contact me](https://earn.com/allenlee/) for $100 USD on 21.co. All$$ will be
 * [My photos.](https://www.flickr.com/photos/allenandspace/albums)
 
 
-# Other Currently Building Projects:
-
-### Functional Brains
-
-* [Brains](https://github.com/allenleein/brains) is an experimental Functional Flow project(Open-source brains). I'm trying to turn my brain into an Open-source brains. 
- 
+# Currently Building Project:
 
 ### Gargantua
 
