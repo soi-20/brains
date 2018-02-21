@@ -27,7 +27,7 @@ Open-source brains are functional flow with its source code made available with 
 
 * Information layer3: [Brains](https://github.com/allenleein/brains/tree/master/_posts)
 
-If you want to check the flow real-time(Warning: maybe too many notifications for normal people) or discuss something with me privately, you can [Snap](https://allenleein.github.io/brains/about/) me your email and I will send you the link to a private Slack channel synced real-time to this project. 
+If you want to check the flow real-time(Warning: maybe too many notifications for normal people) or discuss something with me privately, you can [Snap](https://allenleein.github.io/brains/about/#contact) me your email and I will send you the link to a private Slack channel synced real-time to this project. 
 
 All the contributions (Github/Slack) will be merged here.
 
