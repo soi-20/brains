@@ -3,7 +3,42 @@ layout: content
 title: 
 permalink: /about/
 ---
-Hi, this is Allen. A fan of CS 1.6.
+
+<p align="center">
+  <img width="300" height="300" src="http://lambdageneration.com/wp-content/uploads/2014/10/original-animated.gif" alt="Sublime's custom image"/>
+</p>
+
+
+# Functional Flow (Open-source brains)
+
+Hi Allen here. This is an experimental Functional [Flow](https://www.wikiwand.com/en/Flow_(psychology)) project. I'm trying to turn my brain into an Open-source brains. 
+
+Open-source brains are functional flow with its source code made available with a license in which the copyright holder provides the rights to study, change, and distribute the brains to anyone and for any purpose. Open-source brains are developed in a collaborative public manner. 
+
+
+## Components of a Functional Flow System - Input, Process, Output
+
+* Input - the information/functions/brain entered into a flow system. Please check [Brains Issues](https://github.com/allenleein/brains/issues) and [Liked Tweets](https://twitter.com/i/likes).
+
+* Processing - the process of transforming input information/functions/brain into and output. Please check [⚡️Output-observables](https://github.com/allenleein/brains/labels/%E2%9A%A1%EF%B8%8FOutput-observables).
+
+* Output - [Brains](https://allenleein.github.io/brains/).
+
+
+### All thoughts are welcome to contribute to:
+
+* Information layer1: [Issues](https://github.com/allenleein/brains/issues) (Closed/Open Issues) 
+
+* Information layer2: [⚡️Output-observables](https://github.com/allenleein/brains/labels/%E2%9A%A1%EF%B8%8FOutput-observables). 
+
+* Information layer3: [Brains](https://github.com/allenleein/brains/tree/master/_posts)
+
+If you want to check the flow real-time(Warning: maybe too many notifications for normal people) or discuss something with me privately, you can Snap me your email and I will send you the link to a private Slack channel synced real-time to this project. 
+
+All the contributions (Github/Slack) will be merged here.
+
+If you believe in Free Information, you can also check [How to Bypass Paywall](https://github.com/allenleein/brains/issues/343)
+
 
 
 # Contact:
@@ -22,19 +57,13 @@ Or [contact me](https://earn.com/allenlee/) for $100 USD on 21.co. All$$ will be
 
 * [My photos.](https://www.flickr.com/photos/allenandspace/albums)
 
-# Projects:
 
-## Currently Building
+# Other Currently Building Projects:
 
 ### Functional Brains
 
 * [Brains](https://github.com/allenleein/brains) is an experimental Functional Flow project(Open-source brains). I'm trying to turn my brain into an Open-source brains. 
  
-
-<p align="center">
-  <img width="300" height="300" src="http://lambdageneration.com/wp-content/uploads/2014/10/original-animated.gif" alt="Sublime's custom image"/>
-</p>
-
 
 ### Gargantua
 
@@ -47,7 +76,7 @@ Or [contact me](https://earn.com/allenlee/) for $100 USD on 21.co. All$$ will be
 </p>
 
 
-## Past 
+## Past Projects
 
 ### Programmed Drones - 2013
 
