@@ -12,11 +12,11 @@ Open-source brains are functional flow with its source code made available with 
 
 ## Components of a Functional Flow System - Input, Process, Output
 
-* **Input - the information/functions/brain entered into a flow system. Please check [Brains Issues](https://github.com/allenleein/brains/issues) and [Liked Tweets](https://twitter.com/i/likes).**
+* Input - the information/functions/brain entered into a flow system. Please check [Brains Issues](https://github.com/allenleein/brains/issues) and [Liked Tweets](https://twitter.com/i/likes).
 
-* **Processing - the process of transforming input information/functions/brain into and output. Please check [⚡️Output-observables](https://github.com/allenleein/brains/labels/%E2%9A%A1%EF%B8%8FOutput-observables).**
+* Processing - the process of transforming input information/functions/brain into and output. Please check [⚡️Output-observables](https://github.com/allenleein/brains/labels/%E2%9A%A1%EF%B8%8FOutput-observables).
 
-* **Output - [Brains](https://allenleein.github.io/brains/).**
+* Output - [Brains](https://allenleein.github.io/brains/).
 
 
 ### All thoughts are welcome to contribute to:
