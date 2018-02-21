@@ -39,6 +39,7 @@ If you believe in Free Information, you can also check [How to Bypass Paywall](h
 
 ### Founder
 
+- 2018/02/21 - [The Art of Focus](https://allenleein.github.io/brains/2018/02/the-art-of-focus)
 - 2018/01/01 - [To Funders and Myself](https://allenleein.github.io/brains/2018/01/founders)
 
 ### How To Think
