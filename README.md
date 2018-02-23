@@ -33,6 +33,8 @@ All the contributions (Github/Slack) will be merged here.
 
 If you believe in Free Information, you can also check [How to Bypass Paywall](https://github.com/allenleein/brains/issues/343)
 
+(Honesty setting: 90%)
+
 
 # ⚡️Output
 
