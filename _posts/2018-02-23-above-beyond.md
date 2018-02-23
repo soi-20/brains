@@ -2,7 +2,7 @@
 layout: post
 title: "Failing to Reach Your Potential"
 description: ""
-date: 2018-02-21
+date: 2018-02-23
 tags: 
 comments: true
 ---
