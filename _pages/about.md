@@ -73,7 +73,7 @@ Or [contact me](https://earn.com/allenlee/) for $100 USD on 21.co. All$$ will be
 
 ## Past Projects
 
-### Programmed Drones - 2013
+### Programmed Drones Art - 2013
 
 * [Project X](https://vimeo.com/111901733)
 
