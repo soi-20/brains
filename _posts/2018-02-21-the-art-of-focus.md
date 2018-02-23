@@ -9,7 +9,7 @@ comments: true
 
 The Art of Focus is the art of accomplishing impossible things by learning to put all your attention on one thing at a time. 
 
-Accomplishing the extraordinary involves:
+## Accomplishing the extraordinary involves:
 
 
 
