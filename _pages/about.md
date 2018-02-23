@@ -77,7 +77,10 @@ Or [contact me](https://earn.com/allenlee/) for $100 USD on 21.co. All$$ will be
 
 * [Project X](https://vimeo.com/111901733)
 
-![alt text](https://media.giphy.com/media/l3mZ5zogGcnzNzbqM/giphy.gif "Logo Title Text 1")
+
+<p align="center">
+  <img width="500" height="300" src="https://media.giphy.com/media/l3mZ5zogGcnzNzbqM/giphy.gif" alt="Sublime's custom image"/>
+</p>
 
 
 ![alt text](https://i.imgur.com/pNz5FOm.jpg "Logo Title Text 1")
