@@ -68,7 +68,7 @@ Or [contact me](https://earn.com/allenlee/) for $100 USD on 21.co. All$$ will be
 
 ![alt text](https://i.imgur.com/pNz5FOm.jpg "Logo Title Text 1")
 
-
+----
 
 ### A Venture Publication - 2013-2017
 
