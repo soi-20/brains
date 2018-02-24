@@ -40,7 +40,7 @@ permalink: /about/
 Hey Allen here. This is an experimental [Functional Flow](https://github.com/allenleein/brains) project. I'm trying to turn my brain into an Open-source brains. 
 
 
-## Components of a Functional Flow System - Input, Process, Output
+### Components of a Functional Flow System - Input, Process, Output
 
 * Input - the information/functions/brain entered into a flow system. Please check [Brains Issues](https://github.com/allenleein/brains/issues) and [Liked Tweets](https://twitter.com/i/likes).
 
@@ -58,7 +58,7 @@ Or [contact me](https://earn.com/allenlee/) for $100 USD on 21.co. All$$ will be
 
 ----
 
-# Social:
+### Social:
 
 * [My fav books.](https://www.goodreads.com/allenleeein)
 
@@ -82,7 +82,7 @@ Or [contact me](https://earn.com/allenlee/) for $100 USD on 21.co. All$$ will be
 
 ----
 
-## Past Projects
+# Past Projects
 
 ### Programmed Drones Art - 2013
 
@@ -98,7 +98,7 @@ Or [contact me](https://earn.com/allenlee/) for $100 USD on 21.co. All$$ will be
 
 
 
-## A Venture Publication - 2013-2017
+### A Venture Publication - 2013-2017
 
 * A Venture was top 3 VC & Machine Learning Publisher on Medium. Merged into Functions Fund.
 
