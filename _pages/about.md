@@ -37,7 +37,7 @@ permalink: /about/
 
 # Functional Flow (Open-source brains)
 
-Hey Allen here. This is an experimental [Functional Flow](https://github.com/allenleein/brains) project. I'm trying to turn my brain into an Open-source brains. 
+Hey, Allen here. This website is an experimental [Functional Flow](https://github.com/allenleein/brains) project. I'm trying to turn my brain into an Open-source brains. 
 
 
 ### Components of a Functional Flow System - Input, Process, Output
