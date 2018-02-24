@@ -33,6 +33,8 @@ permalink: /about/
 - [尋找自己的信仰](https://allenleein.github.io/brains/2016/06/goals)
 - [驅動並進入心流](https://allenleein.github.io/brains/2017/12/trigger-flow)
 
+----
+
 # Functional Flow (Open-source brains)
 
 Hey Allen here. This is an experimental [Functional Flow](https://github.com/allenleein/brains) project. I'm trying to turn my brain into an Open-source brains. 
@@ -46,6 +48,7 @@ Hey Allen here. This is an experimental [Functional Flow](https://github.com/all
 
 * Output - [Brains](https://allenleein.github.io/brains/).
 
+----
 
 # Contact:
 
@@ -63,6 +66,7 @@ Or [contact me](https://earn.com/allenlee/) for $100 USD on 21.co. All$$ will be
 
 * [My photos.](https://www.flickr.com/photos/allenandspace/albums)
 
+----
 
 # Currently Building Project:
 
@@ -76,6 +80,7 @@ Or [contact me](https://earn.com/allenlee/) for $100 USD on 21.co. All$$ will be
   <img width="300" height="300" src="https://i.imgur.com/1nLWkHH.png" alt="Sublime's custom image"/>
 </p>
 
+----
 
 ## Past Projects
 
