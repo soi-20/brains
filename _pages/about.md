@@ -22,7 +22,7 @@ Hey, Allen here. This website is an experimental [Functional Flow](https://githu
 
 ----
 
-# Contact:
+# 🔻Contact:
 
 I don't Facebook, Email, Phone...only Snap can reach me. Plz add: allenleein
 
@@ -40,7 +40,7 @@ Or [contact me](https://earn.com/allenlee/) for $100 USD on 21.co. All$$ will be
 
 ----
 
-# Currently Building Project:
+# 🔻Currently Building Project:
 
 ### Gargantua
 
@@ -55,7 +55,7 @@ Or [contact me](https://earn.com/allenlee/) for $100 USD on 21.co. All$$ will be
 
 ----
 
-# Past Projects
+# 🔻Past Projects
 
 ### A Venture Publication - 2013-2017
 
