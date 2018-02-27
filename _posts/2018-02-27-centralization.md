@@ -7,8 +7,9 @@ tags:
 comments: true
 ---
 
-Micro side: We are slowly moving from a centralized economy to an economy with decentralized ecosystems. (ex: Bitcoin...)
-Macro side: We are quickly moving from a slowly decentralized global politics to a more centralized ecosystems. (Syria, ISIS, China, Trump...)
+> Micro side: We are slowly moving from a centralized economy to an economy with decentralized ecosystems. (ex: Bitcoin...)
+
+> Macro side: We are quickly moving from a slowly decentralized global politics to a more centralized ecosystems. (Syria, ISIS, China, Trump...)
 
 As you can see, China’s president, Xi Jinping, has already grasped more power more quickly than his two recent predecessors. China’s ruling Communist Party has proposed scrapping term limits for the country’s president earlier today, appearing to lay the groundwork for party leader Xi Jinping to rule as president beyond 2023. The planned constitutional change allows Xi to hold power indefinitely. The world must now come to terms with China's most powerful leader in decades, perhaps for decades to come.
 
