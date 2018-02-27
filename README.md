@@ -11,7 +11,7 @@ Open-source brains are functional flow with its source code made available with 
 
 
 <p align="center">
-  <img width="400" height="400" src="https://imgur.com/igUBn10" alt="Sublime's custom image"/>
+  <img width="400" height="400" src="https://i.imgur.com/igUBn10.png" alt="Sublime's custom image"/>
 </p>
 
 
