@@ -41,6 +41,7 @@ If you believe in Free Information, you can also check [How to Bypass Paywall](h
 
 ### Macro
 
+- [Thoughts on Centralization](https://allenleein.github.io/brains/2018/02/centralization)
 - [Dunkirk: The legend ends, the unknown knight rises](https://allenleein.github.io/brains/2017/08/dunkirk)
 - [Too Big to Fake](https://allenleein.github.io/brains/2017/09/too-big-too-fake)
 - [Silicon Valley: The Wall Street Without Bubble](https://allenleein.github.io/brains/2016/04/bubble)
