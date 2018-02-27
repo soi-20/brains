@@ -18,10 +18,6 @@ Open-source brains are functional flow with its source code made available with 
 
 * Output - [Brains](https://allenleein.github.io/brains/).
 
-<p align="center">
-  <img width="400" height="400" src="https://i.imgur.com/igUBn10.png" alt="Sublime's custom image"/>
-</p>
-
 
 ### All thoughts are welcome to contribute to:
 
