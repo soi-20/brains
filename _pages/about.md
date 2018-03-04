@@ -42,11 +42,11 @@ Or [contact me](https://earn.com/allenlee/) for $100 USD on 21.co. All$$ will be
 
 # 🔻 Currently Building Project:
 
-### Gargantua
+### --. .- .-. --. .- -. - ..- .-
 
-* A backup of human knowledge.
+* .- / -... .- -.-. -.- ..- .--. / --- ..-. / .... ..- -- .- -. / -.- -. --- .-- .-.. . -.. --. . .-.-.-
 
-- [ Enter private beta ](https://upscri.be/e57947/)
+- [ . -. - . .-. / .--. .-. .. ...- .- - . / -... . - .- ](https://upscri.be/e57947/)
 
 <p align="center">
   <img width="300" height="300" src="https://i.imgur.com/1nLWkHH.png" alt="Sublime's custom image"/>
