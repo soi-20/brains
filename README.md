@@ -56,6 +56,7 @@ If you believe in Free Information, you can also check [How to Bypass Paywall](h
 
 ### Micro
 
+- [All People are Born Artists](https://allenleein.github.io/brains/2018/03/artist)
 - [過濾的本質](https://allenleein.github.io/brains/2018/02/essence)
 - [Failing to Reach Your Potential](https://allenleein.github.io/brains/2018/02/above-beyond)
 - [The Art of Focus](https://allenleein.github.io/brains/2018/02/the-art-of-focus)
