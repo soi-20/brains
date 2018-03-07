@@ -22,11 +22,9 @@ Hey, Allen here. This website is an experimental [Functional Flow](https://githu
 
 ----
 
-# 👻 Contact:
+# 👻 Contact me:
 
-I don't Facebook, Email, Phone...only Snap can reach me. Plz add: allenleein
-
-Or [contact me](https://earn.com/allenlee/) for $100 USD on 21.co. All$$ will be donated to Folding at Home.
+.. / -.. --- -. .----. - / ..-. .- -.-. . -... --- --- -.- --..-- / . -- .- .. .-.. --..-- / .--. .... --- -. . .-.-.- .-.-.- .-.-.- --- -. .-.. -.-- / ... -. .- .--. / -.-. .- -. / .-. . .- -.-. .... / -- . .-.-.- / .--. .-.. --.. / .- -.. -.. ---... / .- .-.. .-.. . -. .-.. . . .. -.
 
 ----
 
