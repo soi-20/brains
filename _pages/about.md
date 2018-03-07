@@ -8,7 +8,7 @@ permalink: /about/
   <img width="300" height="300" src="http://lambdageneration.com/wp-content/uploads/2014/10/original-animated.gif" alt="Sublime's custom image"/>
 </p>
 
-# ⚡️ Enter Functional Flow
+# ⚡️ Functional Flow
 
 Hey, Allen here. This website is an experimental [Functional Flow](https://github.com/allenleein/brains) project. I'm trying to turn my brain into an Open-source brains with collective intelligence.
 
