@@ -9,6 +9,15 @@ This is an experimental Functional [Flow](https://www.wikiwand.com/en/Flow_(psyc
 
 Open-source brains are functional flow with its source code made available with a license in which the copyright holder provides the rights to study, change, and distribute the brains to anyone and for any purpose. Open-source brains are developed in a collaborative public manner. 
 
+Why functional?
+
+* The power of : Flow > Cumulative
+* The power of : Composing functions > Following a specific way
+* The power of : Sharing > Hiding
+
+
+![Alt text](https://c1.staticflickr.com/5/4714/38482593600_2c74600966.jpg)
+
 
 ## Components of a Functional Flow System - Input, Process, Output
 
