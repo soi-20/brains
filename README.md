@@ -18,11 +18,14 @@ Why functional flow?
 
 ![Alt text](https://c1.staticflickr.com/5/4714/38482593600_2c74600966.jpg)
 
+
 Flow isn’t like appearance or success that other people get to rate. It’s more like happiness or curiosity, like creativity.
 
 Functional flow is the mind state where you can think almost everything as a function.
 
+
 ![Alt text](https://cdn-images-1.medium.com/max/1600/1*QE2SKjl-p2nCtAxovykiaA.png)
+
 
 
 ## Components of a Functional Flow System - Input, Process, Output
