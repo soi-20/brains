@@ -12,6 +12,20 @@ permalink: /about/
 
 Hey, Allen here. This website is an experimental [Functional Flow](https://github.com/allenleein/brains) project. I'm trying to turn my brain into an Open-source brains with collective intelligence.
 
+Why functional flow?
+
+* The power of : Flow > Cumulative
+* The power of : Composing functions > Following a specific way
+* The power of : Sharing > Hiding
+
+
+![Alt text](https://c1.staticflickr.com/5/4714/38482593600_2c74600966.jpg)
+
+
+Flow isn’t like appearance or success that other people get to rate. It’s more like happiness or curiosity, like creativity.
+
+Functional flow is the mind state where you can think almost everything as a function.
+
 ### Components of a Functional Flow System - Input, Process, Output
 
 * Input - the information/functions/brain entered into a flow system. Please check [Brains Issues](https://github.com/allenleein/brains/issues) and [Liked Tweets](https://twitter.com/i/likes).
