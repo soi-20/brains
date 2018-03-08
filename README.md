@@ -17,7 +17,7 @@ Why functional flow?
 
 
 <p align="center">
-  <img width="400" height="300" src="https://c1.staticflickr.com/5/4714/38482593600_2c74600966.jpg" alt="Sublime's custom image"/>
+  <img width="400" height="400" src="https://c1.staticflickr.com/5/4714/38482593600_2c74600966.jpg" alt="Sublime's custom image"/>
 </p>
 
 
@@ -35,9 +35,9 @@ Functional flow is the mind state where you can think almost everything as a fun
 
 * Output - [Brains](https://allenleein.github.io/brains/).
 
-![Alt text](https://cdn-images-1.medium.com/max/1600/1*QE2SKjl-p2nCtAxovykiaA.png)
-
-
+<p align="center">
+  <img width="400" height="400" src="https://cdn-images-1.medium.com/max/1600/1*QE2SKjl-p2nCtAxovykiaA.png" alt="Sublime's custom image"/>
+</p>
 
 ### All thoughts are welcome to contribute to:
 
