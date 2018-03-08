@@ -16,7 +16,9 @@ Why functional flow?
 * The power of : Sharing > Hiding
 
 
-![Alt text](https://c1.staticflickr.com/5/4714/38482593600_2c74600966.jpg)
+<p align="center">
+  <img width="400" height="300" src="https://c1.staticflickr.com/5/4714/38482593600_2c74600966.jpg" alt="Sublime's custom image"/>
+</p>
 
 
 Flow isn’t like appearance or success that other people get to rate. It’s more like happiness or curiosity, like creativity.
