@@ -8,7 +8,7 @@ permalink: /ghosts/
   <img width="300" height="400" src="https://c1.staticflickr.com/5/4796/38914698780_ac39eb41f4_b.jpg" alt="Sublime's custom image"/>
 </p>
 
-[Ghosts in the Shell project process](https://github.com/allenleein/brains/projects/15)
+[Project process](https://github.com/allenleein/brains/projects/15)
 
 # Table of Contents
 
