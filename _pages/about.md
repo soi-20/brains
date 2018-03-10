@@ -48,7 +48,7 @@ Functional flow is the mind state where you can think almost everything as a fun
 
 * Information layer3: [Brains](https://github.com/allenleein/brains/tree/master/_posts)
 
-If you want to check the flow real-time(Warning: maybe too many notifications for normal people), you can [Snap](https://allenleein.github.io/brains/about/#contact) me your email.
+If you want to check the flow real-time(Warning: maybe too many notifications for normal people), you can Snap me your email.
 
 All the contributions (Github/Slack) will be merged here.
 
