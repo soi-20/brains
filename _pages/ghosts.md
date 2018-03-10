@@ -10,4 +10,24 @@ permalink: /ghosts/
 
 [Ghosts in the Shell project process](https://github.com/allenleein/brains/projects/15)
 
+# Table of Contents
+
+Preface. Ghosts in the Shell
+
+## Micro
+
+Chp. Functional Flow
+Chp. Dancing Between Relativity and Absolute Simultaneity
+
+## Macro
+
+Chp. The Shift of Power from Centralized to Decentralized
+Chp. Structure of Oppurunities
+
+## Notes 
+
+The Future won’t be better without building hard 
+
+
+
 
