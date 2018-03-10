@@ -1,1 +1,7 @@
-[Output process](https://github.com/allenleein/brains/projects/15)
+---
+layout: content
+title: 
+permalink: /wiredin/
+---
+
+[Wired in Haskell](https://github.com/allenleein/brains/projects/9)
