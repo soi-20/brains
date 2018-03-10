@@ -19,7 +19,9 @@ Why functional flow?
 * The power of : Sharing > Hiding
 
 
-![Alt text](https://c1.staticflickr.com/5/4714/38482593600_2c74600966.jpg)
+<p align="center">
+  <img width="400" height="400" src="https://c1.staticflickr.com/5/4714/38482593600_2c74600966.jpg" alt="Sublime's custom image"/>
+</p>
 
 
 Flow isn’t like appearance or success that other people get to rate. It’s more like happiness or curiosity, like creativity.
@@ -38,7 +40,7 @@ Functional flow is the mind state where you can think almost everything as a fun
   <img width="400" height="300" src="https://cdn-images-1.medium.com/max/1600/1*QE2SKjl-p2nCtAxovykiaA.png" alt="Sublime's custom image"/>
 </p>
 
-### All thoughts are welcome to contribute to:
+## All thoughts are welcome to contribute to:
 
 * Information layer1: [Issues](https://github.com/allenleein/brains/issues) (Closed/Open Issues) 
 
@@ -53,7 +55,6 @@ All the contributions (Github/Slack) will be merged here.
 If you believe in Free Information, you can also check [How to Bypass Paywall](https://github.com/allenleein/brains/issues/343)
 
 (Honesty setting: 90%)
-
 ----
 
 # 👻 Contact me:
