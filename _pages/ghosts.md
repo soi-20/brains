@@ -14,17 +14,17 @@ permalink: /ghosts/
 
 Preface. Ghosts in the Shell
 
-## Micro
+#### Micro
 
 Chp. Functional Flow
 Chp. Dancing Between Relativity and Absolute Simultaneity
 
-## Macro
+#### Macro
 
 Chp. The Shift of Power from Centralized to Decentralized
 Chp. Structure of Oppurunities
 
-## Notes 
+#### Notes 
 
 The Future won’t be better without building hard 
 
