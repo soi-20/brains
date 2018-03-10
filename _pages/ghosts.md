@@ -1,8 +1,9 @@
 ---
 layout: content
 title: 
-permalink: /wiredin/
+permalink: /ghosts/
 ---
 
+[Output process](https://github.com/allenleein/brains/projects/15)
 
-[Wired in Haskell](https://github.com/allenleein/brains/projects/9)
+
