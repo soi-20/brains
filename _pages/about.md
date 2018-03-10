@@ -26,29 +26,39 @@ Flow isn’t like appearance or success that other people get to rate. It’s mo
 
 Functional flow is the mind state where you can think almost everything as a function.
 
-### Components of a Functional Flow System - Input, Process, Output
+## Components of a Functional Flow System - Input, Process, Output
 
-* Input - the information/functions/brain entered into a flow system. Please check [Brains Issues](https://github.com/allenleein/brains/issues) and [Liked Tweets](https://twitter.com/i/likes).
+* Input - the information/functions/brain entered into a flow system. Please check [Brains Issues](https://github.com/allenleein/brains/issues), [Liked Tweets](https://twitter.com/i/likes) and [Hacker News upvoted](https://news.ycombinator.com/user?id=allenleein).
 
-* Processing - the process of transforming input information/functions/brain into and output. Please check [⚡️Output-observables](https://github.com/allenleein/brains/labels/%E2%9A%A1%EF%B8%8FOutput-observables).
+* Processing - the process of transforming input information/functions/brain into and output. Please check [⚡️Input-observables](https://github.com/allenleein/brains/labels/%E2%9A%A1%EF%B8%8FInput-observables) and [⚡️Output-observables](https://github.com/allenleein/brains/labels/%E2%9A%A1%EF%B8%8FOutput-observables).
 
 * Output - [Brains](https://allenleein.github.io/brains/).
+
+<p align="center">
+  <img width="400" height="300" src="https://cdn-images-1.medium.com/max/1600/1*QE2SKjl-p2nCtAxovykiaA.png" alt="Sublime's custom image"/>
+</p>
+
+### All thoughts are welcome to contribute to:
+
+* Information layer1: [Issues](https://github.com/allenleein/brains/issues) (Closed/Open Issues) 
+
+* Information layer2: [⚡️Output-observables](https://github.com/allenleein/brains/labels/%E2%9A%A1%EF%B8%8FOutput-observables). 
+
+* Information layer3: [Brains](https://github.com/allenleein/brains/tree/master/_posts)
+
+If you want to check the flow real-time(Warning: maybe too many notifications for normal people), you can [Snap](https://allenleein.github.io/brains/about/#contact) me your email.
+
+All the contributions (Github/Slack) will be merged here.
+
+If you believe in Free Information, you can also check [How to Bypass Paywall](https://github.com/allenleein/brains/issues/343)
+
+(Honesty setting: 90%)
 
 ----
 
 # 👻 Contact me:
 
 .. / -.. --- -. .----. - / ..-. .- -.-. . -... --- --- -.- --..-- / . -- .- .. .-.. --..-- / .--. .... --- -. . .-.-.- .-.-.- .-.-.- --- -. .-.. -.-- / ... -. .- .--. / -.-. .- -. / .-. . .- -.-. .... / -- . .-.-.- / .--. .-.. --.. / .- -.. -.. ---... / .- .-.. .-.. . -. .-.. . . .. -.
-
-----
-
-### Social:
-
-* [My fav books.](https://www.goodreads.com/allenleeein)
-
-* [My fav films.](https://www.pinterest.com/buildingtars/films/)
-
-* [My photos.](https://www.flickr.com/photos/allenandspace/albums)
 
 ----
 
