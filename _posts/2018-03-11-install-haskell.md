@@ -35,7 +35,7 @@ If you already install brew, then open your Terminal/iTerm:
 ~ % brew update
 
 
-~ % brew doctor
+*~ % brew doctor*
 
 Your system is ready to brew.
 
