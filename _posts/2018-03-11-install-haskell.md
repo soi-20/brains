@@ -51,6 +51,5 @@ Your system is ready to brew.
 Version 1.6.3 x86_64 hpack-0.20.0
 ```
 
-If you wanna restart: [How to uninstall stack?](https://www.reddit.com/r/haskell/comments/6z06ih/how_to_uninstall_stack/)
+If you wanna restart: [Uninstall stack?](https://www.reddit.com/r/haskell/comments/6z06ih/how_to_uninstall_stack/)
 
-[How to uninstall stack?](https://www.reddit.com/r/haskell/comments/6z06ih/how_to_uninstall_stack/)
