@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "< Wiredin Haskell > Install Haskell"
+title: "< Wiredin > Install Haskell"
 description: ""
 date: 2018-03-11
 tags: 
