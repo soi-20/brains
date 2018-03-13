@@ -1,11 +1,3 @@
----
-layout: post
-title: "< Wiredin > Install Haskell"
-description: ""
-date: 2018-03-11
-tags: 
-comments: true
----
 
 
 Haskell is fundamentally remarkably well-designed programming languarage; unfortunately, getting Haskell installed and set up on your OS might be enough to scare the hell you far far away. I believe you know what I'm saying.
