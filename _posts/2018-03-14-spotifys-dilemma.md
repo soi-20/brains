@@ -38,3 +38,5 @@ More to come:
 
 * Apple's Strategy for Dominating Audio
 * Forget about Netfix for music
+
+Ref: [Spotify F1](https://www.sec.gov/Archives/edgar/data/1639920/000119312518063434/d494294df1.htm)
