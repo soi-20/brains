@@ -13,7 +13,7 @@ comments: true
  
 3/ Spotify delivers more than 70 percent of its sales to music rights holders, despite efforts to improve profit margins.
 
-4/ Universal Music Group, Sony Music Entertainment, Warner Music Group, Merlin (the representative for many independent labels), which own 85% of the music on Spotify as measured by streams.
+4/ Universal Music Group, Sony Music Entertainment, Warner Music Group, Merlin (the representative for many independent labels), which own 87% of the music on Spotify as measured by streams.
 
 ![spotify](https://stratechery.com/wp-content/uploads/2018/03/Screen-Shot-2018-03-05-at-10.11.01-PM-768x653.png)
 
