@@ -17,7 +17,7 @@ comments: true
 
 ![spotify](https://stratechery.com/wp-content/uploads/2018/03/Screen-Shot-2018-03-05-at-10.11.01-PM-768x653.png)
 
-(From [Stratechery](https://stratechery.com/)
+(From [Stratechery](https://stratechery.com/))
 
 
 5/ It seems highly unlikely Spotify’s Cost of Revenue will improve much in the short-term: those record deals are locked in until at least next year.
