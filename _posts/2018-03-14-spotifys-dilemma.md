@@ -30,7 +30,7 @@ comments: true
 
 “They needed access to a recording studio, and they had to be played on terrestrial radio to achieve success. Today, artists can produce and release their own music. Labels, studios, and radio still matter, but in a cluttered landscape, artists’ biggest challenge is navigating this complexity to get heard. We believe Spotify empowers them to break through.” (Ref 4/: Those labels own 85% of the music on Spotify as measured by streams. Progress of empowering: 15%.)
 
-9/ The goal sounds like "the Podcast model" started in 2005, yes unfortunately, by their biggest competitor: Apple. 
+9/ The goal sounds like "the Podcast model" started in 2005. Unfortunately, by their biggest competitor: Apple. 
 
 More to come: 
 
