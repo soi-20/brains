@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spotify's Dilemma and Apple's Strategy for Dominating Audio I"
+title: "Spotify's Dilemma"
 description: ""
 date: 2018-03-04
 tags: 
