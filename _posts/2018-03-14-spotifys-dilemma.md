@@ -32,4 +32,4 @@ comments: true
 
 9/ The goal sounds like "the Podcast model" started in 2005, yes unfortunately, by their biggest competitor: Apple. 
 
-More to come: Apple's Strategy for Dominating Audio.
+More to come: 1. Apple's Strategy for Dominating Audio 2. There won’t be a Netfix for music
