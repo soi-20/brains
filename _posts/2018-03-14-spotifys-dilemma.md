@@ -22,7 +22,7 @@ comments: true
 
 5/ It seems highly unlikely Spotify’s Cost of Revenue will improve much in the short-term: those record deals are locked in until at least next year.
 
-6/ It means once the growth of Spotify starts to slow a bit, it will have very serious troubles.
+6/ It means once the growth of Spotify starts to slow even a bit, it will has very serious trouble.
 
  
 7/ Netflix is building its own studio to produce shows on its own. Spotify says it has no interest in signing artists, or paying for artists to record. (They don't have the capital)
