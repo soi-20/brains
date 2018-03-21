@@ -43,7 +43,10 @@ All these three terms are used to describe the same kind of thing, namely, the r
 
 Clear efficiency is looking around one's functional flow to discover if, and in that case - where? when? Why-, inefficiency occur. These inefficiency can be for example idle inventory, idle men or idle equipment. A good manager should then do his best to eliminate these inefficiency. All of this in order to reduce the total cost of operations of the functional flow system.
 
-![Alt text](https://c1.staticflickr.com/5/4714/38482593600_2c74600966.jpg)
+
+<p align="center">
+  <img width="400" height="300" src="https://c1.staticflickr.com/5/4714/38482593600_2c74600966.jpg" alt="Sublime's custom image"/>
+</p>
 
 The philosophy behind the efficiency approach to functional flow is based the idea of "the one best way for yourself", i.e., the best way to input information, compute functions, perform tasks, output value as a balanced human being.
 
@@ -67,7 +70,10 @@ We need to see things purely, as function compostion.
 > 
 > 
 
-![Alt text](http://moziru.com/images/machine-clipart-function-machine-8.png)
+<p align="center">
+  <img width="400" height="300" src="http://moziru.com/images/machine-clipart-function-machine-8.png" alt="Sublime's custom image"/>
+</p>
+
 
 #### Machine (Composiable Flow) = Functional Flow
 
