@@ -25,6 +25,7 @@ Flow isn’t like appearance or success that other people get to rate. It’s mo
 
 Functional flow is the mind state where you can think almost everything as a function.
 
+[Click here to know more about Functional Flow](https://allenleein.github.io/brains/2018/03/defining-functional-flow)
 
 
 ## Components of a Functional Flow System - Input, Process, Output
