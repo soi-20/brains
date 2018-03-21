@@ -77,6 +77,7 @@ If you believe in Free Information, you can also check [How to Bypass Paywall](h
 
 ### Micro
 
+- [Defining Ghosts in the Shell](https://allenleein.github.io/brains/2018/03/defining-functional-flow)
 - [All People are Born Artists](https://allenleein.github.io/brains/2018/03/artist)
 - [過濾的本質](https://allenleein.github.io/brains/2018/02/essence)
 - [Failing to Reach Your Potential](https://allenleein.github.io/brains/2018/02/above-beyond)
