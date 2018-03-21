@@ -8,9 +8,12 @@ comments: true
 ---
 
 
+
 <p align="center">
   <img width="400" height="500" src="https://c1.staticflickr.com/5/4796/38914698780_ac39eb41f4_b.jpg" alt="Sublime's custom image"/>
 </p>
+
+
 
 Ghost in the Shell (Japanese: 攻殻機動隊 Hepburn: Kōkaku Kidōtai, "Mobile Armored Riot Police") is a 1989 Japanese media franchise originally published as a seinen manga series of the same name written and illustrated by Masamune Shirow. 
 
