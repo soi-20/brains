@@ -12,11 +12,10 @@ permalink: /ghosts/
 
 # Table of Contents
 
-* Preface. Ghosts in the Shell
 
 #### Micro
 
-* Chp. Functional Flow
+* Chp. [Functional Flow](https://allenleein.github.io/brains/2018/03/defining-functional-flow)
 * Chp. Dancing Between Relativity and Absolute Simultaneity
 
 #### Macro
