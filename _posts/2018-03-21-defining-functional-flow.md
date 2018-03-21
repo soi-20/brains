@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "⚡️Defining Functional Flow (Updating)"
+title: "⚡️Defining Ghosts in the Shell (Updating)"
 description: ""
 date: 2018-03-21
 tags: 
@@ -15,6 +15,7 @@ In Functional Flow theory, building a functional flow system is all about two st
 
 
 ## A Clear and Efficient Machine 
+
 
 We need to see things purely.
 
@@ -31,6 +32,7 @@ Back to 15th century, Leonardo da Vinci simply watched, noted, and contextualize
 
 #### Being Efficient
 
+
 > The most basic definition of efficiency is:
 > 
 > The ratio between input and output.
@@ -40,6 +42,7 @@ In the book < The systems approach, Dell Publishing Co., Inc., New York, 1968 >,
 All these three terms are used to describe the same kind of thing, namely, the rational breakdown of the tasks the system must perform. This is a mission-oriented view of the components of a system that is completely different from the traditional view. 
 
 #### Clear(Efficiency)= Machine X
+
 
 Clear efficiency is looking around one's functional flow to discover if, and in that case - where? when? Why-, inefficiency occur. These inefficiency can be for example idle inventory, idle men or idle equipment. A good manager should then do his best to eliminate these inefficiency. All of this in order to reduce the total cost of operations of the functional flow system.
 
@@ -56,8 +59,9 @@ This approach leads toward automation of the operations. If we know the optimal 
 
 Some humanists may be horrified by this, fearing the result will be degradation of one' human dignity and neglect of deeper human values.
 
-I will explan why "flow" and "compostion" will easily ease these concerns later. 
-Just like the way Leonardo da Vinci see how the world works: Dancing together.
+I will explan why "flow" and "compostion" will easily ease those concerns later. 
+
+Just like the way Leonardo da Vinci see how the world works: They are dancing together.
 
 ## A Composiable Flow
 
@@ -83,12 +87,11 @@ Although the word "function" has been defined in many ways, everyone will agree 
 
 Flow state isn’t like appearance or success that other people get to rate. It’s more like happiness or curiosity, like creativity.
 
-Functional Flow is the mind state where you can think almost everything as a function. You can view another person's functions (thinking models, paths...) as the input of your function (also the input of other people's function), then take that function's output value as your input again.
-
+Functional Flow is the mind state where you can think almost everything as a function. You can view another person's functions (thinking models, paths...) as the input of your function (also could be the input of other people's function). If you want to, after composing, you can also take that as your input again.
 
 In some way, you can say it's like composing people’s thinking models(including yours) and iterate it like a machine.
 
-Functional Flow is all about composing and iterating like ghosts in a shell. 
+That's why Functional Flow is all about composing and iterating like ghosts in a shell. 
 
-Ghosts as a whole under a shell.
+Ghosts as a whole under a powerfull shell.
 
