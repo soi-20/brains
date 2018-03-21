@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "⚡️Defining Ghosts in the Shell (Updating)"
+title: "Defining Ghosts in the Shell"
 description: ""
 date: 2018-03-21
 tags: 
