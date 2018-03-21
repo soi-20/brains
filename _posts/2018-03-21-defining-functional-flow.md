@@ -7,6 +7,25 @@ tags:
 comments: true
 ---
 
+Ghost in the Shell (Japanese: 攻殻機動隊 Hepburn: Kōkaku Kidōtai, "Mobile Armored Riot Police") is a 1989 Japanese media franchise originally published as a seinen manga series of the same name written and illustrated by Masamune Shirow. 
+
+In that post-cyberpunk iteration of a possible future, computer technology has advanced to the point that many members of the public possess cyberbrains, technology that allows them to interface their biological brain with various networks. The level of cyberization varies from simple minimal interfaces to almost complete replacement of the brain with cybernetic parts, in cases of severe trauma. This can also be combined with various levels of prostheses, with a fully prosthetic body enabling a person to become a cyborg. -Wiki
+
+
+<p align="center">
+  <img width="400" height="300" src="http://i.imgur.com/U4wIoj7.gif" alt="Sublime's custom image"/>
+</p>
+
+
+No doubt, we are still way far from that advanced tech now, though actually we are slowly becoming the cyborg with a supercomputer in our pocket. 
+
+Inspired by Ghost in the Shell, I think we can turn our brain into composable and functional brains by starting to view everything as a function, as an input and output. I believe the future of human thinking is to decentralize ourselves. 
+
+Like Ghosts in the Shell, as a whole.
+
+
+# Defining Function Flow
+
 In Functional Flow theory, building a functional flow system is all about two stages: 
 
 * Clearity and Efficiency 
