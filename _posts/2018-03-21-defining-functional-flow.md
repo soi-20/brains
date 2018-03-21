@@ -19,7 +19,7 @@ In that post-cyberpunk iteration of a possible future, computer technology has a
 
 No doubt, we are still way far from that advanced tech now, though actually we are slowly becoming the cyborg with a supercomputer in our pocket. 
 
-Inspired by Ghost in the Shell, I think we can try to turn our brain into composable and functional brains by starting to view everything as a function, and iterate it like a machine. 
+Inspired by Ghost in the Shell, I think we should try to turn our brain into composable and functional brains by starting to view everything as a function, and iterate it like a machine. So we can solve the information/signal overload in this digital age, . 
 
 I believe the future of human thinking is to decentralize ourselves. Like Ghosts in the Shell, as a whole.
 
