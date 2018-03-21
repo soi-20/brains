@@ -63,7 +63,7 @@ All these three terms are used to describe the same kind of thing, namely, the r
 #### Clear(Efficiency)= Machine X
 
 
-Clear efficiency is looking around one's functional flow to discover if, and in that case - where? when? Why-, inefficiency occur. These inefficiency can be for example idle inventory, idle men or idle equipment. A good manager should then do his best to eliminate these inefficiency. All of this in order to reduce the total cost of operations of the functional flow system.
+Clear efficiency is looking around one's functional flow to discover if, and in that case - where? when? Why-, inefficiency occur. These inefficiency can be for example idle idea(output), idle information(input) or idle functions. A good functional flow owner should then do his/her/their best to eliminate these inefficiency. All of this in order to reduce the total cost of operations of the functional flow system.
 
 
 <p align="center">
