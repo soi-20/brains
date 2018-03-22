@@ -32,7 +32,7 @@ Inspired by Ghost in the Shell, I think we should try to turn our brain into com
 I believe the future of human thinking is to decentralize ourselves. Like Ghosts in the Shell, as a whole.
 
 
-# Defining Function Flow
+# Defining Functional Flow
 
 In Functional Flow theory, building a functional flow system is all about two stages: 
 
