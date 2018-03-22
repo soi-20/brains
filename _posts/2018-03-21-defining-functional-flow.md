@@ -15,9 +15,9 @@ comments: true
 
 
 
-Ghost in the Shell (Japanese: 攻殻機動隊 Hepburn: Kōkaku Kidōtai, "Mobile Armored Riot Police") is a 1989 Japanese media franchise originally published as a seinen manga series of the same name written and illustrated by Masamune Shirow. 
+> Ghost in the Shell (Japanese: 攻殻機動隊 Hepburn: Kōkaku Kidōtai, "Mobile Armored Riot Police") is a 1989 Japanese media franchise originally published as a seinen manga series of the same name written and illustrated by Masamune Shirow. 
 
-In that post-cyberpunk iteration of a possible future, computer technology has advanced to the point that many members of the public possess cyberbrains, technology that allows them to interface their biological brain with various networks. The level of cyberization varies from simple minimal interfaces to almost complete replacement of the brain with cybernetic parts, in cases of severe trauma. This can also be combined with various levels of prostheses, with a fully prosthetic body enabling a person to become a cyborg. -Wiki
+> In that post-cyberpunk iteration of a possible future, computer technology has advanced to the point that many members of the public possess cyberbrains, technology that allows them to interface their biological brain with various networks. The level of cyberization varies from simple minimal interfaces to almost complete replacement of the brain with cybernetic parts, in cases of severe trauma. This can also be combined with various levels of prostheses, with a fully prosthetic body enabling a person to become a cyborg. -Wiki
 
 
 <p align="center">
@@ -25,9 +25,7 @@ In that post-cyberpunk iteration of a possible future, computer technology has a
 </p>
 
 
-No doubt, we are still way far from that advanced tech now, though we are slowly becoming the cyborg with a supercomputer in our pocket. 
-
-Inspired by Ghost in the Shell, I think we should try to turn our brain into composable and functional brains by starting to view everything as a function, and iterate it like a machine. So we can solve the information/signal overload in this digital age, . 
+In 2018, no doubt, we are still way far from that advanced tech now, though we are slowly becoming the cyborg with supercomputer in our pocket. Inspired by Ghost in the Shell, I think we should try to turn our brain into composable and functional brains by starting to view everything as a function, and iterate it like a machine. So we can solve the information/signal overload in this digital age. 
 
 I believe the future of human thinking is to decentralize ourselves. Like Ghosts in the Shell, as a whole.
 
@@ -49,9 +47,9 @@ We need to see things purely.
 
 #### Being Clear
 
-> The most basic definition of clearity is:
+> The most basic definition of clarity is:
 > 
-> The clearity between input and output.
+> The clarity level between input and output.
 
 
 Back to 15th century, Leonardo da Vinci simply watched, noted, and contextualized things as he saw fit. It wasn’t like he was intentionally studying science one day and art another. To him, they were one and the same thing. They danced together, and it wasn’t possible to understand one without the other.
@@ -68,7 +66,7 @@ In the book < The systems approach, Dell Publishing Co., Inc., New York, 1968 >,
 
 All these three terms are used to describe the same kind of thing, namely, the rational breakdown of the tasks the system must perform. This is a mission-oriented view of the components of a system that is completely different from the traditional view. 
 
-#### Clear(Efficiency)= Machine X
+#### Clear(Efficient)= Machine X
 
 
 Clear efficiency is looking around one's functional flow to discover if, and in that case - where? when? Why-, inefficiency occur. These inefficiency can be for example idle idea(output), idle information(input) or idle functions. A good functional flow owner should then do his/her/their best to eliminate these inefficiency. All of this in order to reduce the total cost of operations of the functional flow system.
