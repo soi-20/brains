@@ -41,7 +41,7 @@ In Functional Flow theory, building a functional flow system is all about two st
 * Flow and Composition
 
 
-## A Clear and Efficient Machine 
+## Fisrt: A Clear and Efficient Machine 
 
 
 We need to see things purely.
@@ -90,7 +90,7 @@ I will explan why "flow" and "compostion" will easily ease those concerns later.
 
 Just like the way Leonardo da Vinci see how the world works: They are dancing together.
 
-## A Composiable Flow
+## Second: A Composiable Flow in the Shell
 
 
 We need to see things purely, as function compostion.
