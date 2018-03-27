@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ghosts in the Shell"
+title: "Ghosts in the Shell: Define Functional Flow"
 description: ""
 date: 2018-03-21
 tags: 
@@ -30,7 +30,7 @@ In 2018, no doubt, we are still way far from that advanced tech now, though we a
 I believe the future of human thinking is to decentralize ourselves. Like Ghosts in the Shell, as a whole.
 
 
-# Defining Functional Flow
+# Define Functional Flow
 
 In Functional Flow theory, building a functional flow system is all about two stages: 
 
@@ -118,5 +118,5 @@ In some way, you can say it's like composing people’s thinking models(includin
 
 That's why Functional Flow is all about composing and iterating like ghosts in a shell. 
 
-Ghosts as a whole under a powerfull shell.
+Ghosts as a whole, under powerfull shell.
 
