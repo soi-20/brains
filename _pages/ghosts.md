@@ -15,13 +15,15 @@ permalink: /ghosts/
 
 #### Micro
 
-* Chp. [Functional Flow](https://allenleein.github.io/brains/2018/03/defining-functional-flow)
+* Chp. [Ghosts in the Shell: Define Functional Flow](https://allenleein.github.io/brains/2018/03/defining-functional-flow)
 * Chp. Dancing Between Relativity and Absolute Simultaneity
 
 #### Macro
 
 * Chp. The Shift of Power from Centralized to Decentralized
-* Chp. Structure of Oppurunities
+* Chp. Strategy to Beat the Odds
+> Big, Small and Competition
+> Right Midset of Excetuation
 
 #### Notes 
 
