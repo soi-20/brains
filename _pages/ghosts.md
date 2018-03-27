@@ -22,7 +22,9 @@ permalink: /ghosts/
 
 * Chp. The Shift of Power from Centralized to Decentralized
 * Chp. Strategy to Beat the Odds
+
 > Big, Small and Competition
+
 > Right Midset of Excetuation
 
 #### Notes 
