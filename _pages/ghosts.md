@@ -25,7 +25,19 @@ permalink: /ghosts/
 
 > Big, Small and Competition
 
-> Right Midset of Excetuation
+> Viewing a temporary trend as a competitive advantage
+
+> Companies are hard to build and even harder to span across generations
+
+> Which market is not depend on you, its on user
+
+> Competition = Short
+
+> Market Size is not impotant at all
+
+> Timeing is something
+
+> Idea is nothing 
 
 #### Notes 
 
