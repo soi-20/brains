@@ -49,9 +49,9 @@ From human to machine.
 
 > Big, Small and Competition
 
-> Viewing a temporary trend as a competitive advantage
+> Stop see a temporary trend as a competitive advantage
 
-> Companies are hard to build and even harder to span across generations
+> Companies are hard to build and even harder to expand across generations
 
 > Which market is not depend on you, its on user
 
