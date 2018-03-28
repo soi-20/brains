@@ -25,7 +25,7 @@ comments: true
 </p>
 
 
-In 2018, no doubt, we are still way far from that advanced tech now, though we are slowly becoming the cyborg with supercomputer in our pocket. Inspired by Ghost in the Shell, I think we should try to turn our brain into composable and functional brains by starting to view everything as a function, and iterate it like a machine. So we can solve the information/signal overload in this digital age. 
+No doubt, we are still way far from that kind of advanced tech in 2018, though we are slowly becoming the cyborg with supercomputer in our pocket. Inspired by Ghost in the Shell, I think we should try to turn our brain into composable and functional brains by starting to view everything as a function, and iterate it like a machine. So we can solve the information/signal overload in this digital age. 
 
 I believe the future of human thinking is to decentralize ourselves. Like Ghosts in the Shell, as a whole.
 
@@ -34,9 +34,9 @@ I believe the future of human thinking is to decentralize ourselves. Like Ghosts
 
 In Functional Flow theory, building a functional flow system is all about two stages: 
 
-* Clearity and Efficiency 
+* Clearity and efficiency 
 
-* Flow and Composition
+* Flow and composition
 
 
 ## Fisrt: A Clear and Efficient Machine 
@@ -69,14 +69,14 @@ All these three terms are used to describe the same kind of thing, namely, the r
 #### Clear(Efficient)= Machine X
 
 
-Clear efficiency is looking around one's functional flow to discover if, and in that case - where? when? Why-, inefficiency occur. These inefficiency can be for example idle idea(output), idle information(input) or idle functions. A good functional flow owner should then do his/her/their best to eliminate these inefficiency. All of this in order to reduce the total cost of operations of the functional flow system.
+Clear efficiency is looking around one's functional flow to discover if, and in that case - where? when? Why?, inefficiency occur. These inefficiency can be for example idle idea(output), idle information(input) or idle functions. A good functional flow owner should then do his/her/their best to eliminate these inefficiency. All of this in order to reduce the total cost of operations of the functional flow system.
 
 
 <p align="center">
   <img width="400" height="300" src="https://c1.staticflickr.com/5/4714/38482593600_2c74600966.jpg" alt="Sublime's custom image"/>
 </p>
 
-The philosophy behind the efficiency approach to functional flow is based the idea of "the one best way for yourself", i.e., the best way to input information, compute functions, perform tasks, output value as a balanced human being.
+The philosophy behind the efficiency approach to functional flow is based the idea of "the one best way for yourself", i.e., the best way to input information, compute/compose functions, perform tasks, output value as a balanced human being.
 
 If you time every single step and motion, and then carefully design the steps of the task to minimize the time, the system will perform in the best possible way.
 
@@ -112,11 +112,11 @@ Although the word "function" has been defined in many ways, everyone will agree 
 
 Flow state isn’t like appearance or success that other people get to rate. It’s more like happiness or curiosity, like creativity.
 
-Functional Flow is the mind state where you can think almost everything as a function. You can view another person's functions (thinking models, paths...) as the input of your function (also could be the input of other people's function). If you want to, after composing, you can also take that as your input again.
+Functional Flow is the mind state where you can view almost everything as a function. You can take another person's functions (thinking models, paths...) as the input of your function (also could be the input of other people's function). If you want to, after composing, you can also take that as your input again.
 
 In some way, you can say it's like composing people’s thinking models(including yours) and iterate it like a machine.
 
-That's why Functional Flow is all about composing and iterating like ghosts in a shell. 
+That's why Functional Flow is all about composing and iterating like GHOSTS in the shell. 
 
-Ghosts as a whole, under powerfull shell.
+Ghosts as a whole, in the powerfull machine.
 
