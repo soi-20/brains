@@ -16,6 +16,11 @@ permalink: /ghosts/
 #### Micro
 
 * Chp. [Ghosts in the Shell: Define Functional Flow](https://allenleein.github.io/brains/2018/03/defining-functional-flow)
+
+> Fisrt: A Clear and Efficient Machine
+
+> Second: A Composiable Flow in the Shell
+
 * Chp. Dancing Between Relativity and Absolute Simultaneity
 
 #### Macro
