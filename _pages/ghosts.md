@@ -25,8 +25,27 @@ permalink: /ghosts/
 
 # < Macro >
 
-# Chp. The Shift of Power from Centralized to Decentralized
-# Chp. Strategy to Beat the Odds
+## Chp. The Shift of Power from Centralized to Decentralized
+
+> Shaking the 500 years of business model
+
+> Both the gap of knowlodge and wealth are expanding
+
+> From centralized to decentralized
+
+From loyalty to empowerment.
+
+From efficient to intelligent.
+
+From ownership to access.
+
+From low cost to no cost.
+
+From human to machine.
+
+> Information is the Power, machine is the leverage
+
+## Chp. Strategy to Beat the Odds
 
 > Big, Small and Competition
 
