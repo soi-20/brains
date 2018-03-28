@@ -13,20 +13,20 @@ permalink: /ghosts/
 # Table of Contents
 
 
-#### Micro
+# Micro
 
-* Chp. [Ghosts in the Shell: Define Functional Flow](https://allenleein.github.io/brains/2018/03/defining-functional-flow)
+## Chp. [Ghosts in the Shell: Define Functional Flow](https://allenleein.github.io/brains/2018/03/defining-functional-flow)
 
 > Fisrt: A Clear and Efficient Machine
 
 > Second: A Composiable Flow in the Shell
 
-* Chp. Dancing Between Relativity and Absolute Simultaneity
+## Chp. Dancing Between Relativity and Absolute Simultaneity
 
-#### Macro
+# Macro
 
-* Chp. The Shift of Power from Centralized to Decentralized
-* Chp. Strategy to Beat the Odds
+# Chp. The Shift of Power from Centralized to Decentralized
+# Chp. Strategy to Beat the Odds
 
 > Big, Small and Competition
 
@@ -44,9 +44,7 @@ permalink: /ghosts/
 
 > Idea is nothing 
 
-#### Notes 
 
-* The Future won’t be better without building hard 
 
 
 
