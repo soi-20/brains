@@ -49,6 +49,8 @@ From human to machine.
 
 > Big, Small and Competition
 
+Avoid Competition: business models are less durable than they used to be
+
 > Stop see a temporary trend as a competitive advantage
 
 > Companies are hard to build and even harder to expand across generations
