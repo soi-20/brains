@@ -16,13 +16,14 @@ permalink: /wiredin/
 # Table of Contents
 
 * Preface. Wired in Haskell
+* Chp. Future of Programming and Haskell
+
 
 #### Basic
 
 * Chp. Setup and Install
-* Chp. Hello Haskell
-* Chp. JSON API Server
-* Chp. Defining
+* Chp. Build a JSON API Server and a crawler
+* Chp. Define Haskell
 
 
 #### Structures and Patterns
@@ -35,9 +36,7 @@ permalink: /wiredin/
 
 #### Composing Functions
 
-* Chp.
 * Chp. Build a Compiler
-* Chp. Build a Crawler
 * Chp. Haskell in Machine Learning 
 * Chp. Wired in Gargantua with Haskell
 
