@@ -63,6 +63,7 @@ If you believe in Free Information, you can also check [How to Bypass Paywall](h
 
 ### Macro
 
+- [Read - VC Risking](https://allenleein.github.io/brains/2018/03/read-vc)
 - [Spotify's Dilemma](https://allenleein.github.io/brains/2018/03/spotifys-dilemma)
 - [Thoughts on Centralization](https://allenleein.github.io/brains/2018/02/centralization)
 - [Dunkirk: The legend ends, the unknown knight rises](https://allenleein.github.io/brains/2017/08/dunkirk)
