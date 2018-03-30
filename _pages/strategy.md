@@ -5,10 +5,10 @@ permalink: /strategy/
 ---
 
 <p align="center">
-  <img width="250" height="300" src="https://c1.staticflickr.com/5/4796/38914698780_ac39eb41f4_b.jpg" alt="Sublime's custom image"/>
+  <img width="300" height="300" src="https://cdn1.iconfinder.com/data/icons/sin-city-memories/128/poker-chip-512.png" alt="Sublime's custom image"/>
 </p>
 
-# < Macro >
+# < Strategy to Master the Odds >
 
 ## Chp. The Shift of Power from Centralized to Decentralized
 
@@ -30,9 +30,7 @@ From human to machine.
 
 > Information is the Power, machine is the leverage
 
-## Chp. Strategy to Beat the Odds
-
-> Big, Small and Competition
+## Chp. Big, Small and Competition
 
 Avoid Competition: business models are less durable than they used to be
 
