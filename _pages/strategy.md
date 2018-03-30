@@ -5,10 +5,10 @@ permalink: /strategy/
 ---
 
 <p align="center">
-  <img width="300" height="300" src="https://cdn1.iconfinder.com/data/icons/sin-city-memories/128/poker-chip-512.png" alt="Sublime's custom image"/>
+  <img width="300" height="300" src="https://image.freepik.com/free-icon/poker-playing-cards_318-51441.jpg" alt="Sublime's custom image"/>
 </p>
 
-# < Strategy to Master the Odds >
+# Strategy to Master the Odds 
 
 ## Chp. The Shift of Power from Centralized to Decentralized
 
