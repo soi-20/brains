@@ -29,12 +29,11 @@
 - [尋找自己的信仰](https://allenleein.github.io/brains/2016/06/goals)
 - [驅動並進入心流](https://allenleein.github.io/brains/2017/12/trigger-flow)
 
+# Functional Flow
 
 <p align="center">
   <img width="300" height="300" src="http://lambdageneration.com/wp-content/uploads/2014/10/original-animated.gif" alt="Sublime's custom image"/>
 </p>
-
-# Functional Flow
 
 This is an experimental Functional [Flow](https://www.wikiwand.com/en/Flow_(psychology)) project. I'm trying to turn my brain into an Open-source brains. 
 
