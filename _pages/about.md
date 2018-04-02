@@ -14,16 +14,16 @@ Hey, Allen here. This website is an experimental [Functional Flow](https://githu
 
 Please read:
 
-[Why Functional Flow?](https://allenleein.github.io/brains/2018/03/defining-functional-flow)
+1. [Why Functional Flow?](https://allenleein.github.io/brains/2018/03/defining-functional-flow)
 
-[⚡️Implement Functional Flow](https://github.com/allenleein/brains/blob/master/README.md)
+2. [Implement Functional Flow](https://github.com/allenleein/brains/blob/master/README.md)
 
 
 ----
 
 # 🔻 Currently Building Project:
 
-### --. .- .-. --. .- -. - ..- .-
+#### --. .- .-. --. .- -. - ..- .-
 
 * .- / -... .- -.-. -.- ..- .--. / --- ..-. / .... ..- -- .- -. / -.- -. --- .-- .-.. . -.. --. . .-.-.-
 
@@ -38,7 +38,7 @@ Please read:
 
 # 🔻 Past Projects
 
-### A Venture Publication - 2013-2017
+#### A Venture Publication - 2013-2017
 
 * A Venture was top 3 VC & Machine Learning Publisher on Medium. Merged into Functions Fund.
 
@@ -48,7 +48,7 @@ Please read:
 
 ----
 
-### Programmed Drones Art - 2013
+#### Programmed Drones Art - 2013
 
 * [Project X](https://vimeo.com/111901733)
 
