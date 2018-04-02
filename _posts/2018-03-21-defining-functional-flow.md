@@ -122,4 +122,6 @@ That's why Functional Flow is all about composing and iterating like GHOSTS in t
 
 Ghosts as a whole, in the powerfull machine.
 
+# Next: 
 
+[Implement Functional Flow](https://github.com/allenleein/brains/blob/master/README.md)
