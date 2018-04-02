@@ -12,17 +12,12 @@ permalink: /about/
 
 Hey, Allen here. This website is an experimental [Functional Flow](https://github.com/allenleein/brains) project. I'm trying to turn my brain into an Open-source brains with collective intelligence.
 
-You can check:
+Please read:
 
 [Why Functional Flow?](https://allenleein.github.io/brains/2018/03/defining-functional-flow)
-[How Functional Flow works](https://github.com/allenleein/brains/blob/master/README.md)
 
+[⚡️Implement Functional Flow](https://github.com/allenleein/brains/blob/master/README.md)
 
-----
-
-# 👻 Only Snap can reach me: 
-
-.- -.. -.. .- .-.. .-.. . -. .-.. . . .. -.
 
 ----
 
@@ -66,6 +61,11 @@ You can check:
 ![alt text](https://i.imgur.com/pNz5FOm.jpg "Logo Title Text 1")
 
 
+----
+
+# 👻 Snap can reach me: 
+
+.- -.. -.. .- .-.. .-.. . -. .-.. . . .. -.
 
 
 
