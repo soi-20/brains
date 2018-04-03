@@ -52,11 +52,15 @@ Why functional flow?
 ## [Must-Read: About Functional Flow](https://allenleein.github.io/brains/2018/03/defining-functional-flow)
 
 
+<p align="center">
+  <img width="400" height="400" src="https://c1.staticflickr.com/5/4714/38482593600_2c74600966.jpg" alt="Sublime's custom image"/>
+</p>
+
 # ⚡️Implement Functional Flow
 
 
 <p align="center">
-  <img width="400" height="400" src="https://c1.staticflickr.com/5/4714/38482593600_2c74600966.jpg" alt="Sublime's custom image"/>
+  <img width="400" height="400" src="https://c1.staticflickr.com/1/869/26331029007_861b04b8c5.jpg" alt="Sublime's custom image"/>
 </p>
 
 
