@@ -30,7 +30,7 @@ From human to machine.
 
 > Information is the Power, machine is the leverage
 
-## Chp. Big, Small and Competition
+## Chp. Market and Competition
 
 Avoid Competition: business models are less durable than they used to be
 
