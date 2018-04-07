@@ -10,18 +10,18 @@ permalink: /strategy/
 
 # Strategy to Master the Odds 
 
-## Chp. The Shift of Power from Centralized to Decentralized
+## Chp1. The Shift of Power from Centralized to Decentralized
 
 
-## Chp. Master the odds: Market and Competition
+## Chp2. Master the odds: Market and Competition
 
 
-## Problems of Big Companies 
+## Problems of Companies 
 
 > “Being right is the enemy of staying right because it leads you to forget the way the world works.” – Jason Zweig.
 
 
-The opportunity exists in the business world because when big companies become successful is when collective leadership becomes most focused on maintaining success. Usually, leadership tends to see more risk in the downside of the current plan and than upside in taking on new things.
+The opportunity exists in the business world because when big/small companies become successful is when collective leadership becomes most focused on maintaining success. Usually, leadership tends to see more risk in the downside of the current plan and than upside in taking on new things.
 
 Few things big companies doing regularly:
 
@@ -65,6 +65,8 @@ Instead, in order to master and beat the odds, you should just totally ignore "t
 
 Why can you ignore the market? Because Which market does not depend on you, it's on the user. You’re not in the market you think you’re in – you’re in the market your users think you’re in. Most failed companies made the wrong "Awesome product" by choosing the wrong market and following the wrong standard.
 
-Market-size is not important at all. Numbers are about the past if you wanna create new things you need to focus on what's the one that can't be copied and people don't know they need it yet.
+Market-size is not important at all. Numbers are about the past if you wanna create new things, you need to focus on what's the one that can't be copied and people don't know they need it yet.
 
-If you are thinking about market-size, you are thinking how to beat the competitors. If you want to be creative, don’t be data-driven.
+If you are thinking about market-size, you are thinking how to beat the competitors. 
+
+So. Igore competition, don’t be data-driven.
