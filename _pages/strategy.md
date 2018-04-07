@@ -12,23 +12,6 @@ permalink: /strategy/
 
 ## Chp. The Shift of Power from Centralized to Decentralized
 
-> Shaking the 500 years of business model
-
-> Both the gap of knowlodge and wealth are expanding
-
-> From centralized to decentralized
-
-From loyalty to empowerment.
-
-From efficient to intelligent.
-
-From ownership to access.
-
-From low cost to no cost.
-
-From human to machine.
-
-> Information is the Power, machine is the leverage
 
 ## Chp. Master the odds: Market and Competition
 
@@ -55,14 +38,14 @@ Doing well reduces the incentive to explore other ideas, especially when those i
 
 The idea is not important as thinking. And knowing how your idea evolving is more important to have a good idea. Because then you will know how to generate your own point of view.
 
-### Ignore Competition
+## Ignore Competition
 
 > "If you raise the floor of competence, you inevitably lower the ceiling of achievement. There is no reward without risk, and demanding that everything meet a certain standard is to inevitably ensure that nothing goes beyond."- @benthompson
 
 > For most of history,  success meant control of scarce resources. Increasingly the games that matter are not zero-sum.Increasingly you win not by fighting to get control of a scarce resource, but by having new ideas and building new things. - Paul Graham
 
 
-Remember, business models are less durable than they used to be. Experts usually bad at telling you what you shouldn't do and what you should do. and 
+Remember, business models are less durable than they used to be. Experts bad at telling you what you shouldn't do and what you should do. 
 
 
 ![Alt text](https://c1.staticflickr.com/1/815/40193081565_8dc7678b8a_c.jpg)
