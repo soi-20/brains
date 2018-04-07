@@ -70,3 +70,5 @@ Market-size is not important at all. Numbers are about the past if you wanna cre
 If you are thinking about market-size, you are thinking how to beat the competitors. 
 
 So. Igore competition, don’t be data-driven.
+
+# Chp3. Right Midset of Excetuation 
