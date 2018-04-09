@@ -45,7 +45,7 @@ The idea is not important as thinking. And knowing how your idea evolving is mor
 > For most of history,  success meant control of scarce resources. Increasingly the games that matter are not zero-sum.Increasingly you win not by fighting to get control of a scarce resource, but by having new ideas and building new things. - Paul Graham
 
 
-Remember, business models are less durable than they used to be. Experts bad at telling you what you shouldn't do and what you should do. 
+Remember, business models are less durable than they used to be. Experts bad at telling you what you shouldn't do and what you should do. If your business fits in a market design by someone else, your done. Pepsi never catches Coke. Bing never catches Google. The real one is can you design a market that you can dominate?
 
 
 ![Alt text](https://c1.staticflickr.com/1/815/40193081565_8dc7678b8a_c.jpg)
@@ -63,9 +63,9 @@ Instead, in order to master and beat the odds, you should just totally ignore "t
 2. What's the opportunity cost of building it? 
 3. What's your advantage to build that business?  
 
-Why can you ignore the market? Because Which market does not depend on you, it's on the user. You’re not in the market you think you’re in – you’re in the market your users think you’re in. Most failed companies made the wrong "Awesome product" by choosing the wrong market and following the wrong standard.
+First, why can you ignore the market? Because Which market does not depend on you, it's on the user. You’re not in the market you think you’re in – you’re in the market your users think you’re in. Most failed companies made the wrong "Awesome product" by choosing the wrong market and following the wrong standard.
 
-Market-size is not important at all. Numbers are about the past if you wanna create new things, you need to focus on what's the one that can't be copied and people don't know they need it yet.
+Second, market-size is not important at all. Numbers are about the past if you wanna create new things, you need to focus on what's the one that can't be copied and people don't know they need it yet.
 
 If you thinking about market-size, the market you are talking about is old and full of competitors. Market means buyers not a customer segment or existing category.
 
