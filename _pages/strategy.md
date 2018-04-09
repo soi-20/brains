@@ -21,9 +21,9 @@ permalink: /strategy/
 > “Being right is the enemy of staying right because it leads you to forget the way the world works.” – Jason Zweig.
 
 
-The opportunity exists in the business world because when big/small companies become successful is when collective leadership becomes most focused on maintaining success. Usually, leadership tends to see more risk in the downside of the current plan and than upside in taking on new things.
+The opportunity exists in the business world because when companies become successful is when collective leadership becomes most focused on maintaining success. Usually, leadership tends to see more risk in the downside of the current plan and than upside in taking on new things.
 
-Few things big companies doing regularly:
+Few things companies doing regularly:
 
 1. View a temporary trend as a competitive advantage
 2. Focus on building reputational momentum
@@ -67,8 +67,8 @@ Why can you ignore the market? Because Which market does not depend on you, it's
 
 Market-size is not important at all. Numbers are about the past if you wanna create new things, you need to focus on what's the one that can't be copied and people don't know they need it yet.
 
-If you are thinking about market-size, you are thinking how to beat the competitors. 
+If you thinking about market-size, the market you are talking about is old and full of competitors. Market means buyers not a customer segment or existing category.
 
-So. Igore competition, don’t be data-driven.
+So. Igore competition, don’t be data-driven. Create your own category.
 
 # Chp3. Right Midset of Excetuation 
