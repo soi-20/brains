@@ -30,7 +30,7 @@ Please read:
 - [ . -. - . .-. / .--. .-. .. ...- .- - . / -... . - .- ](https://upscri.be/e57947/)
 
 <p align="center">
-  <img width="300" height="300" src="https://i.imgur.com/1nLWkHH.png" alt="Sublime's custom image"/>
+  <img width="200" height="200" src="https://i.imgur.com/1nLWkHH.png" alt="Sublime's custom image"/>
 </p>
 
 
