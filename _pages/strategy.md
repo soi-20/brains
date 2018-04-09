@@ -44,18 +44,19 @@ The idea is not important as thinking. And knowing how your idea evolving is mor
 
 > For most of history,  success meant control of scarce resources. Increasingly the games that matter are not zero-sum.Increasingly you win not by fighting to get control of a scarce resource, but by having new ideas and building new things. - Paul Graham
 
-
-Remember, business models are less durable than they used to be. Experts bad at telling you what you shouldn't do and what you should do. If your business fits in a market design by someone else, your done. Pepsi never catches Coke. Bing never catches Google. The real one is can you design a market that you can dominate?
-
-
-![Alt text](https://c1.staticflickr.com/1/815/40193081565_8dc7678b8a_c.jpg)
-
+If your business fits in a market design by someone else, it's gonna be hard. Pepsi never catches Coke. Bing never catches Google. The real easy one is can you design a market that you can dominate. So, how to create your own category?
 
 Usually, the traditional Business Thinking Process is:
 
 1. Dissect the dominant business model in your industry.
 2. How big is the remaining market?
 3. Find a way to get in.
+
+Remember, business models are less durable than they used to be. Experts bad at telling you what you shouldn't do and what you should do. 
+
+
+![Alt text](https://c1.staticflickr.com/1/815/40193081565_8dc7678b8a_c.jpg)
+
 
 Instead, in order to master and beat the odds, you should just totally ignore "the market things" and think about:
 
