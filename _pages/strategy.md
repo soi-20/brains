@@ -70,6 +70,10 @@ Second, market-size is not important at all. Numbers are about the past if you w
 
 If you thinking about market-size, the market you are talking about is old and full of competitors. Market means buyers not a customer segment or existing category.
 
-So. Igore competition, don’t be data-driven. Create your own category.
+Igore competition. 
+
+Don’t be data-driven. 
+
+Create your own category.
 
 # Chp3. Right Midset of Excetuation 
