@@ -43,13 +43,7 @@ This is an experimental Functional [Flow](https://www.wikiwand.com/en/Flow_(psyc
 
 Open-source brains are functional flow with its source code made available with a license in which the copyright holder provides the rights to study, change, and distribute the brains to anyone and for any purpose. Open-source brains are developed in a collaborative public manner. 
 
-Why functional flow?
-
-* The power of : Flow > Cumulative
-* The power of : Composing functions > Following a specific way
-* The power of : Sharing > Hiding
-
-## [Must-Read: About Functional Flow](https://allenleein.github.io/brains/2018/03/defining-functional-flow)
+## [Must-Read: Why functional flow?](https://allenleein.github.io/brains/2018/03/defining-functional-flow)
 
 
 <p align="center">
@@ -69,7 +63,7 @@ Functional flow is the mind state where you can think almost everything as a fun
 
 ## Components of a Functional Flow System - Input, Process, Output
 
-* Input - the information/functions/brain entered into a flow system. Please check [Brains Issues](https://github.com/allenleein/brains/issues), [Liked Tweets](https://twitter.com/i/likes) and [Hacker News upvoted](https://news.ycombinator.com/user?id=allenleein).
+* Input - the information/functions/brain entered into a flow system. Please check [Brains Issues](https://github.com/allenleein/brains/issues), [Liked Tweets](https://twitter.com/i/likes), [Hacker News upvoted](https://news.ycombinator.com/user?id=allenleein). and [My Input Sources of Media](https://github.com/allenleein/brains/issues/882).
 
 * Processing - the process of transforming input information/functions/brain into and output. Please check [⚡️Input-observables](https://github.com/allenleein/brains/labels/%E2%9A%A1%EF%B8%8FInput-observables) and [⚡️Output-observables](https://github.com/allenleein/brains/labels/%E2%9A%A1%EF%B8%8FOutput-observables).
 
@@ -92,7 +86,7 @@ If you want to check the flow real-time(Warning: maybe too many notifications fo
 
 All the contributions (Github/Slack) will be merged here.
 
-If you believe in Free Information, you can also check [How to Bypass Paywall](https://github.com/allenleein/brains/issues/343)
+If you support Free Information, you can also check [How to Bypass Paywall](https://github.com/allenleein/brains/issues/343)
 
 (Honesty setting: 90%)
 
