@@ -129,4 +129,4 @@ Ghosts as a whole, in the powerfull machine.
 
 # Next: 
 
-[Implement Functional Flow](https://github.com/allenleein/brains/blob/master/README.md)
+[Implement Functional Flow](https://github.com/allenleein/brains/blob/master/README.md#%EF%B8%8Fimplement-functional-flow)
