@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="300" height="300" src="https://cdn-images-1.medium.com/max/280/1*qOcTflAQFBmyh3jWyTftng@2x.jpeg" alt="Sublime's custom image"/>
+  <img width="200" height="200" src="https://cdn-images-1.medium.com/max/280/1*qOcTflAQFBmyh3jWyTftng@2x.jpeg" alt="Sublime's custom image"/>
 </p>
 
 # ⚡️Functional Flow
