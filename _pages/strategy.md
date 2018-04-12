@@ -13,7 +13,7 @@ permalink: /strategy/
 ## Chp1. The Shift of Power from Centralized to Decentralized
 
 
-## Chp2. Master the odds: Market and Competition
+## Chp2. [Master the odds: Market and Competition](https://allenleein.github.io/brains/2018/04/strategy-to-master-theodds)
 
 
 ## Chp3. Right Midset of Excetuation 
