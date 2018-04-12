@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="400" height="400" src="https://i.imgur.com/1nLWkHH.png" alt="Sublime's custom image"/>
+  <img width="300" height="300" src="https://i.imgur.com/1nLWkHH.png" alt="Sublime's custom image"/>
 </p>
 
 
