@@ -38,7 +38,7 @@ Functional flow is the mind state where you can think almost everything as a fun
 * Output - [Brains](https://allenleein.github.io/brains/).
 
 
-### All thoughts are welcome to contribute to:
+## All thoughts are welcome to contribute to:
 
 * Information layer1: [Issues](https://github.com/allenleein/brains/issues) (Closed/Open Issues) 
 
