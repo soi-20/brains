@@ -33,9 +33,11 @@ Please read:
 
 ----
 
-#### Programmed Drones Art - 2013
+#### Drones Art - 2013
 
 * [Project X](https://vimeo.com/111901733)
+
+* We (Kevin, Milu, Allen) are the first team to program customized drones+LEDs to write Chineses letters in the sky in history.
 
 
 <p align="center">
@@ -48,7 +50,7 @@ Please read:
 
 ----
 
-# 👻 Snap can reach me: 
+# 👻 Snap me if you can: 
 
 .- -.. -.. .- .-.. .-.. . -. .-.. . . .. -.
 
