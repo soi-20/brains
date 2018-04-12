@@ -33,11 +33,11 @@ Please read:
 
 ----
 
-#### Drones Art - 2013
-
 <p align="center">
   <img width="500" height="300" src="https://media.giphy.com/media/l3mZ5zogGcnzNzbqM/giphy.gif" alt="Sublime's custom image"/>
 </p>
+
+#### Drones Art - 2013
 
 * [Project X](https://vimeo.com/111901733)
 
