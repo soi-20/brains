@@ -37,7 +37,7 @@ Please read:
 
 * [Project X](https://vimeo.com/111901733)
 
-* We (Kevin, Milu, Allen) are the first team to program customized drones+LEDs to write Chineses letters in the sky in history.
+* We (Kevin, Milu, Allen) are the first team to program customized drones+LEDs to write Chinese letters in the sky in history.
 
 
 <p align="center">
