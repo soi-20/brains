@@ -16,4 +16,4 @@ permalink: /strategy/
 ## Chp2. Master the odds: Market and Competition
 
 
-# Chp3. Right Midset of Excetuation 
+## Chp3. Right Midset of Excetuation 
