@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <p align="center">
-  <img width="300" height="300" src="http://lambdageneration.com/wp-content/uploads/2014/10/original-animated.gif" alt="Sublime's custom image"/>
+  <img width="300" height="300" src="https://c1.staticflickr.com/1/876/41400690711_e7177e4ef8_o.jpg" alt="Sublime's custom image"/>
 </p>
 
 # ⚡️ Functional Flow
