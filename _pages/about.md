@@ -9,7 +9,6 @@ permalink: /about/
   <img width="200" height="200" src="https://i.imgur.com/1nLWkHH.png" alt="Sublime's custom image"/>
 </p>
 
-----
 
 Hey, Allen here. This website is an experimental [Functional Flow](https://github.com/allenleein/brains) project. I'm trying to turn my brain into an Open-source brains with collective intelligence.
 
