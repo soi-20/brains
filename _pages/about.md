@@ -49,7 +49,7 @@ Please read:
 
 ----
 
-# 👻 Snap me if you can: 
+# 👻 Snap: 
 
 .- -.. -.. .- .-.. .-.. . -. .-.. . . .. -.
 
