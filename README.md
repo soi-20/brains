@@ -10,7 +10,7 @@ This is an experimental Functional [Flow](https://www.wikiwand.com/en/Flow_(psyc
 
 Open-source brains are functional flow with its source code made available with a license in which the copyright holder provides the rights to study, change, and distribute the brains to anyone and for any purpose. Open-source brains are developed in a collaborative public manner. 
 
-## [Must-Read: Why functional flow?](https://allenleein.github.io/brains/2018/03/defining-functional-flow)
+#### [Must-Read: Why functional flow?](https://allenleein.github.io/brains/2018/03/defining-functional-flow)
 
 
 
