@@ -16,4 +16,4 @@ permalink: /strategy/
 ## Chp2. [Master the odds: Market and Competition](https://allenleein.github.io/brains/2018/04/strategy-to-master-theodds)
 
 
-## Chp3. Right Midset of Excetuation 
+## Chp3. Right Midset of Execution 
