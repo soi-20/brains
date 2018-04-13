@@ -26,7 +26,7 @@ Please read:
 # 🔻 Past Projects
 
 <p align="center">
-  <img width="300" height="300" src="https://i.imgur.com/4bY53O8.jpg" alt="Sublime's custom image"/>
+  <img width="200" height="200" src="https://i.imgur.com/4bY53O8.jpg" alt="Sublime's custom image"/>
 </p>
 
 #### A Venture Publication - 2013-2017
@@ -36,7 +36,7 @@ Please read:
 ----
 
 <p align="center">
-  <img width="500" height="300" src="https://media.giphy.com/media/l3mZ5zogGcnzNzbqM/giphy.gif" alt="Sublime's custom image"/>
+  <img width="400" height="200" src="https://media.giphy.com/media/l3mZ5zogGcnzNzbqM/giphy.gif" alt="Sublime's custom image"/>
 </p>
 
 #### Drones Art - 2013
