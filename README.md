@@ -32,7 +32,7 @@ Functional flow is the mind state where you can think almost everything as a fun
 </p>
 
 
-* Input - the information/functions/brain entered into a flow system. Please check [Brains Issues](https://github.com/allenleein/brains/issues), [Liked Tweets](https://twitter.com/i/likes), [Hacker News Upvoted/Fav](https://news.ycombinator.com/user?id=allenleein). and [My Input Sources of Media](https://github.com/allenleein/brains/issues/882).
+* Input - the information/functions/brain entered into a flow system. Please check [Brains Issues](https://github.com/allenleein/brains/issues), [Liked Tweets](https://twitter.com/i/likes), [Hacker News Upvoted/Fav](https://news.ycombinator.com/user?id=allenleein). Source: [My Input Sources of Media](https://github.com/allenleein/brains/issues/882)
 
 * Processing - the process of transforming input information/functions/brain into and output. Please check [⚡️Input-observables](https://github.com/allenleein/brains/labels/%E2%9A%A1%EF%B8%8FInput-observables) and [⚡️Output-observables](https://github.com/allenleein/brains/labels/%E2%9A%A1%EF%B8%8FOutput-observables).
 
