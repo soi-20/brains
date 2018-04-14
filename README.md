@@ -19,7 +19,7 @@ Open-source brains are functional flow with its source code made available with 
 Flow isn’t like appearance or success that other people get to rate. It’s more like happiness or curiosity, like creativity.
 
 <p align="center">
-  <img width="400" height="300" src="https://cdn-images-1.medium.com/max/1600/1*QE2SKjl-p2nCtAxovykiaA.png" alt="Sublime's custom image"/>
+  <img width="300" height="200" src="https://cdn-images-1.medium.com/max/1600/1*QE2SKjl-p2nCtAxovykiaA.png" alt="Sublime's custom image"/>
 </p>
 
 Functional flow is the mind state where you can think almost everything as a function.
@@ -28,7 +28,7 @@ Functional flow is the mind state where you can think almost everything as a fun
 ## Components of a Functional Flow System - Input, Process, Output
 
 <p align="center">
-  <img width="400" height="400" src="https://c1.staticflickr.com/5/4714/38482593600_2c74600966.jpg" alt="Sublime's custom image"/>
+  <img width="300" height="300" src="https://c1.staticflickr.com/5/4714/38482593600_2c74600966.jpg" alt="Sublime's custom image"/>
 </p>
 
 
