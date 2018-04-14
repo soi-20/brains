@@ -41,7 +41,7 @@ In Functional Flow theory, building a functional flow system is all about two st
 * Flow and composition
 
 
-## Fisrt: A Clear and Efficient Machine 
+## First: A Clear and Efficient Machine 
 
 
 We need to see things purely.
@@ -84,7 +84,7 @@ If you time every single step and motion, and then carefully design the steps of
 
 This approach leads toward automation of the operations. If we know the optimal way, the only way, we also know how to design a machine or robot to perform the same task. 
 
-Some humanists may be horrified by this, fearing the result will be degradation of one' human dignity and neglect of deeper human values.
+Some humanists might be horrified by this, fearing the result will be degradation of one' human dignity and neglect of deeper human values.
 
 I will explan why "flow" and "compostion" will easily ease those concerns later. 
 
