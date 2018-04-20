@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ghosts in the Shell: Define Functional Flow"
+title: "A Functional Machine and the Functional Machines"
 description: ""
 date: 2018-03-21
 tags: 
