@@ -6,6 +6,7 @@ date: 2018-04-24
 tags: 
 comments: true
 ---
+## Flow
 
 Flow isn’t like appearance or success that other people get to rate. It’s more like happiness or curiosity, like creativity.
 
