@@ -18,7 +18,7 @@ Please read:
 
 1. [Why Functional Flow?](https://allenleein.github.io/brains/2018/03/defining-functional-flow)
 
-2. [Implement Functional Flow](https://github.com/allenleein/brains/blob/master/README.md)
+2. [Implement Functional Flow](https://allenleein.github.io/brains/2018/04/implement-functional-flow)
 
 
 
