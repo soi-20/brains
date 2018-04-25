@@ -7,7 +7,7 @@
 
 This is an experimental project. I'm trying to turn my brain into an Open-source brains with collective intelligence.
 
-Must-Read:
+## Must-Read:
 
 1. [A Functional Flow and the Functional Machines](https://allenleein.github.io/brains/2018/03/defining-functional-flow)
 
