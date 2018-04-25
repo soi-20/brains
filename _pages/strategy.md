@@ -10,7 +10,7 @@ permalink: /strategy/
 
 # Strategy to Master the Odds 
 
-## Chp1. The Shift of Power from Centralized to Decentralized
+## Chp1. The Big Shift: From Centralized to Decentralized World
 
 
 ## Chp2. [Master the odds: Market and Competition](https://allenleein.github.io/brains/2018/04/strategy-to-master-theodds)
