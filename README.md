@@ -1,4 +1,4 @@
-# ⚡️Functional Flow
+# Δ Functional Flow
 
 <p align="center">
   <img width="300" height="300" src="https://i.imgur.com/1nLWkHH.png" alt="Sublime's custom image"/>
