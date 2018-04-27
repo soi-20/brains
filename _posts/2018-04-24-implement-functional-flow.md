@@ -6,6 +6,18 @@ date: 2018-04-24
 tags: 
 comments: true
 ---
+## Why do functions matter?
+
+- Functions are a great abstraction. Looking at the input and output values gives you the complete information about the data flow. This makes functions very easy to reason about. Effiency. 
+
+- With the absence of side effects, you also have no unintended side effects, which plague all thoughts which modifies state.
+
+- Functions are easily testable, they do not depend on an environment but just the function parameters.
+
+- For the same input a function necessarily always returns the same result, this also makes reasoning about a mind behavior easier.
+
+- As a consequence that they only depend on their inputs, functions usually are very composeable.
+
 ## Flow
 
 Flow isn’t like appearance or success that other people get to rate. It’s more like happiness or curiosity, like creativity.
