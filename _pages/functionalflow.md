@@ -117,11 +117,12 @@ That's why Functional Flow is all about composing and iterating like GHOSTS in t
 
 Ghosts as a whole, in the powerfull machine.
 
+
+# Implement Functional Flow
+
 <p align="center">
   <img width="400" height="400" src="https://c1.staticflickr.com/1/869/26331029007_861b04b8c5.jpg" alt="Sublime's custom image"/>
 </p>
-
-# Implement Functional Flow
 
 ## Why Do Functions Matter?
 
@@ -145,11 +146,11 @@ Flow isn’t like appearance or success that other people get to rate. It’s mo
 
 Functional flow is the mind state where you can think almost everything as a function.
 
-## Iterating Your Machine (in process)
+## Iterate Your Machine (in process)
 
+---
 
-
-## Example(Allen's Brains): Components of a Functional Flow System - Input, Process, Output
+## Components of a Functional Flow System - Input, Process, Output
 
 <p align="center">
   <img width="300" height="300" src="https://c1.staticflickr.com/5/4714/38482593600_2c74600966.jpg" alt="Sublime's custom image"/>
@@ -177,7 +178,6 @@ All the contributions (Github/Slack) will be merged here.
 
 For supporting Free Information, you can also check [How to Bypass Paywall](https://github.com/allenleein/brains/issues/343)
 
-(Honesty setting: 90%)
 
 
 
