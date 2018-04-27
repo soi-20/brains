@@ -4,7 +4,6 @@ title:
 permalink: /about/
 ---
 
-# Currently Building
 
 <p align="center">
   <img width="200" height="200" src="https://i.imgur.com/1nLWkHH.png" alt="Sublime's custom image"/>
