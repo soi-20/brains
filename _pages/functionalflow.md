@@ -113,10 +113,15 @@ Functional Flow is the mind state where you can view almost everything as a func
 
 In some way, you can say it's like composing people’s thinking models(including yours) and iterate it like a machine.
 
+That's why Functional Flow is all about composing and iterating like GHOSTS in the shell. 
+
+Ghosts as a whole, in the powerfull machine.
+
 <p align="center">
   <img width="400" height="400" src="https://c1.staticflickr.com/1/869/26331029007_861b04b8c5.jpg" alt="Sublime's custom image"/>
 </p>
 
+# Implement Functional Flow
 
 ## Why do functions matter?
 
@@ -172,10 +177,5 @@ For supporting Free Information, you can also check [How to Bypass Paywall](http
 (Honesty setting: 90%)
 
 
-That's why Functional Flow is all about composing and iterating like GHOSTS in the shell. 
 
-Ghosts as a whole, in the powerfull machine.
 
-# Next: 
-
-[Implement Functional Flow](https://github.com/allenleein/brains/blob/master/README.md#%EF%B8%8Fimplement-functional-flow)
