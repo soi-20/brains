@@ -7,8 +7,6 @@
 
 This is an experimental project. I'm trying to turn my brain into an Open-source brains with collective intelligence.
 
-## Must-Read:
+## Must-Read:[Ghosts in the Shell: Brains, Machines and Functional Flow
+](https://allenleein.github.io/brains/functionalflow/)
 
-1. [A Functional Flow and the Functional Machines](https://allenleein.github.io/brains/2018/03/defining-functional-flow)
-
-2. [Implement Functional Machine](https://allenleein.github.io/brains/2018/04/implement-functional-flow)
