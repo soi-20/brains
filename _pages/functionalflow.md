@@ -1,7 +1,7 @@
 ---
 layout: content
 title: 
-permalink: /functionflow/
+permalink: /functionalflow/
 ---
 
 <p align="center">
