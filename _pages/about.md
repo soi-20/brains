@@ -4,22 +4,17 @@ title:
 permalink: /about/
 ---
 
-# 👻 Snap me: 
-
-.- -.. -.. .- .-.. .-.. . -. .-.. . . .. -.
-
-
-# ⚡️Currently Building
+# Currently Building
 
 <p align="center">
   <img width="200" height="200" src="https://i.imgur.com/1nLWkHH.png" alt="Sublime's custom image"/>
 </p>
 
-Portable Side-Brain.
+Portable Side-Brains Network.
 
 ----
 
-# 🔻 Past Projects
+# Past Projects
 
 <p align="center">
   <img width="200" height="200" src="https://i.imgur.com/4bY53O8.jpg" alt="Sublime's custom image"/>
