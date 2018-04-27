@@ -123,7 +123,7 @@ Ghosts as a whole, in the powerfull machine.
 
 # Implement Functional Flow
 
-## Why do functions matter?
+## Why Do Functions Matter?
 
 - Functions are a great abstraction. Looking at the input and output values gives you the complete information about the data flow. This makes functions very easy to reason about. Effiency. 
 
@@ -135,7 +135,7 @@ Ghosts as a whole, in the powerfull machine.
 
 - As a consequence that they only depend on their inputs, functions usually are very composeable.
 
-## Flow
+## Why Do Flow Matter? (in process)
 
 Flow isn’t like appearance or success that other people get to rate. It’s more like happiness or curiosity, like creativity.
 
@@ -145,8 +145,11 @@ Flow isn’t like appearance or success that other people get to rate. It’s mo
 
 Functional flow is the mind state where you can think almost everything as a function.
 
+## Iterating Your Machine (in process)
 
-## Components of a Functional Flow System - Input, Process, Output
+
+
+## Example(Allen's Brains): Components of a Functional Flow System - Input, Process, Output
 
 <p align="center">
   <img width="300" height="300" src="https://c1.staticflickr.com/5/4714/38482593600_2c74600966.jpg" alt="Sublime's custom image"/>
@@ -160,7 +163,7 @@ Functional flow is the mind state where you can think almost everything as a fun
 * Output - [Brains](https://allenleein.github.io/brains/).
 
 
-## All thoughts are welcome to contribute to:
+### All thoughts are welcome to contribute to:
 
 * Information layer1: [Issues](https://github.com/allenleein/brains/issues) (Closed/Open Issues) 
 
