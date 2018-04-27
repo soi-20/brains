@@ -13,6 +13,14 @@ permalink: /about/
 Portable Side-Brains Network.
 
 ----
+<p align="center">
+  <img width="200" height="200" src="https://gallery.mailchimp.com/8941835cfa515f7b94f4130c2/images/0214363d-c3ca-4062-8ac1-e780e56e8624.jpg" alt="Sublime's custom image"/>
+</p>
+
+Functions Review
+
+----
+
 
 # Past Projects
 
