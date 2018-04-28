@@ -30,10 +30,6 @@ Hi, Allen here. I'm building portable side-brain under Gargantua.
 
 ----
 
-<p align="center">
-  <img width="400" height="200" src="https://media.giphy.com/media/l3mZ5zogGcnzNzbqM/giphy.gif" alt="Sublime's custom image"/>
-</p>
-
 #### Drones Art - 2013
 
 * [Project X](https://vimeo.com/111901733)
