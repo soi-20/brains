@@ -148,7 +148,7 @@ Flow isn’t like appearance or success that other people get to rate. It’s mo
 
 Functional flow is the mind state where you can think almost everything as a function.
 
-## Iterate Your Machine (in process)
+## Iterate Your Machine
 
 ---
 
