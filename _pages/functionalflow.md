@@ -138,7 +138,7 @@ Ghosts as a whole, in the powerfull machine.
 
 - As a consequence that they only depend on their inputs, functions usually are very composeable.
 
-## Why Do Flow Matter? (in process)
+## Why Do Flow Matter? 
 
 Flow isn’t like appearance or success that other people get to rate. It’s more like happiness or curiosity, like creativity.
 
