@@ -6,6 +6,9 @@ date: 2018-04-24
 tags: 
 comments: true
 ---
+
+# (Full Version: [Here](https://allenleein.github.io/brains/functionalflow/))
+
 ## Why do functions matter?
 
 - Functions are a great abstraction. Looking at the input and output values gives you the complete information about the data flow. This makes functions very easy to reason about. Effiency. 
