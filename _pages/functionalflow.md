@@ -22,9 +22,9 @@ In that post-cyberpunk iteration of a possible future, computer technology has a
 </p>
 
 
-We are still way far from that kind of individual advanced tech in 2018, though we are slowly becoming the cyborg with supercomputer in our pocket. With the sheer amount of information available in the world today, we have become overwhelmed. Our mind is in a constant racing state.
+We are still way far from that kind of individual advanced tech in 2018, though we are slowly becoming the cyborg with a supercomputer in our pocket. With the sheer amount of information available in the world today, we have become overwhelmed. Our mind is in a constant racing state.
 
-Inspired by Ghost in the Shell, I believe the future of human thinking is to decentralize ourselves to a network like "GHOSTS in the Shell". I think we should try to turn our brain into composable and functional brains by starting to view everything as a function, and iterate it like a machine. 
+Inspired by Ghost in the Shell, I believe the future of human thinking is to decentralize ourselves to a network like "GHOSTS in the Shell". I think we should try to turn our brain into composable and functional brains by starting to view everything as a function and iterate it like a machine. 
 
 We need to elevate our mind in this digital age. Not only as human, but also as human + machine.
 
@@ -33,7 +33,7 @@ We need to elevate our mind in this digital age. Not only as human, but also as 
 
 ## Why Do Functions Matter?
 
-- Functions are a great abstraction. Looking at the input and output values gives you the complete information about the data flow. This makes functions very easy to reason about. Effiency. 
+- Functions are a great abstraction. Looking at the input and output values gives you the complete information about the data flow. This makes functions very easy to reason about. Efficiency. 
 
 - With the absence of side effects, you also have no unintended side effects, which plague all thoughts which modifies state.
 
@@ -93,7 +93,7 @@ We need to see things purely.
 > The clarity level between input and output.
 
 
-Back to 15th century, Leonardo da Vinci simply watched, noted, and contextualized things as he saw fit. It wasn’t like he was intentionally studying science one day and art another. To him, they were one and the same thing. They danced together, and it wasn’t possible to understand one without the other.
+Back to the 15th century, Leonardo da Vinci simply watched, noted, and contextualized things as he saw fit. It wasn’t like he was intentionally studying science one day and art another. To him, they were one and the same thing. They danced together, and it wasn’t possible to understand one without the other.
 
 
 #### Being Efficient
@@ -103,14 +103,14 @@ Back to 15th century, Leonardo da Vinci simply watched, noted, and contextualize
 > 
 > The ratio between input and output.
 
-In the book < The systems approach, Dell Publishing Co., Inc., New York, 1968 >, we can view an organization as a organic sysyem, instead of blindly following the traditional lines of division the management scientist turns to basic "missions" or "jobs" or "activities". 
+In the book < The systems approach, Dell Publishing Co., Inc., New York, 1968 >, we can view an organization as an organic system, instead of blindly following the traditional lines of a division the management scientist turns to basic "missions" or "jobs" or "activities". 
 
 All these three terms are used to describe the same kind of thing, namely, the rational breakdown of the tasks the system must perform. This is a mission-oriented view of the components of a system that is completely different from the traditional view. 
 
 #### Clear(Efficient)= Machine X
 
 
-Clear efficiency is looking around one's functional flow to discover if, and in that case - where? when? Why?, inefficiency occur. These inefficiency can be for example idle idea(output), idle information(input) or idle functions. A good functional flow owner should then do his/her/their best to eliminate these inefficiency. All of this in order to reduce the total cost of operations of the functional flow system.
+Clear efficiency is looking around one's functional flow to discover if, and in that case - where? When? Why?, inefficiency occurs. These inefficiency can be for example idle idea(output), idle information(input) or idle functions. A good functional flow owner should then do his/her/their best to eliminate these inefficiency. All of this in order to reduce the total cost of operations of the functional flow system.
 
 
 <p align="center">
@@ -125,11 +125,11 @@ This approach leads toward automation of the operations. If we know the optimal 
 
 Some humanists might be horrified by this, fearing the result will be degradation of one' human dignity and neglect of deeper human values.
 
-I will explan why "flow" and "compostion" will easily ease those concerns later. 
+I will explain why "flow" and "composition" will easily ease those concerns later. 
 
 Just like the way Leonardo da Vinci see how the world works: They are dancing together.
 
-## Second: A Composiable Flow in the Shell
+## Second: A Composable Flow in the Shell
 
 
 We need to see things purely, as function compostion.
@@ -145,13 +145,13 @@ We need to see things purely, as function compostion.
 </p>
 
 
-#### Machine (Composiable Flow) = Functional Flow
+#### Machine (Composable Flow) = Functional Flow
 
 > Winning is always a function of the situation and the people involved.
 
 Although the word "function" has been defined in many ways, everyone will agree that a function can be a set of functions coordinated to output a set of value. 
 
-Flow state isn’t like appearance or success that other people get to rate. It’s more like happiness or curiosity, like creativity.
+The flow state isn’t like appearance or success that other people get to rate. It’s more like happiness or curiosity, like creativity.
 
 Functional Flow is the mind state where you can view almost everything as a function. You can take another person's functions (thinking models, paths...) as the input of your function (also could be the input of other people's function). If you want to, after composing, you can also take that as your input again.
 
@@ -159,7 +159,7 @@ In some way, you can say it's like composing people’s thinking models(includin
 
 That's why Functional Flow is all about composing and iterating like GHOSTS in the shell. 
 
-Ghosts as a whole, in the powerfull machine.
+Ghosts as a whole, in the powerful machine.
 
 
 # Implement Functional Flow
@@ -182,7 +182,7 @@ Creating the right environment so you can focus, including people. Mastery comes
 
 ### Right Energy
 
-Usually, you do not have a time problem. You have an energy problem.  The best performer use energy to get the highest ROI on their work.
+Usually, you do not have a time problem. You have an energy problem.  The best performer uses energy to get the highest ROI on their work.
 
 Diet and nutrition will be instrumental to your energy/success.  One tiny slip up could cost you the result if your opponent is 100 percent clean in terms of nutrition.”
 
@@ -243,5 +243,7 @@ If you want to check the flow real-time(Warning: maybe too many notifications fo
 All the contributions (Github/Slack) will be merged here: [Brains](https://allenleein.github.io/brains/).
 
 For supporting Free Information, you can also check [How to Bypass Paywall](https://github.com/allenleein/brains/issues/343)
+
+
 
 
