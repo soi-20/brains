@@ -2,14 +2,11 @@
   <img width="200" height="200" src="https://gallery.mailchimp.com/8941835cfa515f7b94f4130c2/images/0214363d-c3ca-4062-8ac1-e780e56e8624.jpg" alt="Sublime's custom image"/>
 </p>
 
-# Functional Flow (Ghosts in the Shell)
+# Functional Flow 
 
 This is an experimental project. I'm trying to turn my brain into an Open-source brains with collective intelligence.
 
-
-# Intro: Brains, Machines and Functional Flow
-
-## (Still in process)
+#### (Still in process)
 
 Ghost in the Shell (Japanese: 攻殻機動隊 Hepburn: Kōkaku Kidōtai, "Mobile Armored Riot Police") is a 1989 Japanese media franchise originally published as a seinen manga series of the same name written and illustrated by Masamune Shirow. 
 
