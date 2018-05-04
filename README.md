@@ -10,14 +10,15 @@ This is an experimental project. I'm trying to turn my brain into an Open-source
 ## Table of Contents (Still in process)
 
 
-> 1. [Define Functional Flow](https://github.com/allenleein/brains#define-functional-flow)
+> [Define Functional Flow](https://github.com/allenleein/brains#define-functional-flow)
 
->    [Second: A Composiable Flow in the Shell](https://github.com/allenleein/brains#second-a-composiable-flow-in-the-shell)
-     [First: A Clear and Efficient Machine](https://github.com/allenleein/brains#first-a-clear-and-efficient-machine)
+> [First: A Clear and Efficient Machine](https://github.com/allenleein/brains#first-a-clear-and-efficient-machine)
 
-> 2. [Implement Functional Flow](https://github.com/allenleein/brains#implement-functional-flow)
+> [Second: A Composiable Flow in the Shell](https://github.com/allenleein/brains#second-a-composiable-flow-in-the-shell)
 
-> 3. [Components of a Functional Flow System (Allen Lee's Brains) - Input, Process, Output](https://github.com/allenleein/brains#example-components-of-a-functional-flow-system-allen-lees-brains---input-process-output)
+> [Implement Functional Flow](https://github.com/allenleein/brains#implement-functional-flow)
+
+> [Components of a Functional Flow System (Allen Lee's Brains) - Input, Process, Output](https://github.com/allenleein/brains#example-components-of-a-functional-flow-system-allen-lees-brains---input-process-output)
 
 Ghost in the Shell (Japanese: 攻殻機動隊 Hepburn: Kōkaku Kidōtai, "Mobile Armored Riot Police") is a 1989 Japanese media franchise originally published as a seinen manga series of the same name written and illustrated by Masamune Shirow. 
 
