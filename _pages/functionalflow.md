@@ -150,7 +150,9 @@ Flow, also known colloquially as being in the zone, is the mental state of opera
 
 In short, flow is characterized by complete absorption in what one does, and a resulting loss in one's sense of space and time.
 
-![doc5](https://user-images.githubusercontent.com/3938314/39424984-cca5c04a-4cab-11e8-8dc9-03b09723269d.jpg)
+<p align="center">
+  <img width="400" height="400" src="https://user-images.githubusercontent.com/3938314/39424984-cca5c04a-4cab-11e8-8dc9-03b09723269d.jpg" alt="Sublime's custom image"/>
+</p>
 
 
 The “flow experience” is defined by psychology professor Mihály Csíkszentmihályi by six factors:
