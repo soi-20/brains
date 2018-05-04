@@ -146,13 +146,76 @@ Flow isn’t like appearance or success that other people get to rate. It’s mo
   <img width="300" height="200" src="https://cdn-images-1.medium.com/max/1600/1*QE2SKjl-p2nCtAxovykiaA.png" alt="Sublime's custom image"/>
 </p>
 
+Flow, also known colloquially as being in the zone, is the mental state of operation in which a person performing an activity is fully immersed in a feeling of energized focus, full involvement, and enjoyment in the process of the activity.
+
+In short, flow is characterized by complete absorption in what one does, and a resulting loss in one's sense of space and time.
+
+![doc5](https://user-images.githubusercontent.com/3938314/39424984-cca5c04a-4cab-11e8-8dc9-03b09723269d.jpg)
+
+
+The “flow experience” is defined by psychology professor Mihály Csíkszentmihályi by six factors:
+
+    1. Intense and focused concentration on the present moment
+    2. Merging of action and awareness
+    3. A loss of reflective self-consciousness
+    4. A sense of personal control over the situation or activity
+    5. A distortion of temporal experience, one’s subjective experience of time is altered
+    6. Experience of the activity as intrinsically rewarding, also referred to as autotelic experience 
+
+-[Wikipedia](https://en.wikipedia.org/wiki/Flow_(psychology))
+
 Functional flow is the mind state where you can think almost everything as a function.
 
 ## Iterate Your Machine
 
+### Environment
+
+Creating the right environment so you can focus, including people. Mastery comes from a combination of the following:
+
+1. Right energy
+2. Flow state
+3. Detected, recovered-from failures
+4. Right knowledge
+5. Always working slightly beyond your comfort zone
+
+### Right Energy
+
+Usually, you do not have a time problem. You have an energy problem.  The best performer use energy to get the highest ROI on their work.
+
+Diet and nutrition will be instrumental to your energy/success.  One tiny slip up could cost you the result if your opponent is 100 percent clean in terms of nutrition.”
+
+#### How to get into Flow state (In process)
+
+### Right Knowledge: Knowing that no dogma contains all answers
+
+By and large, every dogma asserts itself as the one with all the answers. Yet, if we look through the lens of history, we see that they each have their successes and their failures. Much of the time, the reason that most of the people who support a particular dogma do so is that of pure chance. Most of them were either born into it or it was the predominant influence around them, which eventually extended itself into their own lives. 
+
+This isn’t necessarily to say that you can’t buy into a belief system that’s supported by a larger framework that many others also see as true. It’s just about thinking with caution. Every culture or ideology has something to teach, but no single one has it all figured out.
+
+The challenge here I think facing the business world is that the human mind has not become any better than it was 1000 years ago, and it's very hard for someone using traditional methods to juggle all the information of the global economy in their head. You can also find that mostly revolutions in one field happen when someone from another field arrives with fresh ideas that developed elsewhere.
+
+### Beyond your comfort zone:  Get some and being open-minded
+
+What makes somebody fail as a SEAL leader, 99.9% of the time it doesn't have anything to do with their physical skills or their mental toughness, What it has to do with is the fact that the person's not humble enough to accept responsibility when things go wrong, accept that there might be better ways to do things, and they just have a closed mind. They can't change. --- Former Navy Seal Commander
+
+The 10,000-experiment rule means constantly looking for opportunities to collect data rather than just doing what you need to do. It means adding a deliberate reflection process based on reviewing data before the day ends.
+
+Like Sam Altman said:
+
+[You can be wrong on a lot of decisions if you are really right on a few huge ones.  Optimize for the magnitude of your good decisions, not the percentage of the time you are right.](https://twitter.com/sama/status/975913922891988992)
+
+So, you should:
+
+  1. Observing without predefined distinctions 
+
+  2. Questioning the mundane and the obvious 
+
+  3. Experimenting like it’s always a work in progress
+
+
 ---
 
-## Components of a Functional Flow System - Input, Process, Output
+# Example: Components of a Functional Flow System (Allen Lee's Brains) - Input, Process, Output
 
 <p align="center">
   <img width="300" height="300" src="https://c1.staticflickr.com/5/4714/38482593600_2c74600966.jpg" alt="Sublime's custom image"/>
