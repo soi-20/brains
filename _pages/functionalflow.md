@@ -196,7 +196,7 @@ This isn’t necessarily to say that you can’t buy into a belief system that�
 
 The challenge here I think facing the business world is that the human mind has not become any better than it was 1000 years ago, and it's very hard for someone using traditional methods to juggle all the information of the global economy in their head. You can also find that mostly revolutions in one field happen when someone from another field arrives with fresh ideas that developed elsewhere.
 
-### Beyond your comfort zone:  Get some and being open-minded
+### Beyond your comfort zone: Get some and be open-minded
 
 What makes somebody fail as a SEAL leader, 99.9% of the time it doesn't have anything to do with their physical skills or their mental toughness, What it has to do with is the fact that the person's not humble enough to accept responsibility when things go wrong, accept that there might be better ways to do things, and they just have a closed mind. They can't change. --- Former Navy Seal Commander
 
