@@ -6,9 +6,9 @@
 
 This is an experimental project. I'm trying to turn my brain into an Open-source brains with collective intelligence.
 
-#### (Still in process)
 
-## Table of Contents
+## Table of Contents (Still in process)
+
 
 > 1. [Define Functional Flow](https://github.com/allenleein/brains#define-functional-flow)
 
