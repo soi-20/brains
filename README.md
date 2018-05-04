@@ -135,7 +135,7 @@ I will explain why "flow" and "composition" will easily ease those concerns late
 
 Just like the way Leonardo da Vinci see how the world works: They are dancing together.
 
-## Second: A Composiable Flow in the Shell
+## Second: A Composable Flow in the Shell
 
 
 We need to see things purely, as function compostion.
