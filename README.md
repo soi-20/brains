@@ -11,19 +11,10 @@ This is an experimental project. I'm trying to turn my brain into an Open-source
 ## Table of Contents
 
 > * Define Functional Flow
-First: A Clear and Efficient Machine
-Being Clear
-Being Efficient
-Clear(Efficient)= Machine X
 
 > * Second: A Composiable Flow in the Shell
-Machine (Composiable Flow) = Functional Flow
 
 > * Implement Functional Flow
-Why Do Functions Matter?
-Why Do Flow Matter?
-Iterate Your Machine
-Environment
 
 > * Components of a Functional Flow System (Allen Lee's Brains) - Input, Process, Output
 
