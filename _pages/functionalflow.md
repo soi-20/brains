@@ -31,6 +31,48 @@ We need to elevate our mind in this digital age. Not only as human, but also as 
 
 # Define Functional Flow
 
+## Why Do Functions Matter?
+
+- Functions are a great abstraction. Looking at the input and output values gives you the complete information about the data flow. This makes functions very easy to reason about. Effiency. 
+
+- With the absence of side effects, you also have no unintended side effects, which plague all thoughts which modifies state.
+
+- Functions are easily testable, they do not depend on an environment but just the function parameters.
+
+- For the same input a function necessarily always returns the same result, this also makes reasoning about a mind behavior easier.
+
+- As a consequence that they only depend on their inputs, functions usually are very composeable.
+
+## Why Do Flow Matter? 
+
+Flow isn’t like appearance or success that other people get to rate. It’s more like happiness or curiosity, like creativity.
+
+<p align="center">
+  <img width="300" height="200" src="https://cdn-images-1.medium.com/max/1600/1*QE2SKjl-p2nCtAxovykiaA.png" alt="Sublime's custom image"/>
+</p>
+
+Flow, also known colloquially as being in the zone, is the mental state of operation in which a person performing an activity is fully immersed in a feeling of energized focus, full involvement, and enjoyment in the process of the activity.
+
+In short, flow is characterized by complete absorption in what one does, and a resulting loss in one's sense of space and time.
+
+<p align="center">
+  <img width="400" height="400" src="https://user-images.githubusercontent.com/3938314/39424984-cca5c04a-4cab-11e8-8dc9-03b09723269d.jpg" alt="Sublime's custom image"/>
+</p>
+
+
+The “flow experience” is defined by psychology professor Mihály Csíkszentmihályi by six factors:
+
+    1. Intense and focused concentration on the present moment
+    2. Merging of action and awareness
+    3. A loss of reflective self-consciousness
+    4. A sense of personal control over the situation or activity
+    5. A distortion of temporal experience, one’s subjective experience of time is altered
+    6. Experience of the activity as intrinsically rewarding, also referred to as autotelic experience 
+
+-[Wikipedia](https://en.wikipedia.org/wiki/Flow_(psychology))
+
+Functional flow is the mind state where you can think almost everything as a function.
+
 In Functional Flow theory, building a functional flow system is all about two stages: 
 
 * Clearity and efficiency 
@@ -126,48 +168,6 @@ Ghosts as a whole, in the powerfull machine.
   <img width="400" height="400" src="https://c1.staticflickr.com/1/869/26331029007_861b04b8c5.jpg" alt="Sublime's custom image"/>
 </p>
 
-## Why Do Functions Matter?
-
-- Functions are a great abstraction. Looking at the input and output values gives you the complete information about the data flow. This makes functions very easy to reason about. Effiency. 
-
-- With the absence of side effects, you also have no unintended side effects, which plague all thoughts which modifies state.
-
-- Functions are easily testable, they do not depend on an environment but just the function parameters.
-
-- For the same input a function necessarily always returns the same result, this also makes reasoning about a mind behavior easier.
-
-- As a consequence that they only depend on their inputs, functions usually are very composeable.
-
-## Why Do Flow Matter? 
-
-Flow isn’t like appearance or success that other people get to rate. It’s more like happiness or curiosity, like creativity.
-
-<p align="center">
-  <img width="300" height="200" src="https://cdn-images-1.medium.com/max/1600/1*QE2SKjl-p2nCtAxovykiaA.png" alt="Sublime's custom image"/>
-</p>
-
-Flow, also known colloquially as being in the zone, is the mental state of operation in which a person performing an activity is fully immersed in a feeling of energized focus, full involvement, and enjoyment in the process of the activity.
-
-In short, flow is characterized by complete absorption in what one does, and a resulting loss in one's sense of space and time.
-
-<p align="center">
-  <img width="400" height="400" src="https://user-images.githubusercontent.com/3938314/39424984-cca5c04a-4cab-11e8-8dc9-03b09723269d.jpg" alt="Sublime's custom image"/>
-</p>
-
-
-The “flow experience” is defined by psychology professor Mihály Csíkszentmihályi by six factors:
-
-    1. Intense and focused concentration on the present moment
-    2. Merging of action and awareness
-    3. A loss of reflective self-consciousness
-    4. A sense of personal control over the situation or activity
-    5. A distortion of temporal experience, one’s subjective experience of time is altered
-    6. Experience of the activity as intrinsically rewarding, also referred to as autotelic experience 
-
--[Wikipedia](https://en.wikipedia.org/wiki/Flow_(psychology))
-
-Functional flow is the mind state where you can think almost everything as a function.
-
 ## Iterate Your Machine
 
 ### Environment
@@ -175,7 +175,7 @@ Functional flow is the mind state where you can think almost everything as a fun
 Creating the right environment so you can focus, including people. Mastery comes from a combination of the following:
 
 1. Right energy
-2. Flow state
+2. Staying in Flow state and being functional
 3. Detected, recovered-from failures
 4. Right knowledge
 5. Always working slightly beyond your comfort zone
@@ -186,7 +186,7 @@ Usually, you do not have a time problem. You have an energy problem.  The best p
 
 Diet and nutrition will be instrumental to your energy/success.  One tiny slip up could cost you the result if your opponent is 100 percent clean in terms of nutrition.”
 
-#### How to get into Flow state (In process)
+### Staying in Flow state and being functional (In process)
 
 ### Right Knowledge: Knowing that no dogma contains all answers
 
@@ -196,7 +196,7 @@ This isn’t necessarily to say that you can’t buy into a belief system that�
 
 The challenge here I think facing the business world is that the human mind has not become any better than it was 1000 years ago, and it's very hard for someone using traditional methods to juggle all the information of the global economy in their head. You can also find that mostly revolutions in one field happen when someone from another field arrives with fresh ideas that developed elsewhere.
 
-### Beyond your comfort zone: Get some and be open-minded
+### Beyond your comfort zone:  Get some and be open-minded
 
 What makes somebody fail as a SEAL leader, 99.9% of the time it doesn't have anything to do with their physical skills or their mental toughness, What it has to do with is the fact that the person's not humble enough to accept responsibility when things go wrong, accept that there might be better ways to do things, and they just have a closed mind. They can't change. --- Former Navy Seal Commander
 
@@ -213,7 +213,6 @@ So, you should:
   2. Questioning the mundane and the obvious 
 
   3. Experimenting like it’s always a work in progress
-
 
 ---
 
@@ -244,8 +243,5 @@ If you want to check the flow real-time(Warning: maybe too many notifications fo
 All the contributions (Github/Slack) will be merged here: [Brains](https://allenleein.github.io/brains/).
 
 For supporting Free Information, you can also check [How to Bypass Paywall](https://github.com/allenleein/brains/issues/343)
-
-
-
 
 
