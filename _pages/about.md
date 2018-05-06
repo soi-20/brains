@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <p align="center">
-  <img width="300" height="200" src="https://c1.staticflickr.com/1/945/26884770187_240f14ecd0_b.jpg" alt="Sublime's custom image"/>
+  <img width="300" height="300" src="https://i.imgur.com/oo4j0r7.jpg" alt="Sublime's custom image"/>
 </p>
 
 Hi, Allen here. I'm building portable side-brain under Gargantua.
