@@ -8,7 +8,7 @@ permalink: /about/
   <img width="300" height="300" src="https://i.imgur.com/oo4j0r7.jpg" alt="Sublime's custom image"/>
 </p>
 
-Hi, Allen here. I'm building portable side-brain under Gargantua.
+Hi, Allen here. I'm building a portable side-brain under Gargantua.
 
 
 ----
