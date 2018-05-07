@@ -2,7 +2,7 @@
 layout: post
 title: "Talking MIT Media Lab with Kevin"
 description: ""
-date: 2018-04-24
+date: 2018-05-03
 tags: 
 comments: true
 ---
