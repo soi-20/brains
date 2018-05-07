@@ -4,7 +4,7 @@
 
 # Functional Flow 
 
-This is an experimental project. I'm trying to turn my brain into an Open-source brains with collective intelligence.
+I'm trying to turn my brain into an functional Open-source brains with collective intelligence.
 
 
 ## Table of Contents (Still in process)
@@ -210,9 +210,9 @@ What makes somebody fail as a SEAL leader, 99.9% of the time it doesn't have any
 
 The 10,000-experiment rule means constantly looking for opportunities to collect data rather than just doing what you need to do. It means adding a deliberate reflection process based on reviewing data before the day ends.
 
-Like Sam Altman said:
+Like Sam Altman [said](https://twitter.com/sama/status/975913922891988992):
 
-[You can be wrong on a lot of decisions if you are really right on a few huge ones.  Optimize for the magnitude of your good decisions, not the percentage of the time you are right.](https://twitter.com/sama/status/975913922891988992)
+> You can be wrong on a lot of decisions if you are really right on a few huge ones.  Optimize for the magnitude of your good decisions, not the percentage of the time you are right.
 
 So, you should:
 
