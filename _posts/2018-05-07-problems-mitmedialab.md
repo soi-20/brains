@@ -8,7 +8,7 @@ comments: true
 ---
 
 
-A conversation with [@kevinphys](https://github.com/kevinphys) on Brains [Quora: How true is the perception that the MIT Media Lab "tries to appear cool without actually solving problems"? ](https://www.quora.com/How-true-is-the-perception-that-the-MIT-Media-Lab-tries-to-appear-cool-without-actually-solving-problems/answers/62296046?share=bcbd0d08&srid=nD7Z)
+A conversation with [@kevinphys](https://github.com/kevinphys) on Brains. [Quora: How true is the perception that the MIT Media Lab "tries to appear cool without actually solving problems"? ](https://www.quora.com/How-true-is-the-perception-that-the-MIT-Media-Lab-tries-to-appear-cool-without-actually-solving-problems/answers/62296046?share=bcbd0d08&srid=nD7Z)
 
 > (A=Allen, K=Kevin)
 
