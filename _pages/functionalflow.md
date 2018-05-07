@@ -5,10 +5,14 @@ permalink: /functionalflow/
 ---
 
 <p align="center">
-  <img width="100" height="100" src="https://gallery.mailchimp.com/8941835cfa515f7b94f4130c2/images/0214363d-c3ca-4062-8ac1-e780e56e8624.jpg" alt="Sublime's custom image"/>
+  <img width="200" height="200" src="https://i.imgur.com/xm8i7k5.png" alt="Sublime's custom image"/>
 </p>
 
+
 # Ghosts in the Shell: Brains, Machines and Functional Flow
+
+I'm trying to turn my brain into an functional Open-source brains with collective intelligence.
+
 
 ### (Still in process)
 
@@ -202,9 +206,9 @@ What makes somebody fail as a SEAL leader, 99.9% of the time it doesn't have any
 
 The 10,000-experiment rule means constantly looking for opportunities to collect data rather than just doing what you need to do. It means adding a deliberate reflection process based on reviewing data before the day ends.
 
-Like Sam Altman said:
+Like Sam Altman [said](https://twitter.com/sama/status/975913922891988992):
 
-[You can be wrong on a lot of decisions if you are really right on a few huge ones.  Optimize for the magnitude of your good decisions, not the percentage of the time you are right.](https://twitter.com/sama/status/975913922891988992)
+> You can be wrong on a lot of decisions if you are really right on a few huge ones.  Optimize for the magnitude of your good decisions, not the percentage of the time you are right.
 
 So, you should:
 
@@ -243,7 +247,5 @@ If you want to check the flow real-time(Warning: maybe too many notifications fo
 All the contributions (Github/Slack) will be merged here: [Brains](https://allenleein.github.io/brains/).
 
 For supporting Free Information, you can also check [How to Bypass Paywall](https://github.com/allenleein/brains/issues/343)
-
-
 
 
