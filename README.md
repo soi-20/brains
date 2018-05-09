@@ -196,7 +196,12 @@ Creating the right environment so you can focus, including people. Mastery comes
 
 Usually, you do not have a time problem. You have an energy problem.  The best performer uses energy to get the highest ROI on their work.
 
-Diet and nutrition will be instrumental to your energy/success.  One tiny slip up could cost you the result if your opponent is 100 percent clean in terms of nutrition.”
+
+<p align="center">
+  <img width="500" height="300" src="https://i.imgur.com/yfROVvJ.jpg" alt="Sublime's custom image"/>
+</p>
+
+Diet and nutrition will be instrumental to your energy/success.  One tiny slip up could cost you the result of imbalance.
 
 ### Staying in Flow state and being functional (In process)
 
