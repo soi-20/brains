@@ -15,11 +15,15 @@ permalink: /functionalflow/
 
 Ghost in the Shell (Japanese: 攻殻機動隊 シェルのゴースト) is a 1989 Japanese media franchise originally published as a seinen manga series of the same name written and illustrated by Masamune Shirow. 
 
+<p align="center">
+  <img width="500" height="300" src="https://i.imgur.com/Yf9fTYj.jpg" alt="Sublime's custom image"/>
+</p>
+
 In that post-cyberpunk iteration of a possible future, computer technology has advanced to the point that many members of the public possess cyberbrains, technology that allows them to interface their biological brain with various networks. The level of cyberization varies from simple minimal interfaces to almost complete replacement of the brain with cybernetic parts, in cases of severe trauma. This can also be combined with various levels of prostheses, with a fully prosthetic body enabling a person to become a cyborg. (Wiki)
 
 
 <p align="center">
-  <img width="400" height="300" src="http://i.imgur.com/U4wIoj7.gif" alt="Sublime's custom image"/>
+  <img width="500" height="300" src="https://i.imgur.com/Jf1Fhy8.jpg" alt="Sublime's custom image"/>
 </p>
 
 
@@ -28,6 +32,10 @@ We are still way far from that kind of individual advanced tech in 2018, though 
 Inspired by Ghost in the Shell, I believe the future of human thinking is to decentralize ourselves to a network like "GHOSTS in the Shell". I think we should try to turn our brain into composable and functional brains by starting to view everything as a function and iterate it like a machine. 
 
 We need to elevate our mind in this digital age. Not only as human, but also as human + machine.
+
+<p align="center">
+  <img width="400" height="400" src="https://c1.staticflickr.com/1/869/26331029007_861b04b8c5.jpg" alt="Sublime's custom image"/>
+</p>
 
 
 # Define Functional Flow
@@ -165,10 +173,6 @@ Ghosts as a whole, in the powerful machine.
 
 # Implement Functional Flow
 
-<p align="center">
-  <img width="400" height="400" src="https://c1.staticflickr.com/1/869/26331029007_861b04b8c5.jpg" alt="Sublime's custom image"/>
-</p>
-
 ## Iterate Your Machine
 
 ### Environment
@@ -185,7 +189,12 @@ Creating the right environment so you can focus, including people. Mastery comes
 
 Usually, you do not have a time problem. You have an energy problem.  The best performer uses energy to get the highest ROI on their work.
 
-Diet and nutrition will be instrumental to your energy/success.  One tiny slip up could cost you the result if your opponent is 100 percent clean in terms of nutrition.”
+
+<p align="center">
+  <img width="500" height="300" src="https://i.imgur.com/yfROVvJ.jpg" alt="Sublime's custom image"/>
+</p>
+
+Diet and nutrition will be instrumental to your energy/success.  One tiny slip up could cost you the result of imbalance.
 
 ### Staying in Flow state and being functional (In process)
 
@@ -244,5 +253,8 @@ If you want to check the flow real-time(Warning: maybe too many notifications fo
 All the contributions (Github/Slack) will be merged here: [Brains](https://allenleein.github.io/brains/).
 
 For supporting Free Information, you can also check [How to Bypass Paywall](https://github.com/allenleein/brains/issues/343)
+
+
+
 
 
