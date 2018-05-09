@@ -40,6 +40,10 @@ Inspired by Ghost in the Shell, I believe the future of human thinking is to dec
 
 We need to elevate our mind in this digital age. Not only as human, but also as human + machine.
 
+<p align="center">
+  <img width="400" height="400" src="https://c1.staticflickr.com/1/869/26331029007_861b04b8c5.jpg" alt="Sublime's custom image"/>
+</p>
+
 
 # Define Functional Flow
 
@@ -175,10 +179,6 @@ Ghosts as a whole, in the powerful machine.
 
 
 # Implement Functional Flow
-
-<p align="center">
-  <img width="400" height="400" src="https://c1.staticflickr.com/1/869/26331029007_861b04b8c5.jpg" alt="Sublime's custom image"/>
-</p>
 
 ## Iterate Your Machine
 
