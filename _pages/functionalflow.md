@@ -191,7 +191,7 @@ Usually, you do not have a time problem. You have an energy problem.  The best p
 
 
 <p align="center">
-  <img width="500" height="300" src="https://i.imgur.com/yfROVvJ.jpg" alt="Sublime's custom image"/>
+  <img width="500" height="400" src="https://i.imgur.com/yfROVvJ.jpg" alt="Sublime's custom image"/>
 </p>
 
 Diet and nutrition will be instrumental to your energy/success.  One tiny slip up could cost you the result of imbalance.
