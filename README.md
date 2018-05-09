@@ -20,7 +20,7 @@ I'm trying to turn my brain into an functional Open-source brains with collectiv
 
 > [Components of a Functional Flow System (Allen Lee's Brains) - Input, Process, Output](https://github.com/allenleein/brains#example-components-of-a-functional-flow-system-allen-lees-brains---input-process-output)
 
-Ghost in the Shell (Japanese: 攻殻機動隊 Hepburn: Kōkaku Kidōtai, "Mobile Armored Riot Police") is a 1989 Japanese media franchise originally published as a seinen manga series of the same name written and illustrated by Masamune Shirow. 
+Ghost in the Shell (Japanese: 攻殻機動隊 シェルのゴースト) is a 1989 Japanese media franchise originally published as a seinen manga series of the same name written and illustrated by Masamune Shirow. 
 
 In that post-cyberpunk iteration of a possible future, computer technology has advanced to the point that many members of the public possess cyberbrains, technology that allows them to interface their biological brain with various networks. The level of cyberization varies from simple minimal interfaces to almost complete replacement of the brain with cybernetic parts, in cases of severe trauma. This can also be combined with various levels of prostheses, with a fully prosthetic body enabling a person to become a cyborg. (Wiki)
 
