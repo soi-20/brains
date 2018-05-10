@@ -7,7 +7,7 @@
 I'm trying to turn my brain into an functional Open-source brains with collective intelligence.
 
 
-## Table of Contents (Still in process)
+## Table of Contents ([Essay still in process](https://github.com/allenleein/brains/blob/master/_pages/functionalflow.md))
 
 
 > [Define Functional Flow](https://github.com/allenleein/brains#define-functional-flow)
