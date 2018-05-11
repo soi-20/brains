@@ -249,9 +249,9 @@ So, you should:
 
 ### All thoughts are welcome to contribute to:
 
-* Information layer1: [Issues](https://github.com/allenleein/brains/issues) (Closed/Open Issues) 
+* Information layer1: [Issues](https://github.com/allenleein/brains/issues) (You can reopen closed issues) 
 
-* Information layer2: [⚡️Output-observables](https://github.com/allenleein/brains/labels/%E2%9A%A1%EF%B8%8FOutput-observables) and [⚡️Input-observables ](https://github.com/allenleein/brains/labels/%E2%9A%A1%EF%B8%8FInput-observables). 
+* Information layer2(*Recommended*): [⚡️Output-observables](https://github.com/allenleein/brains/labels/%E2%9A%A1%EF%B8%8FOutput-observables) and [⚡️Input-observables ](https://github.com/allenleein/brains/labels/%E2%9A%A1%EF%B8%8FInput-observables). 
 
 * Information layer3: [Brains](https://github.com/allenleein/brains/tree/master/_posts)
 
