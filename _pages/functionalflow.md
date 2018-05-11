@@ -226,11 +226,9 @@ So, you should:
 
 ---
 
-# Example: Components of a Functional Flow System (Allen Lee's Brains) - Input, Process, Output
+# Example: 
 
-<p align="center">
-  <img width="300" height="300" src="https://c1.staticflickr.com/5/4714/38482593600_2c74600966.jpg" alt="Sublime's custom image"/>
-</p>
+# Components of a Functional Flow System (Allen Lee's Brains) - Input, Process, Output
 
 
 * Input - the information/functions/brain entered into a flow system. Please check [Brains Issues](https://github.com/allenleein/brains/issues), [Liked Tweets](https://twitter.com/i/likes), [Hacker News Upvoted/Fav](https://news.ycombinator.com/user?id=allenleein). Source: [My Input Sources of Media](https://github.com/allenleein/brains/issues/882)
@@ -248,9 +246,9 @@ So, you should:
 
 * Information layer3: [Brains](https://github.com/allenleein/brains/tree/master/_posts)
 
-If you want to check the flow real-time(Warning: maybe too many notifications for normal people), you can Snap(add: allenleein) me your email.
+If you want to check the flow real-time(Warning: maybe too many notifications for normal people), you can Snap(add: allenleein) me.
 
-All the contributions (Github/Slack) will be merged here: [Brains](https://allenleein.github.io/brains/).
+All the contributions (Github/Slack) will be merged on Brains.
 
 For supporting Free Information, you can also check [How to Bypass Paywall](https://github.com/allenleein/brains/issues/343)
 
