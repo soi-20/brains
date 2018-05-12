@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "短想工業社會與文明 #1818"
+title: "速想工業社會與文明 #1818"
 description: ""
 date: 2018-05-08
 tags: 
