@@ -7,7 +7,7 @@ tags:
 comments: true
 ---
 
-# (Full Version: [Here](https://allenleein.github.io/brains/functionalflow/))
+# (Full Version: [Here](https://functionalflow.github.io/brains/functionalflow/))
 
 ## Why do functions matter?
 
