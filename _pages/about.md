@@ -10,6 +10,7 @@ permalink: /about/
 
 Hi, Allen here. I'm building a portable side-brain under Gargantua.
 
+You can reach me via Snap: allenleein
 
 ----
 
@@ -22,7 +23,7 @@ Hi, Allen here. I'm building a portable side-brain under Gargantua.
   <img width="200" height="200" src="https://i.imgur.com/4bY53O8.jpg" alt="Sublime's custom image"/>
 </p>
 
-* A Venture was top 3 Venture Capital & Machine Learning Publisher on Medium. It was merged into Functions Fund in late 2017.
+* A Venture was top 1 VC publisher on Medium. It was merged into Functions Fund in late 2017.
 
 ----
 
