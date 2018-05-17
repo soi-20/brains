@@ -175,6 +175,9 @@ That's why Functional Flow is all about composing and iterating like GHOSTS in t
 
 Ghosts as a whole, in the powerful machine.
 
+<p align="center">
+  <img width="400" height="400" src="https://i.imgur.com/zQvC5DP.jpg" alt="Sublime's custom image"/>
+</p>
 
 # Implement Functional Flow
 
