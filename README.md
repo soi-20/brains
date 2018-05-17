@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img width="400" height="400" src="https://c1.staticflickr.com/1/869/26331029007_861b04b8c5.jpg" alt="Sublime's custom image"/>
+  <img width="200" height="200" src="https://i.imgur.com/xm8i7k5.png" alt="Sublime's custom image"/>
 </p>
 
 
@@ -259,8 +260,5 @@ If you want to check the flow real-time(Warning: maybe too many notifications fo
 All the contributions (Github/Slack) will be merged on [Brains](https://functionalflow.github.io/brains/).
 
 For supporting Free Information, you can also check [How to Bypass Paywall](https://github.com/functionalflow/brains/issues/343)
-
-
-* Cover Photo: DeepArt by [Mehrdad Hosseinzadeh](https://twitter.com/hzmehrdad/status/937817149212708865)
 
 
