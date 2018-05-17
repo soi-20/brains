@@ -80,12 +80,12 @@ In short, flow is characterized by complete absorption in what one does, and a r
 
 The “flow experience” is defined by psychology professor Mihály Csíkszentmihályi by six factors:
 
-    1. Intense and focused concentration on the present moment
-    2. Merging of action and awareness
-    3. A loss of reflective self-consciousness
-    4. A sense of personal control over the situation or activity
-    5. A distortion of temporal experience, one’s subjective experience of time is altered
-    6. Experience of the activity as intrinsically rewarding, also referred to as autotelic experience 
+   1. Intense and focused concentration on the present moment
+   2. Merging of action and awareness
+   3. A loss of reflective self-consciousness
+   4. A sense of personal control over the situation or activity
+   5. A distortion of temporal experience, one’s subjective experience of time is altered
+   6. Experience of the activity as intrinsically rewarding, also referred to as autotelic experience 
 
 -[Wikipedia](https://en.wikipedia.org/wiki/Flow_(psychology))
 
