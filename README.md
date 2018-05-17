@@ -8,18 +8,18 @@
 I'm trying to turn my brain into an functional Open-source brains with collective intelligence.
 
 
-## Table of Contents ([Essay still in process](https://github.com/allenleein/brains/blob/master/_pages/functionalflow.md))
+## Table of Contents ([Essay still in process](https://github.com/functionalflow/brains/blob/master/_pages/functionalflow.md))
 
 
-> [Define Functional Flow](https://github.com/allenleein/brains#define-functional-flow)
+> [Define Functional Flow](https://github.com/functionalflow/brains#define-functional-flow)
 
-> [First: A Clear and Efficient Machine](https://github.com/allenleein/brains#first-a-clear-and-efficient-machine)
+> [First: A Clear and Efficient Machine](https://github.com/functionalflow/brains#first-a-clear-and-efficient-machine)
 
-> [Second: A Composiable Flow in the Shell](https://github.com/allenleein/brains#second-a-composiable-flow-in-the-shell)
+> [Second: A Composiable Flow in the Shell](https://github.com/functionalflow/brains#second-a-composiable-flow-in-the-shell)
 
-> [Implement Functional Flow](https://github.com/allenleein/brains#implement-functional-flow)
+> [Implement Functional Flow](https://github.com/functionalflow/brains#implement-functional-flow)
 
-> [Components of a Functional Flow System (Allen Lee's Brains) - Input, Process, Output](https://github.com/allenleein/brains#example-components-of-a-functional-flow-system-allen-lees-brains---input-process-output)
+> [Components of a Functional Flow System (Allen Lee's Brains) - Input, Process, Output](https://github.com/functionalflow/brains#example-components-of-a-functional-flow-system-allen-lees-brains---input-process-output)
 
 Ghost in the Shell (Japanese: 攻殻機動隊 シェルのゴースト) is a 1989 Japanese media franchise originally published as a seinen manga series of the same name written and illustrated by Masamune Shirow. 
 
@@ -252,17 +252,17 @@ So, you should:
 
 * Information layer1: Issues(You can reopen closed issues) 
 
-* Information layer2(*Recommended*): [⚡️Output-observables](https://github.com/allenleein/brains/labels/%E2%9A%A1%EF%B8%8FOutput-observables) and [⚡️Input-observables ](https://github.com/allenleein/brains/labels/%E2%9A%A1%EF%B8%8FInput-observables). 
+* Information layer2(*Recommended*): [⚡️Output-observables](https://github.com/functionalflow/brains/labels/%E2%9A%A1%EF%B8%8FOutput-observables) and [⚡️Input-observables ](https://github.com/functionalflow/brains/labels/%E2%9A%A1%EF%B8%8FInput-observables). 
 
-* Information layer3: [Brains](https://github.com/allenleein/brains/tree/master/_posts)
+* Information layer3: [Brains](https://github.com/functionalflow/brains/tree/master/_posts)
 
 If you want to check the flow real-time(Warning: maybe too many notifications for normal people), you can Snap(add: allenleein) me.
 
-All the contributions (Github/Slack) will be merged on [Brains](https://allenleein.github.io/brains/).
+All the contributions (Github/Slack) will be merged on [Brains](https://functionalflow.github.io/brains/).
 
-For supporting Free Information, you can also check [How to Bypass Paywall](https://github.com/allenleein/brains/issues/343)
+For supporting Free Information, you can also check [How to Bypass Paywall](https://github.com/functionalflow/brains/issues/343)
 
 
-
+* Cover Photo: DeepArt by [Mehrdad Hosseinzadeh](https://twitter.com/hzmehrdad/status/937817149212708865)
 
 
