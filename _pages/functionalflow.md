@@ -9,7 +9,9 @@ permalink: /functionalflow/
 </p>
 
 
-# Ghosts in the Shell: Brains, Machines and Functional Flow
+# Ghosts in the Shell: 
+
+## Brains, Machines and Functional Flow
 
 ### ([Essay still in process](https://github.com/allenleein/brains/blob/master/_pages/functionalflow.md))
 
@@ -27,15 +29,13 @@ In that post-cyberpunk iteration of a possible future, computer technology has a
 </p>
 
 
-We are still way far from that kind of individual advanced tech in 2018, though we are slowly becoming the cyborg with a supercomputer in our pocket. With the sheer amount of information available in the world today, we have become overwhelmed. Our mind is in a constant racing state.
+We are still way far from that kind of individual advanced tech in 2018, though we are slowly becoming the cyborg with a supercomputer in our pocket. With the sheer amount of information available in the world today, we have become overwhelmed. 
+
+Our mind is in a constant racing state.
 
 Inspired by Ghost in the Shell, I believe the future of human thinking is to decentralize ourselves to a network like "GHOSTS in the Shell". I think we should try to turn our brain into composable and functional brains by starting to view everything as a function and iterate it like a machine. 
 
 We need to elevate our mind in this digital age. Not only as human, but also as human + machine.
-
-<p align="center">
-  <img width="400" height="400" src="https://c1.staticflickr.com/1/869/26331029007_861b04b8c5.jpg" alt="Sublime's custom image"/>
-</p>
 
 
 # Define Functional Flow
@@ -146,8 +146,6 @@ We need to see things purely, as function compostion.
 > The most basic definition of Functional Flow is:
 > 
 > The ratio of function composition between input and output.
-> 
-> 
 
 <p align="center">
   <img width="400" height="300" src="http://moziru.com/images/machine-clipart-function-machine-8.png" alt="Sublime's custom image"/>
@@ -206,7 +204,7 @@ This isn’t necessarily to say that you can’t buy into a belief system that�
 
 The challenge here I think facing the business world is that the human mind has not become any better than it was 1000 years ago, and it's very hard for someone using traditional methods to juggle all the information of the global economy in their head. You can also find that mostly revolutions in one field happen when someone from another field arrives with fresh ideas that developed elsewhere.
 
-### Beyond your comfort zone:  Get some and be open-minded
+### Beyond your comfort zone:  Go get some and be open-minded
 
 What makes somebody fail as a SEAL leader, 99.9% of the time it doesn't have anything to do with their physical skills or their mental toughness, What it has to do with is the fact that the person's not humble enough to accept responsibility when things go wrong, accept that there might be better ways to do things, and they just have a closed mind. They can't change. --- Former Navy Seal Commander
 
@@ -226,37 +224,35 @@ So, you should:
 
 ---
 
-# Example: 
+# Example: Allen Lee's Brains
 
-# Components of a Functional Flow System (Allen Lee's Brains) - Input, Process, Output
+# Components of a Functional Flow System - Input, Process, Output
 
 <p align="center">
   <img width="300" height="300" src="https://c1.staticflickr.com/5/4714/38482593600_2c74600966.jpg" alt="Sublime's custom image"/>
 </p>
 
 
-* Input - the information/functions/brain entered into a flow system. Please check Issues, [Liked Tweets](https://twitter.com/i/likes), [Hacker News Upvoted/Fav](https://news.ycombinator.com/user?id=allenleein). Source: [My Input Sources of Media](https://github.com/allenleein/brains/issues/882)
+* Input - the information/functions/brain entered into a flow system. Please check Issues, [Liked Tweets](https://twitter.com/i/likes), [Hacker News Upvoted/Fav](https://news.ycombinator.com/user?id=allenleein). Source: [My Input Sources of Media](https://github.com/functionalflow/brains/issues/882)
 
-* Processing - the process of transforming input information/functions/brain into and output. Please check [⚡️Input-observables](https://github.com/allenleein/brains/labels/%E2%9A%A1%EF%B8%8FInput-observables) and [⚡️Output-observables](https://github.com/allenleein/brains/labels/%E2%9A%A1%EF%B8%8FOutput-observables).
+* Processing - the process of transforming input information/functions/brain into and output. Please check [⚡️Input-observables](https://github.com/functionalflow/brains/labels/%E2%9A%A1%EF%B8%8FInput-observables) and [⚡️Output-observables](https://github.com/functionalflow/brains/labels/%E2%9A%A1%EF%B8%8FOutput-observables).
 
-* Output - [Brains](https://allenleein.github.io/brains/).
+* Output - [Brains](https://functionalflow.github.io/brains/).
 
 
 ### All thoughts are welcome to contribute to:
 
 * Information layer1: Issues(You can reopen closed issues) 
 
-* Information layer2(*Recommended*): [⚡️Output-observables](https://github.com/allenleein/brains/labels/%E2%9A%A1%EF%B8%8FOutput-observables) and [⚡️Input-observables ](https://github.com/allenleein/brains/labels/%E2%9A%A1%EF%B8%8FInput-observables). 
+* Information layer2(*Recommended*): [⚡️Output-observables](https://github.com/functionalflow/brains/labels/%E2%9A%A1%EF%B8%8FOutput-observables) and [⚡️Input-observables ](https://github.com/functionalflow/brains/labels/%E2%9A%A1%EF%B8%8FInput-observables). 
 
-* Information layer3: [Brains](https://github.com/allenleein/brains/tree/master/_posts)
+* Information layer3: [Brains](https://github.com/functionalflow/brains/tree/master/_posts)
 
-If you want to check the flow real-time(Warning: maybe too many notifications for normal people), you can Snap(add: allenleein) me.
+If you want to check the flow real-time(Warning: maybe too many notifications for normal people), you can Snap(add: allenleein) me your email.
 
-All the contributions (Github/Slack) will be merged on [Brains](https://allenleein.github.io/brains/).
+All the contributions (Github/Slack) will be merged on [Brains](https://functionalflow.github.io/brains/).
 
-For supporting Free Information, you can also check [How to Bypass Paywall](https://github.com/allenleein/brains/issues/343)
-
-
+For supporting Free Information, you can also check [How to Bypass Paywall](https://github.com/functionalflow/brains/issues/343)
 
 
 
