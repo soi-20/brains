@@ -13,7 +13,7 @@ permalink: /functionalflow/
 
 ## Brains, Machines and Functional Flow
 
-### ([Essay still in process 30%](https://github.com/functionalflow/brains/blob/master/_pages/functionalflow.md))
+### ([Essay still in process 30%](https://github.com/functionalflow/brains/projects/11))
 
 Ghost in the Shell (Japanese: 攻殻機動隊 シェルのゴースト) is a 1989 Japanese media franchise originally published as a seinen manga series of the same name written and illustrated by Masamune Shirow. 
 
