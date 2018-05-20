@@ -255,6 +255,8 @@ So, you should:
 
 ### All thoughts are welcome to contribute to:
 
+First, fork **functionalflow/brains**, so you can send a pull request.
+
 * Information layer1: Issues(You can reopen closed issues) 
 
 * Information layer2(*Recommended*): [⚡️Output-observables](https://github.com/functionalflow/brains/labels/%E2%9A%A1%EF%B8%8FOutput-observables) and [⚡️Input-observables ](https://github.com/functionalflow/brains/labels/%E2%9A%A1%EF%B8%8FInput-observables). 
