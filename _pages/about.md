@@ -10,7 +10,7 @@ permalink: /about/
 
 Hi, Allen here. I'm building a portable side-brain under Gargantua.
 
-You can reach me via Snap: allenleein
+You can reach me via Snap: [allenleein](https://www.snapchat.com/add/allenleein)
 
 ----
 
