@@ -13,17 +13,17 @@ comments: true
 
 [How to biohack your intelligence — with everything from sex to modafinil to MDMA](https://hackernoon.com/biohack-your-intelligence-now-or-become-obsolete-97cdd15e395f)
 
-[Brains, Machines and Functional Flow](https://github.com/functionalflow/brains)
-
-[The Art of Focus](https://functionalflow.github.io/brains/2018/02/the-art-of-focus)
-
-
 # Fitness
 
 [Lift Weights, Eat More Protein, Especially If You’re Over 40 ](https://news.ycombinator.com/item?id=16325443)
 
 [Calculate your Relative Strength](https://strengthlevel.com/)
 
+# Mental Experiment
+
+[Brains, Machines and Functional Flow](https://github.com/functionalflow/brains)
+
+[The Art of Focus](https://functionalflow.github.io/brains/2018/02/the-art-of-focus)
 
 # Mental Bias
 
