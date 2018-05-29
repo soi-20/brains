@@ -62,6 +62,8 @@ Functional flow is the mind state where you can think almost everything as a fun
 
 - As a consequence that they only depend on their inputs, functions usually are very composeable.
 
+## What are your functions? (In process)
+
 ## Why Do Flow Matter? 
 
 Flow isn’t like appearance or success that other people get to rate. It’s more like happiness or curiosity, like creativity.
@@ -184,7 +186,8 @@ Ghosts as a whole, in the powerful machine.
 
 # Implement Functional Flow
 
-## Iterate Your Machine
+## Iterate Your Machine (In process)
+
 
 ### Environment
 
@@ -207,7 +210,7 @@ Usually, you do not have a time problem. You have an energy problem.  The best p
 
 Diet and nutrition will be instrumental to your energy/success.  One tiny slip up could cost you the result of imbalance.
 
-### Staying in Flow state and being functional (In process)
+### Staying in Flow state and being functional
 
 ### Right Knowledge: Knowing that no dogma contains all answers
 
@@ -234,6 +237,10 @@ So, you should:
   2. Questioning the mundane and the obvious 
 
   3. Experimenting like it’s always a work in progress
+
+
+## Iterate Your Functions (In process)
+
 
 ---
 
