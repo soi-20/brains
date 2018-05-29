@@ -15,6 +15,7 @@ permalink: /functionalflow/
 
 ### ([Essay still in process 30%](https://github.com/functionalflow/brains/projects/11))
 
+
 Ghost in the Shell (Japanese: 攻殻機動隊 シェルのゴースト) is a 1989 Japanese media franchise originally published as a seinen manga series of the same name written and illustrated by Masamune Shirow. 
 
 <p align="center">
@@ -53,6 +54,8 @@ Functional flow is the mind state where you can think almost everything as a fun
 - For the same input a function necessarily always returns the same result, this also makes reasoning about a mind behavior easier.
 
 - As a consequence that they only depend on their inputs, functions usually are very composeable.
+
+## What are your functions? (In process)
 
 ## Why Do Flow Matter? 
 
@@ -176,7 +179,8 @@ Ghosts as a whole, in the powerful machine.
 
 # Implement Functional Flow
 
-## Iterate Your Machine
+## Iterate Your Machine (In process)
+
 
 ### Environment
 
@@ -199,7 +203,7 @@ Usually, you do not have a time problem. You have an energy problem.  The best p
 
 Diet and nutrition will be instrumental to your energy/success.  One tiny slip up could cost you the result of imbalance.
 
-### Staying in Flow state and being functional (In process)
+### Staying in Flow state and being functional
 
 ### Right Knowledge: Knowing that no dogma contains all answers
 
@@ -226,6 +230,10 @@ So, you should:
   2. Questioning the mundane and the obvious 
 
   3. Experimenting like it’s always a work in progress
+
+
+## Iterate Your Functions (In process)
+
 
 ---
 
@@ -256,8 +264,4 @@ First, fork **functionalflow/brains**, so you can send a pull request.
 * Information layer3(**Recommended**): [functionalflow/brains ⚡️Output](https://github.com/functionalflow/brains/tree/master/_posts)
 
 All the contributions (Github/Slack) will be merged on [Brains](https://functionalflow.github.io/brains/).
-
-
-
-
 
