@@ -10,7 +10,7 @@
 I'm trying to turn my brain into an functional open-source brains with collective intelligence.
 
 
-## Table of Contents ([Essay still in process 30%](https://github.com/functionalflow/brains/projects/11))
+## Table of Contents ([Essay still in process](https://github.com/functionalflow/brains/projects/11))
 
 
 > [Define Functional Flow](https://github.com/functionalflow/brains#define-functional-flow)
