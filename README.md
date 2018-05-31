@@ -50,8 +50,15 @@ We need to elevate our mind in this digital age. Not only as human, but also as 
 
 Functional flow is the mind state where you can think almost everything as a function.
 
-It is all about [ Clear ] + [ Composable ].
+It is all about being [Clear] + [Composable].
 
+ ```
+ Efficient (Functions)= Machine X
+ 
+ Machine (Composable Flow) = Functional Flow
+ 
+ ```
+ 
 # Find Your Own Functions 
 
 ## First: Be Clear
