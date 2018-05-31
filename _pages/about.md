@@ -43,13 +43,11 @@ You can reach me via Snap: [allenleein](https://www.snapchat.com/add/allenleein)
 
 ## Archi Lab (Trance Music Remixing) - 2011
 
-<p align="center">
-  <img width="300" height="200" src="https://i.imgur.com/yn31zwv.jpg" alt="Sublime's custom image"/>
-</p>
 
-<p align="center">
-  <img width="300" height="400" src="https://i.imgur.com/NmsSw3Y.jpg" alt="Sublime's custom image"/>
-</p>
+![alt text](https://i.imgur.com/yn31zwv.jpg "Logo Title Text 1")
+
+![alt text](https://i.imgur.com/NmsSw3Y.jpg "Logo Title Text 1")
+
 
 
 
