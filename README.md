@@ -50,6 +50,8 @@ We need to elevate our mind in this digital age. Not only as human, but also as 
 
 Functional flow is the mind state where you can think almost everything as a function.
 
+It is all about **[ Clear ] + [ Composable ] **.
+
 # Find Your Own Functions 
 
 ## First: Be Clear
@@ -236,7 +238,7 @@ Creating the right environment so you can focus, including people. Mastery comes
 4. Right knowledge
 5. Always working slightly beyond your comfort zone
 
-### Right Energy
+### Right Energy (In process)
 
 Usually, you do not have a time problem. You have an energy problem.  The best performer uses energy to get the highest ROI on their work.
 
@@ -247,7 +249,7 @@ Usually, you do not have a time problem. You have an energy problem.  The best p
 
 Diet and nutrition will be instrumental to your energy/success.  One tiny slip up could cost you the result of imbalance.
 
-### Staying in Flow state and being functional
+### Staying in Flow state and being functional  (In process)
 
 ### Right Knowledge: Knowing that no dogma contains all answers
 
