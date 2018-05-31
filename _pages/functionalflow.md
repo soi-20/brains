@@ -6,7 +6,7 @@ permalink: /functionalflow/
 
 
 <p align="center">
-  <img width="200" height="200" src="https://i.imgur.com/xm8i7k5.png" alt="Sublime's custom image"/>
+  <img width="250" height="250" src="https://i.imgur.com/xm8i7k5.png" alt="Sublime's custom image"/>
 </p>
 
 
@@ -28,17 +28,13 @@ Inspired by Ghost in the Shell, I believe the future of human thinking is to dec
 We need to elevate our mind in this digital age. Not only as human, but also as human + machine.
 
 
-## Table of Contents ([Essay still in process](https://github.com/functionalflow/brains/projects/11))
+## Table of Contents 
 
+> [Define Functional Flow](https://github.com/functionalflow/brains/blob/master/README.md#define-functional-flow)
 
-> [Define Functional Flow](https://github.com/functionalflow/brains#define-functional-flow)
+> [Implement Functional Flow](https://github.com/functionalflow/brains/blob/master/README.md#implement-functional-flow)
 
-> [First: A Clear and Efficient Machine](https://github.com/functionalflow/brains#first-a-clear-and-efficient-machine)
+> [Components of a Functional Flow System - Input, Process, Output](https://github.com/functionalflow/brains/blob/master/README.md#components-of-a-functional-flow-system---input-process-output)
 
-> [Second: A Composiable Flow in the Shell](https://github.com/functionalflow/brains#second-a-composiable-flow-in-the-shell)
-
-> [Implement Functional Flow](https://github.com/functionalflow/brains#implement-functional-flow)
-
-> [Components of a Functional Flow System (Allen Lee's Brains) - Input, Process, Output](https://github.com/functionalflow/brains#components-of-a-functional-flow-system-allen-lees-brains---input-process-output)
-
+([Essay still in process](https://github.com/functionalflow/brains/projects/11))
 
