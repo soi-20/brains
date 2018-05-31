@@ -50,6 +50,37 @@ We need to elevate our mind in this digital age. Not only as human, but also as 
 
 Functional flow is the mind state where you can think almost everything as a function.
 
+# Find Your Own Functions 
+
+## First: Be Clear
+
+
+> Micro problems: Death? Poor or Rich? Social status? Happiness? What's the meaning of life? 
+
+How do you see yourself？ Are those solving your own micro problems? You need to be crystal clear on what you want to be and what kind of life you wanna live. What do you want to learn? Why?
+
+> Macro problems: Environment, Econ...other human beings, animal, humanity...
+
+How you view the world and why? What kind of impact do you want to create? What are the goals you wanna reach?
+
+
+
+## Second: Be Composable
+
+### Why should we compose functions?
+
+> Micro: Efficiency, Survive better. Understand the world better. Avoid bias.
+
+> Macro: Empathy, Elevate civilization of human beings. Survive better, together. Build better environment.
+
+You need to be clear on how to achieve the goals above. Then you will figure out what’s ur input and output. 
+
+In order to create Functional Flow in your mind, you should functionize your knowledge and how you see the world.
+
+In order to stay in functional, you should be willing to contribute those knowledge and wisdom. in short, no selfishness.
+
+Now you can reach the goal faster by composing other functions. 
+
 ## Why Do Functions Matter?
 
 - Functions are a great abstraction. Looking at the input and output values gives you the complete information about the data flow. This makes functions very easy to reason about. Efficiency. 
@@ -62,7 +93,13 @@ Functional flow is the mind state where you can think almost everything as a fun
 
 - As a consequence that they only depend on their inputs, functions usually are very composeable.
 
-## What are your functions? (In process)
+
+### Functions you input = Elements for your micro/macro goals (In process)
+
+
+### Functions you output= Impact for your macro/micro world (In process)
+
+# Find Your Own Flow (In process)
 
 ## Why Do Flow Matter? 
 
