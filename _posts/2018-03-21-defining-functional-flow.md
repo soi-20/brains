@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Functional Flow and the Functional Machines"
+title: "The Functional Machines"
 description: ""
 date: 2018-03-21
 tags: 
