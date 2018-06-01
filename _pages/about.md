@@ -4,10 +4,6 @@ title:
 permalink: /about/
 ---
 
-<p align="center">
-  <img width="300" height="400" src="https://i.imgur.com/LN253mE.jpg" alt="Sublime's custom image"/>
-</p>
-
 Hi, Allen here. I'm building a portable side-brain under Gargantua.
 
 You can reach me via Snap: [allenleein](https://www.snapchat.com/add/allenleein)
