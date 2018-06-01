@@ -1,11 +1,4 @@
----
-layout: post
-title: "Implement Functional Flow"
-description: ""
-date: 2018-04-24
-tags: 
-comments: true
----
+
 
 # (Full Version: [Here](https://functionalflow.github.io/brains/functionalflow/))
 
