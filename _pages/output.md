@@ -1,6 +1,6 @@
 ---
 layout: content
-title: 
+title: Output of Allen's Brains
 permalink: /output/
 ---
 
