@@ -4,10 +4,9 @@ title: Output of Allen's Brains
 permalink: /output/
 ---
 
-## Brains
+## Functional
 
 [Ghosts in the Shell: Brains, Machines and Functional Flow](https://functionalflow.github.io/brains/functionalflow/)
-
 
 ## Micro
 
@@ -25,7 +24,6 @@ permalink: /output/
 
 [過濾的本質](https://functionalflow.github.io/brains/2018/02/essence)
 
-
 ## Macro
 
 [Too Big to Fake](https://functionalflow.github.io/brains/2017/09/too-big-too-fake)
@@ -33,7 +31,6 @@ permalink: /output/
 [Broken Journalism](https://functionalflow.github.io/brains/2018/04/brokenjournalism)
 
 [Silicon Valley: The Wall Street Without Bubble](https://functionalflow.github.io/brains/2016/04/bubble)
-
 
 ## Review
 
