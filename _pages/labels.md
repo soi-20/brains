@@ -40,11 +40,5 @@ permalink: /labels/
 [Dunkirk: The legend ends, the unknown knight rises](https://functionalflow.github.io/brains/2017/08/dunkirk)
 
 
-## Input process 
-
-Click to Github.
-
- [<img src="https://i.imgur.com/2VXrzDI.png">](https://github.com/functionalflow/brains/labels)
-
 
 
