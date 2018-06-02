@@ -299,7 +299,7 @@ So, you should:
 
 * Processing - the process of transforming input information/functions/brain into and output. Please check [⚡️Input-observables](https://github.com/functionalflow/brains/labels/%E2%9A%A1%EF%B8%8FInput-observables) and [⚡️Output-observables](https://github.com/functionalflow/brains/labels/%E2%9A%A1%EF%B8%8FOutput-observables).
 
-* Output - [Brains](https://functionalflow.github.io/brains/).
+* Output - [Brains](https://functionalflow.github.io/brains/output/).
 
 
 ### All thoughts are welcome to contribute to:
@@ -312,6 +312,6 @@ First, fork **functionalflow/brains**, so you can send a pull request.
 
 * Information layer3(**Recommended**): [functionalflow/brains ⚡️Output](https://github.com/functionalflow/brains/tree/master/_posts)
 
-All the contributions (Github/Slack) will be merged on [Brains](https://functionalflow.github.io/brains/).
+All the contributions (Github/Slack) will be merged on [Brains](https://functionalflow.github.io/brains/output/).
 
 
