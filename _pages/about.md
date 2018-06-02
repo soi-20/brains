@@ -18,7 +18,7 @@ You can reach me via Snap: [allenleein](https://www.snapchat.com/add/allenleein)
   <img width="200" height="200" src="https://i.imgur.com/4bY53O8.jpg" alt="Sublime's custom image"/>
 </p>
 
-* A Venture is top 1 VC and Biotech publisher on Medium. It was merged into Functions Fund in late 2017.
+* A Venture is top 1 VC and Biotech publisher on Medium. It was merged into [Functions Fund](https://medium.com/functionsfund) in late 2017.
 
 <p align="center">
   <img width="200" height="200" src="https://i.imgur.com/s9PpQKe.png" alt="Sublime's custom image"/>
