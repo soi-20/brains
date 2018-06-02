@@ -35,16 +35,6 @@ You can reach me via Snap: [allenleein](https://www.snapchat.com/add/allenleein)
 
 ![alt text](https://i.imgur.com/pNz5FOm.jpg "Logo Title Text 1")
 
-----
-
-## Archi Lab (Trance Music Remixing) - 2011
-
-
-![alt text](https://i.imgur.com/yn31zwv.jpg "Logo Title Text 1")
-
-![alt text](https://i.imgur.com/NmsSw3Y.jpg "Logo Title Text 1")
-
-
 
 
 
