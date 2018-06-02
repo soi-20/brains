@@ -30,7 +30,7 @@ You can reach me via Snap: [allenleein](https://www.snapchat.com/add/allenleein)
   <img width="200" height="200" src="https://i.imgur.com/xm8i7k5.png" alt="Sublime's custom image"/>
 </p>
 
-I'm trying to turn my brain into an functional open-source brains with collective intelligence.
+* I'm trying to turn my brain into an functional open-source brains with collective intelligence.
 
 ----
 
