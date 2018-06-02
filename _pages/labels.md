@@ -4,13 +4,6 @@ title: Labels
 permalink: /labels/
 ---
 
-<p align="center">
-  [<img src="https://i.imgur.com/aGSIRhp.png">](https://github.com/functionalflow/brains/labels)
-</p>
-
-
-
-
 ## Brains
 
 [Ghosts in the Shell: Brains, Machines and Functional Flow](https://functionalflow.github.io/brains/functionalflow/)
@@ -45,6 +38,13 @@ permalink: /labels/
 ## Review
 
 [Dunkirk: The legend ends, the unknown knight rises](https://functionalflow.github.io/brains/2017/08/dunkirk)
+
+
+## Input process 
+
+Click to Github.
+
+ [<img src="https://i.imgur.com/aGSIRhp.png">](https://github.com/functionalflow/brains/labels)
 
 
 
