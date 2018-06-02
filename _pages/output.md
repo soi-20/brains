@@ -1,6 +1,6 @@
 ---
 layout: content
-title: Output of Brains
+title: 
 permalink: /output/
 ---
 
