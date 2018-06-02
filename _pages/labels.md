@@ -4,6 +4,10 @@ title: Labels
 permalink: /labels/
 ---
 
+
+[<img src="https://i.imgur.com/aGSIRhp.png">](https://github.com/functionalflow/brains/labels)
+
+
 ## Brains
 
 [Ghosts in the Shell: Brains, Machines and Functional Flow](https://functionalflow.github.io/brains/functionalflow/)
