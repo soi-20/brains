@@ -44,7 +44,7 @@ permalink: /labels/
 
 Click to Github.
 
- [<img src="https://i.imgur.com/aGSIRhp.png">](https://github.com/functionalflow/brains/labels)
+ [<img src="https://i.imgur.com/2VXrzDI.png">](https://github.com/functionalflow/brains/labels)
 
 
 
