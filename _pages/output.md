@@ -1,7 +1,7 @@
 ---
 layout: content
-title: Labels
-permalink: /labels/
+title: Output of Brains
+permalink: /output/
 ---
 
 ## Brains
