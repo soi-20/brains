@@ -7,7 +7,7 @@
 # Ghosts in the Shell:
 # Brains, Machines and Functional Flow
 
-I'm trying to turn my brain into an functional open-source brains with collective intelligence.
+I'm trying to turn my brain into a functional open-source brains with collective intelligence.
 
 
 ## Table of Contents ([Essay still in process](https://github.com/functionalflow/brains/projects/11))
