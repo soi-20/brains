@@ -4,8 +4,11 @@ title: Labels
 permalink: /labels/
 ---
 
+<p align="center">
+  [<img src="https://i.imgur.com/aGSIRhp.png">](https://github.com/functionalflow/brains/labels)
+</p>
 
-[<img src="https://i.imgur.com/aGSIRhp.png">](https://github.com/functionalflow/brains/labels)
+
 
 
 ## Brains
