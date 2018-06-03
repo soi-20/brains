@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Strategy to Master the odds"
+title: "Strategy to Master the Odds"
 description: ""
 date: 2018-04-12
 tags: 
