@@ -13,7 +13,7 @@ permalink: /strategy/
 ## Chp1. The Big Shift: From Centralized to Decentralized World
 
 
-## Chp2. [Master the odds: Market and Competition](https://allenleein.github.io/brains/2018/04/strategy-to-master-theodds)
+## Chp2. [Master the odds: Market and Competition](https://functionalflow.github.io/brains/2018/04/strategy-to-master-theodds)
 
 
 ## Chp3. Right Midset of Execution 
