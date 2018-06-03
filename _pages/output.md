@@ -10,7 +10,7 @@ permalink: /output/
 
 ## Micro
 
-[Strategy to Master the odds](https://functionalflow.github.io/brains/2018/04/strategy-to-master-theodds)
+[Strategy to Master the Odds](https://functionalflow.github.io/brains/2018/04/strategy-to-master-theodds)
 
 [Spotify's Dilemma](https://functionalflow.github.io/brains/2018/03/spotifys-dilemma)
 
