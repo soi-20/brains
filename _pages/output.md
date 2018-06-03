@@ -4,11 +4,11 @@ title: ⚡️Output
 permalink: /output/
 ---
 
-## Functional
+# Functional
 
 [Ghosts in the Shell: Brains, Machines and Functional Flow](https://functionalflow.github.io/brains/functionalflow/)
 
-## Micro
+# Micro
 
 [Strategy to Master the Odds](https://functionalflow.github.io/brains/2018/04/strategy-to-master-theodds)
 
@@ -24,7 +24,7 @@ permalink: /output/
 
 [過濾的本質](https://functionalflow.github.io/brains/2018/02/essence)
 
-## Macro
+# Macro
 
 [Too Big to Fake](https://functionalflow.github.io/brains/2017/09/too-big-too-fake)
 
@@ -32,7 +32,7 @@ permalink: /output/
 
 [Silicon Valley: The Wall Street Without Bubble](https://functionalflow.github.io/brains/2016/04/bubble)
 
-## Review
+# Review
 
 [Dunkirk: The legend ends, the unknown knight rises](https://functionalflow.github.io/brains/2017/08/dunkirk)
 
