@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "# My Medium Bookmarks From 2012-2014"
+title: "My Medium Bookmarks From 2012-2014"
 description: ""
 date: 2018-06-05
 tags: 
