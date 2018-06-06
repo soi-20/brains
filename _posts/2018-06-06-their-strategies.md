@@ -15,7 +15,7 @@ That's why FB launch [Tinder-like platform](https://www.recode.net/2018/5/6/1732
 
 ### Facebook Loop
 
-> Facebook (Connect) > Whatsapp (Communication) > Instagram (Sharing/Visual Connection) > Connecting More People > More Ad-Clicking Behavor > Money > Loop
+> Facebook (Connect) > Whatsapp (Communication) > Instagram (Sharing/Visual Connection) > Connecting More People > More Ad-Clicking Behavior > Money > Loop
 
 
 <p align="center">
