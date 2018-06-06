@@ -31,7 +31,7 @@ Amazon is a retail platform company focused on getting you to buy more stuff ove
 
 
 <p align="center">
-  <img width="600" height="400" src="https://i.imgur.com/IpU3dOF.png" alt="Sublime's custom image"/>
+  <img width="700" height="400" src="https://i.imgur.com/IpU3dOF.png" alt="Sublime's custom image"/>
 </p>
 
 
