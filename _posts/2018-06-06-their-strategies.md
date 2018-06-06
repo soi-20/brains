@@ -19,7 +19,7 @@ That's why FB launch [Tinder-like platform](https://www.recode.net/2018/5/6/1732
 
 
 <p align="center">
-  <img width="800" height="400" src="https://i.imgur.com/0QJF3oK.png" alt="Sublime's custom image"/>
+  <img width="800" height="500" src="https://i.imgur.com/0QJF3oK.png" alt="Sublime's custom image"/>
 </p>
 
 
