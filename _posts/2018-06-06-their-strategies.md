@@ -19,7 +19,7 @@ That's why FB launch [Tinder-like platform](https://www.recode.net/2018/5/6/1732
 
 
 <p align="center">
-  <img width="500" height="300" src="https://i.imgur.com/0QJF3oK.png" alt="Sublime's custom image"/>
+  <img width="600" height="400" src="https://i.imgur.com/0QJF3oK.png" alt="Sublime's custom image"/>
 </p>
 
 
@@ -31,7 +31,7 @@ Amazon is a retail platform company focused on getting you to buy more stuff ove
 
 
 <p align="center">
-  <img width="600" height="200" src="https://i.imgur.com/IpU3dOF.png" alt="Sublime's custom image"/>
+  <img width="600" height="300" src="https://i.imgur.com/IpU3dOF.png" alt="Sublime's custom image"/>
 </p>
 
 
@@ -43,6 +43,6 @@ Apple is a design company focused on selling tools capable of fostering superior
 
 
 <p align="center">
-  <img width="500" height="300" src="https://i.imgur.com/oDUghVT.png" alt="Sublime's custom image"/>
+  <img width="600" height="400" src="https://i.imgur.com/oDUghVT.png" alt="Sublime's custom image"/>
 </p>
 
