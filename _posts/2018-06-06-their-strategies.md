@@ -43,6 +43,6 @@ Apple is a design company focused on selling tools capable of fostering superior
 
 
 <p align="center">
-  <img width="700" height="400" src="https://i.imgur.com/oDUghVT.png" alt="Sublime's custom image"/>
+  <img width="800" height="500" src="https://i.imgur.com/H1uxeIN.png" alt="Sublime's custom image"/>
 </p>
 
