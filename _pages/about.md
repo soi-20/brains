@@ -8,9 +8,9 @@ Hi, Allen here. You can reach me via Snap: [allenleein](https://www.snapchat.com
 
 ----
 
-# Projects
+## Projects
 
-## A Venture Publication - From 2013
+### A Venture Publication - From 2013
 --- 
 <p align="center">
   <img width="200" height="200" src="https://i.imgur.com/4bY53O8.jpg" alt="Sublime's custom image"/>
@@ -19,7 +19,7 @@ Hi, Allen here. You can reach me via Snap: [allenleein](https://www.snapchat.com
 * A Venture is top 1 VC and Biotech publisher on Medium. It was merged into [Functions Fund](https://medium.com/functionsfund) in late 2017.
 
 
-## Ghosts in the Shell: Functional Flow - From 2018
+### Ghosts in the Shell: Functional Flow - From 2018
 
 ---
 
@@ -31,7 +31,7 @@ Hi, Allen here. You can reach me via Snap: [allenleein](https://www.snapchat.com
 
 ----
 
-## Project X - 2013
+### Project X - 2013
 
 ---
 <p align="center">
