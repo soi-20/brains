@@ -12,7 +12,7 @@ permalink: /output/
 
 [Strategy to Master the Odds](https://functionalflow.github.io/brains/2018/04/strategy-to-master-theodds)
 
-[Spotify's Dilemma](https://functionalflow.github.io/brains/2018/03/spotifys-dilemma)
+[Product, Founder](https://functionalflow.github.io/brains/2018/06/startup-lessions)
 
 [Contrarian](https://functionalflow.github.io/brains/2018/05/contrarian)
 
@@ -31,6 +31,9 @@ permalink: /output/
 [Broken Journalism](https://functionalflow.github.io/brains/2018/04/brokenjournalism)
 
 [Silicon Valley: The Wall Street Without Bubble](https://functionalflow.github.io/brains/2016/04/bubble)
+
+[Spotify's Dilemma](https://functionalflow.github.io/brains/2018/03/spotifys-dilemma)
+
 
 # Review
 
