@@ -14,6 +14,8 @@ permalink: /output/
 
 [Product, Founder](https://functionalflow.github.io/brains/2018/06/startup-lessions)
 
+[Validate Your Idea](https://functionalflow.github.io/brains/2018/06/validate-idea)
+
 [Contrarian](https://functionalflow.github.io/brains/2018/05/contrarian)
 
 [All People are Born Artists](https://functionalflow.github.io/brains/2018/03/artist)
