@@ -6,7 +6,7 @@ permalink: /functionalflow/
 
 
 <p align="center">
-  <img width="250" height="250" src="https://i.imgur.com/xm8i7k5.png" alt="Sublime's custom image"/>
+  <img width="300" height="300" src="http://lambdageneration.com/wp-content/uploads/2014/10/original-animated.gif" alt="Sublime's custom image"/>
 </p>
 
 
