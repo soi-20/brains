@@ -19,7 +19,7 @@ Hi, Allen here. You can reach me via Snap: [allenleein](https://www.snapchat.com
 * A Venture is top 1 VC and Biotech publisher on Medium. It was merged into [Functions Fund](https://medium.com/functionsfund) in late 2017.
 
 
-### Ghosts in the Shell: Functional Flow - From 2018
+### Gargantua - From 2018
 
 ---
 
