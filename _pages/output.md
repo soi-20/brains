@@ -36,6 +36,8 @@ permalink: /output/
 
 [Spotify's Dilemma](https://functionalflow.github.io/brains/2018/03/spotifys-dilemma)
 
+[They Have Different Strategies](https://functionalflow.github.io/brains/2018/06/their-strategies)
+
 
 # Review
 
