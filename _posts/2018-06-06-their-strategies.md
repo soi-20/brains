@@ -7,6 +7,8 @@ tags:
 comments: true
 ---
 
+(Better view on desktop)
+
 Before divein to Apple's Audio Strategy, I want to talk a bit about strategies and business models in big tech companies like Google, Apple, Facebook and Amazon.
 
 
