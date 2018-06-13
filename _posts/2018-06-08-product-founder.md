@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Startup Lessions"
+title: "Building a Startup?"
 description: ""
 date: 2018-06-08
 tags: 
