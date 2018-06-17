@@ -38,6 +38,8 @@ permalink: /output/
 
 [They Have Different Strategies](https://functionalflow.github.io/brains/2018/06/their-strategies)
 
+[Apple’s Strategy to Dominate Audio](https://medium.com/functionsfund/functions-c292b619a0c3)
+
 
 # Review
 
