@@ -1,6 +1,6 @@
 ---
 layout: content
-title: ⚡️Output
+title: λ Output
 permalink: /output/
 ---
 
