@@ -8,6 +8,8 @@ permalink: /output/
 
 [Ghosts in the Shell: Brains, Machines and Functional Flow](https://functionalflow.github.io/brains/functionalflow/)
 
+[Functions Fund](https://medium.com/functionsfund)
+
 # Micro
 
 [Product, Founder](https://functionalflow.github.io/brains/2018/06/startup-lessions)
