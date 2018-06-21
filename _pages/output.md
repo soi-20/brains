@@ -10,8 +10,6 @@ permalink: /output/
 
 # Micro
 
-[Strategy to Master the Odds](https://functionalflow.github.io/brains/2018/04/strategy-to-master-theodds)
-
 [Product, Founder](https://functionalflow.github.io/brains/2018/06/startup-lessions)
 
 [Validate Your Idea](https://functionalflow.github.io/brains/2018/06/validate-idea)
@@ -40,8 +38,12 @@ permalink: /output/
 
 [Apple’s Strategy to Dominate Audio](https://medium.com/functionsfund/functions-c292b619a0c3)
 
+[Strategy to Master the Odds: Issue 1.Ignore Competition](https://medium.com/functionsfund/strategy-to-master-the-odds-62289b0f712)
+
 
 # Review
+
+## Books
 
 [Dunkirk: The legend ends, the unknown knight rises](https://functionalflow.github.io/brains/2017/08/dunkirk)
 
