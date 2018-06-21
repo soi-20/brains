@@ -45,8 +45,6 @@ permalink: /output/
 
 # Review
 
-## Books
-
 [Dunkirk: The legend ends, the unknown knight rises](https://functionalflow.github.io/brains/2017/08/dunkirk)
 
 
