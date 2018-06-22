@@ -4,11 +4,6 @@ title: λ Output
 permalink: /output/
 ---
 
-# Functional
-
-[Ghosts in the Shell: Brains, Machines and Functional Flow](https://functionalflow.github.io/brains/functionalflow/)
-
-[Functions Fund](https://medium.com/functionsfund)
 
 # Micro
 
@@ -42,6 +37,11 @@ permalink: /output/
 
 [Strategy to Master the Odds: Issue 1. Ignore Competition](https://medium.com/functionsfund/strategy-to-master-the-odds-62289b0f712)
 
+# Functions
+
+[Ghosts in the Shell: Brains, Machines and Functional Flow](https://functionalflow.github.io/brains/functionalflow/)
+
+[Functions Fund](https://medium.com/functionsfund)
 
 # Review
 
