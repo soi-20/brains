@@ -4,8 +4,7 @@ title: λ Output
 permalink: /output/
 ---
 
-
-# Micro
+# Founder
 
 [Product, Founder](https://functionalflow.github.io/brains/2018/06/startup-lessions)
 
@@ -13,21 +12,28 @@ permalink: /output/
 
 [Contrarian](https://functionalflow.github.io/brains/2018/05/contrarian)
 
-[All People are Born Artists](https://functionalflow.github.io/brains/2018/03/artist)
+[Founders Fund's Philosophy](https://functionalflow.github.io/brains/2018/06/foundersfund)
 
-[The Human Body is Never a Finished Product](https://functionalflow.github.io/brains/2018/04/humanbody)
+[Strategy to Master the Odds: Issue 1. Ignore Competition](https://medium.com/functionsfund/strategy-to-master-the-odds-62289b0f712)
+
+
+# Thinking Model
+
+[Ghosts in the Shell: Brains, Machines and Functional Flow](https://functionalflow.github.io/brains/functionalflow/)
 
 [The Art of Focus](https://functionalflow.github.io/brains/2018/02/the-art-of-focus)
 
 [過濾的本質](https://functionalflow.github.io/brains/2018/02/essence)
 
-# Macro
+[All People are Born Artists](https://functionalflow.github.io/brains/2018/03/artist)
+
+# Capital
 
 [Too Big to Fake](https://functionalflow.github.io/brains/2017/09/too-big-too-fake)
 
-[Broken Journalism](https://functionalflow.github.io/brains/2018/04/brokenjournalism)
-
 [Silicon Valley: The Wall Street Without Bubble](https://functionalflow.github.io/brains/2016/04/bubble)
+
+# Odds
 
 [Spotify's Dilemma](https://functionalflow.github.io/brains/2018/03/spotifys-dilemma)
 
@@ -35,15 +41,13 @@ permalink: /output/
 
 [Apple’s Strategy to Dominate Audio](https://medium.com/functionsfund/functions-c292b619a0c3)
 
-[Strategy to Master the Odds: Issue 1. Ignore Competition](https://medium.com/functionsfund/strategy-to-master-the-odds-62289b0f712)
-
-# Functions
-
-[Ghosts in the Shell: Brains, Machines and Functional Flow](https://functionalflow.github.io/brains/functionalflow/)
-
 [Functions Fund](https://medium.com/functionsfund)
 
-# Review
+# World
+
+[Broken Journalism](https://functionalflow.github.io/brains/2018/04/brokenjournalism)
+
+[The Human Body is Never a Finished Product](https://functionalflow.github.io/brains/2018/04/humanbody)
 
 [Dunkirk: The legend ends, the unknown knight rises](https://functionalflow.github.io/brains/2017/08/dunkirk)
 
