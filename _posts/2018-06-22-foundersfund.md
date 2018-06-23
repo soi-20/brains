@@ -8,17 +8,18 @@ comments: true
 ---
 # Brian Singerman(GM)'s Philosophy
 
+### From How Brian Singerman Became Founders Fund's Top VC
+
 1/ Founders Fund is no stranger to controversy. Early on, it declared itself the VC firm for entrepreneurs who didn't like other VCs.
  
 2/ "We wanted flying cars, instead we got 140 characters."
  
 3/ "There are very few VCs out there with that ability to identify and go large in what will be great companies."
 
-- How Brian Singerman Became Founders Fund's Top VC
 
+### From Brian Singerman made Founders Fund’s biggest return ever
 
 1/ "I want to be involved with the world’s most important companies. Just find and invest in the world’s most important companies and the returns will follow."
- 
 
 2/ “...I really want to be doing something more interesting than this.” And I met up with the Founders Fund guys. They hadn’t made the investment, but were considering this crazy investment in something called SpaceX, and I was like, “Oh I want to be part of stuff like this.” And so I came on board, specifically, because SpaceX didn’t need a $50k check, SpaceX needed a real check. And I wanted to be part of that. That to me was an example of a world changing company. That is one of the most important companies on the planet. I came on board because I wanted to do stuff like that."
 
@@ -31,8 +32,6 @@ comments: true
 6/ "We back the truck up when we have conviction."
  
 7/ "[Sean Parker] is a phenomenal pro-active venture capitalist. I am not a proactive venture capitalist. I am a reactive venture capitalist. I think I’m an excellent reactive venture capitalist. And I think in order to be truly, truly, truly sector agnostic, you have to be reactive."
-
-- Brian Singerman made Founders Fund’s biggest return ever
 
 # Founders Fund's Singerman on Tech Disruption
 [![](http://img.youtube.com/vi/_6gTjBxOBQ0/0.jpg)](http://www.youtube.com/watch?v=_6gTjBxOBQ0 "Founders Fund's Singerman on Tech Disruption")
