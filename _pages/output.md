@@ -29,9 +29,9 @@ permalink: /output/
 
 # Capital
 
-[Too Big to Fake](https://functionalflow.github.io/brains/2017/09/too-big-too-fake)
+[Too Big to Fake](https://medium.com/@allenleein/too-big-to-fake-a7510321273b)
 
-[Silicon Valley: The Wall Street Without Bubble](https://functionalflow.github.io/brains/2016/04/bubble)
+[Silicon Valley: The Wall Street Without Bubble](https://medium.com/functionsfund/silicon-valley-the-wall-street-without-bubble-c5bc68135df)
 
 # Odds
 
@@ -49,7 +49,7 @@ permalink: /output/
 
 [The Human Body is Never a Finished Product](https://functionalflow.github.io/brains/2018/04/humanbody)
 
-[Dunkirk: The legend ends, the unknown knight rises](https://functionalflow.github.io/brains/2017/08/dunkirk)
+[Dunkirk: The legend ends, the unknown knight rises](https://medium.com/@allenleein/dunkirk-943222cc8ea)
 
 
 
