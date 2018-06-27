@@ -6,7 +6,7 @@ date: 2018-06-22
 tags: 
 comments: true
 ---
-# Brian Singerman(GM)'s Philosophy
+# Brian Singerman(GP)'s Philosophy
 
 ### From How Brian Singerman Became Founders Fund's Top VC
 
