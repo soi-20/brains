@@ -25,7 +25,7 @@ comments: true
 
 3/ "We are looking for anything that can be the most important company on the planet. Maybe something in the early days doesn’t look like it, maybe it looks like it later."
  
-4/ "..we have a ruthless focus on finding the most important companies on the planet. The reason we have a large fund is so we can write big checks. Not only are we sector agnostic, we’re stage agnostic. We invest in a company once we see it can be one of the most important companies on the planet. We came into Airbnb at the $2.5 billion round. Not the $5 m round. But when we do see that what differentiates us is we go big."
+4/ "..We have a ruthless focus on finding the most important companies on the planet. The reason we have a large fund is so we can write big checks. Not only are we sector agnostic, we’re stage agnostic. We invest in a company once we see it can be one of the most important companies on the planet. We came into Airbnb at the $2.5 billion round. Not the $5 m round. But when we do see that what differentiates us is we go big."
  
 5/ "The key to the strategy once we have conviction we are willing to invest a lot. So with Stemcentrx, over the multiple rounds of this company, we invested something like $300 million. It’s not enough to think something is going to be one of the most important companies on the planet you have to back it up. So, to me, venture capital is about having conviction and putting a lot of money behind it."
  
