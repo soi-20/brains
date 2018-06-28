@@ -8,18 +8,16 @@ Hi, Allen here. You can reach me via Keybase: [allenleein](https://keybase.io/al
 
 ----
 
-## Projects
-
-### A Venture Publication - From 2013
+### Functions Fund
 --- 
 <p align="center">
   <img width="200" height="200" src="https://i.imgur.com/4bY53O8.jpg" alt="Sublime's custom image"/>
 </p>
 
-* A Venture is top 1 VC and Biotech publisher on Medium. It was merged into [Functions Fund](https://medium.com/functionsfund) in late 2017.
+* [Functions Fund](https://medium.com/functionsfund)  is top 1 VC and Biotech publisher on Medium.
 
 
-### Gargantua - From 2018
+### Gargantua 
 
 ---
 
@@ -31,7 +29,7 @@ Hi, Allen here. You can reach me via Keybase: [allenleein](https://keybase.io/al
 
 ----
 
-### Project X - 2013
+### Project X 
 
 ---
 <p align="center">
@@ -40,7 +38,7 @@ Hi, Allen here. You can reach me via Keybase: [allenleein](https://keybase.io/al
 
 * [Project X Vimeo](https://vimeo.com/111901733)
 
-* We (Kevin, Milu, Allen) are the first team to program customized drones+LEDs to write Chinese letters in the sky in history.
+* We (Kevin, Milu, Allen) are the first team to program customized drones+LEDs to write Chinese letters in the sky ever.
 
 ![alt text](https://i.imgur.com/pNz5FOm.jpg "Logo Title Text 1")
 
