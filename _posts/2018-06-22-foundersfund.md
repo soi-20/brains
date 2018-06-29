@@ -6,9 +6,10 @@ date: 2018-06-22
 tags: 
 comments: true
 ---
-# Brian Singerman(GP)'s Philosophy
 
-### From How Brian Singerman Became Founders Fund's Top VC
+# From Founders Fund Brian Singerman(GP)
+
+### How Brian Singerman Became Founders Fund's Top VC
 
 1/ Founders Fund is no stranger to controversy. Early on, it declared itself the VC firm for entrepreneurs who didn't like other VCs.
  
@@ -32,6 +33,20 @@ comments: true
 6/ "We back the truck up when we have conviction."
  
 7/ "[Sean Parker] is a phenomenal pro-active venture capitalist. I am not a proactive venture capitalist. I am a reactive venture capitalist. I think I’m an excellent reactive venture capitalist. And I think in order to be truly, truly, truly sector agnostic, you have to be reactive."
+
+
+# From Founders Fund's Partners: Scott Nolan and Aaron VanDevender
+
+1/ Often, we’re the first money in or very early after angel rounds, and sometimes we’re doing those financings on our own or doing the bulk of them.-SN
+
+2/ We’re only interested in things that offer some very unique, differentiated angle.-AV
+
+3/ At Founders Fund we avoid investing in companies unless they are consuming cash. We're here to invest when doing so will bring about positive progress faster, which often manifests as the conversion of cash into assets and increased burn. Cash-flow-positive businesses are usually past this inflection point, or simply don't have enough ideas about what valuable things to do with more money.-SN
+
+4/ Algebraic equation to represent the ideal amount of money a company should be spending: 
+ Burn rate [$/month] = Milestones/Month x Cost/Milestone = Speed/Efficiency 
+ 
+ Looking for companies that are spending money to reach an R&D milestone never achieved before."The most valuable, important companies of the decades ahead are building the future today, executing quickly and burning money in the process."-SN
 
 # Founders Fund's Singerman on Tech Disruption
 [![](http://img.youtube.com/vi/_6gTjBxOBQ0/0.jpg)](http://www.youtube.com/watch?v=_6gTjBxOBQ0 "Founders Fund's Singerman on Tech Disruption")
