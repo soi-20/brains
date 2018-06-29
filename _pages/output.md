@@ -4,36 +4,7 @@ title: λ Output
 permalink: /output/
 ---
 
-# Founder
-
-[Product, Founder](https://functionalflow.github.io/brains/2018/06/startup-lessions)
-
-[Validate Your Idea](https://functionalflow.github.io/brains/2018/06/validate-idea)
-
-[Contrarian](https://functionalflow.github.io/brains/2018/05/contrarian)
-
-[Founders Fund's Philosophy](https://functionalflow.github.io/brains/2018/06/foundersfund)
-
-[Strategy to Master the Odds: Issue 1. Ignore Competition](https://medium.com/functionsfund/strategy-to-master-the-odds-62289b0f712)
-
-
-# Thinking Model
-
-[Ghosts in the Shell: Brains, Machines and Functional Flow](https://functionalflow.github.io/brains/functionalflow/)
-
-[The Art of Focus](https://functionalflow.github.io/brains/2018/02/the-art-of-focus)
-
-[過濾的本質](https://functionalflow.github.io/brains/2018/02/essence)
-
-[All People are Born Artists](https://functionalflow.github.io/brains/2018/03/artist)
-
-# Capital
-
-[Too Big to Fake](https://medium.com/@allenleein/too-big-to-fake-a7510321273b)
-
-[Silicon Valley: The Wall Street Without Bubble](https://medium.com/functionsfund/silicon-valley-the-wall-street-without-bubble-c5bc68135df)
-
-# Odds
+## Odds
 
 [Spotify's Dilemma](https://functionalflow.github.io/brains/2018/03/spotifys-dilemma)
 
@@ -43,7 +14,37 @@ permalink: /output/
 
 [Functions Fund](https://medium.com/functionsfund)
 
-# World
+## Founder
+
+[Strategy to Leverage the Odds: Issue 1. Ignore Them](https://medium.com/functionsfund/strategy-to-master-the-odds-62289b0f712)
+
+[Product, Founder](https://functionalflow.github.io/brains/2018/06/startup-lessions)
+
+[Validate Your Idea](https://functionalflow.github.io/brains/2018/06/validate-idea)
+
+[Contrarian](https://functionalflow.github.io/brains/2018/05/contrarian)
+
+[Founders Fund's Philosophy](https://functionalflow.github.io/brains/2018/06/foundersfund)
+
+
+## Thinking 
+
+[Ghosts in the Shell: Brains, Machines and Functional Flow](https://functionalflow.github.io/brains/functionalflow/)
+
+[The Art of Focus](https://functionalflow.github.io/brains/2018/02/the-art-of-focus)
+
+[過濾的本質](https://functionalflow.github.io/brains/2018/02/essence)
+
+[All People are Born Artists](https://functionalflow.github.io/brains/2018/03/artist)
+
+## Capital
+
+[Too Big to Fake](https://medium.com/@allenleein/too-big-to-fake-a7510321273b)
+
+[Silicon Valley: The Wall Street Without Bubble](https://medium.com/functionsfund/silicon-valley-the-wall-street-without-bubble-c5bc68135df)
+
+
+## World
 
 [Broken Journalism](https://functionalflow.github.io/brains/2018/04/brokenjournalism)
 
