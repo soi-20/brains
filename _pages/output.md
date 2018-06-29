@@ -18,7 +18,7 @@ permalink: /output/
 
 [Strategy to Leverage the Odds: Issue 1. Ignore Them](https://medium.com/functionsfund/strategy-to-master-the-odds-62289b0f712)
 
-[Product, Founder](https://functionalflow.github.io/brains/2018/06/product-founder)
+[A Cool Startup](https://functionalflow.github.io/brains/2018/06/product-founder)
 
 [Validate Your Idea](https://functionalflow.github.io/brains/2018/06/validate-idea)
 
