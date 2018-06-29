@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Building a Startup?"
+title: "Build a Cool Startup"
 description: ""
 date: 2018-06-08
 tags: 
