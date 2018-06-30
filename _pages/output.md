@@ -18,6 +18,8 @@ permalink: /output/
 
 [Strategy to Leverage the Odds: Issue 1. Ignore Them](https://medium.com/functionsfund/strategy-to-master-the-odds-62289b0f712)
 
+[99.9% VC Would't Fund Facebook](https://functionalflow.github.io/brains/2018/06/vc-bias)
+
 [A Cool Startup](https://functionalflow.github.io/brains/2018/06/product-founder)
 
 [Validate Your Idea](https://functionalflow.github.io/brains/2018/06/validate-idea)
@@ -26,10 +28,8 @@ permalink: /output/
 
 [Founders Fund's Philosophy](https://functionalflow.github.io/brains/2018/06/foundersfund)
 
-[Why 99.9% VCs Will Miss the next Facebook?](https://functionalflow.github.io/brains/2018/06/vc-bias)
 
-
-## Thinking 
+## Thinking
 
 [Ghosts in the Shell: Brains, Machines and Functional Flow](https://functionalflow.github.io/brains/functionalflow/)
 
