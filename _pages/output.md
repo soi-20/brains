@@ -12,7 +12,7 @@ permalink: /output/
 
 [Apple’s Strategy to Dominate Audio](https://medium.com/functionsfund/functions-c292b619a0c3)
 
-[Functions](https://medium.com/functionsfund)
+[Functions of Black River](https://medium.com/functionsfund)
 
 ## Founder
 
