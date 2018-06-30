@@ -28,13 +28,5 @@ Inspired by Ghost in the Shell, I believe the future of human thinking is to dec
 We need to elevate our mind in this digital age. Not only as human, but also as human + machine.
 
 
-## Table of Contents 
-
-> [Define Functional Flow](https://github.com/functionalflow/brains/blob/master/README.md#define-functional-flow)
-
-> [Implement Functional Flow](https://github.com/functionalflow/brains/blob/master/README.md#implement-functional-flow)
-
-> [Components of a Functional Flow System - Input, Process, Output](https://github.com/functionalflow/brains/blob/master/README.md#components-of-a-functional-flow-system---input-process-output)
-
-([Essay still in process](https://github.com/functionalflow/brains/projects/11))
+## [Read Wiki](https://github.com/allenleein/brains/wiki#table-of-contents-essay-still-in-process)
 
