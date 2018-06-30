@@ -26,6 +26,8 @@ permalink: /output/
 
 [Founders Fund's Philosophy](https://functionalflow.github.io/brains/2018/06/foundersfund)
 
+[Why 99.9% VCs Will Miss the next Facebook?](https://functionalflow.github.io/brains/2018/06/vc-bias)
+
 
 ## Thinking 
 
