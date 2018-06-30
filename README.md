@@ -10,14 +10,14 @@
 I'm trying to turn my brain into the functional brains with collective intelligence.
 
 
-## Table of Contents ([Essay still in process](https://github.com/functionalflow/brains/projects/11))
+## Table of Contents ([Essay still in process](https://github.com/allenleein/brains/projects/11))
 
 
-> [Define Functional Flow](https://github.com/functionalflow/brains/blob/master/README.md#define-functional-flow)
+> [Define Functional Flow](https://github.com/allenleein/brains/blob/master/README.md#define-functional-flow)
 
-> [Implement Functional Flow](https://github.com/functionalflow/brains/blob/master/README.md#implement-functional-flow)
+> [Implement Functional Flow](https://github.com/allenleein/brains/blob/master/README.md#implement-functional-flow)
 
-> [Components of a Functional Flow System - Input, Process, Output](https://github.com/functionalflow/brains/blob/master/README.md#components-of-a-functional-flow-system---input-process-output)
+> [Components of a Functional Flow System - Input, Process, Output](https://github.com/allenleein/brains/blob/master/README.md#components-of-a-functional-flow-system---input-process-output)
 
 Ghost in the Shell (Japanese: 攻殻機動隊 シェルのゴースト) is a 1989 Japanese media franchise originally published as a seinen manga series of the same name written and illustrated by Masamune Shirow. 
 
@@ -289,21 +289,21 @@ So, you should:
 
 * Input - the information/functions/brain entered into a flow system. Please check Issues, [Liked Tweets](https://twitter.com/i/likes), [Hacker News Upvoted/Fav](https://news.ycombinator.com/user?id=allenleein). Source: [My Input Sources of Media](https://github.com/functionalflow/brains/issues/882)
 
-* Processing - the process of transforming input information/functions/brain into and output. Please check [⚡️Input-observables](https://github.com/functionalflow/brains/labels/%E2%9A%A1%EF%B8%8FInput-observables) and [⚡️Output-observables](https://github.com/functionalflow/brains/labels/%E2%9A%A1%EF%B8%8FOutput-observables).
+* Processing - the process of transforming input information/functions/brain into and output. Please check [⚡️Input-observables](https://github.com/allenleein/brains/labels/%E2%9A%A1%EF%B8%8FInput-observables) and [⚡️Output-observables](https://github.com/allenleein/brains/labels/%E2%9A%A1%EF%B8%8FOutput-observables).
 
-* Output - [Brains](https://functionalflow.github.io/brains/output/).
+* Output - [Brains](https://allenleein.github.io/brains/output/).
 
 
 ### All thoughts are welcome to contribute to:
 
-First, fork **functionalflow/brains**, so you can send a pull request.
+First, fork **allenleein/brains**, so you can send a pull request.
 
 * Information layer1: Issues(You can reopen closed issues) 
 
-* Information layer2(**Recommended**): [⚡️Output-observables](https://github.com/functionalflow/brains/labels/%E2%9A%A1%EF%B8%8FOutput-observables) and [⚡️Input-observables ](https://github.com/functionalflow/brains/labels/%E2%9A%A1%EF%B8%8FInput-observables). 
+* Information layer2(**Recommended**): [⚡️Output-observables](https://github.com/allenleein/brains/labels/%E2%9A%A1%EF%B8%8FOutput-observables) and [⚡️Input-observables ](https://github.com/allenleein/brains/labels/%E2%9A%A1%EF%B8%8FInput-observables). 
 
-* Information layer3(**Recommended**): [functionalflow/brains ⚡️Output](https://github.com/functionalflow/brains/tree/master/_posts)
+* Information layer3(**Recommended**): [functionalflow/brains ⚡️Output](https://github.com/allenleein/brains/tree/master/_posts)
 
-All the contributions (Github/Slack) will be merged on [Brains](https://functionalflow.github.io/brains/output/).
+All the contributions (Github/Slack) will be merged on [Brains](https://allenleein.github.io/brains/output/).
 
 
