@@ -48,6 +48,17 @@ comments: true
  
  Looking for companies that are spending money to reach an R&D milestone never achieved before."The most valuable, important companies of the decades ahead are building the future today, executing quickly and burning money in the process."-SN
 
+# Founders feedback
+
+They led our (largish) seed round. Had a slightly negative experience with one partner, but the median person we worked with beat most firms we talked to in first principles thinking by quite a margin. They were all very bright and had a wide range of knowledge.
+
+They were far less interested in "who else is in" and more interested in your analysis of your business from basic building blocks.
+
+When we were doing due diligence on them, the main "complaint" we heard from people who had raised from them is that it's hard to read their judgement. They may seem bearish on you then invest last minute or the opposite. Most people had great things to say though.
+
+Hope this is helpful for anyone considering talking to them.-[HN](https://news.ycombinator.com/item?id=11374180)
+
+
 # Founders Fund's Singerman on Tech Disruption
 [![](http://img.youtube.com/vi/_6gTjBxOBQ0/0.jpg)](http://www.youtube.com/watch?v=_6gTjBxOBQ0 "Founders Fund's Singerman on Tech Disruption")
 
@@ -62,3 +73,4 @@ comments: true
 
 # Founders Fund Brian Singerman: VC success criteria
 [![](http://img.youtube.com/vi/p0L2GYmL-K8/0.jpg)](http://www.youtube.com/watch?v=p0L2GYmL-K8 "Founders Fund Brian Singerman: VC success criteria, importance of angel investing &startup qualities")
+
