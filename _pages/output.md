@@ -4,17 +4,7 @@ title: λ Output
 permalink: /output/
 ---
 
-## Odds
-
-[Spotify's Dilemma](https://allenleein.github.io/brains/2018/03/spotifys-dilemma)
-
-[They Have Different Strategies](https://allenleein.github.io/brains/2018/06/their-strategies)
-
-[Apple’s Strategy to Dominate Audio](https://medium.com/functionsfund/functions-c292b619a0c3)
-
-[Functions of Black River](https://medium.com/functionsfund)
-
-## Founder
+## Startup
 
 [Strategy to Leverage the Odds: Issue 1. Ignore Them](https://medium.com/functionsfund/strategy-to-master-the-odds-62289b0f712)
 
@@ -28,6 +18,11 @@ permalink: /output/
 
 [Founders Fund's Philosophy](https://allenleein.github.io/brains/2018/06/foundersfund)
 
+## Odds
+
+[Apple’s Strategy to Dominate Audio](https://medium.com/functionsfund/functions-c292b619a0c3)
+
+[Functions of Black River](https://medium.com/functionsfund)
 
 ## Thinking
 
