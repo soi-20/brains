@@ -10,7 +10,7 @@ permalink: /output/
 
 [99.9% VC Would't Fund Facebook](https://allenleein.github.io/brains/2018/06/vc-bias)
 
-[A Cool Startup](https://allenleein.github.io/brains/2018/06/product-founder)
+[A Cool Startup](https://allenleein.github.io/brains/2018/06/cool-startup)
 
 [Validate Your Idea](https://allenleein.github.io/brains/2018/06/validate-idea)
 
