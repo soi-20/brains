@@ -8,11 +8,11 @@ comments: true
 ---
 
 
-# Product, Founder
+# For Founder
 
-Great investor advice isn’t good for building a great product. 
+Don't listen to Great investor advice isn’t good for building a great product. 
 
-But, great investor is very good for optimizing and scaling a working business.
+But, great investor is very good for optimizing and scaling a working business. The only people whose advice to an entrepreneur is worth heeding are those who have worked at a startup. And most VCs haven’t done that, so 99.9% they give stupid advice. 
 
 Work on a problem that has an immediately useful solution, but has enormous potential for growth. 
 
@@ -22,11 +22,9 @@ If people love your product, the tiniest announcements will get attention. If pe
 
 Minimize complexity. The simpler the product, the more likely you are to actually ship it, and the more likely you are to fix problems quickly.
 
-Don't take advice from someone who's never played the part.
-
 You should study history so that you don't repeat it. 
  
-Startup graveyards are full of visionaries without expertise or the proper skills to execute.
+Visionaries are people who can see in the dark. But startup graveyards are full of visionaries without expertise or the proper skills to execute.
 
 Managing resources to get the highest ROI on your work.
 
