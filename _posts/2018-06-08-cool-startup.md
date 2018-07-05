@@ -8,7 +8,7 @@ comments: true
 ---
 
 
-# For Founder
+# Being A Cool Founder
 
 Great investor's advice isn’t good for building a great product. 
 
@@ -34,7 +34,7 @@ If you don’t know how to drive people, you can’t run a success business.
 
 Believing in an idea that violates the popular narrative is lonely. Building a company around that idea is doubly lonely for entrepreneurs. But it actually isn't very hard to build a business. It does take time, effort, and a lot of mistake making, but it's like learning anything of value. 
 
-# $ and Cool
+# Making Cool $
 > So is a billion dollars cool? He ponders the question carefully. “No, it’s not,” he says. “It’s not cool. I think being a wealthy member of the establishment is the antithesis of cool. Being a countercultural revolutionary is cool. So to the extent that you’ve made a billion dollars, you’ve probably become uncool.” He laughs at his retort to Aaron Sorkin. - Lunch with the FT: Sean Parker
 
 
