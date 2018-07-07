@@ -4,7 +4,7 @@ title: λ Output
 permalink: /output/
 ---
 
-## Startup
+## Founder
 
 [Strategy to Leverage the Odds: Issue 1. Ignore Them](https://medium.com/functionsfund/strategy-to-master-the-odds-62289b0f712)
 
@@ -28,9 +28,7 @@ permalink: /output/
 
 [Ghosts in the Shell: Brains, Machines and Functional Flow](https://allenleein.github.io/brains/functionalflow/)
 
-[The Art of Focus](https://allenleein.github.io/brains/2018/02/the-art-of-focus)
-
-[過濾的本質](https://allenleein.github.io/brains/2018/02/essence)
+[Dunkirk: The legend ends, the unknown knight rises](https://medium.com/@allenleein/dunkirk-943222cc8ea)
 
 [All People are Born Artists](https://allenleein.github.io/brains/2018/03/artist)
 
@@ -39,16 +37,6 @@ permalink: /output/
 [Too Big to Fake](https://medium.com/@allenleein/too-big-to-fake-a7510321273b)
 
 [Silicon Valley: The Wall Street Without Bubble](https://medium.com/functionsfund/silicon-valley-the-wall-street-without-bubble-c5bc68135df)
-
-
-## World
-
-[Broken Journalism](https://allenleein.github.io/brains/2018/04/brokenjournalism)
-
-[The Human Body is Never a Finished Product](https://allenleein.github.io/brains/2018/04/humanbody)
-
-[Dunkirk: The legend ends, the unknown knight rises](https://medium.com/@allenleein/dunkirk-943222cc8ea)
-
 
 
 
