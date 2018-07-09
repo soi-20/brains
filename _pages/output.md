@@ -22,7 +22,7 @@ permalink: /output/
 
 [Apple’s Strategy to Dominate Audio](https://medium.com/functionsfund/functions-c292b619a0c3)
 
-[Functions of Black River](https://medium.com/functionsfund)
+[Functions of Black River Capital](https://medium.com/functionsfund)
 
 ## Thinking
 
@@ -35,8 +35,6 @@ permalink: /output/
 ## Capital
 
 [Too Big to Fake](https://medium.com/@allenleein/too-big-to-fake-a7510321273b)
-
-[Silicon Valley: The Wall Street Without Bubble](https://medium.com/functionsfund/silicon-valley-the-wall-street-without-bubble-c5bc68135df)
 
 
 
