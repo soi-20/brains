@@ -6,7 +6,7 @@ permalink: /output/
 
 ## Founder
 
-[Leverage the Odds: the players](https://medium.com/functionsfund/strategy-to-master-the-odds-62289b0f712)
+[Strategy to Leverage the Odds : Don't play the play](https://medium.com/functionsfund/strategy-to-master-the-odds-62289b0f712)
 
 [99.9% VC Would't Fund Facebook](https://allenleein.github.io/brains/2018/06/vc-bias)
 
