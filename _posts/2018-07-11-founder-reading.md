@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Highlights for Startup Founder"
+title: "Reading Highlights for Startup Founder"
 description: ""
 date: 2018-07-11
 tags: 
