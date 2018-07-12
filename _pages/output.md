@@ -4,7 +4,17 @@ title: ⚯
 permalink: /output/
 ---
 
-## Founder
+## Functions
+
+[Ghosts in the Shell: Brains, Machines and Functional Flow](https://allenleein.github.io/brains/functionalflow/)
+
+[Dunkirk: The legend ends, the unknown knight rises](https://medium.com/@allenleein/dunkirk-943222cc8ea)
+
+[All People are Born Artists](https://allenleein.github.io/brains/2018/03/artist)
+
+[Contrarian](https://allenleein.github.io/brains/2018/05/contrarian)
+
+## Leverage
 
 [Strategy to Leverage the Odds : Don't play the play](https://medium.com/functionsfund/strategy-to-master-the-odds-62289b0f712)
 
@@ -14,8 +24,6 @@ permalink: /output/
 
 [Validate Your Idea](https://allenleein.github.io/brains/2018/06/validate-idea)
 
-[Contrarian](https://allenleein.github.io/brains/2018/05/contrarian)
-
 [Founders Fund's Philosophy](https://allenleein.github.io/brains/2018/06/foundersfund)
 
 ## Odds
@@ -24,13 +32,6 @@ permalink: /output/
 
 [Functions of Black River Capital](https://medium.com/functionsfund)
 
-## Thinking
-
-[Ghosts in the Shell: Brains, Machines and Functional Flow](https://allenleein.github.io/brains/functionalflow/)
-
-[Dunkirk: The legend ends, the unknown knight rises](https://medium.com/@allenleein/dunkirk-943222cc8ea)
-
-[All People are Born Artists](https://allenleein.github.io/brains/2018/03/artist)
 
 ## Capital
 
