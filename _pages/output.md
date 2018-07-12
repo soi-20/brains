@@ -1,6 +1,6 @@
 ---
 layout: content
-title: λ Output
+title: 
 permalink: /output/
 ---
 
