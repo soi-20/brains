@@ -37,8 +37,4 @@ permalink: /output/
 [Too Big to Fake](https://medium.com/@allenleein/too-big-to-fake-a7510321273b)
 
 
-## Hightlights from My Reading
-
-[For Startup Founder](https://allenleein.github.io/brains/2018/07/founder-reading)
-
 
