@@ -4,14 +4,12 @@ title:
 permalink: /functionalflow/
 ---
 
-
 <p align="center">
   <img width="200" height="200" src="https://i.imgur.com/xm8i7k5.png" alt="Sublime's custom image"/>
 </p>
 
-
 # Ghosts in the Shell:
-# Brains, Machines and Functional Flow
+## Brains, Machines and Functional Flow
 
 **I'm trying to decentralizing my brain to a network of brains**
 
