@@ -7,6 +7,8 @@ tags:
 comments: true
 ---
 
+# $
+
 Do you have product market fit or not? If not, save as much money as you can, spend more time with your customers, and build a product they need.
 
 -[Why Does Your Company Deserve More Money?](https://blog.ycombinator.com/why-does-your-company-deserve-more-money/)
@@ -17,16 +19,32 @@ The best way to control your own destiny as a company is often to make just enou
 
 ---
 
+Similar to raising money, the best time to sell your startup is when you don’t need to or want to. [The Founder’s Guide to Selling Your Company](https://www.atrium.co/blog/the-founders-guide-to-selling-your-company/#card_1527213022988_4264)
+
+
+# Growth
+
 In any case, growing fast versus operating cheaply is far from the sharp dichotomy many founders assume it to be. In practice there is surprisingly little connection between how much a startup spends and how fast it grows. When a startup grows fast, it's usually because the product hits a nerve, in the sense of hitting some big need straight on. When a startup spends a lot, it's usually because the product is expensive to develop or sell, or simply because they're wasteful.
 
 
  It's not the product that should be insanely great, but the experience of being your user. The product is just one component of that. For a big company it's necessarily the dominant one. But you can and should give users an insanely great experience with an early, incomplete, buggy product, if you make up the difference with attentiveness.-[PG](http://paulgraham.com/ds.html)
  
- ---
+---
 
 The law of startup physics: humans grow linearly, companies grow exponentially. -[Hypergrowth and The Law of Startup Physics](http://firstround.com/review/hypergrowth-and-the-law-of-startup-physics/)
 
 ---
+
+Some startups are easier to start but very hard to scale.
+
+Others are very hard to start but easier to scale.
+
+Perversely, early on this can make the good companies look like bad companies, and the bad companies look like good companies.-[Eric Stromberg](https://twitter.com/ericstromberg/status/991015134398042114)
+
+
+---
+
+# Bias
 
 There are a lot of romantic startup stories about founders who have this brilliant idea, start coding, and in no time at all there are investors knocking at the door touting multimillion dollar valuations. I’m sure this does happen, but it’s probably a lot rarer than we’re led to believe. The media tends to ignore the low-flying companies that never make onto their radar and rightfully so. The companies that do become successful get a lot of attention, creating the impression for the naïve that the numbers are better than they actually are. I learned later that this is known as the survirorship bias. -[ALL IN Expert Lessons Learned](https://mattmazur.com/2008/11/18/all-in-expert-lessons-learned/#card_1528792480516_7143)
 
@@ -38,28 +56,15 @@ The absolutely batshit advice and business building strategy that comes out of t
 
 ---
 
-
-Similar to raising money, the best time to sell your startup is when you don’t need to or want to. [The Founder’s Guide to Selling Your Company](https://www.atrium.co/blog/the-founders-guide-to-selling-your-company/#card_1527213022988_4264)
-
----
-
-Some startups are easier to start but very hard to scale.
-
-Others are very hard to start but easier to scale.
-
-Perversely, early on this can make the good companies look like bad companies, and the bad companies look like good companies.-[Eric Stromberg](https://twitter.com/ericstromberg/status/991015134398042114)
-
----
+# Vision and Market
 
 The founders I know who have created great businesses started with a good insight into something a few people wanted, and then survived long enough for many more people to realize they also wanted it.
 -[Survive and Thrive](https://justinkan.com/survive-and-thrive-9ecc4deec359)
 
 ---
-
-the startup is nothing more than a teacher. It, in fact, is a great teacher for no other reason than it demands the accumulation of knowledge quickly for the startup to survive.-[The alternative to the four-hour workweek mindset](https://techcrunch.com/2018/04/26/the-alternative-to-the-four-hour-work-week-mindset/#card_1524803765850_4346)
+The startup is nothing more than a teacher. It, in fact, is a great teacher for no other reason than it demands the accumulation of knowledge quickly for the startup to survive.-[The alternative to the four-hour workweek mindset](https://techcrunch.com/2018/04/26/the-alternative-to-the-four-hour-work-week-mindset/#card_1524803765850_4346)
 
 ---
-
 
 It is nearly always better to take the more ambitious path.-[YC’s Essential Startup Advice](http://www.michaelseibel.com/blog/yc-s-essential-startup-advice#card_1514135091086_9883)
 
@@ -77,6 +82,7 @@ Chris: I’d say opportunity is the most important. I often meet talented entrep
 
 ---
 
+# Discipline and GO
 
  Stay focused! Ignore things that are a waste of time: meetups & conferences, meetings with no clear agenda, fundraising if you're not fundraising, reading lots of tech media articles, etc. Every week should feel like significant progress in the first year.
 
