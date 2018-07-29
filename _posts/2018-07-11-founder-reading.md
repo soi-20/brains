@@ -41,6 +41,11 @@ Others are very hard to start but easier to scale.
 
 Perversely, early on this can make the good companies look like bad companies, and the bad companies look like good companies.-[Eric Stromberg](https://twitter.com/ericstromberg/status/991015134398042114)
 
+ ---
+ 
+ A common mistake people make is that they focus on trying to achieve viral growth early on. Your 1st few versions of the product are probably bad (our 1st versions were terrible!) & you likely lack the retention needed to sustain viral growth. Focus on making early users happy
+ 
+ This 1st lesson comes hard learned for most engineers: get up — away from your monitor—and talk to your users! I know it’s safer & comfortable to just email people but it’s also easier to ignore you. Your first 100 customers are usually acquired as a result of YOU selling.-[Suhail](https://twitter.com/Suhail/status/1009454387171692544?ref_src=twsrc%5Etfw&ref_url=https%3A%2F%2Favc.com%2F2018%2F06%2Fsome-words-of-wisdom%2F)
 
 ---
 
@@ -82,7 +87,7 @@ Chris: I’d say opportunity is the most important. I often meet talented entrep
 
 ---
 
-# Discipline and GO
+# Discipline 
 
  Stay focused! Ignore things that are a waste of time: meetups & conferences, meetings with no clear agenda, fundraising if you're not fundraising, reading lots of tech media articles, etc. Every week should feel like significant progress in the first year.
 
@@ -96,9 +101,3 @@ Chris: I’d say opportunity is the most important. I often meet talented entrep
  
  Stay laser focused on solving a narrow set of problems. I failed to do this around the 18 mo mark & got behind because shiny new things excited me. It hurt us & we lost customers. We spent the next 2 years focused on 3-4 major things & significantly surpassed our competitors.-[Suhail](https://twitter.com/Suhail/status/1004042100839628801)
  
- ---
- 
- A common mistake people make is that they focus on trying to achieve viral growth early on. Your 1st few versions of the product are probably bad (our 1st versions were terrible!) & you likely lack the retention needed to sustain viral growth. Focus on making early users happy
- 
- This 1st lesson comes hard learned for most engineers: get up — away from your monitor—and talk to your users! I know it’s safer & comfortable to just email people but it’s also easier to ignore you. Your first 100 customers are usually acquired as a result of YOU selling.-[Suhail](https://twitter.com/Suhail/status/1009454387171692544?ref_src=twsrc%5Etfw&ref_url=https%3A%2F%2Favc.com%2F2018%2F06%2Fsome-words-of-wisdom%2F)
-
