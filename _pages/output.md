@@ -30,8 +30,6 @@ permalink: /output/
 
 [Apple’s Strategy to Dominate Audio](https://medium.com/functionsfund/functions-c292b619a0c3)
 
-[Functions of Black River Capital](https://medium.com/functionsfund)
-
 
 ## Capital
 
