@@ -9,7 +9,7 @@ comments: true
 
 # From Founders Fund Brian Singerman(GP)
 
-### How Brian Singerman Became Founders Fund's Top VC
+### From "How Brian Singerman Became Founders Fund's Top VC"
 
 1/ Founders Fund is no stranger to controversy. Early on, it declared itself the VC firm for entrepreneurs who didn't like other VCs.
  
@@ -18,7 +18,7 @@ comments: true
 3/ "There are very few VCs out there with that ability to identify and go large in what will be great companies."
 
 
-### From Brian Singerman made Founders Fund’s biggest return ever
+### From "Brian Singerman made Founders Fund’s biggest return ever"
 
 1/ "I want to be involved with the world’s most important companies. Just find and invest in the world’s most important companies and the returns will follow."
 
