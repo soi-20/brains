@@ -4,7 +4,7 @@ title: ⚯
 permalink: /output/
 ---
 
-## Functions
+## Ghosts
 
 [Ghosts in the Shell: Brains, Machines and Functional Flow](https://allenleein.github.io/brains/functionalflow/)
 
