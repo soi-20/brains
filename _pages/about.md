@@ -28,6 +28,10 @@ You can also find me here:
 
 [Black River](https://medium.com/functionsfund)
 
+# History
+
+[Linkedin](https://www.linkedin.com/in/allen-lee-52b16378/)
+
 
 
 
