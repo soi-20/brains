@@ -28,6 +28,10 @@ You can also find me here:
 
 [Black River](https://medium.com/functionsfund)
 
+[A Random Walkdown Review](https://medium.com/bookworms)
+
+[Gravity: Human+Machine Can Free Information](https://medium.com/rosenbridge)
+
 ## Trash
 
 [Linkedin](https://www.linkedin.com/in/allen-lee-52b16378/)
