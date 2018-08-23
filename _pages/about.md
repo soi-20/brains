@@ -32,6 +32,8 @@ You can also find me here:
 
 [Gravity: Human+Machine Can Free Information](https://medium.com/rosenbridge)
 
+[Flow](https://medium.com/intoflow)
+
 ## Trash
 
 [Linkedin](https://www.linkedin.com/in/allen-lee-52b16378/)
