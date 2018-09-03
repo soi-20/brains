@@ -24,8 +24,6 @@ permalink: /output/
 
 [Paul Graham on Starting a Startup](https://allenleein.github.io/brains/2018/09/PG-talks)
 
-[Founders Fund's Philosophy](https://allenleein.github.io/brains/2018/06/foundersfund)
-
 ## Leverage the Odds
 
 [Strategy to Leverage the Odds : Don't play the play](https://medium.com/functionsfund/strategy-to-master-the-odds-62289b0f712)
