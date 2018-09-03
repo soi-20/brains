@@ -24,6 +24,8 @@ permalink: /output/
 
 [Validate Your Idea](https://allenleein.github.io/brains/2018/06/validate-idea)
 
+[Paul Graham on Starting a Startup](https://allenleein.github.io/brains/2018/09/PG-talks)
+
 [Founders Fund's Philosophy](https://allenleein.github.io/brains/2018/06/foundersfund)
 
 ## Odds
