@@ -4,7 +4,7 @@ title: ⚯
 permalink: /output/
 ---
 
-## Ghosts
+## The Flow
 
 [Ghosts in the Shell: Brains, Machines and Functional Flow](https://allenleein.github.io/brains/functionalflow/)
 
@@ -14,9 +14,7 @@ permalink: /output/
 
 [Contrarian](https://allenleein.github.io/brains/2018/05/contrarian)
 
-## Leverage
-
-[Strategy to Leverage the Odds : Don't play the play](https://medium.com/functionsfund/strategy-to-master-the-odds-62289b0f712)
+## Founder
 
 [99.9% VC Would't Fund Facebook](https://allenleein.github.io/brains/2018/06/vc-bias)
 
@@ -28,7 +26,9 @@ permalink: /output/
 
 [Founders Fund's Philosophy](https://allenleein.github.io/brains/2018/06/foundersfund)
 
-## Odds
+## Leverage the Odds
+
+[Strategy to Leverage the Odds : Don't play the play](https://medium.com/functionsfund/strategy-to-master-the-odds-62289b0f712)
 
 [Apple’s Strategy to Dominate Audio](https://medium.com/functionsfund/functions-c292b619a0c3)
 
