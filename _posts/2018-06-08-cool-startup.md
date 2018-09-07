@@ -8,7 +8,7 @@ comments: true
 ---
 
 
-# Being A Cool Founder
+# A Cool Startup
 
 Great investor's advice isn’t good for building a great product. 
 
