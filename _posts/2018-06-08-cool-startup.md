@@ -7,8 +7,7 @@ tags:
 comments: true
 ---
 
-
-# A Cool Startup
+Keep these in mind:
 
 Great investor's advice isn’t good for building a great product. 
 
