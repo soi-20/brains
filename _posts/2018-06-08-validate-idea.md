@@ -7,22 +7,34 @@ tags:
 comments: true
 ---
 
-### Write down the problem you're trying to solve and your solution. 
+```
 
-A lot of ideas may sound awesome while they're in your head, but that might change once you transform it from an abstract concept into 2–3 sentences.
+Often what you create will initially seem to fit into an existing market, but with less functionality. With the fullness of  time, it will become obvious that the job your customers are hiring you for is completely different than the “incumbents” -David Rusenko 
 
-### Create a questionnaire based on your idea. 
+“Launch when your product is better than what’s out there” - Paul Buchheit
 
-Make sure to ask questions relevant to judging whether your idea might take off, such as "How often are you facing this problem" rather than "Have you ever faced this problem". 
+```
 
-### Identify people in your target audience. 
+### Focus on problems not solution
+ 
+Write down the problem you're trying to solve and your solution. A lot of ideas may sound awesome while they're in your head, but that might change once you transform it from an abstract concept into 2–3 sentences.
+
+Talk to users, develop a market thesis. Make sure to ask questions relevant to judging whether your idea might take off, such as "How often are you facing this problem" rather than "Have you ever faced this problem". 
+
+### Identify people in your target audience
 
 This is hard. Don't simply email the survey link to your friends - because of something called "Interviewer bias", your friends will rate your ideas more favorably than the general public. Also, it's highly likely that your friends aren't actually in your target audience.
 
-### Distill your entire product down to 1–2 features. 
+### Distill your entire product down to 1–2 features
 
 Your first version should be a feature instead of a product. Figure out what 1 feature summarizes the entire product.
 
-### Aggressively market the heck out of it for 3 months.
+### Aggressively market the heck out of it for 3 months
 
-### Were you able to get 100 users who insanely love your product? Are people coming back to use the product again? Are your users enthusiastic? After 3 months, you should have some basic feeling on whether this thing is gonna float or not.
+Building a fully functional product is the most expensive possible way to test your hypothesis. 
+
+Focus on getting to a functional prototype as quickly as possible that you can get in front of users. 
+
+### Ask yourself
+
+Were you able to get 100 users who insanely love your product? Are people coming back to use the product again? Are your users enthusiastic? After 3 months, you should have some basic feeling on whether this thing is gonna float or not.
