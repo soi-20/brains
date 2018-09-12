@@ -9,9 +9,17 @@ comments: true
 
 ---
 
+## Where
+
 Often what you create will initially seem to fit into an existing market, but with less functionality. With the fullness of  time, it will become obvious that the job your customers are hiring you for is completely different than the “incumbents” -David Rusenko 
 
+## When 
+
 “Launch when your product is better than what’s out there” - Paul Buchheit
+
+## What
+
+Y Combinator CEO: “The True Test of Product-Market Fit Is 'Drowning in Demand'”
 
 ---
 
