@@ -17,7 +17,7 @@ You can also find me here:
 
 ## Photos
 
-[VSCO](https://vsco.co/allenleein/images/1)
+[VSCO]()
 
 
 ## Building
