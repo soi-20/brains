@@ -4,8 +4,6 @@ title:
 permalink: /startup/
 ---
 
-# Startup Founder Library
-
 
 [Pmarchive](https://pmarchive.com/)
 
