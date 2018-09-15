@@ -26,7 +26,7 @@ You can also find me here:
 
 [TARS](https://allenleein.github.io/tars/)
 
-[Black River](https://medium.com/functionsfund)
+[Functions Fund](https://medium.com/functionsfund)
 
 [A Random Walkdown Review](https://medium.com/bookworms)
 
