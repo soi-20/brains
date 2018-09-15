@@ -17,7 +17,7 @@ You can also find me here:
 
 ## Photos
 
-[Flickr](https://www.flickr.com/photos/allenandspace/)
+[VSCO](https://vsco.co/allenleein/images/1)
 
 
 ## Building
