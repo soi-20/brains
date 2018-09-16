@@ -7,7 +7,7 @@ tags:
 comments: true
 ---
 
-when you're looking at landing pages, what makes them great has a lot less to do with the visual design, and a lot more to do with the story and message they tell.
+When you're looking at landing pages, what makes them great has a lot less to do with the visual design, and a lot more to do with the story and message they tell.
 
 
 They're fundamentally narrative media: a landing page proceeds serially from top to bottom. What you see first matters most; like every good story, it also needs to give you a reason to proceed down the page.
