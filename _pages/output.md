@@ -16,6 +16,8 @@ permalink: /output/
 
 ## Founder
 
+[Ken Howery on Building Startup](https://allenleein.github.io/brains/2018/09/Ken-Howery-startup)
+
 [99.9% VC Would't Fund Facebook](https://allenleein.github.io/brains/2018/06/vc-bias)
 
 [A Cool Startup](https://allenleein.github.io/brains/2018/06/cool-startup)
