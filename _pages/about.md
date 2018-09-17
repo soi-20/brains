@@ -24,15 +24,10 @@ You can also find me here:
 
 [24の氣](https://www.producthunt.com/upcoming/24-24-energy)
 
-[TARS](https://allenleein.github.io/tars/)
+[TARS](https://www.producthunt.com/upcoming/tars)
 
 [Functions Fund](https://medium.com/functionsfund)
 
-[A Random Walkdown Review](https://medium.com/bookworms)
-
-[Gravity: Human+Machine Can Free Information](https://medium.com/rosenbridge)
-
-[Flow](https://medium.com/intoflow)
 
 ## Trash
 
