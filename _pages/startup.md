@@ -20,6 +20,49 @@ permalink: /startup/
 
 [Thoughts on building weatherproof companies](https://medium.com/software-is-eating-the-world/thoughts-on-building-weatherproof-companies-6a72c658f72b)
 
+# Elad Gill
+
+[Sell Your Startup To A Breakout Company]()
+
+[Bad Advice](http://blog.eladgil.com/2013/11/bad-advice.html)
+
+[The Danger of Pitching VCs Too Early](http://blog.eladgil.com/2013/06/the-danger-of-pitching-vcs-too-early.html)
+
+[How To Fire A Co-Founder](http://blog.eladgil.com/2013/01/how-to-fire-co-founder.html)
+
+[How To Choose The Right VC Partner For You](http://blog.eladgil.com/2012/11/how-to-choose-right-vc-partner-for-you.html)
+
+[VC Economics – Why Your $50 Million Exit Means Nothing](http://blog.eladgil.com/2010/07/vc-economics-why-your-50-million-exit.html)
+
+[The Road To $5 Billion Is A Long One](http://blog.eladgil.com/2012/10/the-road-to-5-billion-is-long-one.html)
+
+[10X Your Business](http://blog.eladgil.com/2010/10/10x-your-business.html)
+
+[You Don't Need A Good Idea To Start A Great Company](http://blog.eladgil.com/2011/01/you-dont-need-good-idea-to-start-great.html)
+
+[How To Choose A Co-Founder](http://blog.eladgil.com/2012/02/how-to-choose-co-founder.html)
+
+[The Benefits Of Thinking Small](http://blog.eladgil.com/2010/10/benefits-of-thinking-small.html)
+
+[Unequal Cofounders](http://blog.eladgil.com/2017/08/unequal-cofounders.html)
+
+[Building VC Relationships](http://blog.eladgil.com/2017/02/building-vc-relationships.html)
+
+[Preemptive Rounds](http://blog.eladgil.com/2018/06/preemptive-rounds.html)
+
+[Founder Roles](http://blog.eladgil.com/2016/12/founder-roles.html)
+
+[Sell Your Startup To A Breakout Company](http://blog.eladgil.com/2018/04/sell-your-startup-to-breakout-company.html)
+
+[End of Cycle?](http://blog.eladgil.com/2016/07/end-of-cycle.html)
+
+[The 3 Types of "Platform" Companies](http://blog.eladgil.com/2015/01/the-3-types-of-platform-companies.html)
+
+[Defensibility And Lock In: Uber & Lyft](http://blog.eladgil.com/2014/12/defensibility-and-lock-in-uber-lyft.html)
+
+[YC Is A Network Effect Business](http://blog.eladgil.com/2014/09/yc-is-network-effect-business.html)
+
+[How To Ask For An Introduction](http://blog.eladgil.com/2014/07/how-to-ask-for-introduction.html)
 
 
 ## Steven Sinofsky
