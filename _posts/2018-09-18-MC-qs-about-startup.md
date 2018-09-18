@@ -5,7 +5,7 @@ description: ""
 date: 2018-09-18
 tags: 
 comments: true
--
+---
 
 These are questions Michael Seibel mentioned that he likes to ask startups as part of his 2018 “Building Product” Startup School presentation. 
 
