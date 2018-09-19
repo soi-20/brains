@@ -36,9 +36,9 @@ permalink: /output/
 
 ----
 
-#### Personal Library
+#### Library
 
-[My Podcast Library](https://allenleein.github.io/brains/podcast/)
+[Podcast Library](https://allenleein.github.io/brains/podcast/)
 
-[My Startup Reading Library](https://allenleein.github.io/brains/startup/)
+[Startup Reading Library](https://allenleein.github.io/brains/startup/)
 
