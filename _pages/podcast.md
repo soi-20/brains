@@ -4,7 +4,7 @@ title: Podcast Library
 permalink: /podcast/
 ---
 
-## VC
+# VC
 
 [20VC: Nuzzel’s Jonathan Abrams on Why The Top VCs Do Not Have A PlayBook For Startup Success, Why Most Boards Are Not Successful & Why He Is Bored Of Hearing “I Fell Into VC”](https://overcast.fm/+EBTDMaf9I)
 
@@ -14,7 +14,7 @@ permalink: /podcast/
 
 [The Angel Philosopher](https://overcast.fm/+Ei1BFuA1Y)
 
-## Startup Founder
+# Startup Founder
 
 [#334: Drew Houston — The Billionaire Founder of Dropbox](https://overcast.fm/+Kebtc2kkE)
 
