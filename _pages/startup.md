@@ -11,6 +11,10 @@ permalink: /startup/
 
 [YC Startup School](https://www.startupschool.org/library)
 
+[Zen-Of-Founder](https://github.com/allenleein/brains/tree/master/Zen-Of-Founder)
+
+[Zen-Of-Venture-Capital](https://github.com/allenleein/brains/tree/master/Zen-Of-Venture-Capital)
+
 ## Founder 
 
 [Sell Your Startup To A Breakout Company](http://blog.eladgil.com/2018/04/sell-your-startup-to-breakout-company.html)
