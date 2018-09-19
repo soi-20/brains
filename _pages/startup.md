@@ -4,6 +4,7 @@ title:
 permalink: /startup/
 ---
 
+# Must-Read
 
 [Pmarchive](https://pmarchive.com/)
 
@@ -20,7 +21,7 @@ permalink: /startup/
 
 # Elad Gill
 
-[Sell Your Startup To A Breakout Company]()
+[Sell Your Startup To A Breakout Company](http://blog.eladgil.com/2018/04/sell-your-startup-to-breakout-company.html)
 
 [Bad Advice](http://blog.eladgil.com/2013/11/bad-advice.html)
 
