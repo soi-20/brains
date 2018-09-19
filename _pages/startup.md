@@ -1,10 +1,9 @@
 ---
 layout: content
-title: 
+title: Must-Read
 permalink: /startup/
 ---
 
-# Must-Read
 
 [Pmarchive](https://pmarchive.com/)
 
