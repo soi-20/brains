@@ -18,7 +18,7 @@ permalink: /podcast/
 
 [YC- #87 - Elad Gil](https://overcast.fm/+Jb6ABXCso)
 
-[YC #88 - Office Hours with Michael Seibel](https://overcast.fm/+Jb6BAJOwE)
+[YC- #88 - Office Hours with Michael Seibel](https://overcast.fm/+Jb6BAJOwE)
 
 # Perform
 
