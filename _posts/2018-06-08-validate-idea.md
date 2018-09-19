@@ -7,7 +7,9 @@ tags:
 comments: true
 ---
 
----
+# Principles
+
+Go speak with potential users and try to pre-sell your product or service. 
 
 ## Where
 
