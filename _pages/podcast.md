@@ -6,9 +6,13 @@ permalink: /podcast/
 
 # VC
 
-[20VC: Nuzzel’s Jonathan Abrams on Why The Top VCs Do Not Have A PlayBook For Startup Success, Why Most Boards Are Not Successful & Why He Is Bored Of Hearing “I Fell Into VC”](https://overcast.fm/+EBTDMaf9I)
+[Nuzzel’s Jonathan Abrams on Why The Top VCs Do Not Have A PlayBook For Startup Succes](https://overcast.fm/+EBTDMaf9I)
 
 [Why Founders Need a Strategy with Brian Singerman, Founders Fund](https://overcast.fm/+70-4DN7o)
+
+[Founders Fund’s Brian Singerman on Why VC Is About Upside Maximisation](https://overcast.fm/+EBTDYsCTs)
+
+[Investment Games with Brian Singerman](https://overcast.fm/+E6UBaMYDU)
 
 [Marc Andreessen, investor and entrepreneur](https://overcast.fm/+F36pmGao8)
 
@@ -33,3 +37,5 @@ permalink: /podcast/
 # Engineering
 
 [20VC: Founders Fund’s Chief Scientist on Why AI Is Mostly A Scam](https://overcast.fm/+EBTAdZAkU)
+
+[OpenAI: Compute and Safety with Dario Amodei](https://overcast.fm/+E6UAgec7g)
