@@ -12,6 +12,8 @@ permalink: /podcast/
 
 [Marc Andreessen, investor and entrepreneur](https://overcast.fm/+F36pmGao8)
 
+[The Angel Philosopher](https://overcast.fm/+Ei1BFuA1Y)
+
 ## Startup Founder
 
 [#334: Drew Houston — The Billionaire Founder of Dropbox](https://overcast.fm/+Kebtc2kkE)
@@ -25,6 +27,8 @@ permalink: /podcast/
 [Jocko Podcast 1: Jocko & Echo (Discipline, Ownership)](https://overcast.fm/+H092CE6jg)
 
 [#275: Discipline Equals Freedom — Jocko Willink](https://overcast.fm/+KebvZp80s)
+
+[Life Lessons from a Self-Made Billionaire](https://overcast.fm/+Ei1Ajgsto)
 
 # Engineering
 
