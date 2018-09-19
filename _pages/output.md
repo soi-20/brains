@@ -34,5 +34,11 @@ permalink: /output/
 
 [Too Big to Fake](https://medium.com/@allenleein/too-big-to-fake-a7510321273b)
 
+----
 
+#### Personal Library
+
+[My Podcast Library](https://allenleein.github.io/brains/podcast/)
+
+[My Startup Reading Library](https://allenleein.github.io/brains/startup/)
 
