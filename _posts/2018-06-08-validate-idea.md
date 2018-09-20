@@ -9,7 +9,7 @@ comments: true
 
 # Principles
 
-Fist: Go speak with potential users and try to pre-sell your product or service. Focus on problems, not solutions. Get some feedbacks(the READL Idea).
+First, go speak with potential users and try to pre-sell your product or service. Focus on problems, not solutions. Get some feedbacks(the READL Idea)from them.
 
 So, how to validate the idea? 
 
