@@ -59,6 +59,8 @@ permalink: /startup/
 
 [The Benefits Of Thinking Small](http://blog.eladgil.com/2010/10/benefits-of-thinking-small.html)
 
+[The idea maze](http://cdixon.org/2013/08/04/the-idea-maze/)
+
 [“[…] is a toy”](https://medium.learningbyshipping.com/is-a-toy-21312a5c8aea)
 
 [5 Ways to Compete With [Big] Incumbents](https://medium.learningbyshipping.com/5-ways-to-compete-with-big-incumbents-21676740c75a)
