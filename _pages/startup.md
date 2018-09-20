@@ -49,6 +49,8 @@ permalink: /startup/
 
 [The Power User Curve: The Best Way to Understand Your Most Engaged Users](https://a16z.com/2018/08/06/power-user-curve-l30-l7/)
 
+[Acquiring your first 100 customers](https://medium.com/@suhaild/acquiring-your-first-100-customers-5499866d10fb)
+
 [Thoughts on building weatherproof companies](https://medium.com/software-is-eating-the-world/thoughts-on-building-weatherproof-companies-6a72c658f72b)
 
 [You Don't Need A Good Idea To Start A Great Company](http://blog.eladgil.com/2011/01/you-dont-need-good-idea-to-start-great.html)
