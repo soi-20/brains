@@ -30,6 +30,8 @@ The best team will be like:
 </p>
 
 
+# Rules
+
 ## Where
 
 Often what you create will initially seem to fit into an existing market, but with less functionality. With the fullness of  time, it will become obvious that the job your customers are hiring you for is completely different than the “incumbents” -David Rusenko 
