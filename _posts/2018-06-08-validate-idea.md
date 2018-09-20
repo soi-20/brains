@@ -9,23 +9,22 @@ comments: true
 
 # Principles
 
-Go speak with potential users and try to pre-sell your product or service. 
+Fist: Go speak with potential users and try to pre-sell your product or service. Focus on problems, not solutions. Get some feedbacks(the READL Idea).
 
-Idea
+So, how to validate the idea? 
 
 <p align="center">
   <img width="700" height="400" src="https://cdn-images-1.medium.com/max/1600/0*cVN4S759QpD1kJN0.png" alt="Sublime's custom image"/>
 </p>
 
-Bad
+Usually founders will be like: 
 
 <p align="center">
   <img width="700" height="400" src="https://cdn-images-1.medium.com/max/1600/0*Uq_KxRVSyvVRLzFc.png" alt="Sublime's custom image"/>
 </p>
 
+The best team will be like: 
 
-Good
- 
 <p align="center">
   <img width="700" height="400" src="https://cdn-images-1.medium.com/max/1600/1*YNkWVnIh5lwqAU8uzWC4nQ.png" alt="Sublime's custom image"/>
 </p>
