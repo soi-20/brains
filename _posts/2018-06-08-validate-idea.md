@@ -11,6 +11,26 @@ comments: true
 
 Go speak with potential users and try to pre-sell your product or service. 
 
+Idea
+
+<p align="center">
+  <img width="400" height="400" src="https://cdn-images-1.medium.com/max/1600/0*cVN4S759QpD1kJN0.png" alt="Sublime's custom image"/>
+</p>
+
+Bad
+
+<p align="center">
+  <img width="400" height="400" src="https://cdn-images-1.medium.com/max/1600/0*Uq_KxRVSyvVRLzFc.png" alt="Sublime's custom image"/>
+</p>
+
+
+Good
+ 
+<p align="center">
+  <img width="400" height="400" src="https://cdn-images-1.medium.com/max/1600/1*YNkWVnIh5lwqAU8uzWC4nQ.png" alt="Sublime's custom image"/>
+</p>
+
+
 ## Where
 
 Often what you create will initially seem to fit into an existing market, but with less functionality. With the fullness of  time, it will become obvious that the job your customers are hiring you for is completely different than the “incumbents” -David Rusenko 
