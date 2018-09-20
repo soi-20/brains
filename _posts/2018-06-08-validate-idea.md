@@ -14,20 +14,20 @@ Go speak with potential users and try to pre-sell your product or service.
 Idea
 
 <p align="center">
-  <img width="400" height="400" src="https://cdn-images-1.medium.com/max/1600/0*cVN4S759QpD1kJN0.png" alt="Sublime's custom image"/>
+  <img width="700" height="400" src="https://cdn-images-1.medium.com/max/1600/0*cVN4S759QpD1kJN0.png" alt="Sublime's custom image"/>
 </p>
 
 Bad
 
 <p align="center">
-  <img width="400" height="400" src="https://cdn-images-1.medium.com/max/1600/0*Uq_KxRVSyvVRLzFc.png" alt="Sublime's custom image"/>
+  <img width="700" height="400" src="https://cdn-images-1.medium.com/max/1600/0*Uq_KxRVSyvVRLzFc.png" alt="Sublime's custom image"/>
 </p>
 
 
 Good
  
 <p align="center">
-  <img width="400" height="400" src="https://cdn-images-1.medium.com/max/1600/1*YNkWVnIh5lwqAU8uzWC4nQ.png" alt="Sublime's custom image"/>
+  <img width="700" height="400" src="https://cdn-images-1.medium.com/max/1600/1*YNkWVnIh5lwqAU8uzWC4nQ.png" alt="Sublime's custom image"/>
 </p>
 
 
