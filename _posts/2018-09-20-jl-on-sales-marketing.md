@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Why Startups Need to Focus on Sales, Not Marketing""
+title: "Why Startups Need to Focus on Sales, Not Marketing"
 description: ""
 date: 2018-09-20
 tags: 
