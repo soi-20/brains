@@ -128,6 +128,8 @@ permalink: /startup/
 
 [How Much To Manage (“Management Energy Units”)](https://medium.learningbyshipping.com/how-much-to-manage-management-energy-units-ca1637a05140)
 
+## Wrong Prediction
 
+[2007 My YC app: Dropbox - Throw away your USB drive](https://news.ycombinator.com/item?id=8863)
 
 
