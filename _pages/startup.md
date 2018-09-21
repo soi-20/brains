@@ -9,12 +9,6 @@ permalink: /startup/
 
 [Paul Graham Essays](http://www.paulgraham.com/articles.html)
 
-[YC Startup School](https://www.startupschool.org/library)
-
-[Zen-Of-Founder](https://github.com/allenleein/brains/tree/master/Zen-Of-Founder)
-
-[Zen-Of-Venture-Capital](https://github.com/allenleein/brains/tree/master/Zen-Of-Venture-Capital)
-
 ## Founder 
 
 [Sell Your Startup To A Breakout Company](http://blog.eladgil.com/2018/04/sell-your-startup-to-breakout-company.html)
@@ -48,6 +42,8 @@ permalink: /startup/
 
 
 ## Startup Strategy
+
+[Strategy to Leverage the Odds : Don't play the play](https://medium.com/functionsfund/strategy-to-master-the-odds-62289b0f712)
 
 [The Power User Curve: The Best Way to Understand Your Most Engaged Users](https://a16z.com/2018/08/06/power-user-curve-l30-l7/)
 
