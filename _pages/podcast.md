@@ -26,6 +26,8 @@ permalink: /podcast/
 
 [YC- #88 - Office Hours with Michael Seibel](https://overcast.fm/+Jb6BAJOwE)
 
+[Sam Altman on Y Combinator and What Makes The Best Founders ](https://overcast.fm/+GKgC2KUqA)
+
 # Perform
 
 [Jocko Podcast 1: Jocko & Echo (Discipline, Ownership)](https://overcast.fm/+H092CE6jg)
