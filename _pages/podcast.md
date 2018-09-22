@@ -30,6 +30,8 @@ permalink: /podcast/
 
 # Perform
 
+[Joe Rogan - How To Workout Smarter](https://www.youtube.com/watch?v=_fbCcWyYthQ&)
+
 [Jocko Podcast 1: Jocko & Echo (Discipline, Ownership)](https://overcast.fm/+H092CE6jg)
 
 [#275: Discipline Equals Freedom — Jocko Willink](https://overcast.fm/+KebvZp80s)
