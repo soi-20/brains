@@ -34,6 +34,8 @@ permalink: /podcast/
 
 [Life Lessons from a Self-Made Billionaire](https://overcast.fm/+Ei1Ajgsto)
 
+[Peter Attia, M.D. - How to Live a Longer, Higher Quality Life ](https://overcast.fm/+Lzu3Hkzfg)
+
 # Engineering
 
 [20VC: Founders Fund’s Chief Scientist on Why AI Is Mostly A Scam](https://overcast.fm/+EBTAdZAkU)
