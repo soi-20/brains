@@ -11,7 +11,7 @@ permalink: /functionalflow/
 # Ghosts in the Shell:
 ## Brains, Machines and Functional Flow
 
-**I'm trying to decentralizing my brain to a network of brains(Building the software tool for it. Email me if you are interested to join private beta: allenleein@gmail.com)**
+**I'm trying to decentralizing my brain to a network of brains**
 
 Ghost in the Shell (Japanese: 攻殻機動隊 シェルのゴースト) is a 1989 Japanese media franchise originally published as a seinen manga series of the same name written and illustrated by Masamune Shirow. 
 
@@ -24,6 +24,8 @@ Our mind is in a constant racing state.
 Inspired by Ghost in the Shell, I believe the future of human thinking is to decentralize ourselves to a thinking network like "GHOSTS in the Shell". I think we should try to turn our brain into composable and functional brains network by starting to view everything as a function and iterate it like a machine, together.
 
 We need to elevate our mind in this digital age. Not only as human, but also as human + machine.
+
+**(I'm building the software n hardware tool for it. Email me if you are interested to join private beta: allenleein@gmail.com)**
 
 
 ## [Read Wiki](https://github.com/allenleein/brains/wiki#table-of-contents-essay-still-in-process)
