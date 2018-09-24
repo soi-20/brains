@@ -11,7 +11,7 @@ permalink: /functionalflow/
 # Ghosts in the Shell:
 ## Brains, Machines and Functional Flow
 
-**I'm trying to decentralizing my brain to a network of brains**
+**I'm trying to decentralizing my brain to a network of brains.**
 
 Ghost in the Shell (Japanese: 攻殻機動隊 シェルのゴースト) is a 1989 Japanese media franchise originally published as a seinen manga series of the same name written and illustrated by Masamune Shirow. 
 
