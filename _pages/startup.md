@@ -36,6 +36,12 @@ permalink: /startup/
 
 [VC Economics – Why Your $50 Million Exit Means Nothing](http://blog.eladgil.com/2010/07/vc-economics-why-your-50-million-exit.html)
 
+[A stats-based look behind the venture capital curtain](https://medium.com/@efeng/a-stats-based-look-behind-the-venture-capital-curtain-91630b3239ae)
+
+[28 Of The Best VC Bets Of All Time And What We Can Learn From Them](https://www.cbinsights.com/research/best-venture-capital-investments/#Gro)
+
+[50 Big Companies that Started with Little or No Money](https://hackernoon.com/50-big-companies-that-started-with-little-or-no-money-4ef1b68aac25)
+
 [Preemptive Rounds](http://blog.eladgil.com/2018/06/preemptive-rounds.html)
 
 [Building VC Relationships](http://blog.eladgil.com/2017/02/building-vc-relationships.html)
