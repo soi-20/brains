@@ -11,7 +11,7 @@ permalink: /startup/
 
 ## Founder 
 
-[Sell Your Startup To A Breakout Company](http://blog.eladgil.com/2018/04/sell-your-startup-to-breakout-company.html)
+[Strategy to Leverage the Odds : Don't play the play](https://medium.com/functionsfund/strategy-to-master-the-odds-62289b0f712)
 
 [Bad Advice](http://blog.eladgil.com/2013/11/bad-advice.html)
 
