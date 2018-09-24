@@ -48,6 +48,8 @@ permalink: /startup/
 
 [Building VC Relationships](http://blog.eladgil.com/2017/02/building-vc-relationships.html)
 
+[What do I look for in a pitch?](https://news.greylock.com/what-do-i-look-for-in-a-pitch-866355bddb3)
+
 
 ## Startup Strategy
 
