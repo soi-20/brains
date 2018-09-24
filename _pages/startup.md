@@ -42,6 +42,8 @@ permalink: /startup/
 
 [50 Big Companies that Started with Little or No Money](https://hackernoon.com/50-big-companies-that-started-with-little-or-no-money-4ef1b68aac25)
 
+[Three Lessons Learned From Roblox’s $2.4B Valuation](https://hackernoon.com/three-lessons-learned-from-robloxs-2-4b-valuation-56c2d6689677)
+
 [Preemptive Rounds](http://blog.eladgil.com/2018/06/preemptive-rounds.html)
 
 [Building VC Relationships](http://blog.eladgil.com/2017/02/building-vc-relationships.html)
