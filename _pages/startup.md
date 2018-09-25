@@ -69,8 +69,6 @@ permalink: /startup/
 
 [“[…] is a toy”](https://medium.learningbyshipping.com/is-a-toy-21312a5c8aea)
 
-[5 Ways to Compete With [Big] Incumbents](https://medium.learningbyshipping.com/5-ways-to-compete-with-big-incumbents-21676740c75a)
-
 [Competing with BigCo: 2018 Edition](https://medium.learningbyshipping.com/competing-with-bigco-2018-edition-6f475b7be86d)
 
 [10X Your Business](http://blog.eladgil.com/2010/10/10x-your-business.html)
@@ -86,53 +84,24 @@ permalink: /startup/
 [Dealing with doubt and over-confidence in building something new](https://blog.learningbyshipping.com/2013/02/27/dealing-with-doubt-and-over-confidence-in-building-something-new/)
 
 
-## Product Strategy
+## Market Paradigm
 
 [Frictionless Design Choices](https://medium.learningbyshipping.com/frictionless-design-choices-fea3b40f8588)
 
 [Apple’s Software “Problem” and “Fixing” It (via twitter)](https://medium.learningbyshipping.com/apples-software-problem-and-fixing-it-via-twitter-c941a905ba20)
 
-[Performance of Performance Reviews](https://medium.learningbyshipping.com/performance-of-performance-reviews-cd7494eeaef8)
-
 [Nikon versus Canon: A Story Of Technology Change](https://medium.learningbyshipping.com/nikon-versus-canon-a-story-of-technology-change-45777098038c)
 
-[Microsoft Office: Existential Choices In the Face of Platform Shifts](https://medium.learningbyshipping.com/microsoft-office-existential-choices-in-the-face-of-platform-shifts-9ed5847593a4)
-
-[Strategy & Implementation of Third-Party Connections in Products](https://medium.learningbyshipping.com/connectors-3f04f928c821)
-
-[“Perhaps it is simpler to say that Intel…was disrupted”](https://medium.learningbyshipping.com/intel-disruption-594f806cfc21)
-
-[Listening to Customers At Scale](https://medium.learningbyshipping.com/listening-to-customers-b0d4f6a3b275)
+[Mobile OS Paradigm](https://blog.learningbyshipping.com/2014/08/12/mobile-os-paradigm/)
 
 [Programming Languages and Platforms: an annotated twitter thread](https://medium.learningbyshipping.com/platforms-and-languages-f41960af9ec)
-
-[Balancing tradeoffs across different customers](https://blog.learningbyshipping.com/2013/01/)
-
-[disrupt or die](https://blog.learningbyshipping.com/2013/05/)
-
-[Debating product, feature, or company](https://blog.learningbyshipping.com/2013/02/11/debating-product-feature-or-company/)
-
-
-## Market Rules
-
-[Mobile OS Paradigm](https://blog.learningbyshipping.com/2014/08/12/mobile-os-paradigm/)
 
 [End of Cycle?](http://blog.eladgil.com/2016/07/end-of-cycle.html)
 
 [Divergent: Thoughts on Cross-Platform (Updated)](https://medium.learningbyshipping.com/divergent-thoughts-on-cross-platform-updated-68a925a45a83)
 
+[disrupt or die](https://blog.learningbyshipping.com/2013/05/)
 
-## Management
-
-[A Leader’s Guide To Deciding:What, When, and How To Decide](https://medium.learningbyshipping.com/a-leader-s-guide-to-deciding-what-when-and-how-to-decide-f6caf659fa7e)
-
-[On “Ditching Flat: How Structure Helped Us Move Faster”](https://medium.learningbyshipping.com/on-ditching-flat-how-structure-helped-us-move-faster-993cde83e839)
-
-[Leading By Editing, Isn’t (and Why)](https://medium.learningbyshipping.com/leading-by-editing-isnt-and-why-ae8ad3104060)
-
-[Functional versus Unit Organizations](https://medium.learningbyshipping.com/functional-versus-unit-organizations-6b82bfbaa57)
-
-[How Much To Manage (“Management Energy Units”)](https://medium.learningbyshipping.com/how-much-to-manage-management-energy-units-ca1637a05140)
 
 ## Wrong Prediction
 
