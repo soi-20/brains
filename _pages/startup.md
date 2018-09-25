@@ -50,6 +50,8 @@ permalink: /startup/
 
 [What do I look for in a pitch?](https://news.greylock.com/what-do-i-look-for-in-a-pitch-866355bddb3)
 
+[From Private To Public: How To Read An S-1](https://news.crunchbase.com/news/how-to-read-an-s1/)
+
 
 ## Startup Strategy
 
