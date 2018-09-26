@@ -14,7 +14,7 @@ permalink: /output/
 
 [Contrarian](https://allenleein.github.io/brains/2018/05/contrarian)
 
-## Founder
+## Building 
 
 [Ken Howery on Building Startup](https://allenleein.github.io/brains/2018/09/Ken-Howery-startup)
 
@@ -36,7 +36,7 @@ permalink: /output/
 
 ----
 
-#### Library
+#### My Library
 
 [Podcast Library](https://allenleein.github.io/brains/podcast/)
 
