@@ -26,6 +26,10 @@ permalink: /startup/
 [Founder Roles](http://blog.eladgil.com/2016/12/founder-roles.html)
 
 
+## Fundraising
+
+[Top VCs share insights on the most important elements of fundraising pitches.](https://thecompanybrief.com/startup-fundraising-advice)
+
 ## Venture Capital
 
 [How Sequoia’s $2 billion Dropbox win became as big as it is](https://www.recode.net/2018/3/22/17150770/sequoia-dropbox-ipo-win)
