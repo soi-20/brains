@@ -40,5 +40,5 @@ permalink: /output/
 
 [Podcast Library](https://allenleein.github.io/brains/podcast/)
 
-[Startup Reading Library](https://allenleein.github.io/brains/startup/)
+[Startup and VC Reading Library](https://allenleein.github.io/brains/startup/)
 
