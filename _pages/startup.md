@@ -40,6 +40,8 @@ permalink: /startup/
 
 [VC Economics – Why Your $50 Million Exit Means Nothing](http://blog.eladgil.com/2010/07/vc-economics-why-your-50-million-exit.html)
 
+[12 Things I Learned From Marc Andreessen](https://a16z.com/2014/07/21/a-dozen-things-ive-learned-from-marc-andreessen/)
+
 [A stats-based look behind the venture capital curtain](https://medium.com/@efeng/a-stats-based-look-behind-the-venture-capital-curtain-91630b3239ae)
 
 [28 Of The Best VC Bets Of All Time And What We Can Learn From Them](https://www.cbinsights.com/research/best-venture-capital-investments/#Gro)
