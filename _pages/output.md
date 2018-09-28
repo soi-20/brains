@@ -6,7 +6,7 @@ permalink: /output/
 
 ## People
 
-[Ghosts in the Shell: Brains, Machines and Functional Flow](https://allenleein.github.io/brains/functionalflow/)
+[Ghosts in the Shell: Brains, Machines and Functional Flow](https://github.com/allenleein/brains/wiki)
 
 [Dunkirk: The legend ends, the unknown knight rises](https://medium.com/@allenleein/dunkirk-943222cc8ea)
 
