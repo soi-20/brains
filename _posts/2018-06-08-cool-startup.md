@@ -11,11 +11,9 @@ Keep these in mind:
 
 Great investor's advice isn’t good for building a great product. 
 
-99.9% VCs give stupid advice. 
+99.9% VCs give useless advice.
 
 Work on a problem that has an immediately useful solution, but has enormous potential for growth. 
-
-Will people buy because of this feature? Will people not buy because of lack of this feature?
 
 If people love your product, the tiniest announcements will get attention. If people don’t love your product, no amount of marketing effort will help.
 
