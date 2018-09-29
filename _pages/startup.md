@@ -5,7 +5,7 @@ permalink: /startup/
 ---
 
 
-[Pmarchive](https://pmarchive.com/)
+[Marc Andreessen Essays](https://pmarchive.com/)
 
 [Paul Graham Essays](http://www.paulgraham.com/articles.html)
 
