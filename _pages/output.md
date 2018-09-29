@@ -4,9 +4,12 @@ title: λ
 permalink: /output/
 ---
 
-## People
+## Ghosts in the Shell
 
-[Ghosts in the Shell: Brains, Machines and Functional Flow](https://github.com/allenleein/brains/wiki)
+[λ Ghosts in the Shell λ: Function Composition in a Network of Brains](https://github.com/allenleein/brains/wiki)
+
+
+## People
 
 [Dunkirk: The legend ends, the unknown knight rises](https://medium.com/@allenleein/dunkirk-943222cc8ea)
 
