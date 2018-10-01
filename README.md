@@ -4,7 +4,7 @@
 </p>
 
 
-# Brains, Machines and Functional Flow
+# Functional Flow > Brains > Machines
 
 **I'm decentralizing my brain to a network of brains.**
 
