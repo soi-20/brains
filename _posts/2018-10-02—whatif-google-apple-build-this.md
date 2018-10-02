@@ -2,7 +2,7 @@
 layout: post
 title: "What if Apple / Google build their own ___?"
 description: ""
-date: 2018-09-20
+date: 2018-10-02
 tags: 
 comments: true
 ---
