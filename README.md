@@ -4,7 +4,7 @@
 </p>
 
 
-# Functional Flow > Brains > Machines
+# Functional Flow > Brains > Ghosts in the Shell
 
 **I'm decentralizing my brain to a network of brains.**
 
