@@ -32,6 +32,8 @@ permalink: /startup/
 
 ## Venture Capital
 
+#### The best VCs don't seek validation from their peers, they form their own views.
+
 [How Sequoia’s $2 billion Dropbox win became as big as it is](https://www.recode.net/2018/3/22/17150770/sequoia-dropbox-ipo-win)
 
 [The Danger of Pitching VCs Too Early](http://blog.eladgil.com/2013/06/the-danger-of-pitching-vcs-too-early.html)
