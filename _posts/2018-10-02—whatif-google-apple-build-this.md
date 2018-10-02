@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What if Apple / Google build their own ___?"
+title: "What if Apple/Google build their own ___ ?"
 description: ""
 date: 2018-10-02
 tags: 
