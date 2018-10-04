@@ -22,6 +22,8 @@ permalink: /podcast/
 
 [Technological Trends, Capital, and Internet ‘Disruption’](https://overcast.fm/+BlzFPJdLY)
 
+[The State of Venture Capital by Chris Dixon](https://overcast.fm/+Ei1Ae8cmA)
+
 # Startup Founder
 
 [Competition is for Losers (Peter Thiel)](https://www.youtube.com/watch?v=5_0dVHMpJlo&t=14s)
