@@ -4,7 +4,7 @@ title: Podcast Library
 permalink: /podcast/
 ---
 
-# VC
+# Venture Capital
 
 [Nuzzel’s Jonathan Abrams on Why The Top VCs Do Not Have A PlayBook For Startup Succes](https://overcast.fm/+EBTDMaf9I)
 
@@ -18,15 +18,21 @@ permalink: /podcast/
 
 [The Angel Philosopher](https://overcast.fm/+Ei1BFuA1Y)
 
+[Venture capital is headed for a ‘huge, rude awakening’ ](https://overcast.fm/+F36qtW8zQ)
+
+[Technological Trends, Capital, and Internet ‘Disruption’](https://overcast.fm/+BlzFPJdLY)
+
 # Startup Founder
+
+[Competition is for Losers (Peter Thiel)](https://www.youtube.com/watch?v=5_0dVHMpJlo&t=14s)
 
 [#334: Drew Houston — The Billionaire Founder of Dropbox](https://overcast.fm/+Kebtc2kkE)
 
-[YC- #87 - Elad Gil](https://overcast.fm/+Jb6ABXCso)
+[Y Combinator co-founder Paul Graham](https://overcast.fm/+Ek5PLd928)
 
-[YC- #88 - Office Hours with Michael Seibel](https://overcast.fm/+Jb6BAJOwE)
+[Elad Gil](https://overcast.fm/+Jb6ABXCso)
 
-[Sam Altman on Y Combinator and What Makes The Best Founders ](https://overcast.fm/+GKgC2KUqA)
+[Sam Altman on What Makes The Best Founders ](https://overcast.fm/+GKgC2KUqA)
 
 # Perform
 
