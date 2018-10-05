@@ -29,6 +29,9 @@ The best team will be like:
   <img width="700" height="400" src="https://cdn-images-1.medium.com/max/1600/1*YNkWVnIh5lwqAU8uzWC4nQ.png" alt="Sublime's custom image"/>
 </p>
 
+In MVP you launch the first version of your product with sufficient features, but not all, to early adopters so that you can get feedback from them. MVP and the "Build Measure Learn" feedback loop, gives you important tools to leverage your product. 
+
+Build something you can measure and iterate.
 
 # Rules
 
@@ -38,11 +41,11 @@ Often what you create will initially seem to fit into an existing market, but wi
 
 ## When 
 
-“Launch when your product is better than what’s out there” - Paul Buchheit
+“Launch when your product is better than what’s out there.” - Paul Buchheit
 
 ## What
 
-Y Combinator CEO: “The True Test of Product-Market Fit Is 'Drowning in Demand'”
+“The true test of Product-Market Fit iss 'drowning in demand'.” - Michael Seibel
 
 ---
 
