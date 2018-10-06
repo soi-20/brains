@@ -15,6 +15,8 @@ permalink: /startup/
 
 [Bad Advice](http://blog.eladgil.com/2013/11/bad-advice.html)
 
+[Survivorship Bias and Startup Hype](https://www.sonyaellenmann.com/2018/06/survivorship-bias-and-startup-hype.html)
+
 [How To Fire A Co-Founder](http://blog.eladgil.com/2013/01/how-to-fire-co-founder.html)
 
 [The Road To $5 Billion Is A Long One](http://blog.eladgil.com/2012/10/the-road-to-5-billion-is-long-one.html)
