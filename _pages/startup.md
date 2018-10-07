@@ -9,6 +9,7 @@ permalink: /startup/
 
 [Paul Graham Essays](http://www.paulgraham.com/articles.html)
 
+
 ## Founder 
 
 [Strategy to Leverage the Odds : Don't play the play](https://medium.com/functionsfund/strategy-to-master-the-odds-62289b0f712)
@@ -19,13 +20,13 @@ permalink: /startup/
 
 [How To Fire A Co-Founder](http://blog.eladgil.com/2013/01/how-to-fire-co-founder.html)
 
-[The Road To $5 Billion Is A Long One](http://blog.eladgil.com/2012/10/the-road-to-5-billion-is-long-one.html)
-
 [Unequal Cofounders](http://blog.eladgil.com/2017/08/unequal-cofounders.html)
 
 [How To Choose A Co-Founder](http://blog.eladgil.com/2012/02/how-to-choose-co-founder.html)
 
 [Founder Roles](http://blog.eladgil.com/2016/12/founder-roles.html)
+
+[The Road To $5 Billion Is A Long One](http://blog.eladgil.com/2012/10/the-road-to-5-billion-is-long-one.html)
 
 
 ## Fundraising
@@ -71,27 +72,13 @@ permalink: /startup/
 
 [Thoughts on building weatherproof companies](https://medium.com/software-is-eating-the-world/thoughts-on-building-weatherproof-companies-6a72c658f72b)
 
-[You Don't Need A Good Idea To Start A Great Company](http://blog.eladgil.com/2011/01/you-dont-need-good-idea-to-start-great.html)
-
 [The Benefits Of Thinking Small](http://blog.eladgil.com/2010/10/benefits-of-thinking-small.html)
 
 [The idea maze](http://cdixon.org/2013/08/04/the-idea-maze/)
 
 [“[…] is a toy”](https://medium.learningbyshipping.com/is-a-toy-21312a5c8aea)
 
-[Competing with BigCo: 2018 Edition](https://medium.learningbyshipping.com/competing-with-bigco-2018-edition-6f475b7be86d)
-
-[10X Your Business](http://blog.eladgil.com/2010/10/10x-your-business.html)
-
 [Disruption’s Long, Slow, Complex Journey](https://medium.learningbyshipping.com/disruptions-long-slow-complex-journey-c43872788423)
-
-[New Things In New Ways, or Same Old Things In Old Ways?](https://medium.learningbyshipping.com/apples-software-problem-and-fixing-it-via-twitter-c941a905ba20)
-
-[The 3 Types of "Platform" Companies](http://blog.eladgil.com/2015/01/the-3-types-of-platform-companies.html)
-
-[Defensibility And Lock In: Uber & Lyft](http://blog.eladgil.com/2014/12/defensibility-and-lock-in-uber-lyft.html)
-
-[Dealing with doubt and over-confidence in building something new](https://blog.learningbyshipping.com/2013/02/27/dealing-with-doubt-and-over-confidence-in-building-something-new/)
 
 
 ## Market Paradigm
@@ -103,14 +90,6 @@ permalink: /startup/
 [Nikon versus Canon: A Story Of Technology Change](https://medium.learningbyshipping.com/nikon-versus-canon-a-story-of-technology-change-45777098038c)
 
 [Mobile OS Paradigm](https://blog.learningbyshipping.com/2014/08/12/mobile-os-paradigm/)
-
-[Programming Languages and Platforms: an annotated twitter thread](https://medium.learningbyshipping.com/platforms-and-languages-f41960af9ec)
-
-[End of Cycle?](http://blog.eladgil.com/2016/07/end-of-cycle.html)
-
-[Divergent: Thoughts on Cross-Platform (Updated)](https://medium.learningbyshipping.com/divergent-thoughts-on-cross-platform-updated-68a925a45a83)
-
-[disrupt or die](https://blog.learningbyshipping.com/2013/05/)
 
 
 ## Wrong Prediction
