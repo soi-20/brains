@@ -81,7 +81,7 @@ permalink: /startup/
 [Disruption’s Long, Slow, Complex Journey](https://medium.learningbyshipping.com/disruptions-long-slow-complex-journey-c43872788423)
 
 
-## Market Paradigm
+## Paradigm
 
 [Frictionless Design Choices](https://medium.learningbyshipping.com/frictionless-design-choices-fea3b40f8588)
 
