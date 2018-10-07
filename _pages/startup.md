@@ -55,8 +55,6 @@ permalink: /startup/
 
 [Preemptive Rounds](http://blog.eladgil.com/2018/06/preemptive-rounds.html)
 
-[Building VC Relationships](http://blog.eladgil.com/2017/02/building-vc-relationships.html)
-
 [What do I look for in a pitch?](https://news.greylock.com/what-do-i-look-for-in-a-pitch-866355bddb3)
 
 [From Private To Public: How To Read An S-1](https://news.crunchbase.com/news/how-to-read-an-s1/)
