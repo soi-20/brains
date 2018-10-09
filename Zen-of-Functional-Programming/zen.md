@@ -42,19 +42,16 @@
 
 ## Pre-Haskell
 
-In the same trend, don't write abstractions first. Haskell programmers love their abstractions, and it's easy to fall into the trap of trying to shoehorn the abstraction into your program. 
+**Don't write abstractions first**. 
+
+Haskell programmers love their abstractions, and it's easy to fall into the trap of trying to shoehorn the abstraction into your program. 
 
 Rather, write the program like you would naturally, then when you recognize the patterns (i.e. Monad, Applicative, ...), rewrite it using the abstractions. Use higher order functions to separate similar functionality, and before you know it you have a nice combinator library which describes your problem domain well. Some libraries abuse monads just for do notation (blaze), which I find quite ugly.
 
-
-[Practical Haskell](http://seanhess.github.io/)
-
-[Code](https://github.com/seanhess/practical-haskell)
+Reading ref: [For Beginners](https://argumatronic.com/posts/1970-01-01-beginners.html)
 
 
 ## Haskell 101
-
-[For Beginners](https://argumatronic.com/tags/beginner-friendly.html)
 
 ⭐️⭐️⭐️ [Haskell Study Plan](https://github.com/soupi/haskell-study-plan)
 
@@ -62,6 +59,7 @@ Rather, write the program like you would naturally, then when you recognize the 
 
 [ CIS 194 Homework](https://github.com/elbeno/cis194-spring2013)
   
+[Practical Haskell](http://seanhess.github.io/)
 
 ## Purescript 
 
