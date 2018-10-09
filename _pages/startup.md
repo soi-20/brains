@@ -7,9 +7,6 @@ permalink: /startup/
 
 [Marc Andreessen Essays](https://pmarchive.com/)
 
-[Paul Graham Essays](http://www.paulgraham.com/articles.html)
-
-
 ## Founder 
 
 [Strategy to Leverage the Odds : Don't play the play](https://medium.com/functionsfund/strategy-to-master-the-odds-62289b0f712)
