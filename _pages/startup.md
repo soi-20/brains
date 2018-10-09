@@ -78,6 +78,8 @@ permalink: /startup/
 
 [Disruption’s Long, Slow, Complex Journey](https://medium.learningbyshipping.com/disruptions-long-slow-complex-journey-c43872788423)
 
+[The Network Effects Bible](https://www.nfx.com/post/network-effects-bible)
+
 
 ## Paradigm
 
