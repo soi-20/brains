@@ -46,7 +46,7 @@
 
 Haskell programmers love their abstractions, and it's easy to fall into the trap of trying to shoehorn the abstraction into your program. 
 
-Rather, write the program like you would naturally, then when you recognize the patterns (i.e. Monad, Applicative, ...), rewrite it using the abstractions. Use higher order functions to separate similar functionality, and before you know it you have a nice combinator library which describes your problem domain well. Some libraries abuse monads just for do notation (blaze), which I find quite ugly.
+Rather, write the program like you would naturally, then when you recognize the patterns (i.e. Monad, Applicative, ...), rewrite it using the abstractions. Use higher order functions to separate similar functionality, and before you know it you have a nice combinator library which describes your problem domain well. 
 
 Reading ref: [For Beginners](https://argumatronic.com/posts/1970-01-01-beginners.html)
 
