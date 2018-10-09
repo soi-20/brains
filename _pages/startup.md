@@ -67,6 +67,8 @@ permalink: /startup/
 
 [Thoughts on building weatherproof companies](https://medium.com/software-is-eating-the-world/thoughts-on-building-weatherproof-companies-6a72c658f72b)
 
+[Reid Hoffman's Playbook for Growth and Network Effects](https://www.nfx.com/post/reid-hoffman-network-effects-interview-james-currier?utm_source=emai&utm_source=hs_email&utm_campaign=blitzscaling&utm_campaign=Email%20Newsletter&utm_medium=email&utm_content=66532329&_hsenc=p2ANqtz-8kSJc4ua8Rfz1BIdkKZoDo2wE68PueBrexRUX52t-6ClRmDBNBy4odnsbV97M8jooQ5OwjY60i36dAfkfH4KHN40_FIA&_hsmi=66532329)
+
 [The Benefits Of Thinking Small](http://blog.eladgil.com/2010/10/benefits-of-thinking-small.html)
 
 [The idea maze](http://cdixon.org/2013/08/04/the-idea-maze/)
