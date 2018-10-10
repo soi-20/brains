@@ -51,11 +51,6 @@ Often what you create will initially seem to fit into an existing market, but wi
 ---
 
 
-<p align="center">
-  <img width="700" height="500" src="https://i.imgur.com/WFyvp3s.png" alt="Sublime's custom image"/>
-</p>
-
-
 ### Focus on problems not solution
  
 Write down the problem you're trying to solve and your solution. A lot of ideas may sound awesome while they're in your head, but that might change once you transform it from an abstract concept into 2–3 sentences.
@@ -67,6 +62,12 @@ Talk to users, develop a market thesis. Make sure to ask questions relevant to j
 This is hard. Don't simply email the survey link to your friends - because of something called "Interviewer bias", your friends will rate your ideas more favorably than the general public. Also, it's highly likely that your friends aren't actually in your target audience.
 
 ### Distill your entire product down to 1–2 features
+
+
+<p align="center">
+  <img width="700" height="500" src="https://i.imgur.com/WFyvp3s.png" alt="Sublime's custom image"/>
+</p>
+
 
 Your first version should be a feature instead of a product. Figure out what 1 feature summarizes the entire product.
 
