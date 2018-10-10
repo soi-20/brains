@@ -7,6 +7,10 @@ tags:
 comments: true
 ---
 
+<p align="center">
+  <img width="700" height="400" src="https://i.imgur.com/WFyvp3s.png" alt="Sublime's custom image"/>
+</p>
+
 # Principles
 
 First, go speak with potential users and try to pre-sell your product or service. Focus on problems, not solutions. Get some feedbacks(the REAL Idea)from them.
