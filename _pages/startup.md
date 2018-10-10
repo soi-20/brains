@@ -56,6 +56,8 @@ permalink: /startup/
 
 [Fear and loathing in venture capital](http://blog.maxniederhofer.com/fear-and-loathing-in-venture-capital)
 
+[VC Risking](https://allenleein.github.io/brains/2018/03/read-vc)
+
 [From Private To Public: How To Read An S-1](https://news.crunchbase.com/news/how-to-read-an-s1/)
 
 
