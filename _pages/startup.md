@@ -81,6 +81,7 @@ permalink: /startup/
 
 [The Network Effects Bible](https://www.nfx.com/post/network-effects-bible)
 
+[Black Design](http://www.black.design/)
 
 ## Paradigm
 
