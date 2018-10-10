@@ -8,7 +8,7 @@ comments: true
 ---
 
 <p align="center">
-  <img width="700" height="400" src="https://i.imgur.com/WFyvp3s.png" alt="Sublime's custom image"/>
+  <img width="700" height="500" src="https://i.imgur.com/WFyvp3s.png" alt="Sublime's custom image"/>
 </p>
 
 # Principles
