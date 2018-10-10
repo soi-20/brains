@@ -54,6 +54,8 @@ permalink: /startup/
 
 [What do I look for in a pitch?](https://news.greylock.com/what-do-i-look-for-in-a-pitch-866355bddb3)
 
+[Fear and loathing in venture capital](http://blog.maxniederhofer.com/fear-and-loathing-in-venture-capital)
+
 [From Private To Public: How To Read An S-1](https://news.crunchbase.com/news/how-to-read-an-s1/)
 
 
