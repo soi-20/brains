@@ -7,9 +7,6 @@ tags:
 comments: true
 ---
 
-<p align="center">
-  <img width="700" height="500" src="https://i.imgur.com/WFyvp3s.png" alt="Sublime's custom image"/>
-</p>
 
 # Principles
 
@@ -52,6 +49,12 @@ Often what you create will initially seem to fit into an existing market, but wi
 “The true test of Product-Market Fit iss 'drowning in demand'.” - Michael Seibel
 
 ---
+
+
+<p align="center">
+  <img width="700" height="500" src="https://i.imgur.com/WFyvp3s.png" alt="Sublime's custom image"/>
+</p>
+
 
 ### Focus on problems not solution
  
