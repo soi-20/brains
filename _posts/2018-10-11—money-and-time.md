@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: “Money and Time by Naval”
