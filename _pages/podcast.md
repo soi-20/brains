@@ -36,6 +36,13 @@ permalink: /podcast/
 
 [Sam Altman on What Makes The Best Founders ](https://overcast.fm/+GKgC2KUqA)
 
+# Strategy and Disruption
+
+[Tesla and the Nature of Disruption](https://overcast.fm/+BlzEVKwhM)
+
+[Technological Trends, Capital, and Internet ‘Disruption’](https://overcast.fm/+BlzFPJdLY)
+
+
 # Perform
 
 [Joe Rogan - How To Workout Smarter](https://www.youtube.com/watch?v=_fbCcWyYthQ&)
