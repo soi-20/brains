@@ -53,15 +53,13 @@ Reading ref: [For Beginners](https://argumatronic.com/posts/1970-01-01-beginners
 
 ## Haskell 101
 
-⭐️⭐️ [Practical Haskell](http://seanhess.github.io/)
+⭐️⭐️ [Practical Haskell](http://seanhess.github.io/) (Try this)
 
-⭐️⭐️⭐️ [Haskell Study Plan](https://github.com/soupi/haskell-study-plan)
+⭐️⭐️⭐️ [Haskell Study Plan](https://github.com/soupi/haskell-study-plan)(Then this again)
 
-⭐️⭐️⭐️ [Haskell Programming From First Principle](https://github.com/allenleein/brains/blob/master/Zen-of-Functional-Programming/Haskell%20Programming%20From%20First%20Principle.pdf)
+⭐️⭐️⭐️ [CIS 194 UPenn 2013](http://www.seas.upenn.edu/~cis194/spring13/lectures.html)(Take a look)
 
-⭐️⭐️⭐️ [CIS 194 UPenn 2013](http://www.seas.upenn.edu/~cis194/spring13/lectures.html)
-
-[ CIS 194 Homework](https://github.com/elbeno/cis194-spring2013)
+⭐️⭐️⭐️ [Haskell Programming From First Principle](https://github.com/allenleein/brains/blob/master/Zen-of-Functional-Programming/Haskell%20Programming%20From%20First%20Principle.pdf)(The gold)
   
 
 ## Purescript 
