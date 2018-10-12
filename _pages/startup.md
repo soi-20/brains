@@ -65,6 +65,8 @@ permalink: /startup/
 
 [Strategy to Leverage the Odds : Don't play the play](https://medium.com/functionsfund/strategy-to-master-the-odds-62289b0f712)
 
+[Does every startup need a Steve Jobs?](https://andrewchen.co/does-every-startup-need-a-steve-jobs/)
+
 [The Power User Curve: The Best Way to Understand Your Most Engaged Users](https://a16z.com/2018/08/06/power-user-curve-l30-l7/)
 
 [Acquiring your first 100 customers](https://medium.com/@suhaild/acquiring-your-first-100-customers-5499866d10fb)
