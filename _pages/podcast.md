@@ -24,6 +24,8 @@ permalink: /podcast/
 
 [The State of Venture Capital by Chris Dixon](https://overcast.fm/+Ei1Ae8cmA)
 
+[Chamath Palihapitiya on falling for Ponzi scheme of SV, returns to solving problems that matter](https://www.youtube.com/watch?v=RwRZtZQoLtQ)
+
 # Startup Founder
 
 [Competition is for Losers (Peter Thiel)](https://www.youtube.com/watch?v=5_0dVHMpJlo&t=14s)
