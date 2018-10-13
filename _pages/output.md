@@ -1,10 +1,10 @@
 ---
 layout: content
-title: λ
+title: ☈⚡️
 permalink: /output/
 ---
 
-## Humans
+### Humans
 
 [λ Ghosts in the Shell λ: Function Composition in a Network of Brains](https://github.com/allenleein/brains/wiki)
 
@@ -14,7 +14,7 @@ permalink: /output/
 
 [Contrarian](https://allenleein.github.io/brains/2018/05/contrarian)
 
-## Building 
+### Building 
 
 [Validate Your Idea](https://allenleein.github.io/brains/2018/06/validate-idea)
 
@@ -23,7 +23,7 @@ permalink: /output/
 [A Cool Startup](https://allenleein.github.io/brains/2018/06/cool-startup)
 
 
-## Leverage the Odds
+### Leverage the Odds
 
 [Strategy to Leverage the Odds : Don't play the play](https://medium.com/functionsfund/strategy-to-master-the-odds-62289b0f712)
 
@@ -33,7 +33,7 @@ permalink: /output/
 
 ----
 
-#### My Input Library
+#### ⚡️ My Input Library
 
 [Podcast Library](https://allenleein.github.io/brains/podcast/)
 
