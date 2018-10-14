@@ -6,7 +6,7 @@ permalink: /podcast/
 
 # Venture Capital
 
-[Nuzzel’s Jonathan Abrams on Why The Top VCs Do Not Have A PlayBook For Startup Succes](https://overcast.fm/+EBTDMaf9I)
+[Founders Fund's Approach to Investing in Tech](https://www.youtube.com/watch?v=bKVdbJo7b-Q)
 
 [Why Founders Need a Strategy with Brian Singerman, Founders Fund](https://overcast.fm/+70-4DN7o)
 
@@ -25,6 +25,9 @@ permalink: /podcast/
 [The State of Venture Capital by Chris Dixon](https://overcast.fm/+Ei1Ae8cmA)
 
 [Chamath Palihapitiya on falling for Ponzi scheme of SV, returns to solving problems that matter](https://www.youtube.com/watch?v=RwRZtZQoLtQ)
+
+[Nuzzel’s Jonathan Abrams on Why The Top VCs Do Not Have A PlayBook For Startup Succes](https://overcast.fm/+EBTDMaf9I)
+
 
 # Startup Founder
 
