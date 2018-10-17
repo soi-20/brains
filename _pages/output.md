@@ -35,7 +35,7 @@ permalink: /output/
 
 #### 📙 📺 My Input Library
 
-[Podcast Library](https://allenleein.github.io/brains/podcast/)
+[Podcast/Video Library](https://allenleein.github.io/brains/podcast/)
 
 [Startup and VC Reading Library](https://allenleein.github.io/brains/startup/)
 
