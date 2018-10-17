@@ -33,7 +33,7 @@ permalink: /output/
 
 ----
 
-#### ⚡️ My Input Library
+#### 📙 📺 My Input Library
 
 [Podcast Library](https://allenleein.github.io/brains/podcast/)
 
