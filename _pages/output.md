@@ -6,7 +6,7 @@ permalink: /output/
 
 ### Humans
 
-[λ Ghosts in the Shell λ: Function Composition in a Network of Brains](https://github.com/allenleein/brains/wiki)
+[☈λ Ghosts in the Shell: Function Composition in a Network of Brains](https://github.com/allenleein/brains/wiki)
 
 [Dunkirk: The legend ends, the unknown knight rises](https://medium.com/@allenleein/dunkirk-943222cc8ea)
 
