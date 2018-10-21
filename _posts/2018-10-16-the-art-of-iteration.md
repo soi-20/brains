@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “The Art of Iteration”
+title: The Art of Iteration
 description: ""
 date: 2018-10-16
 tags: 
