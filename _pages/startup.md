@@ -103,3 +103,8 @@ permalink: /startup/
 [2007 My YC app: Dropbox - Throw away your USB drive](https://news.ycombinator.com/item?id=8863)
 
 
+## Design
+
+[Startups, this is how design works](https://startupsthisishowdesignworks.com/)
+
+
