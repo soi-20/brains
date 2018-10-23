@@ -4,8 +4,6 @@ title: ☈λ
 permalink: /output/
 ---
 
-### Humans
-
 [☈λ Ghosts in the Shell: Function Composition in a Network of Brains](https://github.com/allenleein/brains/wiki)
 
 [Dunkirk: The legend ends, the unknown knight rises](https://medium.com/@allenleein/dunkirk-943222cc8ea)
@@ -14,7 +12,7 @@ permalink: /output/
 
 [Contrarian](https://allenleein.github.io/brains/2018/05/contrarian)
 
-### Building 
+[Strategy to Leverage the Odds : Don't play the play](https://medium.com/functionsfund/strategy-to-master-the-odds-62289b0f712)
 
 [Validate Your Idea](https://allenleein.github.io/brains/2018/06/validate-idea)
 
@@ -22,18 +20,13 @@ permalink: /output/
 
 [A Cool Startup](https://allenleein.github.io/brains/2018/06/cool-startup)
 
-
-### Leverage the Odds
-
-[Strategy to Leverage the Odds : Don't play the play](https://medium.com/functionsfund/strategy-to-master-the-odds-62289b0f712)
-
 [Apple’s Strategy to Dominate Audio](https://medium.com/functionsfund/functions-c292b619a0c3)
 
 [Too Big to Fake](https://medium.com/@allenleein/too-big-to-fake-a7510321273b)
 
 ----
 
-#### 📙 📺 Input Library
+#### 📙📺 Input
 
 [Podcast/Video Library](https://allenleein.github.io/brains/podcast/)
 
