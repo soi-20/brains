@@ -6,6 +6,8 @@ permalink: /podcast/
 
 # Venture Capital
 
+[How Sean Parker Picks Investments](https://www.youtube.com/watch?v=Ked4vecS-Hc)
+
 [Founders Fund's Approach to Investing in Tech](https://www.youtube.com/watch?v=bKVdbJo7b-Q)
 
 [Why Founders Need a Strategy with Brian Singerman, Founders Fund](https://overcast.fm/+70-4DN7o)
