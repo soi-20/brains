@@ -12,19 +12,14 @@ You can also find me here:
 
 [GoodReads](https://www.goodreads.com/user/show/20146841-allen)
 
+## Write
+
 [Output](https://allenleein.github.io/brains/output/)
-
-
-## Photos
-
-[VSCO]()
 
 
 ## Building
 
 [24の氣](https://www.producthunt.com/upcoming/24-24-energy)
-
-[TARS](https://www.producthunt.com/upcoming/tars)
 
 
 ## Trash
