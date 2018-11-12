@@ -44,7 +44,7 @@ Often what you create will initially seem to fit into an existing market, but wi
 
 Fucus the interaction design rather than the visual design.
 
-### Focus on problems not solution
+### Focus on problems [not solution](https://mobile.twitter.com/Suhail/status/1060948296573710336)
  
 Write down the problem you're trying to solve and your solution. A lot of ideas may sound awesome while they're in your head, but that might change once you transform it from an abstract concept into 2–3 sentences.
 
