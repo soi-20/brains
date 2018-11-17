@@ -12,6 +12,13 @@ You can also find me here:
 
 [GoodReads](https://www.goodreads.com/user/show/20146841-allen)
 
+[Reading Library](https://allenleein.github.io/brains/read/)
+
+
+# Listen
+
+[Audio/Video Library](https://allenleein.github.io/brains/listen/)
+
 ## Write
 
 [Output](https://allenleein.github.io/brains/output/)
