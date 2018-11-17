@@ -1,7 +1,7 @@
 ---
 layout: content
 title: Audio/Video Library
-permalink: /podcast/
+permalink: /listen/
 ---
 
 # Venture Capital
