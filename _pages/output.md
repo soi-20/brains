@@ -4,15 +4,12 @@ title: ☈λ
 permalink: /output/
 ---
 
-[☈λ Ghosts in the Shell: Function Composition in a Network of Brains](https://github.com/allenleein/brains/wiki)
-
-[Dunkirk: The legend ends, the unknown knight rises](https://medium.com/@allenleein/dunkirk-943222cc8ea)
 
 [All People are Born Artists](https://allenleein.github.io/brains/2018/03/artist)
 
 [Contrarian](https://allenleein.github.io/brains/2018/05/contrarian)
 
-[Strategy to Leverage the Odds : Don't play the play](https://medium.com/functionsfund/strategy-to-master-the-odds-62289b0f712)
+[Strategy to Leverage the Odds : Don't play the game](https://medium.com/functionsfund/strategy-to-master-the-odds-62289b0f712)
 
 [Validate Your Idea](https://allenleein.github.io/brains/2018/06/validate-idea)
 
