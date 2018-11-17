@@ -20,12 +20,3 @@ permalink: /output/
 [Apple’s Strategy to Dominate Audio](https://medium.com/functionsfund/functions-c292b619a0c3)
 
 [Too Big to Fake](https://medium.com/@allenleein/too-big-to-fake-a7510321273b)
-
-----
-
-#### 📙📺 Input
-
-[Podcast/Video Library](https://allenleein.github.io/brains/podcast/)
-
-[Reading Library](https://allenleein.github.io/brains/startup/)
-
