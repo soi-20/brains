@@ -1,7 +1,7 @@
 ---
 layout: content
 title: Must-Read
-permalink: /startup/
+permalink: /read/
 ---
 
 
