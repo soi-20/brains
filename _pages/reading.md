@@ -97,6 +97,8 @@ permalink: /startup/
 
 [Mobile OS Paradigm](https://blog.learningbyshipping.com/2014/08/12/mobile-os-paradigm/)
 
+[The end of the beginning](https://www.ben-evans.com/benedictevans/2018/11/16/the-end-of-the-beginning)
+
 
 ## Wrong Prediction
 
