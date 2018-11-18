@@ -18,6 +18,8 @@ permalink: /listen/
 
 [Marc Andreessen, investor and entrepreneur](https://overcast.fm/+F36pmGao8)
 
+[Marc Andreessen -- Lessons, Predictions, and Recommendations from an Icon](https://www.breaker.audio/the-tim-ferriss-show/e/4892308)
+
 [The Angel Philosopher](https://overcast.fm/+Ei1BFuA1Y)
 
 [Venture capital is headed for a ‘huge, rude awakening’ ](https://overcast.fm/+F36qtW8zQ)
