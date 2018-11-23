@@ -20,7 +20,3 @@ Inspired by Ghost in the Shell, I believe the future of human thinking is to dec
 
 We need to elevate our mind in this digital age. Not only as human, but also as human + machine.
 
-**(I'm building the software n hardware tool for it. Email me if you are interested to join private beta: allenleein@gmail.com)**
-
-## [Read Wiki](https://github.com/allenleein/brains/wiki#table-of-contents-essay-still-in-process)
-
