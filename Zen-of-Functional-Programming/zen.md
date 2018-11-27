@@ -60,6 +60,10 @@ Reading ref: [For Beginners](https://argumatronic.com/posts/1970-01-01-beginners
 ⭐️⭐️⭐️ [CIS 194 UPenn 2013](http://www.seas.upenn.edu/~cis194/spring13/lectures.html)(Take a look)
 
 ⭐️⭐️⭐️ [Haskell Programming From First Principle](https://github.com/allenleein/brains/blob/master/Zen-of-Functional-Programming/Haskell%20Programming%20From%20First%20Principle.pdf)(The gold)
+
+## Build project with Haskell
+
+[A Game in Haskell - Dino Rush](http://jxv.io/blog/2018-02-28-A-Game-in-Haskell.html)
   
 
 ## Purescript 
