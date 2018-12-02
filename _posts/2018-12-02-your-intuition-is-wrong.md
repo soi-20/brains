@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Daniel Kahneman: Your Intuition Is Wrong
+title: Information Bias
 description: ""
 date: 2018-12-02
 tags: 
