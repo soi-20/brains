@@ -7,6 +7,7 @@ tags:
 comments: true
 ---
 
+
 ## Define
 
 Intuition is defined as knowing without knowing how you know, that’s the wrong definition. Because by that definition, you cannot have the wrong intuition. It presupposes that we know, and there is really a prejudice in favor of intuition. We like intuitions to be right.
