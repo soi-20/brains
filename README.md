@@ -27,5 +27,5 @@ We need to elevate our mind in this digital age. Not only as a human, but also a
 
 
 <p align="center">
-  <img width="500" height="300" src="https://media.giphy.com/media/9XMmQBH9svi3m/giphy.gif" alt="Sublime's custom image"/>
+  <img width="500" height="300" src="https://media2.giphy.com/media/NMyThYDZdEOqY/giphy.gif?cid=3640f6095c0547e265436d4e320387c0" alt="Sublime's custom image"/>
 </p>
