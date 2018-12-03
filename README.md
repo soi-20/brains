@@ -13,7 +13,7 @@ Ghost in the Shell (Japanese: 攻殻機動隊 シェルのゴースト) is a 198
 In that post-cyberpunk iteration of a possible future, computer technology has advanced to the point that many members of the public possess cyberbrains, technology that allows them to interface their biological brain with various networks. The level of cyberization varies from simple minimal interfaces to almost complete replacement of the brain with cybernetic parts, in cases of severe trauma. This can also be combined with various levels of prostheses, with a fully prosthetic body enabling a person to become a cyborg. 
 
 <p align="center">
-  <img width="400" height="300" src="https://i.giphy.com/media/5vrZ0lCljYgW4/giphy.webp" alt="Sublime's custom image"/>
+  <img width="500" height="300" src="https://i.giphy.com/media/5vrZ0lCljYgW4/giphy.webp" alt="Sublime's custom image"/>
 </p>
 
 
