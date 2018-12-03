@@ -25,3 +25,7 @@ Inspired by Ghost in the Shell, I believe the future of human thinking is to dec
 
 We need to elevate our mind in this digital age. Not only as a human, but also as a human + machine.
 
+
+<p align="center">
+  <img width="500" height="300" src="https://media.giphy.com/media/9XMmQBH9svi3m/giphy.gif" alt="Sublime's custom image"/>
+</p>
