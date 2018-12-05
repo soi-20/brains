@@ -12,11 +12,6 @@ Ghost in the Shell (Japanese: 攻殻機動隊 シェルのゴースト) is a 198
 
 In that post-cyberpunk iteration of a possible future, computer technology has advanced to the point that many members of the public possess cyberbrains, technology that allows them to interface their biological brain with various networks. The level of cyberization varies from simple minimal interfaces to almost complete replacement of the brain with cybernetic parts, in cases of severe trauma. This can also be combined with various levels of prostheses, with a fully prosthetic body enabling a person to become a cyborg. 
 
-<p align="center">
-  <img width="500" height="300" src="https://i.giphy.com/media/5vrZ0lCljYgW4/giphy.webp" alt="Sublime's custom image"/>
-</p>
-
-
 We are still way far from that kind of individual advanced tech in 2018, though we are slowly becoming the cyborg with a supercomputer in our pocket. With the sheer amount of information available in the world today, we have become overwhelmed. 
 
 Our mind is in a constant racing state.
@@ -25,7 +20,3 @@ Inspired by Ghost in the Shell, I believe the future of human thinking is to dec
 
 We need to elevate our mind in this digital age. Not only as a human, but also as a human + machine.
 
-
-<p align="center">
-  <img width="500" height="300" src="https://i.giphy.com/media/NMyThYDZdEOqY/giphy.webp" alt="Sublime's custom image"/>
-</p>
