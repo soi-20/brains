@@ -17,8 +17,8 @@ The (misunderstood) Lean Startup dogma is to have no definite plan, work in incr
 
 ## Run Faster or Jump Higher
 
-3. Steve Blank doesn't advertise this type of lean though, as he repeatedly said that "entrepreneurship is part art, part science" - that founders should have a goal on the horizon, a vision, and then validate parts of that vision along the way. Note that Thiel advises starting small with an offering that can monopolize a small market, then grow the eventual company out of that. Sounds a bit like a business model MVP, doesn't it?
-4. 
+Steve Blank doesn't advertise this type of lean though, as he repeatedly said that "entrepreneurship is part art, part science" - that founders should have a goal on the horizon, a vision, and then validate parts of that vision along the way. Note that Thiel advises starting small with an offering that can monopolize a small market, then grow the eventual company out of that. Sounds a bit like a business model MVP, doesn't it?
+
 Thiel's logic works well in long-term view: finding a frontier of value which will be a great company years from now. A frontier that only a few people believe exists (but you have strong proof and conviction that it does). 
 
 Blank's Logic (actually rooted in Design Thinking and IDEO) is a ground-level method to improve your evolving value proposition and  business model. They are not opposites - just slightly different views on different "zoom levels" of the same thing.
