@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="200" height="200" src="https://avatars2.githubusercontent.com/u/3938314?s=460&v=4" alt="Sublime's custom image"/>
+  <img width="200" height="200" src="https://www.symbols.com/gi.php?type=1&id=1309" alt="Sublime's custom image"/>
 </p>
 
 
