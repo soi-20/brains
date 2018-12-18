@@ -66,7 +66,11 @@ Reading ref: [For Beginners](https://argumatronic.com/posts/1970-01-01-beginners
 [A Game in Haskell - Dino Rush](http://jxv.io/blog/2018-02-28-A-Game-in-Haskell.html)
   
 
-## Purescript 
+## Purescript 101
+
+[PureScript Resources1](https://purescript-resources.readthedocs.io/en/latest/)
+
+[PureScript Resources2](https://github.com/JordanMartinez/purescript-jordans-reference)
 
 [Documentation for the PureScript language, compiler, and tools.](https://github.com/purescript/documentation)
 
