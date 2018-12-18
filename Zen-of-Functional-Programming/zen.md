@@ -74,6 +74,8 @@ Reading ref: [For Beginners](https://argumatronic.com/posts/1970-01-01-beginners
 
 [PureScript Resources2](https://github.com/JordanMartinez/purescript-jordans-reference)
 
+[PureScript Book: Updated coded to 0.12](https://github.com/dwhitney/purescript-book/tree/master/text)
+
 [Documentation for the PureScript language, compiler, and tools.](https://github.com/purescript/documentation)
 
 
