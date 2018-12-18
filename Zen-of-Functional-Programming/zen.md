@@ -68,6 +68,8 @@ Reading ref: [For Beginners](https://argumatronic.com/posts/1970-01-01-beginners
 
 ## Purescript 101
 
+[Setting up PureScript in December 2018](https://qiita.com/kimagure/items/570e6f2bbce5b4724564)
+
 [PureScript Resources1](https://purescript-resources.readthedocs.io/en/latest/)
 
 [PureScript Resources2](https://github.com/JordanMartinez/purescript-jordans-reference)
