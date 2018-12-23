@@ -36,7 +36,11 @@ Haskell programmers love their abstractions, and it's easy to fall into the trap
 
 Rather, write the program like you would naturally, then when you recognize the patterns (i.e. Monad, Applicative, ...), rewrite it using the abstractions. Use higher order functions to separate similar functionality, and before you know it you have a nice combinator library which describes your problem domain well. 
 
-Reading ref: [For Beginners](https://argumatronic.com/posts/1970-01-01-beginners.html)
+Reading ref: 
+
+[For Beginners](https://argumatronic.com/posts/1970-01-01-beginners.html)
+
+[An opinionated guide to Haskell in 2018](https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/)
 
 
 # Haskell
