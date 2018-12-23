@@ -51,6 +51,12 @@ Reading ref: [For Beginners](https://argumatronic.com/posts/1970-01-01-beginners
 
 [Haskell Programming From First Principle](https://github.com/allenleein/brains/blob/master/Zen-of-Functional-Programming/Haskell%20Programming%20From%20First%20Principle.pdf)(The gold)
 
+
+### Fron-end with Haskell
+
+[misco- Haskell front-end framework](https://github.com/dmjio/miso)
+
+
 ### Build project with Haskell
 
 [Building a Haskell Web API ](https://lettier.github.io/posts/2016-07-15-building-a-haskell-web-api.html)
