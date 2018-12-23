@@ -61,6 +61,10 @@ Reading ref: [For Beginners](https://argumatronic.com/posts/1970-01-01-beginners
 
 [Haskell Project: Intro to Parsers](https://commentedcode.org/blog/2017/05/21/haskell-project-intro-to-parsers/)
 
+### Production
+
+[Haskell Code to Production](https://www.reddit.com/r/haskell/comments/7dtmha/what_is_the_easiest_way_to_deploy_haskell_code_to/)
+
 
 ### State of the Haskell & Purescript ecosystem
 
