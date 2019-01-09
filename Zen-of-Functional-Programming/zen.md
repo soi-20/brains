@@ -60,6 +60,8 @@ Reading ref:
 
 [misco- Haskell front-end framework](https://github.com/dmjio/miso)
 
+[Current best web-framework to choose in Haskell, and any advantages in considering Haskell for web app to other frameworks](https://www.reddit.com/r/haskell/comments/9vsaax/current_best_webframework_to_choose_in_haskell/)
+
 
 ### Build project with Haskell
 
