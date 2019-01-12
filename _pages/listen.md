@@ -45,6 +45,8 @@ permalink: /listen/
 
 [Sam Altman on What Makes The Best Founders ](https://overcast.fm/+GKgC2KUqA)
 
+[Dollar Shave Club: Michael Dubin](https://www.breaker.audio/how-i-built-this-with-guy-raz/e/41357192)
+
 # Strategy and Disruption
 
 [Tesla and the Nature of Disruption](https://overcast.fm/+BlzEVKwhM)
@@ -64,8 +66,14 @@ permalink: /listen/
 
 [Peter Attia, M.D. - How to Live a Longer, Higher Quality Life ](https://overcast.fm/+Lzu3Hkzfg)
 
+[#89: Laird Hamilton, The King of Big Wave Surfing (Plus: Gabrielle Reece and Brian MacKenzie)](https://www.breaker.audio/the-tim-ferriss-show/e/4892189)
+
 # Engineering
 
 [20VC: Founders Fund’s Chief Scientist on Why AI Is Mostly A Scam](https://overcast.fm/+EBTAdZAkU)
 
 [OpenAI: Compute and Safety with Dario Amodei](https://overcast.fm/+E6UAgec7g)
+
+# Possible Shift
+
+[E851: Ubiquity6 Co-founder & CEO Anjney Midha on creating multiplayer AR for the real world](https://www.breaker.audio/this-week-in-startups-audio/e/37308103)
