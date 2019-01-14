@@ -2,7 +2,7 @@
 layout: post
 title: Beat the Leader
 description: ""
-date: 2019-01-13
+date: 2019-01-15
 tags: 
 comments: true
 ---
