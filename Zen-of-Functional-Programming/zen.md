@@ -55,6 +55,8 @@ Reading ref:
 
 [Haskell Programming From First Principle](https://github.com/allenleein/brains/blob/master/Zen-of-Functional-Programming/Haskell%20Programming%20From%20First%20Principle.pdf)(The gold)
 
+[Haskell for Readers](http://haskell-for-readers.nomeata.de/)
+
 
 ### Fron-end with Haskell
 
