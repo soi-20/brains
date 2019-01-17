@@ -9,7 +9,7 @@ permalink: /output/
 
 [Contrarian](https://allenleein.github.io/brains/2018/05/contrarian)
 
-[Leverage the Odds to Create Your Own Game](https://medium.com/functionsfund/strategy-to-master-the-odds-62289b0f712)
+[Strategy to Leverage the Odds](https://medium.com/@bornin1930s/strategy-to-leverage-the-odds-9ff899bb24d)
 
 [Validate Your Idea](https://allenleein.github.io/brains/2018/06/validate-idea)
 
