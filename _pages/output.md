@@ -11,6 +11,8 @@ permalink: /output/
 
 [Strategy to Leverage the Odds](https://medium.com/@bornin1930s/strategy-to-leverage-the-odds-9ff899bb24d)
 
+[The Art of Iteration](https://allenleein.github.io/brains/2018/10/the-art-of-iteration)
+
 [Validate Your Idea](https://allenleein.github.io/brains/2018/06/validate-idea)
 
 [A Cool Startup](https://allenleein.github.io/brains/2018/06/cool-startup)
