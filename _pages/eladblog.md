@@ -4,7 +4,7 @@ title: Elad Gil's Blog
 permalink: /elad/
 ---
 
-[A startup founder's personal view of the impact of the financial crisis on Silicon Valley's startup scene(http://blog.eladgil.com/2008/12/startup-founders-personal-view-of.html)
+[A startup founder's personal view of the impact of the financial crisis on Silicon Valley's startup scene](http://blog.eladgil.com/2008/12/startup-founders-personal-view-of.html)
 
 [The 3 Types of Embedded Social Networks That Drive User Generated Content](http://blog.eladgil.com/2009/10/3-types-of-embedded-social-networks.html)
 
