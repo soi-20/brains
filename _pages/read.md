@@ -15,15 +15,7 @@ permalink: /read/
 
 [Survivorship Bias and Startup Hype](https://www.sonyaellenmann.com/2018/06/survivorship-bias-and-startup-hype.html)
 
-[How To Fire A Co-Founder](http://blog.eladgil.com/2013/01/how-to-fire-co-founder.html)
-
 [Unequal Cofounders](http://blog.eladgil.com/2017/08/unequal-cofounders.html)
-
-[How To Choose A Co-Founder](http://blog.eladgil.com/2012/02/how-to-choose-co-founder.html)
-
-[Founder Roles](http://blog.eladgil.com/2016/12/founder-roles.html)
-
-[The Road To $5 Billion Is A Long One](http://blog.eladgil.com/2012/10/the-road-to-5-billion-is-long-one.html)
 
 
 ## Fundraising
@@ -62,8 +54,6 @@ permalink: /read/
 
 
 ## Startup Strategy
-
-[Strategy to Leverage the Odds : Don't play the play](https://medium.com/functionsfund/strategy-to-master-the-odds-62289b0f712)
 
 [Does every startup need a Steve Jobs?](https://andrewchen.co/does-every-startup-need-a-steve-jobs/)
 
