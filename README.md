@@ -4,7 +4,7 @@
 </p>
 
 
-# Ghosts in the Shell
+# Ghosts in the Shell (README is work in progress)
 
 **I'm decentralizing my brain to a network of brains.**
 
