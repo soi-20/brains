@@ -47,15 +47,19 @@ Reading ref:
 
 ### Haskell 101
 
-[Practical Haskell](http://seanhess.github.io/) (Try this)
+[Practical Haskell](http://seanhess.github.io/) 
 
-[Haskell Study Plan](https://github.com/soupi/haskell-study-plan)(Then this again)
+[Haskell Study Plan](https://github.com/soupi/haskell-study-plan)
 
-[CIS 194 UPenn 2013](http://www.seas.upenn.edu/~cis194/spring13/lectures.html)(Take a look)
+[CIS 194 UPenn 2013](http://www.seas.upenn.edu/~cis194/spring13/lectures.html)
 
-[Haskell Programming From First Principle](https://github.com/allenleein/brains/blob/master/Zen-of-Functional-Programming/Haskell%20Programming%20From%20First%20Principle.pdf)(The gold)
+[Haskell Programming From First Principle](https://github.com/allenleein/brains/blob/master/Zen-of-Functional-Programming/Haskell%20Programming%20From%20First%20Principle.pdf)
+
+### Haskell Reads for Experienced
 
 [Haskell for Readers](http://haskell-for-readers.nomeata.de/)
+
+[Haskell's kind system - a primer](https://diogocastro.com/blog/2018/10/17/haskells-kind-system-a-primer/)
 
 
 ### Fron-end with Haskell
