@@ -28,7 +28,7 @@
 
 [3] [Types and Programming Languages-Benjamin C. Pierce](https://github.com/allenleein/brains/blob/master/Zen-of-Functional-Programming/Types%20and%20Programming%20Languages-Benjamin%20C.%20Pierce.pdf)
 
-### Advice for Beginner
+### Advice for Beginners
 
 **Don't write abstractions first**. 
 
