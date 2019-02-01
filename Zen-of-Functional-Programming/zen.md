@@ -20,7 +20,7 @@
 
 # 101
 
-### From 101 to think funcitonally:
+### From 101 to think functionally:
 
 [0] [The Structure and Interpretation of Computer Programs](https://github.com/allenleein/brains/blob/master/Zen-of-Functional-Programming/(883)The%20Structure%20and%20Interpretation%20of%20Computer%20Programs.pdf)
 
@@ -28,7 +28,7 @@
 
 [3] [Types and Programming Languages-Benjamin C. Pierce](https://github.com/allenleein/brains/blob/master/Zen-of-Functional-Programming/Types%20and%20Programming%20Languages-Benjamin%20C.%20Pierce.pdf)
 
-### Advice for Beginner
+### Advice for Beginners
 
 **Don't write abstractions first**. 
 
@@ -64,7 +64,7 @@ Reading:
 [Haskell's kind system - a primer](https://diogocastro.com/blog/2018/10/17/haskells-kind-system-a-primer/)
 
 
-### Fron-end with Haskell
+### Front-end with Haskell
 
 [misco- Haskell front-end framework](https://github.com/dmjio/miso)
 
