@@ -7,19 +7,19 @@ tags:
 comments: true
 ---
 
-```
-Learn from times iterated over time spent.
 
-Craft a thousand tweets before ten blog posts before one novel.
+`Learn from times iterated over time spent.`
 
-Skim a dozen books before absorbing one.
+`Craft a thousand tweets before ten blog posts before one novel.`
 
-Make many small investments before a few big bets.
+`Skim a dozen books before absorbing one.`
 
-Build many small products before starting a company.
+`Make many small investments before a few big bets.`
 
-Explore, then exploit.
-```
+`Build many small products before starting a company.`
+
+`Explore, then exploit.`
+
 
 The compound interest from many quick small iterations is greater than the compound interest from a few slow big iterations. Compound interest operates in most intellectual and social domains.
 
