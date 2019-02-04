@@ -17,6 +17,8 @@ permalink: /read/
 
 [Unequal Cofounders](http://blog.eladgil.com/2017/08/unequal-cofounders.html)
 
+[How to Start a Startup by Sam Altman (2014)](http://startupclass.samaltman.com/lists/readings/)
+
 
 ## Fundraising
 
