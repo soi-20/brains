@@ -32,6 +32,8 @@ permalink: /listen/
 
 [Nuzzel’s Jonathan Abrams on Why The Top VCs Do Not Have A PlayBook For Startup Succes](https://overcast.fm/+EBTDMaf9I)
 
+[#317: Steve Jurvetson — The Midas Touch and Mind-Bending Futures](https://overcast.fm/+KebuzKcL0)
+
 
 # Startup Founder
 
@@ -40,6 +42,8 @@ permalink: /listen/
 [#334: Drew Houston — The Billionaire Founder of Dropbox](https://overcast.fm/+Kebtc2kkE)
 
 [Y Combinator co-founder Paul Graham](https://overcast.fm/+Ek5PLd928)
+
+[#353: Patrick Collison — CEO of Stripe](https://overcast.fm/+KebueAwmg)
 
 [Elad Gil](https://overcast.fm/+Jb6ABXCso)
 
@@ -67,6 +71,8 @@ permalink: /listen/
 [Peter Attia, M.D. - How to Live a Longer, Higher Quality Life ](https://overcast.fm/+Lzu3Hkzfg)
 
 [#89: Laird Hamilton, The King of Big Wave Surfing (Plus: Gabrielle Reece and Brian MacKenzie)](https://www.breaker.audio/the-tim-ferriss-show/e/4892189)
+
+[#349: LeBron James and His Top-Secret Trainer, Mike Mancias](https://overcast.fm/+Kebs5jX_g)
 
 # Engineering
 
