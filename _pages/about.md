@@ -4,7 +4,7 @@ title:
 permalink: /about/
 ---
 
-Hi, Allen here. You can reach me via Snapchat: [allenleein](https://www.snapchat.com/add/allenleein)
+Hi, Allen here. You can reach me via Keybase: [allenleein](https://keybase.io/allenleein)
 
 You can also find me here:
 
