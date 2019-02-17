@@ -26,7 +26,7 @@ You can also find me here:
 
 ## Building
 
-[24の氣](https://www.producthunt.com/upcoming/24-24-energy)
+[24e](https://www.producthunt.com/upcoming/24-24-energy)
 
 
 ## Trash
