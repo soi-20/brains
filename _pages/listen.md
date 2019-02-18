@@ -51,6 +51,8 @@ permalink: /listen/
 
 [Dollar Shave Club: Michael Dubin](https://www.breaker.audio/how-i-built-this-with-guy-raz/e/41357192)
 
+[E900: Justin Kan, co-founder of Justin.tv, Twitch.tv](https://overcast.fm/+JyGps4rE)
+
 # Strategy and Disruption
 
 [Tesla and the Nature of Disruption](https://overcast.fm/+BlzEVKwhM)
