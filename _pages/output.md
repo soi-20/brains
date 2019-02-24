@@ -9,7 +9,7 @@ permalink: /output/
 
 [Contrarian](https://allenleein.github.io/brains/2018/05/contrarian)
 
-[Strategy of Leverage: Can You Design a Market That You Can dominate?](https://medium.com/1930s/can-you-design-a-market-that-you-can-dominate-7b6690ff46b4)
+[The Strategy of Creation Game: Can You Design a Market That You Can dominate?](https://medium.com/1930s/can-you-design-a-market-that-you-can-dominate-7b6690ff46b4)
 
 [The Art of Iteration](https://allenleein.github.io/brains/2018/10/the-art-of-iteration)
 
