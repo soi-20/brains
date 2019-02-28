@@ -23,12 +23,6 @@ You can also find me here:
 
 [Output](https://allenleein.github.io/brains/output/)
 
-
-## Building
-
-[24e](https://www.producthunt.com/upcoming/24-24-energy)
-
-
 ## Trash
 
 [Linkedin](https://www.linkedin.com/in/allen-lee-52b16378/)
