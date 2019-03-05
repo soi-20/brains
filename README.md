@@ -24,7 +24,7 @@ Inspired by Ghost in the Shell, I believe the future of human thinking is to dec
 We need to elevate our mind in this digital age. Not only as a human, but also as a human + machine.
 
 
-# Define Functional Flow
+# `Define Functional Flow`
 
 Functional flow is the mind state where you can think almost everything as a function. And view yourself as a functional machine.
 
@@ -37,22 +37,11 @@ It is all about being [Clear] + [Composable].
  
  ```
 
-
----
-
-# Table of Contents
-
-- Find Your Own Functions
-- Find Your Own Flow
-- A Clear and Efficient Machine
-- A Composable Flow in the Shell
-
-
 ---
  
-# Find Your Own Functions 
+# `Find Your Own Functions`
 
-## First: Be Clear
+### `First: Be Clear`
 
 
 > Micro problems: Death? Poor or Rich? Social status? Happiness? What's the meaning of life? 
@@ -65,9 +54,9 @@ How you view the world and why? What kind of impact do you want to create? What 
 
 
 
-## Second: Be Composable
+## `Second: Be Composable`
 
-### Why should we compose functions?
+### `Why should we compose functions?`
 
 > Micro: Efficiency, Survive better. Understand the world better. Avoid bias.
 
@@ -81,7 +70,7 @@ In order to stay in functional, you should be willing to contribute those knowle
 
 Now you can reach the goal faster by composing other functions. 
 
-## Why Do Functions Matter?
+### `Why Do Functions Matter?`
 
 - Functions are a great abstraction. Looking at the input and output values gives you the complete information about the data flow. This makes functions very easy to reason about. Efficiency. 
 
@@ -97,9 +86,9 @@ Now you can reach the goal faster by composing other functions.
 
 (Functions you output= Impact for your macro/micro world )
 
-# Find Your Own Flow 
+# `Find Your Own Flow` 
 
-## Why Do Flow Matter? 
+### `Why Do Flow Matter?` 
 
 Flow isn’t like appearance or success that other people get to rate. It’s more like happiness or curiosity, like creativity.
 
@@ -134,13 +123,13 @@ In Functional Flow theory, building a functional flow system is all about two st
 * Flow and composition
 
 
-# A Clear and Efficient Machine 
+# `A Clear and Efficient Machine` 
 
 
 We need to see things purely.
 
 
-#### Being Clear
+### `Being Clear`
 
 > The most basic definition of clarity is:
 > 
@@ -150,7 +139,7 @@ We need to see things purely.
 Back to the 15th century, Leonardo da Vinci simply watched, noted, and contextualized things as he saw fit. It wasn’t like he was intentionally studying science one day and art another. To him, they were one and the same thing. They danced together, and it wasn’t possible to understand one without the other.
 
 
-#### Being Efficient
+### `Being Efficient`
 
 
 > The most basic definition of efficiency is:
@@ -161,7 +150,7 @@ In the book < The systems approach, Dell Publishing Co., Inc., New York, 1968 >,
 
 All these three terms are used to describe the same kind of thing, namely, the rational breakdown of the tasks the system must perform. This is a mission-oriented view of the components of a system that is completely different from the traditional view. 
 
-#### Clear(Efficient)= Machine X
+### `Clear(Efficient)= Machine X`
 
 <p align="center">
   <img width="300" height="300" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Function_machine2.svg/1200px-Function_machine2.svg.png" alt="Sublime's custom image"/>
@@ -182,7 +171,7 @@ I will explain why "flow" and "composition" will easily ease those concerns late
 
 Just like the way Leonardo da Vinci see how the world works: They are dancing together.
 
-# A Composable Flow in the Shell
+# `A Composable Flow in the Shell`
 
 We need to see things and compose things purely, just like composing functions.
 
@@ -192,7 +181,7 @@ We need to see things and compose things purely, just like composing functions.
 
 
 
-#### Machine (Composable Flow) = Functional Flow
+### `Machine (Composable Flow) = Functional Flow`
 
 > Winning is always a function of the situation and the people involved.
 
