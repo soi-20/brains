@@ -19,7 +19,7 @@ We are still way far from that kind of individual advanced tech in 2018, though 
 
 Our mind is in a constant racing state.
 
-Inspired by Ghost in the Shell, I believe `the future of human thinking is to decentralize ourselves to a thinking network` like "GHOSTS in the Shell". I think we should try to turn our brain into composable and functional brains network by starting to view everything as a function and iterate it like a machine, together. (Functional Flow)
+Inspired by Ghost in the Shell, I believe the future of human thinking is to decentralize ourselves to a thinking network like "GHOSTS in the Shell". I think we should try to turn our brain into composable and functional brains network by starting to view everything as a function and iterate it like a machine, together. (Functional Flow)
 
 We need to elevate our mind in this digital age. Not only as a human, but also as a human + machine.
 
