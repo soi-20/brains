@@ -54,6 +54,8 @@ permalink: /read/
 
 [From Private To Public: How To Read An S-1](https://news.crunchbase.com/news/how-to-read-an-s1/)
 
+[For YC Companies Raising Seed Rounds](http://blog.eladgil.com/2019/03/for-companies-raising-seed-rounds.html)
+
 
 ## Startup Strategy
 
