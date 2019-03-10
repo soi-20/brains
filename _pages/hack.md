@@ -6,10 +6,10 @@ permalink: /hack/
 
 # Project X
 
-![](drone1.gif)
 
-![](drone2.gif)
+![Alt Text](https://media.giphy.com/media/l3mZ5zogGcnzNzbqM/giphy.gif)
 
+![Alt Text](https://media.giphy.com/media/3o6fIWV4HtqMEzEz28/giphy.gif)
 
 
 
