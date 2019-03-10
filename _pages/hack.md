@@ -15,8 +15,10 @@ permalink: /hack/
 
 ### `I co-developed the first programmed drones to write Chinese letters in the sky in history.`
 
-[Link](https://vimeo.com/111901733)
+## [Link](https://vimeo.com/111901733)
 
+
+---
 
 # Experimental psychology theory: Functional Flow
 
@@ -30,7 +32,7 @@ permalink: /hack/
 ### `I'm trying to decentralize my brain to a network of brains.`
 
 
-[Link](https://github.com/allenleein/brains)
+## [Link](https://github.com/allenleein/brains)
 
 
 
