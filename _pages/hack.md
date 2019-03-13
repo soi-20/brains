@@ -1,10 +1,9 @@
 ---
 layout: content
-title: 
+title:  Project X
 permalink: /hack/
 ---
 
-# Project X
 
 
 ![Alt Text](https://media.giphy.com/media/l3mZ5zogGcnzNzbqM/giphy.gif)
