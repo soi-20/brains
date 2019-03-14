@@ -7,9 +7,12 @@ permalink: /read/
 
 [Marc Andreessen Essays](https://pmarchive.com/)
 
+[Paul Graham Essays](http://www.paulgraham.com/articles.html)
+
+
 ## Founder 
 
-[Strategy to Leverage the Odds : Don't play the play](https://medium.com/functionsfund/strategy-to-master-the-odds-62289b0f712)
+[Disruption Is Creation](https://medium.com/1930s/can-you-design-a-market-that-you-can-dominate-7b6690ff46b4)
 
 [Bad Advice](http://blog.eladgil.com/2013/11/bad-advice.html)
 
@@ -20,9 +23,6 @@ permalink: /read/
 [How to Start a Startup by Sam Altman (2014)](http://startupclass.samaltman.com/lists/readings/)
 
 
-## Fundraising
-
-[Top VCs share insights on the most important elements of fundraising pitches.](https://thecompanybrief.com/startup-fundraising-advice)
 
 ## Venture Capital
 
@@ -56,8 +56,11 @@ permalink: /read/
 
 [For YC Companies Raising Seed Rounds](http://blog.eladgil.com/2019/03/for-companies-raising-seed-rounds.html)
 
+[Top VCs share insights on the most important elements of fundraising pitches.](https://thecompanybrief.com/startup-fundraising-advice)
 
-## Startup Strategy
+
+
+## Strategy
 
 [Does every startup need a Steve Jobs?](https://andrewchen.co/does-every-startup-need-a-steve-jobs/)
 
@@ -79,7 +82,6 @@ permalink: /read/
 
 [The Network Effects Bible](https://www.nfx.com/post/network-effects-bible)
 
-[Black Design](http://www.black.design/)
 
 ## Paradigm
 
@@ -103,4 +105,5 @@ permalink: /read/
 
 [Startups, this is how design works](https://startupsthisishowdesignworks.com/)
 
+[Black Design](http://www.black.design/)
 
