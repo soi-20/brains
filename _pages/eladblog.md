@@ -103,6 +103,8 @@ permalink: /elad/
 
 # Founder
 
+[Unequal Cofounders](http://blog.eladgil.com/2017/08/unequal-cofounders.html)
+
 [Founders Should Divide and Conquer](http://blog.eladgil.com/2014/12/founders-should-divide-and-conquer.html)
 
 [Who Cares If It's Been Tried Before?](http://blog.eladgil.com/2013/04/who-cares-if-its-been-tried-before.html)
@@ -175,6 +177,10 @@ permalink: /elad/
 [How To Sell Secondary Stock](http://blog.eladgil.com/2014/01/how-to-sell-secondary-stock.html)
 
 [Running A Business](http://blog.eladgil.com/2014/01/running-business.html)
+
+[Founder Roles](http://blog.eladgil.com/2016/12/founder-roles.html)
+
+[Startups in Machine Learning & AI](http://blog.eladgil.com/2016/08/startups-in-machine-learning-ai.html)
 
 
 # Markets

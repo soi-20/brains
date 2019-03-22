@@ -22,6 +22,8 @@ permalink: /read/
 
 [How to Start a Startup by Sam Altman (2014)](http://startupclass.samaltman.com/lists/readings/)
 
+[Sam Altman on Loving Community, Hating Coworking, and the Hunt for Talent](https://medium.com/conversations-with-tyler/tyler-cowen-sam-altman-ai-tech-business-58f530417522)
+
 
 
 ## Venture Capital
