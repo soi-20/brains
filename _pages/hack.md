@@ -34,8 +34,19 @@ permalink: /hack/
 ## [Link](https://github.com/allenleein/brains)
 
 
+---
 
 
+# Pirates of the Businesss Wars
+
+<p align="center">
+  <img width="300" height="500" src="https://i.imgur.com/J8sQ31k.png" alt="Sublime's custom image"/>
+</p>
+
+
+### `The Outliners In The Tech Business Wars Are Pirates, Not Navy Seals.`
+
+## [Subscribe the book](https://mailchi.mp/a68c89762ee3/pirates)
 
 
 
