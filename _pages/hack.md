@@ -44,7 +44,7 @@ permalink: /hack/
 ---
 
 
-# Pirates of the Businesss Wars
+# Pirates of the Digital Wars
 
 <p align="center">
   <img width="300" height="500" src="https://i.imgur.com/3nSl3k4.png" alt="Sublime's custom image"/>
