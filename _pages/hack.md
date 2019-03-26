@@ -1,21 +1,10 @@
 ---
 layout: content
-title:  Project X
+title:  𝌄𝌂
 permalink: /hack/
 ---
 
 
-
-![Alt Text](https://media.giphy.com/media/l3mZ5zogGcnzNzbqM/giphy.gif)
-
-![Alt Text](https://media.giphy.com/media/3o6fIWV4HtqMEzEz28/giphy.gif)
-
-
-
-### `I co-developed the first programmed drones to write Chinese letters in the sky in history.` [Link](https://vimeo.com/111901733)
-
-
----
 
 
 # Ghosts 
@@ -52,6 +41,22 @@ permalink: /hack/
 
 
 ### `The Outliners In The Tech Business Wars Are Pirates, Not Navy Seals.` [Subscribe the book](https://mailchi.mp/a68c89762ee3/pirates)
+
+
+---
+
+# Project X
+
+![Alt Text](https://media.giphy.com/media/l3mZ5zogGcnzNzbqM/giphy.gif)
+
+![Alt Text](https://media.giphy.com/media/3o6fIWV4HtqMEzEz28/giphy.gif)
+
+
+
+### `I co-developed the first programmed drones to write Chinese letters in the sky in history.` [Link](https://vimeo.com/111901733)
+
+
+---
 
 
 
