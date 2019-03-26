@@ -1,13 +1,13 @@
 ---
 layout: content
-title:  𝌄𝌂
+title:  𝌄𝌂Projects
 permalink: /hack/
 ---
 
 
 
 
-# Ghosts 
+# Ghosts Podcast
 
 
 <p align="center">
