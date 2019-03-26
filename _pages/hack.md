@@ -19,6 +19,17 @@ permalink: /hack/
 
 ---
 
+
+# Ghosts 
+
+
+<p align="center">
+  <img width="200" height="200" src="https://i.imgur.com/qNOBG0N.png" alt="Sublime's custom image"/>
+</p>
+
+
+---
+
 # Experimental psychology theory: Functional Flow
 
 
@@ -40,13 +51,16 @@ permalink: /hack/
 # Pirates of the Businesss Wars
 
 <p align="center">
-  <img width="300" height="500" src="https://i.imgur.com/J8sQ31k.png" alt="Sublime's custom image"/>
+  <img width="300" height="500" src="https://i.imgur.com/3nSl3k4.png" alt="Sublime's custom image"/>
 </p>
 
 
 ### `The Outliners In The Tech Business Wars Are Pirates, Not Navy Seals.`
 
 ## [Subscribe the book](https://mailchi.mp/a68c89762ee3/pirates)
+
+
+
 
 
 
