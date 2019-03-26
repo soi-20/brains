@@ -12,9 +12,7 @@ permalink: /hack/
 
 
 
-### `I co-developed the first programmed drones to write Chinese letters in the sky in history.`
-
-## [Link](https://vimeo.com/111901733)
+### `I co-developed the first programmed drones to write Chinese letters in the sky in history.` [Link](https://vimeo.com/111901733)
 
 
 ---
@@ -27,6 +25,7 @@ permalink: /hack/
   <img width="200" height="200" src="https://i.imgur.com/qNOBG0N.png" alt="Sublime's custom image"/>
 </p>
 
+🎧𝌂𝌄𝌂𝌄𝌂𝌄𝌂𝌄𝌂𝌄𝌂𝌂
 
 ---
 
@@ -39,10 +38,7 @@ permalink: /hack/
 
 
 
-### `I'm trying to decentralize my brain to a network of brains.`
-
-
-## [Link](https://github.com/allenleein/brains)
+### `I'm trying to decentralize my brain to a network of brains.` [Link](https://github.com/allenleein/brains)
 
 
 ---
@@ -55,9 +51,7 @@ permalink: /hack/
 </p>
 
 
-### `The Outliners In The Tech Business Wars Are Pirates, Not Navy Seals.`
-
-## [Subscribe the book](https://mailchi.mp/a68c89762ee3/pirates)
+### `The Outliners In The Tech Business Wars Are Pirates, Not Navy Seals.` [Subscribe the book](https://mailchi.mp/a68c89762ee3/pirates)
 
 
 
