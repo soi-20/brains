@@ -23,6 +23,10 @@ The simple act of paying attention can take you a long way.
 
 Money doesn't mean anything to me. I've made a lot of money, but I want to enjoy life and not stress myself building my bank account. I give lots away and live simply, mostly out of a suitcase in hotels. We all know that good health is much more important. -**Keanu Reeves**
 
+---
+
+The intellectual question that I ask at the start of my book is, “Tell me something that’s true that very few people agree with you on.” This is a terrific interview question. Even when people can read on the Internet that you’re going to ask this question to everybody you interview, they still find it really hard to answer. And it’s hard to answer not because people don’t have any ideas. Everyone has ideas. Everyone has things they believe to be true that other people won’t agree with you on. But they’re not things you want to say. - **Peter Thiel**
+
 
 # Grit
 
@@ -63,6 +67,26 @@ Startup CEOs should not play the odds. When you are building a company, you must
 Risk is always proportionate to reward. The way to get really big returns is to do things that seem crazy, like starting a new search engine in 1998, or turning down a billion dollar acquisition offer.
 
 This has traditionally been a problem in venture funding. Founders and investors have different attitudes to risk. Knowing that risk is on average proportionate to reward, investors like risky strategies, while founders, who don't have a big enough sample size to care what's true on average, tend to be more conservative. - **Paul Graham**
+
+---
+
+
+“What I like to talk to my team about is that I’m short term impatient. I want the small ideas that will take a week.
+
+And I’m longterm patient. I’ll listen to the big ideas that take 5 years.
+
+I don’t like the in between.
+
+So if there is a small idea. Get it to me. Get it launched in a month. Get it launched in two weeks. I’ll take that. I’ll also take the big long terms bets.
+
+Don’t come to me with anything in between.”-**Dara Khosrowshahi**
+
+
+# Network Effect
+
+The existence of a durable network effect can overcome a lot of potential flaws in a product or business, and conversely the absence of network effects cannot be solved by features or clever customer acquisition strategies.-**Mitch Lasky**
+
+
 
 # Learning
 
