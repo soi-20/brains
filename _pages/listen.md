@@ -6,6 +6,8 @@ permalink: /listen/
 
 # Venture Capital
 
+### Founders Fund
+
 [How Sean Parker Picks Investments](https://www.youtube.com/watch?v=Ked4vecS-Hc)
 
 [Founders Fund's Approach to Investing in Tech](https://www.youtube.com/watch?v=bKVdbJo7b-Q)
@@ -16,17 +18,22 @@ permalink: /listen/
 
 [Investment Games with Brian Singerman](https://overcast.fm/+E6UBaMYDU)
 
-[Marc Andreessen, investor and entrepreneur](https://overcast.fm/+F36pmGao8)
+[Brian Singerman – Investing in the Best Founders](https://overcast.fm/+Lzu2_Kztw)
 
-[Marc Andreessen -- Lessons, Predictions, and Recommendations from an Icon](https://www.breaker.audio/the-tim-ferriss-show/e/4892308)
+### a16z
+
+[Marc Andreessen - The Moment with Brian Koppelman](https://overcast.fm/+BgXAjz54o)
+
+[The State of Venture Capital by Chris Dixon](https://overcast.fm/+Ei1Ae8cmA)
+
+[Technological Trends, Capital, and Internet ‘Disruption’](https://overcast.fm/+BlzFPJdLY)
+
+
+### VCs
 
 [The Angel Philosopher](https://overcast.fm/+Ei1BFuA1Y)
 
 [Venture capital is headed for a ‘huge, rude awakening’ ](https://overcast.fm/+F36qtW8zQ)
-
-[Technological Trends, Capital, and Internet ‘Disruption’](https://overcast.fm/+BlzFPJdLY)
-
-[The State of Venture Capital by Chris Dixon](https://overcast.fm/+Ei1Ae8cmA)
 
 [Chamath Palihapitiya on falling for Ponzi scheme of SV, returns to solving problems that matter](https://www.youtube.com/watch?v=RwRZtZQoLtQ)
 
@@ -35,9 +42,7 @@ permalink: /listen/
 [#317: Steve Jurvetson — The Midas Touch and Mind-Bending Futures](https://overcast.fm/+KebuzKcL0)
 
 
-# Startup Founder
-
-[Competition is for Losers (Peter Thiel)](https://www.youtube.com/watch?v=5_0dVHMpJlo&t=14s)
+# Founder
 
 [#334: Drew Houston — The Billionaire Founder of Dropbox](https://overcast.fm/+Kebtc2kkE)
 
@@ -47,13 +52,15 @@ permalink: /listen/
 
 [Elad Gil](https://overcast.fm/+Jb6ABXCso)
 
-[Sam Altman on What Makes The Best Founders ](https://overcast.fm/+GKgC2KUqA)
+[Sam Altman - Conversations with Tyler](https://overcast.fm/+PbpK6Hu50)
 
 [Dollar Shave Club: Michael Dubin](https://www.breaker.audio/how-i-built-this-with-guy-raz/e/41357192)
 
 [E900: Justin Kan, co-founder of Justin.tv, Twitch.tv](https://overcast.fm/+JyGps4rE)
 
 # Strategy and Disruption
+
+[Competition is for Losers (Peter Thiel)](https://www.youtube.com/watch?v=5_0dVHMpJlo&t=14s)
 
 [Tesla and the Nature of Disruption](https://overcast.fm/+BlzEVKwhM)
 
