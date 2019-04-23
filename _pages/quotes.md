@@ -9,6 +9,11 @@ permalink: /quotes/
 
 # Life
 
+
+I like wild animals, because they hunt, they fight, they are eager to predate and survive. 
+
+---
+
 “The largest illusion is the illusion of meaning that anything actually matters”. We’re all going to die, and everything will turn to dust. - **Naval**
 
 ---
@@ -26,6 +31,11 @@ Money doesn't mean anything to me. I've made a lot of money, but I want to enjoy
 ---
 
 The intellectual question that I ask at the start of my book is, “Tell me something that’s true that very few people agree with you on.” This is a terrific interview question. Even when people can read on the Internet that you’re going to ask this question to everybody you interview, they still find it really hard to answer. And it’s hard to answer not because people don’t have any ideas. Everyone has ideas. Everyone has things they believe to be true that other people won’t agree with you on. But they’re not things you want to say. - **Peter Thiel**
+
+---
+
+We are part of this universe; we are in this universe, but perhaps more important than both of those facts, is that the universe is in us.-**Neil deGrasse Tyson**
+
 
 
 # Grit
@@ -79,7 +89,12 @@ I don’t like the in between.
 
 So if there is a small idea. Get it to me. Get it launched in a month. Get it launched in two weeks. I’ll take that. I’ll also take the big long terms bets.
 
-Don’t come to me with anything in between.”-**Dara Khosrowshahi**
+Don’t come to me with anything in between.”- **Dara Khosrowshahi**
+
+
+---
+
+I am one of those people who believe that having a scarcity brings out the best in a company and really focuses you on what is core to the company and then you execute better.- **[Sarah Tavel](https://www.recode.net/2018/2/22/17042584/transcript-benchmark-partner-sarah-tavel-venture-capital-recode-decode)**
 
 
 # Network Effect
