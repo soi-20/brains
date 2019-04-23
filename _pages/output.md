@@ -18,3 +18,7 @@ permalink: /output/
 [A Cool Startup](https://allenleein.github.io/brains/2018/06/cool-startup)
 
 [Too Big to Fake](https://medium.com/@allenleein/too-big-to-fake-a7510321273b)
+
+---
+
+[𝌄𝌄Contact Me𝌄𝌄](mailto:allenleein@gmail.com)
