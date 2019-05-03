@@ -10,7 +10,9 @@ permalink: /quotes/
 # Life
 
 
-I like wild animals, because they hunt, they fight, they are eager to predate and survive. 
+I like wild animals because they hunt, they fight, no matter what, they find a way to predate and survive. 
+
+人類文明就是建立在恐懼之後的嚮往。
 
 ---
 
@@ -97,6 +99,12 @@ Don’t come to me with anything in between.”- **Dara Khosrowshahi**
 I am one of those people who believe that having a scarcity brings out the best in a company and really focuses you on what is core to the company and then you execute better.- **[Sarah Tavel](https://www.recode.net/2018/2/22/17042584/transcript-benchmark-partner-sarah-tavel-venture-capital-recode-decode)**
 
 
+---
+
+The mobile app stores, in particular, have always seemed to me to be a constraint on innovation vs a contributor to it.-**Fred Wilson**
+
+
+
 # Network Effect
 
 The existence of a durable network effect can overcome a lot of potential flaws in a product or business, and conversely the absence of network effects cannot be solved by features or clever customer acquisition strategies.-**Mitch Lasky**
@@ -122,6 +130,10 @@ No matter who you are, you need two kinds of friends in your life. The first kin
 # Dev Management 
 
 What many people complain that their Developer is bad, is mostly because of lack of business process and communicating clearly to the dev. Many small businesses still operate with the mindset that throw requirements to the other side and get back fully working bug free code which rarely works.-**HN User**
+
+# Productivity
+
+"I don't have a laptop, no, I do everything on my phone. It was important to me because I turn off my notifications, and for me it's one application at a time. So I just have one app up, and I can really focus on what's in front of me instead of everything coming at me as I would a laptop." -**Jack Dorsey**
 
 
 # AI, Intelligence
