@@ -10,9 +10,16 @@ permalink: /quotes/
 # Life
 
 
-I like wild animals because they hunt, they fight, no matter what, they find a way to predate and survive. 
+I admire wild animals because they hunt, they fight, no matter what, they find a way to predate and survive. 
 
 人類文明就是建立在恐懼之後的嚮往。
+
+Whenever people say "X is too old for you", it mean they lost their dream and want you to give up yours too. The people that want to make changes in their own lives but are too scared to do anything that are the biggest haters. Second biggest group is just insecure people. - **Allen Lee**
+
+
+---
+
+"The first thing an animal is taught is how to find food and water. I don't get how having this knowledge and skills makes us primitive, yet not knowing any of it somehow makes us civilized" - **Kimi Werner**
 
 ---
 
@@ -37,6 +44,10 @@ The intellectual question that I ask at the start of my book is, “Tell me some
 ---
 
 We are part of this universe; we are in this universe, but perhaps more important than both of those facts, is that the universe is in us.-**Neil deGrasse Tyson**
+
+---
+
+It’s very hard to get the non-consensus/right results unless you’re willing to take risks and take on the non-consensus/wrong results. But people just emotionally can’t handle the non-consensus/wrong outcomes and will do nearly anything to avoid them (no matter how much we understand the above) -**Marc Andreessen**-
 
 
 
@@ -127,9 +138,14 @@ No matter who you are, you need two kinds of friends in your life. The first kin
 
 
 
-# Dev Management 
+# Product Management 
 
 What many people complain that their Developer is bad, is mostly because of lack of business process and communicating clearly to the dev. Many small businesses still operate with the mindset that throw requirements to the other side and get back fully working bug free code which rarely works.-**HN User**
+
+
+At a bare bare bare minimum, everyone can create a coming-soon landing page and drive traffic to it and articulate the results for that.  The traction slide needs to give me some idea that this is a product that people want and more importantly how badly.**E Yen**
+
+
 
 # Productivity
 

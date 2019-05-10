@@ -12,7 +12,6 @@ permalink: /read/
 
 ## Founder 
 
-[Disruption Is Creation](https://medium.com/1930s/can-you-design-a-market-that-you-can-dominate-7b6690ff46b4)
 
 [Bad Advice](http://blog.eladgil.com/2013/11/bad-advice.html)
 
