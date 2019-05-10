@@ -21,7 +21,7 @@ I created two theories to explain the difference of investing perspectives betwe
 
 
 
-## Marc Andreessen: Competite In the Window of Game
+## Marc Andreessen: Compete In the Window of Game
 
 
 
@@ -60,12 +60,16 @@ Peter's logic works well in long-term view: finding a frontier of value which wi
 
 ## Faster vs. Higher
 
+### Higher: Investing for Control
+
 First, you can term Peter's approach to entrepreneurial strategy: investing for control.
 
 You achieve it by patiently building your business at the same time as ensuring that you will be insulated from future competition. It takes time and it takes investment dollars as resources. Put out some crappy minimum viable product and you lose some options to control because you have shown your hand to others. Instead, what you want to do is put out a complete product with a strategy to acquire the complementary resources to insulate it from future competition. 
 
 
 There is, however, another sort of monopoly — a path that gets you 100 percent of a real market. This is done by having the capabilities to beat all rivals on either quality or cost. To see how this arises consider a very structurally price competitive market (in economics, Bertrand competition). Now suppose that you develop an innovation that allows to have lower marginal costs than everyone else. In this situation, you will be able to capture 100 percent of the market and so you will be a technical monopoly. 
+
+### Faster: Focusing on Execution
 
 Second, you can term Marc's approach to entrepreneurial strategy: focusing on execution. 
 
