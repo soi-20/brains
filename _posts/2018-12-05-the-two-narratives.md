@@ -1,12 +1,11 @@
 ---
 layout: post
-title: The Two Narratives: Peter Thiel vs. Marc Andreessen
+title: The Two Narratives
 description: ""
 date: 2018-12-05
 tags: 
 comments: true
 ---
-
 
 It is always interesting when two famous prestigious venture capitalists disagree on something fundamental. In this case, it's Marc Andreessen and Peter Thiel. 
 
