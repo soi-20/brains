@@ -1,6 +1,6 @@
 ---
 layout: content
-title: ☈ Allen
+title: ☈ 
 permalink: /output/
 ---
 
@@ -15,6 +15,9 @@ permalink: /output/
 
 [A Cool Startup](https://allenleein.github.io/brains/2018/06/cool-startup)
 
----
+[The Two Narratives: Marc Andreessen vs. Peter Thiel](https://allenleein.github.io/brains/2018/06/cool-startup)
 
-[𝌄𝌄Contact Me𝌄𝌄](mailto:allenleein@gmail.com)
+[iPhone as a service](https://allenleein.github.io/brains/2019/03/iphone-as-a-service)
+
+[Apple’s Strategy to Dominate Audio](https://medium.com/@allenleein/functions-c292b619a0c3)
+
