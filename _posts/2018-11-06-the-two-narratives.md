@@ -2,7 +2,7 @@
 layout: post
 title: The Two Narratives
 description: ""
-date: 2018-12-05
+date: 2018-11-06
 tags: 
 comments: true
 ---
