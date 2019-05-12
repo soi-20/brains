@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Two Narratives: Marc Andreessen vs. Peter Thiel
+title: The Two Narratives
 description: ""
 date: 2018-12-05
 tags: 
@@ -15,14 +15,17 @@ Their disagreement can be viewed through the lens of how they view Twitter. Thie
 
 I created two theories to explain the difference of investing perspectives between Marc Andreessen and Peter Thiel.
 
-1. Window Game Theory: There are lot's of rooms in this building, and there are lots of treatures in those rooms. You may know how many gold in some rooms, but you won't know when will it open. You need good tools and good timing to get those rewards. 
+### Game of Window
 
-2. Moat Game Theory: You create another building, another layer of game. You create new rooms others hard to even find it.
+There are lot's of rooms in this building, and there are lots of treatures in those rooms. You may know how many gold in some rooms, but you won't know when will it open. You need good tools and good timing to get those rewards. 
+
+### Game of Moat
+
+You create another building, another layer of game. You create new rooms others hard to even find it.
 
 
 
 ## Marc Andreessen: Compete In the Window of Game
-
 
 
 On Marc's philosophy that software is eating the world, and timing is everything. We can also call it "The Window Game Theory". 
@@ -45,7 +48,7 @@ In this game, he thinks timing is everything. You need to execute your idea with
 
 
 
-## Peter Thiel: Create a Game
+## Peter Thiel: Create a Game with Strong Moat
 
 Is your market big enough? Who cares—create a new one if it isn’t. Peter Thiel argues good innovation sells itself. “If your product requires advertising or salespeople to sell it, it’s not good enough.” He wrote in Zero to One. “Technology is primarily about product development, not distribution.”
 
