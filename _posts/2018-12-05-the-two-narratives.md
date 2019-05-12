@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Two Narratives
+title: The Two Narratives: Marc Andreessen vs. Peter Thiel
 description: ""
 date: 2018-12-05
 tags: 
