@@ -15,7 +15,7 @@ permalink: /output/
 
 [A Cool Startup](https://allenleein.github.io/brains/2018/06/cool-startup)
 
-[The Two Narratives: Marc Andreessen vs. Peter Thiel](https://allenleein.github.io/brains/2018/06/cool-startup)
+[The Two Narratives: Marc Andreessen vs. Peter Thiel](https://allenleein.github.io/brains/2018/11/the-two-narratives)
 
 [iPhone as a service](https://allenleein.github.io/brains/2019/03/iphone-as-a-service)
 

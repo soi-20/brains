@@ -55,6 +55,15 @@ It’s very hard to get the non-consensus/right results unless you’re willing 
 
 "There are two types of people...and the people who build something are the who ones make everything happen." - **Sam Altman**
 
+
+---
+
+
+The hard problems you solve now will become your competitive moat in the future. -**Allen Lee**
+
+
+---
+
 To do unreasonable things requires unreasonable commitments and sacrifices -the keys to success aren’t secret, they’re just painful. It’s all about deferring immediate gratification for delayed gratification.
 
 The immunity from what other people think is what leads people to be unreasonably successful- **Keith Rabios**
