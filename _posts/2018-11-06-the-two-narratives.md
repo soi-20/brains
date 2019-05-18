@@ -25,7 +25,7 @@ You create another building, another layer of the game. You create new rooms oth
 
 
 
-## Marc Andreessen: Compete In the Window of Game
+## Marc Andreessen: Compete In the Game of Window
 
 
 On Marc's philosophy that software is eating the world, and timing is everything. We can also call it "The Window Game Theory". 
