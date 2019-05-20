@@ -12,7 +12,17 @@ permalink: /quotes/
 
 I admire wild animals because they hunt, they fight, no matter what, they find a way to predate and survive. 
 
+---
+
 人類文明就是建立在恐懼之後的嚮往。
+
+
+---
+
+Emotions can override any level of intelligence. Confidence rises faster than ability.
+
+
+---
 
 Whenever people say "X is too old for you", it mean they lost their dream and want you to give up yours too. The people that want to make changes in their own lives but are too scared to do anything that are the biggest haters. Second biggest group is just insecure people. - **Allen Lee**
 
@@ -23,7 +33,15 @@ Whenever people say "X is too old for you", it mean they lost their dream and wa
 
 ---
 
-“The largest illusion is the illusion of meaning that anything actually matters”. We’re all going to die, and everything will turn to dust. - **Naval**
+“The largest illusion is the illusion of meaning that anything actually matters”. We’re all going to die, and everything will turn to dust. 
+
+
+Humans are highly memetic creatures – we tend to copy what everybody else is doing, including our desires
+Very often, you get trapped in the wrong game because you’re competing.
+
+Generally, most people will make the mistake of paying too much attention to the competition and being too much like the competition and not being authentic enough.
+
+The best way to escape competition is to just be authentic to yourself.- **Naval**
 
 ---
 
