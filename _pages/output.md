@@ -21,8 +21,6 @@ permalink: /output/
 
 [Apple’s Strategy to Dominate Audio](https://medium.com/@allenleein/functions-c292b619a0c3)
 
-[Pirates Who Code](https://medium.com/pirateswhocode/can-you-design-a-market-that-you-can-dominate-7b6690ff46b4)
-
 
 ---
 
