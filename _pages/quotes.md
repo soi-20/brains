@@ -75,6 +75,7 @@ It’s very hard to get the non-consensus/right results unless you’re willing 
 
 
 ---
+One of my concerns of our generation is that we’re talking too much and not building enough.
 
 
 The hard problems you solve now will become your competitive moat in the future. -**Allen Lee**

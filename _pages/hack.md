@@ -14,7 +14,8 @@ permalink: /hack/
   <img width="200" height="200" src="https://i.imgur.com/qNOBG0N.png" alt="Sublime's custom image"/>
 </p>
 
-🎧𝌂𝌄𝌂𝌄𝌂𝌄𝌂𝌄𝌂𝌄𝌂𝌂
+### `We turn every podcast into communities`
+🎧[Beta](https://testflight.apple.com/join/oAPb22rV)
 
 ---
 
@@ -26,8 +27,8 @@ permalink: /hack/
 </p>
 
 
-
-### `I'm trying to decentralize my brain to a network of brains.` [Link](https://github.com/allenleein/brains)
+### `I'm trying to decentralize my brain to a network of brains.` 
+[Link](https://github.com/allenleein/brains)
 
 
 ---
