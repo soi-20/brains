@@ -7,7 +7,7 @@ permalink: /hack/
 
 
 
-# Ghosts Podcast
+# Ghosts
 
 
 <p align="center">
@@ -15,7 +15,7 @@ permalink: /hack/
 </p>
 
 ### `We turn every podcast into communities`
-🎧[Beta](https://testflight.apple.com/join/oAPb22rV)
+[Beta](https://testflight.apple.com/join/oAPb22rV)
 
 ---
 
@@ -41,7 +41,8 @@ permalink: /hack/
 </p>
 
 
-### `The Outliners In The Tech Business Wars Are Pirates, Not Navy Seals.` [Subscribe the book](https://mailchi.mp/a68c89762ee3/pirates)
+### `The outliners in the digital business wars are pirates, not Navy Seals.` 
+[Link](https://mailchi.mp/a68c89762ee3/pirates)
 
 
 ---
@@ -54,7 +55,8 @@ permalink: /hack/
 
 
 
-### `I co-developed the first programmed drones to write Chinese letters in the sky in history.` [Link](https://vimeo.com/111901733)
+### `I co-developed the first programmed drones to write Chinese letters in the sky in history.` 
+[Link](https://vimeo.com/111901733)
 
 
 ---
