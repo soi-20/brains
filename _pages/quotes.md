@@ -143,6 +143,11 @@ I am one of those people who believe that having a scarcity brings out the best 
 The mobile app stores, in particular, have always seemed to me to be a constraint on innovation vs a contributor to it.-**Fred Wilson**
 
 
+---
+
+“Nest would never have happened if I didn’t get out of the echo chamber of Silicon Valley,”-**Tony Fadell**
+
+
 
 # Network Effect
 
