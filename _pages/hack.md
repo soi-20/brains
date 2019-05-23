@@ -37,7 +37,7 @@ permalink: /hack/
 # Pirates Who Code
 
 <p align="center">
-  <img width="300" height="500" src="https://i.imgur.com/3nSl3k4.png" alt="Sublime's custom image"/>
+  <img width="300" height="500" src="https://i.imgur.com/l5Q36FN.jpg" alt="Sublime's custom image"/>
 </p>
 
 
