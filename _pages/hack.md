@@ -14,25 +14,10 @@ permalink: /hack/
   <img width="200" height="200" src="https://i.imgur.com/qNOBG0N.png" alt="Sublime's custom image"/>
 </p>
 
-### `We turn every podcast into communities`
+### `We turn every podcast into communities.`
 [Beta](https://testflight.apple.com/join/oAPb22rV)
 
 ---
-
-# Experimental psychology theory: Functional Flow
-
-
-<p align="center">
-  <img width="200" height="200" src="https://www.symbols.com/gi.php?type=1&id=1309" alt="Sublime's custom image"/>
-</p>
-
-
-### `I'm trying to decentralize my brain to a network of brains.` 
-[Link](https://github.com/allenleein/brains)
-
-
----
-
 
 # Pirates Who Code
 
@@ -61,6 +46,19 @@ permalink: /hack/
 
 ---
 
+# Experimental psychology theory: Functional Flow
+
+
+<p align="center">
+  <img width="200" height="200" src="https://www.symbols.com/gi.php?type=1&id=1309" alt="Sublime's custom image"/>
+</p>
+
+
+### `I'm trying to decentralize my brain to a network of brains.` 
+[Link](https://github.com/allenleein/brains)
+
+
+---
 
 
 
