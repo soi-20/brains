@@ -27,7 +27,7 @@ permalink: /hack/
 
 
 ### `The outliners in the digital business wars are pirates, not Navy Seals.` 
-[Link](https://mailchi.mp/a68c89762ee3/pirates)
+[Link](https://allenleein.github.io/brains/book/)
 
 
 ---
