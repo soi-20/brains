@@ -21,6 +21,8 @@ permalink: /output/
 
 [Apple’s Strategy to Dominate Audio](https://medium.com/@allenleein/functions-c292b619a0c3)
 
+[99.9% VC Would't Fund Facebook](https://allenleein.github.io/brains/2018/06/vc-bias)
+
 
 ---
 
