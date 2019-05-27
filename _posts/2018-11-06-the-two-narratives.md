@@ -7,7 +7,7 @@ tags:
 comments: true
 ---
 
-It is always interesting when two famous prestigious venture capitalists disagree on something fundamental. In this case, it's Marc Andreessen and Peter Thiel. 
+It is always interesting when two famous prestigious venture capitalists disagree on something fundamental. In this case, it's [Marc Andreessen and Peter Thiel](https://www.youtube.com/watch?v=PUhtHojSphk). 
 
 Their disagreement can be viewed through the lens of how they view Twitter. Thiel sees it as "we wanted flying cars, instead we got 140 characters" (a Founders Fund slogan). He thinks it's an unimpressive, incremental advancement. Andreessen, however, views it as "instant global public messaging for free". In other words, fundamentally transformative.
 
