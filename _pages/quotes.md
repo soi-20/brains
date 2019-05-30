@@ -21,6 +21,9 @@ I admire wild animals because they hunt, they fight, no matter what, they find a
 
 Emotions can override any level of intelligence. Confidence rises faster than ability.
 
+---
+
+It’s easy to do the right thing for people you like. It’s easy to do the right thing when it’s cheap. It really only matters when it’s difficult.
 
 ---
 
@@ -147,12 +150,22 @@ The mobile app stores, in particular, have always seemed to me to be a constrain
 
 “Nest would never have happened if I didn’t get out of the echo chamber of Silicon Valley,”-**Tony Fadell**
 
+---
+
+The job of the CEO is to make hard decisions without the support of data, and have the confidence and communication skills to get the company to commit. -**Sam Altman**
+
 
 
 # Network Effect
 
 The existence of a durable network effect can overcome a lot of potential flaws in a product or business, and conversely the absence of network effects cannot be solved by features or clever customer acquisition strategies.-**Mitch Lasky**
 
+
+# Venture Capital
+
+The best investments look bad but are good.
+
+Similarly, many investments look good but are bad. The easiest way to fool me is with a nice growth graph and an idea that sounds good, but most investors have their weak spots. Another trap that a lot of investors fall for is bad founders with impressive credentials.-**Sam Altman**
 
 
 # Learning
