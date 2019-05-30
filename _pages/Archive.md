@@ -1,7 +1,7 @@
 ---
 layout: content
-title: ☈ Quotes
-permalink: /quotes/
+title: ☈ Archive
+permalink: /archive/
 ---
 
 
@@ -189,8 +189,7 @@ No matter who you are, you need two kinds of friends in your life. The first kin
 What many people complain that their Developer is bad, is mostly because of lack of business process and communicating clearly to the dev. Many small businesses still operate with the mindset that throw requirements to the other side and get back fully working bug free code which rarely works.-**HN User**
 
 
-At a bare bare bare minimum, everyone can create a coming-soon landing page and drive traffic to it and articulate the results for that.  The traction slide needs to give me some idea that this is a product that people want and more importantly how badly.**E Yen**
-
+You don’t change industries by telling people to change, you change them by making the alternative more profitable.-**Kamal Ravikant**
 
 
 # Productivity
