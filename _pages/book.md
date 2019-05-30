@@ -12,15 +12,17 @@ permalink: /book/
 ### `The outliners in the digital business wars are pirates, not Navy Seals.` 
 [Subscribe](https://mailchi.mp/a68c89762ee3/pirates)
 
-## Table of Contents
+# Table of Contents
 
-#### [Preface: The Games- Changing, Maintaining, Creating](https://medium.com/pirateswhocode/can-you-design-a-market-that-you-can-dominate-7b6690ff46b4)
+### [Preface: The Games- Changing, Maintaining, Creating](https://medium.com/pirateswhocode/can-you-design-a-market-that-you-can-dominate-7b6690ff46b4)
 
-#### The Rule of the Game: Changing
+### The Rule of the Game: Changing
 
-#### The Window of the Game: Maintaining
+### The Window of the Game: Maintaining
 
-#### The Odds of the New Game: Creating
+### The Odds of the New Game: Creating
+
+#### Disruption Is Creation
 
 #### [The Two Narratives: Marc Andreessen vs. Peter Thiel](https://allenleein.github.io/brains/2018/11/the-two-narratives)
 
