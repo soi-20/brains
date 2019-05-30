@@ -14,16 +14,18 @@ permalink: /book/
 
 # Table of Contents
 
-### [Preface: The Games- Changing, Maintaining, Creating](https://medium.com/pirateswhocode/can-you-design-a-market-that-you-can-dominate-7b6690ff46b4)
+- Preface: Pirates and Navy
 
-### The Rule of the Game: Changing
+- [Introduction: The Games- Changing, Maintaining, Creating](https://medium.com/pirateswhocode/can-you-design-a-market-that-you-can-dominate-7b6690ff46b4)
 
-### The Window of the Game: Maintaining
+#### The Rule of the Game: Changing (VI)
 
-### The Odds of the New Game: Creating
+#### The Window of the Game: Maintaining (VII)
 
-#### Disruption Is Creation
+#### The Odds of the New Game: Creating (VIII)
 
-#### [The Two Narratives: Marc Andreessen vs. Peter Thiel](https://allenleein.github.io/brains/2018/11/the-two-narratives)
+- Disruption Is Creation
+
+- [The Two Narratives: Marc Andreessen vs. Peter Thiel](https://allenleein.github.io/brains/2018/11/the-two-narratives)
 
 
