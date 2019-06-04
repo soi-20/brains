@@ -27,4 +27,5 @@ permalink: /output/
 ---
 
 [Projects](https://allenleein.github.io/brains/hack/) / 
-[Email](mailto:allenleein@gmail.com)
+[Email](mailto:allenleein@gmail.com) / [Read](https://allenleein.github.io/brains/read/) / [Audio/Video](https://allenleein.github.io/brains/listen/) / [Archive](https://allenleein.github.io/brains/archive/)
+

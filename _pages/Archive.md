@@ -10,7 +10,7 @@ permalink: /archive/
 # Life
 
 
-I admire wild animals because they hunt, they fight, no matter what, they find a way to predate and survive. 
+I admire wild animals because they hunt, they fight, no matter what, they find a way to predate and survive(the best and fullest expression of themselves). 
 
 ---
 
