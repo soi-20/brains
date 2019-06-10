@@ -1,6 +1,6 @@
 ---
 layout: content
-title: ALLEN 
+title: Allen Lee 
 permalink: /output/
 ---
 
@@ -27,5 +27,6 @@ permalink: /output/
 ---
 
 [Projects](https://allenleein.github.io/brains/hack/) / 
-[Email](mailto:allenleein@gmail.com) / [Read](https://allenleein.github.io/brains/read/) / [Audio/Video](https://allenleein.github.io/brains/listen/) / [Archive](https://allenleein.github.io/brains/archive/)
+[Read](https://allenleein.github.io/brains/read/) / [Archive](https://allenleein.github.io/brains/archive/) /
+ [Audio/Video](https://allenleein.github.io/brains/listen/) / [Email](mailto:allenleein@gmail.com) 
 

@@ -177,6 +177,9 @@ The best way of learning is doing it every day, even if you think you don’t ha
 
 ---
 
+"Leap and the net will appear" -**Kamal Ravikant**
+
+
 
 # Friends
 
@@ -212,3 +215,8 @@ The bigger the ego, the more vulnerable we are.
 
 The things that we do not, create Emotion.-**[Siddha Performance](https://mobile.twitter.com/KapilGuptaMD/status/1009192047805333516)**
 
+# Health
+
+If you understand the principles of nutrition (how and why we store fat, what excess amounts of seed oils/sugar do, etc.), your food choices take care of themselves.
+
+Stop worrying about things that won’t matter a year from now. We as humans have a tendency to assign importance in the present moment to things that actually don’t really matter in the grand scheme of things. - **Jocko Willink**
