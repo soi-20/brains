@@ -1,6 +1,6 @@
 ---
 layout: content
-title: Allen Lee 
+title: ALLEN 
 permalink: /output/
 ---
 
