@@ -1,15 +1,14 @@
 ---
 layout: post
-title: "A Cool Startup"
+title: "Advices"
 description: ""
 date: 2018-06-08
 tags: 
 comments: true
 ---
 
-Keep these in mind:
 
-99.9% VCs give useless advice.
+99.9% VCs give useless advice. Listen carefully.
 
 Work on a problem that has an immediately useful solution, but has enormous potential for growth. 
 

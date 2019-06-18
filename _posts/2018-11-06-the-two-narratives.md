@@ -7,28 +7,28 @@ tags:
 comments: true
 ---
 
-It is always interesting when two famous prestigious venture capitalists disagree on something fundamental. In this case, it's [Marc Andreessen and Peter Thiel](https://www.youtube.com/watch?v=PUhtHojSphk). 
+It is always interesting when two famous prestigious venture capitalists disagree on something fundamental. In this case, it's [Marc Andreessen and Peter Thiel(Youtube)](https://www.youtube.com/watch?v=PUhtHojSphk). 
 
-Their disagreement can be viewed through the lens of how they view Twitter. Thiel sees it as "we wanted flying cars, instead we got 140 characters" (a Founders Fund slogan). He thinks it's an unimpressive, incremental advancement. Andreessen, however, views it as "instant global public messaging for free". In other words, fundamentally transformative.
+Their disagreement can be viewed through the lens of how they view Twitter. Thiel sees it as "we cwanted flying cars, instead we got 140 characters" (a Founders Fund slogan). He thinks it's an unimpressive, incremental advancement. Andreessen, however, views it as "instant global public messaging for free". In other words, fundamentally transformative.
 
 # Open at the Right Time vs. Create Your Own Door
 
 I created two theories to explain the difference in investing perspectives between Marc Andreessen and Peter Thiel.
 
-### Game of Window
+### Game of Window(Timing)
 
-There are lot's of rooms in this building, and there are lots of treatures in those rooms. You may know how many golds in some rooms, but you won't know when will it open. You need good tools and good timing to get those rewards. 
+There are lot's of rooms in this building(Market), and there are lots of treatures(Opportunities) in those rooms. You may know how many golds in some rooms, but you won't know when will it open. You need good tools and good timing to get those rewards. 
 
-### Game of Moat
+### Game of Building(Moat)
 
-You create another building, another layer of the game. You create new rooms others hard to even find it.
+You create another building, another layer of the game. You create new rooms others hard to even find it. Mostly, It's "unpopular idea" so no one wants to build it.
 
 
 
 ## Marc Andreessen: Compete In the Game of Window
 
 
-On Marc's philosophy that software is eating the world, and timing is everything. We can also call it "The Window Game Theory". 
+On Marc's philosophy that software is eating the world, and timing is everything.  
 
 
 *-The strongest form is that, as a consequence of all this, Silicon Valley type software companies will end up eating everything. The kinds of companies we build in the Valley will rule pretty much every industry. These companies have software at their very core. They know how to develop software. They know the economics of software. They make engineering the priority. And that’s why they’ll win.*
@@ -48,7 +48,7 @@ In this game, he thinks the timing is everything. You need to execute your idea 
 
 
 
-## Peter Thiel: Create a Game with Strong Moat
+## Peter Thiel: Create a Game with Unique Moats
 
 Is your market big enough? Who cares—create a new one if it isn’t. Peter Thiel argues good innovation sells itself. “If your product requires advertising or salespeople to sell it, it’s not good enough.” He wrote in Zero to One. “Technology is primarily about product development, not distribution.”
 
