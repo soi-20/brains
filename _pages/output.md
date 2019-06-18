@@ -13,12 +13,9 @@ permalink: /output/
 
 [Validate Your Idea](https://allenleein.github.io/brains/2018/06/validate-idea)
 
-[A Cool Startup](https://allenleein.github.io/brains/2018/06/cool-startup)
-
 [99.9% VC Would't Fund Facebook](https://allenleein.github.io/brains/2018/06/vc-bias)
 
 [The Two Narratives: Marc Andreessen vs. Peter Thiel](https://allenleein.github.io/brains/2018/11/the-two-narratives)
-
 
 ---
 
