@@ -9,8 +9,7 @@ permalink: /output/
 
 [Contrarian](https://allenleein.github.io/brains/2018/05/contrarian)
 
-
-[The Two Narratives: Marc Andreessen vs. Peter Thiel](https://allenleein.github.io/brains/2018/11/the-two-narratives)
+[The Two Narratives](https://allenleein.github.io/brains/2018/11/the-two-narratives)
 
 ---
 
