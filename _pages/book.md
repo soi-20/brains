@@ -8,11 +8,7 @@ permalink: /book/
   <img width="300" height="500" src="https://i.imgur.com/l5Q36FN.jpg" alt="Sublime's custom image"/>
 </p>
 
-Software are eating the world.
-
-Pirates who code are eating the business.
-
-[Subscribe](https://mailchi.mp/a68c89762ee3/pirates)
+Software are eating the world. Pirates who code are eating the business.
 
 # Table of Contents
 
