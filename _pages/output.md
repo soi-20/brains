@@ -6,7 +6,7 @@ permalink: /output/
 
 
 
-[Pirates Who Code](https://allenleein.github.io/brains/book/)
+### [Pirates Who Code](https://allenleein.github.io/brains/book/)
 
 ---
 
