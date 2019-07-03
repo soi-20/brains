@@ -31,14 +31,6 @@ permalink: /hack/
 [Link](https://github.com/allenleein/brains)
 
 
-# Pirates Who Code
-
-### `The outliners in the digital business wars are pirates, not Navy Seals.` 
-[Link](https://allenleein.github.io/brains/book/)
-
-
----
-
 
 
 # Project X

@@ -5,11 +5,8 @@ permalink: /output/
 ---
 
 
-[All People are Born Artists](https://allenleein.github.io/brains/2018/03/artist)
 
-[Contrarian](https://allenleein.github.io/brains/2018/05/contrarian)
-
-[The Two Narratives](https://allenleein.github.io/brains/2018/11/the-two-narratives)
+[Pirates Who Code](https://allenleein.github.io/brains/book/)
 
 ---
 

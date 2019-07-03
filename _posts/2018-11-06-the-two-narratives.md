@@ -19,7 +19,7 @@ I created two theories to explain the difference in investing perspectives betwe
 
 There are lot's of rooms in this building(Market), and there are lots of treatures(Opportunities) in those rooms. You may know how many golds in some rooms, but you won't know when will it open. You need good tools and good timing to get those rewards. 
 
-### Game of Building(A new game)
+### Game of Creation(A new game)
 
 You create another building, another layer of the game. You create new rooms others hard to even find it. Mostly, It's "unpopular idea" so no one wants to build it.
 
@@ -52,7 +52,7 @@ In this game, he thinks the timing is everything. You need to execute your idea 
 
 
 
-## Peter Thiel: Create a Game with Unique Moats
+## Peter Thiel: Create A Game with Unique Moats
 
 <p align="center">
   <img width="200" height="200" src="https://i.imgur.com/5zToWHI.png" alt="Sublime's custom image"/>

@@ -86,7 +86,7 @@ Reading:
 [Haskell Code to Production](https://www.reddit.com/r/haskell/comments/7dtmha/what_is_the_easiest_way_to_deploy_haskell_code_to/)
 
 
-### State of the Haskell & Purescript ecosystem
+### State of the Haskell ecosystem
 
 [The Haskell Stack Ecosystem in 30 Seconds Or Less](https://chrisconlan.com/the-haskell-package-ecosystem-in-30-seconds-or-less/)
 
@@ -94,42 +94,7 @@ Reading:
 
 [Setting up Haskell in VS Code on macOS](https://medium.com/@dogwith1eye/setting-up-haskell-in-vs-code-on-macos-d2cc1ce9f60a)
 
-[State of the Haskell ecosystem](https://github.com/Gabriel439/post-rfc/blob/master/sotu.md#server-side-programming)
-
-[An opinionated guide to Haskell in 2018](https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/)
-
-[PureScript: Tomorrow’s JavaScript Today](https://www.youtube.com/watch?v=5AtyWgQ3vv0)
-
 ---
-
-# Purescript
-
-### Purescript 101
-
-[Setting up PureScript in December 2018](https://qiita.com/kimagure/items/570e6f2bbce5b4724564)
-
-[PureScript Resources1](https://purescript-resources.readthedocs.io/en/latest/)
-
-[PureScript Resources2](https://github.com/JordanMartinez/purescript-jordans-reference)
-
-[PureScript Book: Updated coded to 0.12](https://github.com/dwhitney/purescript-book/tree/master/text)
-
-[Documentation for the PureScript language, compiler, and tools.](https://github.com/purescript/documentation)
-
-
-### Build projects with Purescript
-
-[Writing a Simple REST Web Service in PureScript](https://abhinavsarkar.net/posts/ps-simple-rest-service/)
-
-[Let's make a Linear Regression Calculator with PureScript](https://lettier.github.io/posts/2017-01-15-linear-regression-and-the-amazing-beard.html)
-
-[purescript-reactnative-example](https://github.com/doolse/purescript-reactnative-example)
-
-[A puzzle game inspired by functional programming](https://github.com/sharkdp/cube-composer/)
-
-[High precision scientific calculator with support for physical units](https://github.com/sharkdp/insect)
-
-[Electron Apps with PureScript](https://kritzcreek.github.io/posts/2016-07-05-purescript-electron.html)
 
 
 # FP Reading
