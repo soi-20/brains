@@ -14,6 +14,8 @@ Software are eating the world. Pirates who code are eating the business.
 
 # Table of Contents
 
+### The Pirates 
+
 ### The Games
 
 - [Introduction: The Games- Changing, Maintaining, Creating](https://medium.com/pirateswhocode/can-you-design-a-market-that-you-can-dominate-7b6690ff46b4)
