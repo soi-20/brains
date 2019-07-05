@@ -18,7 +18,7 @@ Software are eating the world. Pirates who code are eating the business.
 
 ### The Games
 
-- [Introduction: The Games- Changing, Maintaining, Creating](https://medium.com/pirateswhocode/can-you-design-a-market-that-you-can-dominate-7b6690ff46b4)
+- [Introduction: The Games- Changing, Maintaining, Creating](https://allenleein.github.io/brains/2019/06/the-games)
 
 - [The Two Narratives: Marc Andreessen vs. Peter Thiel](https://allenleein.github.io/brains/2018/11/the-two-narratives)
 
