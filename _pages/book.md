@@ -8,13 +8,13 @@ permalink: /book/
   <img width="200" height="200" src="https://i.imgur.com/ifM7Lva.png" alt="Sublime's custom image"/>
 </p>
 
-# Pirates Who Code 
+# The Games Theory 
 
 Software are eating the world. Pirates who code are eating the business.
 
 # Table of Contents
 
-### The Pirates 
+### The eSports Moment 
 
 ### The Games
 
