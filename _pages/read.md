@@ -15,7 +15,7 @@ permalink: /read/
 [How Sequoia’s $2 billion Dropbox win became as big as it is](https://www.recode.net/2018/3/22/17150770/sequoia-dropbox-ipo-win)
 
 
-[VC Economics – Why Your $50 Million Exit Means Nothing](http://blog.eladgil.com/2010/07/vc-economics-why-your-50-million-exit.html)
+[VC Economics – Why Your 50 Million Exit Means Nothing](http://blog.eladgil.com/2010/07/vc-economics-why-your-50-million-exit.html)
 
 
 [A stats-based look behind the venture capital curtain](https://medium.com/@efeng/a-stats-based-look-behind-the-venture-capital-curtain-91630b3239ae)
@@ -23,8 +23,6 @@ permalink: /read/
 [28 Of The Best VC Bets Of All Time And What We Can Learn From Them](https://www.cbinsights.com/research/best-venture-capital-investments/#Gro)
 
 [Fear and loathing in venture capital](http://blog.maxniederhofer.com/fear-and-loathing-in-venture-capital)
-
-
 
 [Bad Advice](http://blog.eladgil.com/2013/11/bad-advice.html)
 
@@ -34,7 +32,7 @@ permalink: /read/
 
 
 
-## Strategy
+## Product Strategy
 
 [Does every startup need a Steve Jobs?](https://andrewchen.co/does-every-startup-need-a-steve-jobs/)
 
@@ -51,16 +49,6 @@ permalink: /read/
 [Disruption’s Long, Slow, Complex Journey](https://medium.learningbyshipping.com/disruptions-long-slow-complex-journey-c43872788423)
 
 
-## Paradigm
-
-[Apple’s Software “Problem” and “Fixing” It (via twitter)](https://medium.learningbyshipping.com/apples-software-problem-and-fixing-it-via-twitter-c941a905ba20)
-
-[Nikon versus Canon: A Story Of Technology Change](https://medium.learningbyshipping.com/nikon-versus-canon-a-story-of-technology-change-45777098038c)
-
-[Mobile OS Paradigm](https://blog.learningbyshipping.com/2014/08/12/mobile-os-paradigm/)
-
-[The end of the beginning](https://www.ben-evans.com/benedictevans/2018/11/16/the-end-of-the-beginning)
-
 
 ## Wrong Prediction
 
@@ -72,6 +60,11 @@ permalink: /read/
 [Startups, this is how design works](https://startupsthisishowdesignworks.com/)
 
 [Black Design](http://www.black.design/)
+
+
+## History
+
+[The Secret History of Silicon Valley by Steve Blank](https://steveblank.com/2009/08/17/stanford-crosses-the-rubicon/)
 
 ---
 
