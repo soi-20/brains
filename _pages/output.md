@@ -8,7 +8,7 @@ permalink: /output/
   <img width="200" height="200" src="https://i.imgur.com/ifM7Lva.png" alt="Sublime's custom image"/>
 </p>
 
-### [The Games Theory](https://allenleein.github.io/brains/book/)
+### [Games Theory](https://allenleein.github.io/brains/book/)
 
 ---
 

@@ -10,21 +10,6 @@ permalink: /read/
 [Paul Graham Essays](http://www.paulgraham.com/articles.html)
 
 
-## Founder 
-
-
-[Bad Advice](http://blog.eladgil.com/2013/11/bad-advice.html)
-
-[Survivorship Bias and Startup Hype](https://www.sonyaellenmann.com/2018/06/survivorship-bias-and-startup-hype.html)
-
-[Unequal Cofounders](http://blog.eladgil.com/2017/08/unequal-cofounders.html)
-
-[How to Start a Startup by Sam Altman (2014)](http://startupclass.samaltman.com/lists/readings/)
-
-[Sam Altman on Loving Community, Hating Coworking, and the Hunt for Talent](https://medium.com/conversations-with-tyler/tyler-cowen-sam-altman-ai-tech-business-58f530417522)
-
-
-
 ## Venture Capital
 
 [How Sequoia’s $2 billion Dropbox win became as big as it is](https://www.recode.net/2018/3/22/17150770/sequoia-dropbox-ipo-win)
@@ -32,15 +17,20 @@ permalink: /read/
 
 [VC Economics – Why Your $50 Million Exit Means Nothing](http://blog.eladgil.com/2010/07/vc-economics-why-your-50-million-exit.html)
 
-[12 Things I Learned From Marc Andreessen](https://a16z.com/2014/07/21/a-dozen-things-ive-learned-from-marc-andreessen/)
 
 [A stats-based look behind the venture capital curtain](https://medium.com/@efeng/a-stats-based-look-behind-the-venture-capital-curtain-91630b3239ae)
 
 [28 Of The Best VC Bets Of All Time And What We Can Learn From Them](https://www.cbinsights.com/research/best-venture-capital-investments/#Gro)
 
-[Preemptive Rounds](http://blog.eladgil.com/2018/06/preemptive-rounds.html)
-
 [Fear and loathing in venture capital](http://blog.maxniederhofer.com/fear-and-loathing-in-venture-capital)
+
+
+
+[Bad Advice](http://blog.eladgil.com/2013/11/bad-advice.html)
+
+[Survivorship Bias and Startup Hype](https://www.sonyaellenmann.com/2018/06/survivorship-bias-and-startup-hype.html)
+
+[Unequal Cofounders](http://blog.eladgil.com/2017/08/unequal-cofounders.html)
 
 
 
@@ -62,8 +52,6 @@ permalink: /read/
 
 
 ## Paradigm
-
-[Frictionless Design Choices](https://medium.learningbyshipping.com/frictionless-design-choices-fea3b40f8588)
 
 [Apple’s Software “Problem” and “Fixing” It (via twitter)](https://medium.learningbyshipping.com/apples-software-problem-and-fixing-it-via-twitter-c941a905ba20)
 
