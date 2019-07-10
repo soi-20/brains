@@ -12,7 +12,4 @@ permalink: /output/
 <center><a href="https://allenleein.github.io/brains/book/">Games Theory</a></center>
 
 
----
-
-[Projects](https://allenleein.github.io/brains/hack/) / [Email](mailto:allenleein@gmail.com) 
 
