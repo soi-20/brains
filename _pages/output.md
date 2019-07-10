@@ -5,10 +5,12 @@ permalink: /output/
 ---
 
 <p align="center">
-  <img width="200" height="200" src="https://i.imgur.com/ifM7Lva.png" alt="Sublime's custom image"/>
+  <img width="200" height="200" src="https://i.imgur.com/gSakIkl.png" alt="Sublime's custom image"/>
 </p>
 
-### [Games Theory](https://allenleein.github.io/brains/book/)
+
+<center><a href="https://allenleein.github.io/brains/book/">Games Theory</a></center>
+
 
 ---
 

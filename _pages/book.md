@@ -5,28 +5,26 @@ permalink: /book/
 ---
 
 <p align="center">
-  <img width="200" height="200" src="https://i.imgur.com/ifM7Lva.png" alt="Sublime's custom image"/>
+  <img width="200" height="200" src="https://i.imgur.com/gSakIkl.png" alt="Sublime's custom image"/>
 </p>
 
 # Games Theory 
 
-Software are eating the world. Pirates who code are eating the business.
+Software are eating the world. Gamers who code are eating the business.
 
 # Table of Contents
 
-### The eSports Moment 
+### 1. The Games
 
-### The Games
-
-- [Introduction: The Games- Changing, Maintaining, Creating](https://allenleein.github.io/brains/2019/06/the-games)
+- [Introduction: Changing, Maintaining, Creating](https://allenleein.github.io/brains/2019/06/the-games)
 
 - [The Two Narratives: Marc Andreessen vs. Peter Thiel](https://allenleein.github.io/brains/2018/11/the-two-narratives)
 
-### The Rule of the Game: Changing (VI)
+### 2. The Nature of the Game: Changing
 
-### The Window of the Game: Maintaining (VII)
+### 3. The Window of the Game: Maintaining 
 
-### The Odds of the New Game: Creating (VIII)
+### 4. The Winner of the New Game: Creating
 
 
 
