@@ -55,6 +55,8 @@ Rather, write the program like you would naturally, then when you recognize the 
 
 [An opinionated guide to Haskell in 2018](https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/)
 
+[An opinionated beginner's guide to Haskell in mid 2019](https://github.com/theindigamer/not-a-blog/blob/5ee43179fe4b148bd8c61680112b4e9e048481fc/opinionated-haskell-guide-2019.md)
+
 [Practical Haskell programs from scratch - a quick and easy guide](https://www.ahri.net/practical-haskell-programs-from-scratch/#a-repl-read-evaluate-print-loop)
 
 [Practical Haskell](http://seanhess.github.io/) 
