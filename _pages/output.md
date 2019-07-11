@@ -1,6 +1,6 @@
 ---
 layout: content
-title: ALLEN 
+title: 
 permalink: /output/
 ---
 
@@ -9,7 +9,7 @@ permalink: /output/
 </p>
 
 
-<center><a href="https://allenleein.github.io/brains/book/">Games Theory</a></center>
+<center><h1><a href="https://allenleein.github.io/brains/book/">Games Theory</a></h1></center>
 
 
 
