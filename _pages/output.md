@@ -9,7 +9,7 @@ permalink: /output/
 </p>
 
 
-<center><h1><a href="https://allenleein.github.io/brains/book/">Games Theory</a></h1></center>
+<center><h2><a href="https://allenleein.github.io/brains/book/">Games Theory</a></h2></center>
 
 
 
