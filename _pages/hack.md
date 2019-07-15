@@ -1,7 +1,7 @@
 ---
 layout: content
 title:  𝌄𝌂Projects
-permalink: /hack/
+permalink: /projects/
 ---
 
 

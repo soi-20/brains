@@ -47,7 +47,29 @@ Rather, write the program like you would naturally, then when you recognize the 
 [1] [The Little Schemer](https://github.com/allenleein/brains/blob/master/Zen-of-Functional-Programming/The_Little_Schemer_4th.pdf)
 
 
+### Haskell vs. Purescript
 
+
+# Purescript
+
+### Purescript Docs
+
+[Documentation for the PureScript language, compiler, and tools.](https://github.com/purescript/documentation)
+
+[Purescript Documentation Discussion](https://github.com/chexxor/purescript-documentation-discussion/blob/50351c1aae/01-Sources-and-Interpretation/Learning-Resources-Analysis.md)
+
+
+
+### Purescript Learning
+
+[PureScript Resources by Justin Woo](https://purescript-resources.readthedocs.io/en/latest/)
+
+[Learn PureScript with this "clone and play" repository by Jordan Martinez](https://github.com/JordanMartinez/purescript-jordans-reference)
+
+[Purescript Book](https://github.com/dwhitney/purescript-book)
+
+
+# Haskell
 
 ### Haskell 101
 
@@ -72,4 +94,18 @@ Rather, write the program like you would naturally, then when you recognize the 
 [Haskell for Readers](http://haskell-for-readers.nomeata.de/)
 
 [Haskell's kind system - a primer](https://diogocastro.com/blog/2018/10/17/haskells-kind-system-a-primer/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

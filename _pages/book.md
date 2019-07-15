@@ -10,11 +10,11 @@ permalink: /book/
 
 # Games Theory 
 
-Software are eating the world. Gamers who code are eating the business.
+
 
 # Table of Contents
 
-### 1. The Games
+### 1. Gamers and Their Games
 
 - [Introduction: Changing, Maintaining, Creating](https://allenleein.github.io/brains/2019/06/the-games)
 
@@ -24,7 +24,7 @@ Software are eating the world. Gamers who code are eating the business.
 
 ### 3. The Window of the Game: Maintaining 
 
-### 4. The Winner of the New Game: Creating
+### 4. The Outliner of the Game: Creating
 
 
 
