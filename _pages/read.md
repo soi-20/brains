@@ -9,6 +9,8 @@ permalink: /read/
 
 [Paul Graham Essays](http://www.paulgraham.com/articles.html)
 
+[World After Capital](http://worldaftercapital.org/)
+
 
 ## Venture Capital
 

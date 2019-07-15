@@ -12,9 +12,9 @@ permalink: /book/
 
 
 
-# Table of Contents
+## Table of Contents
 
-### 1. Gamers and Their Games
+### 1. The Games
 
 - [Introduction: Changing, Maintaining, Creating](https://allenleein.github.io/brains/2019/06/the-games)
 
