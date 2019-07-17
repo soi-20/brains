@@ -31,3 +31,6 @@ permalink: /book/
 ### 4. The Outliner of the Game: Creating
 
 - [Narrative Violations]()
+
+
+<div class="upscribe-embed" data-src="https://upscri.be/a13df0"></div>
