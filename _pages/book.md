@@ -14,7 +14,7 @@ permalink: /book/
 
 ## Table of Contents
 
-### 1. Gamers and the Players
+### 1. Gamers and the Big Players
 
 - [Changing, Maintaining, Creating](https://allenleein.github.io/brains/2019/06/the-games)
 
@@ -30,6 +30,4 @@ permalink: /book/
 
 ### 4. The Outliner of the Game: Creating
 
-
-
-
+- [Narrative Violations]()
