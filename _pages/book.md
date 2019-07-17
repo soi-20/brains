@@ -14,15 +14,19 @@ permalink: /book/
 
 ## Table of Contents
 
-### 1. The Games
+### 1. Gamers and the Players
 
-- [Introduction: Changing, Maintaining, Creating](https://allenleein.github.io/brains/2019/06/the-games)
+- [Changing, Maintaining, Creating](https://allenleein.github.io/brains/2019/06/the-games)
 
-- [The Two Narratives: Marc Andreessen vs. Peter Thiel](https://allenleein.github.io/brains/2018/11/the-two-narratives)
+- [Faster vs. Higher](https://allenleein.github.io/brains/2018/11/the-two-narratives)
+
+- [Rewards]()
 
 ### 2. The Nature of the Game: Changing
 
 ### 3. The Window of the Game: Maintaining 
+
+- [The Thinking Loop]()
 
 ### 4. The Outliner of the Game: Creating
 

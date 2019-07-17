@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Game of Execution
+title: The Thinking Loop
 description: ""
 date: 2019-07-03
 tags: 
