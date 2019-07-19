@@ -32,4 +32,4 @@ permalink: /book/
 - [Narrative Violations]()
 
 
-<center><h1><a href="https://gamestheory.substack.com/">Subscribe This Book</a></h1></center>
+<center><h3><a href="https://gamestheory.substack.com/">Subscribe This Book</a></h3></center>
