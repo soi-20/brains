@@ -7,13 +7,13 @@ tags:
 comments: true
 ---
 
-It is always interesting when two famous prestigious venture capitalists disagree on something fundamental. In this case, it's [Marc Andreessen and Peter Thiel(Youtube)](https://www.youtube.com/watch?v=PUhtHojSphk). 
+It is always interesting when two famous prestigious venture capitalists disagree on something fundamental. In this case, it's [Marc Andreessen from a16z and Peter Thiel from Founders Fund debating about business creation.](https://www.youtube.com/watch?v=PUhtHojSphk). 
 
 Their disagreement can be viewed through the lens of how they view Twitter. Thiel sees it as "we cwanted flying cars, instead we got 140 characters" (a Founders Fund slogan). He thinks it's an unimpressive, incremental advancement. Andreessen, however, views it as "instant global public messaging for free". In other words, fundamentally transformative.
 
 # Open at the Right Time vs. Create Your Own Door
 
-I created two theories to explain the difference in investing perspectives between Marc Andreessen and Peter Thiel.
+I created two theories to explain the difference in investing perspectives between Andreessen and Thiel.
 
 ### Game of Window(Timing)
 
@@ -21,7 +21,7 @@ There are lot's of rooms in this building(Market), and there are lots of treatur
 
 ### Game of Creation(A new game)
 
-You create another building, another layer of the game. You create new rooms others hard to even find it. Mostly, It's "unpopular idea" so no one wants to build it.
+You create another building, another layer of the game. You create new rooms others hard to even find it. Mostly, It's "unpopular idea" so no one but you wants to build it.
 
 
 
@@ -62,7 +62,7 @@ Is your market big enough? Who cares—create a new one if it isn’t. Peter Thi
 
 The Founder’s Fund, which Peter Thiel co-founded, has a longer manifesto here that explains in greater detail their investment philosophy on startups.
 
-Peter believes in determinate optimism: the future is made by exceptional people who have a definite plan and execute on it. That meaningful, big-leap innovations are often not obvious from the start: If you're creating something that will be a great company 10 years from now, most people will probably not get it at first. Just see the Airbnb's 7 Rejections from investors as evidence.
+Peter believes in determinate optimism: the future is made by exceptional people who have a definite plan and execute on it. That meaningful, big-leap innovations are often not obvious from the start: If you're creating something that will be a great company 10 years from now, most people will probably not get it at first. Just see the [Airbnb's 7 Rejections](https://medium.com/@bchesky/7-rejections-7d894cbaa084) from investors as evidence.
 
 In other words: Founders who want to create radical innovation should have a big, audacious plan and ignore mundane thinking.
 
@@ -80,14 +80,15 @@ You achieve it by patiently building your business at the same time as ensuring 
 
 There is, however, another sort of monopoly — a path that gets you 100 percent of a real market. This is done by having the capabilities to beat all rivals on either quality or cost. To see how this arises consider a very structurally price competitive market (in economics, Bertrand competition). Now suppose that you develop an innovation that allows having lower marginal costs than everyone else. In this situation, you will be able to capture 100 percent of the market and so you will be a technical monopoly. 
 
-### Faster: Focusing on Execution
+### Faster: Focusing on finding the timing
 
-Second, you can term Marc's approach to entrepreneurial strategy: focusing on execution. 
+Second, you can term Marc's approach to entrepreneurial strategy: focusing on execution(finding the timing). 
 
 It is not so obvious that one path to monopoly is more profitable than the other. If you focus on execution you can get to market quicker and with fewer resources. You can learn as you go and actually invest for the capabilities that will give you a competitive advantage in the future. In other words, while it takes on-going work — no resting on your monopoly laurels here — you can still ‘own’ a market. The difference is that your pricing is constrained by potential competition from other firms. 
 
 Finding the timing is the most important part of the execution. You need to execute your idea fast and good enough within the critical window to succeed. Most importantly, you may need to survive long enough to find the right window.
 
+## There Is No One Right Way 
 
 The point here is just as an entrepreneur can choose a strategy of competing versus cooperating with established firms, it can also choose between investing in control or focusing on execution. Which is the right path is hard to tell at the outset and it may be that a start-up will want to switch between strategies as it learns more; so long as that switch is feasible. So both Marc Andreessen and Peter Thiel can have different preferences regarding control versus execution and still both be right.
 
@@ -95,7 +96,7 @@ Usually, **the misunderstood dogma here is to have no definite plan, work in inc
 
 Founders should have a goal on the horizon, a vision, and then validate parts of that vision along the way. Note that Peter advises starting small with an offering that can monopolize a small market, then grow the eventual company out of that. 
 
-The real difference between these two types of vision are: You choose to run faster or jump higher?
+The real difference between these two types of vision are: You choose to run faster or jump higher at the beginning of the game?
 
 
 

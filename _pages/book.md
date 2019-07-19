@@ -11,7 +11,6 @@ permalink: /book/
 # Games Theory 
 
 
-
 ## Table of Contents
 
 ### 1. Gamers and the Big Players
@@ -33,4 +32,3 @@ permalink: /book/
 - [Narrative Violations]()
 
 
-<div class="upscribe-embed" data-src="https://upscri.be/a13df0"></div>
