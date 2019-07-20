@@ -11,11 +11,12 @@ permalink: /projects/
 
 
 <p align="center">
-  <img width="200" height="200" src="https://i.imgur.com/qNOBG0N.png" alt="Sublime's custom image"/>
+  <img width="200" height="200" src="https://i.imgur.com/qYXww6S.png" alt="Sublime's custom image"/>
 </p>
 
 ### `An Audio Netowrk of Group-Based Knowledge.`
-[Get Invite Code](mailto:allenleein@gmail.com)
+<center><a href="mailto:allenleein@gmail.com">Link</a></center>
+
 
 ---
 
@@ -28,26 +29,41 @@ permalink: /projects/
 
 
 ### `I'm trying to decentralize my brain to a network of brains.` 
-[Link](https://github.com/allenleein/brains)
+<center><a href="https://github.com/allenleein/brains">Link</a></center>
 
 
+---
 
+# Games Theory
+
+<p align="center">
+  <img width="200" height="200" src="https://i.imgur.com/oNNIQn2.png" alt="Sublime's custom image"/>
+</p>
+
+### `A book about the unpopular disruption in the business wars`
+<center><a href="https://gamestheory.substack.com/about?utm_source=menu-dropdown">Games Theory</a></center>
+
+
+---
 
 # Project X
 
-![Alt Text](https://media.giphy.com/media/l3mZ5zogGcnzNzbqM/giphy.gif)
+<center>![Alt Text](https://media.giphy.com/media/l3mZ5zogGcnzNzbqM/giphy.gif)</center>
 
-![Alt Text](https://media.giphy.com/media/3o6fIWV4HtqMEzEz28/giphy.gif)
+<center>![Alt Text](https://media.giphy.com/media/3o6fIWV4HtqMEzEz28/giphy.gif)</center>
 
 
 
 ### `I co-developed the first programmed drones to write Chinese letters in the sky in history.` 
-[Link](https://vimeo.com/111901733)
+
+<center><a href="[Link](https://vimeo.com/111901733)
+">Link</a></center>
 
 
 ---
 
 
+<center><h3><a href="mailto:allenleein@gmail.com">Email</a></h3></center>
 
 
 
