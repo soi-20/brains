@@ -9,7 +9,7 @@ permalink: /book/
 </p>
 
 
-<center><iframe width="480" height="320" src="https://gamestheory.substack.com/embed" frameborder="0" scrolling="no"></iframe></center>
+# Games Theory
 
 ---
 
@@ -17,9 +17,9 @@ permalink: /book/
 
 ### 1. Gamers and the Games
 
-- [Changing, Maintaining, Creating](https://allenleein.github.io/brains/2019/06/the-games)
+- [Changing, Maintaining, Creating](https://gamestheory.substack.com/p/coming-soon)
 
-- [The Two Narratives](https://allenleein.github.io/brains/2018/11/the-two-narratives)
+- [The Two Narratives](https://gamestheory.substack.com/publish/post/90024)
 
 - Growing Rewards: Huge Rounds, Massive Exits
 
