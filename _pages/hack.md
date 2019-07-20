@@ -6,7 +6,6 @@ permalink: /projects/
 
 
 
-
 # Ghosts
 
 
@@ -41,15 +40,16 @@ permalink: /projects/
 </p>
 
 ### `A book about the unpopular disruption in the business wars`
-<center><a href="https://gamestheory.substack.com/about?utm_source=menu-dropdown">Games Theory</a></center>
+<center><a href="https://gamestheory.substack.com/about?utm_source=menu-dropdown">Link</a></center>
 
 
 ---
 
 # Project X
 
-
+<center>
 ![Alt Text](https://media.giphy.com/media/l3mZ5zogGcnzNzbqM/giphy.gif)
+</center>
 
 ### `I co-developed the first programmed drones to write Chinese letters in the sky in history.` 
 
