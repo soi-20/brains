@@ -48,11 +48,8 @@ permalink: /projects/
 
 # Project X
 
-<center>![Alt Text](https://media.giphy.com/media/l3mZ5zogGcnzNzbqM/giphy.gif)</center>
 
-<center>![Alt Text](https://media.giphy.com/media/3o6fIWV4HtqMEzEz28/giphy.gif)</center>
-
-
+![Alt Text](https://media.giphy.com/media/l3mZ5zogGcnzNzbqM/giphy.gif)
 
 ### `I co-developed the first programmed drones to write Chinese letters in the sky in history.` 
 
