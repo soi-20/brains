@@ -47,9 +47,9 @@ permalink: /projects/
 
 # Project X
 
-<center>
-![Alt Text](https://media.giphy.com/media/l3mZ5zogGcnzNzbqM/giphy.gif)
-</center>
+<p align="center">
+  <img width="350" height="200" src="https://i.imgur.com/tqvLuMu.jpg" alt="Sublime's custom image"/>
+</p>
 
 ### `I co-developed the first programmed drones to write Chinese letters in the sky in history.` 
 
