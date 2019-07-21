@@ -39,7 +39,7 @@ permalink: /projects/
   <img width="200" height="200" src="https://i.imgur.com/oNNIQn2.png" alt="Sublime's custom image"/>
 </p>
 
-### `A book about the unpopular disruption in the business wars`
+### `About the unpopular strategies of beating the incumbents in the business wars.`
 <center><a href="https://gamestheory.substack.com/about?utm_source=menu-dropdown">Link</a></center>
 
 
@@ -52,7 +52,6 @@ permalink: /projects/
 </p>
 
 ### `I co-developed the first programmed drones to write Chinese letters in the sky in history.` 
-
 <center><a href="[Link](https://vimeo.com/111901733)
 ">Link</a></center>
 
