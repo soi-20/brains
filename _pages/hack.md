@@ -62,6 +62,8 @@ permalink: /projects/
 <center><a href="[Link](https://vimeo.com/111901733)
 ">Link</a></center>
 
+---
+
 <p align="center">
   <img width="200" height="200" src="https://i.imgur.com/2Kxi0oa.jpg" alt="Sublime's custom image"/>
 </p>
