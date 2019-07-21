@@ -1,6 +1,6 @@
 ---
 layout: content
-title:  𝌄𝌂Projects
+title:  𝌄𝌂Building
 permalink: /projects/
 ---
 
@@ -47,7 +47,7 @@ permalink: /projects/
 
 ---
 
-## Past
+# 𝌄𝌂Past
 
 
 
