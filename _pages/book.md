@@ -5,7 +5,7 @@ permalink: /book/
 ---
 
 
-<center><iframe width="480" height="320" src="https://gamestheory.substack.com/embed" frameborder="0" scrolling="no"></iframe></center>
+<center><iframe width="350" height="320" src="https://gamestheory.substack.com/embed" frameborder="0" scrolling="no"></iframe></center>
 
 
 ---
