@@ -4,12 +4,9 @@ title:
 permalink: /book/
 ---
 
-<p align="center">
-  <img width="200" height="200" src="https://i.imgur.com/oNNIQn2.png" alt="Sublime's custom image"/>
-</p>
 
+<center><iframe width="480" height="320" src="https://gamestheory.substack.com/embed" frameborder="0" scrolling="no"></iframe></center>
 
-# [Games Theory](https://gamestheory.substack.com/)
 
 ---
 
