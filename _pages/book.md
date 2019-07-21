@@ -9,7 +9,7 @@ permalink: /book/
 </p>
 
 
-# Games Theory
+# [Games Theory](https://gamestheory.substack.com/)
 
 ---
 
@@ -17,9 +17,9 @@ permalink: /book/
 
 ### 1. Gamers and the Games
 
-- [Changing, Maintaining, Creating](https://gamestheory.substack.com/p/coming-soon)
+- [Intro: Changing, Maintaining, Creating](https://allenleein.github.io/brains/2019/06/the-games)
 
-- [The Two Narratives](https://gamestheory.substack.com/publish/post/90024)
+- [The Two Narratives](https://allenleein.github.io/brains/2018/11/the-two-narratives)
 
 - Growing Rewards: Huge Rounds, Massive Exits
 
@@ -47,8 +47,7 @@ permalink: /book/
 - Tesla vs. Car Industry
 - Dropbox, Notion vs. Microsoft
 - Microsoft Come back
-- Snap vs. Instagram
-- Space X
 - Airpods and the future of Apple
+- From Cable, WhatsApp to Space X
 
 
