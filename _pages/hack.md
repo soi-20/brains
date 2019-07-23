@@ -13,7 +13,7 @@ permalink: /projects/
 <center><h1>Ghosts</h1></center>
 
 ### `An Audio Netowrk of Group-Based Knowledge.`
-<center><a href="mailto:allenleein@gmail.com">Join Private Beta</a></center>
+<center><a href="mailto:al@wormhole.technology">Join Private Beta</a></center>
 
 
 ---
