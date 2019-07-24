@@ -23,7 +23,7 @@ permalink: /projects/
   <img width="200" height="200" src="https://i.imgur.com/vqWkSRl.png" alt="Sublime's custom image"/>
 </p>
 
-<center><h1>Ghosts In the Shell</h1></center>
+<center><h1>Gh0sts In the Shell</h1></center>
 
 
 
