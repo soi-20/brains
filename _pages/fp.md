@@ -29,6 +29,9 @@ permalink: /fp/
                                                          `=---='
 
 
+---
+
+
 # 101
 
 ### Advice for Beginners
