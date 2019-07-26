@@ -19,6 +19,8 @@ permalink: /read/
 
 [VC Economics – Why Your 50 Million Exit Means Nothing](http://blog.eladgil.com/2010/07/vc-economics-why-your-50-million-exit.html)
 
+[The Founder’s Guide to Understanding Investors](https://www.atrium.co/blog/startup-investors/)
+
 
 [A stats-based look behind the venture capital curtain](https://medium.com/@efeng/a-stats-based-look-behind-the-venture-capital-curtain-91630b3239ae)
 
