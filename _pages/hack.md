@@ -76,7 +76,6 @@ permalink: /projects/
 ---
 
 
-<center><h3><a href="mailto:allenleein@gmail.com">Email</a></h3></center>
 
 
 
