@@ -70,6 +70,8 @@ permalink: /listen/
 
 [How Stitch Fix uses data to sell more clothes, and why CEO Katrina Lake hopes retail has a future](https://overcast.fm/+QLdtSBsQw)
 
+[Be Too Busy to “Do Coffee” - Naval](https://overcast.fm/+Q4m49wB6s)
+
 
 # Strategy 
 
