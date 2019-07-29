@@ -5,7 +5,7 @@ permalink: /output/
 ---
 
 <p align="center">
-  <img width="150" height="150" src="https://i.imgur.com/HWrxZkR.png" alt="Sublime's custom image"/>
+  <img width="150" height="150" src="https://i.imgur.com/sM3U9s1.png" alt="Sublime's custom image"/>
 </p>
 
 
