@@ -41,13 +41,13 @@ permalink: /projects/
 <center><h1>Games Theory</h1></center>
 
 
-### `About the unpopular strategies of beating the incumbents in the business wars.`
+### `The unpopular strategies of sinking the incumbents in the business wars.`
 <center><a href="https://gamestheory.substack.com/about?utm_source=menu-dropdown">Link</a></center>
 
 
 ---
 
-# 𝌄𝌂Past
+# Past𝌄𝌂
 
 
 
