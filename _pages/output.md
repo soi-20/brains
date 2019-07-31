@@ -16,4 +16,4 @@ permalink: /output/
 
 ---
 
-[Email](mailto:allenleein@gmail.com) / [Read](https://allenleein.github.io/brains/read/) / [Listen](https://allenleein.github.io/brains/listen/) / [Projects](https://allenleein.github.io/brains/projects/) / [Functional Programming](https://allenleein.github.io/brains/fp/)
+[Email](mailto:allenleein@gmail.com) / [Projects](https://allenleein.github.io/brains/projects/) / [Functional Programming](https://allenleein.github.io/brains/fp/)
