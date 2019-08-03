@@ -20,28 +20,13 @@ permalink: /projects/
 
 
 <p align="center">
-  <img width="200" height="200" src="https://i.imgur.com/vqWkSRl.png" alt="Sublime's custom image"/>
-</p>
-
-<center><h1>Gh0sts In the Shell</h1></center>
-
-
-
-### `I'm trying to decentralize my brain to a network of brains.` 
-<center><a href="https://github.com/allenleein/brains">Link</a></center>
-
-
----
-
-
-<p align="center">
   <img width="200" height="200" src="https://i.imgur.com/oNNIQn2.png" alt="Sublime's custom image"/>
 </p>
 
 <center><h1>Games Theory</h1></center>
 
 
-### `The unpopular strategies of sinking the incumbents in the business wars.`
+### `A book about how the unpopular creation sank the incumbents in the business wars.`
 <center><a href="https://gamestheory.substack.com/about?utm_source=menu-dropdown">Link</a></center>
 
 
