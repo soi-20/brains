@@ -1,6 +1,6 @@
 ---
 layout: content
-title:  𝌄𝌂Building
+title:  𝌄𝌂Currently Building
 permalink: /projects/
 ---
 
@@ -12,22 +12,9 @@ permalink: /projects/
 
 <center><h1>Ghosts</h1></center>
 
-### `An Audio Netowrk of Group-Based Knowledge.`
+### `AI-Powered Audio Netowrk.`
 <center><a href="mailto:al@wormhole.technology">Join Private Beta</a></center>
 
-
----
-
-
-<p align="center">
-  <img width="200" height="200" src="https://i.imgur.com/oNNIQn2.png" alt="Sublime's custom image"/>
-</p>
-
-<center><h1>Games Theory</h1></center>
-
-
-### `A book about how the unpopular creation sank the incumbents in the business wars.`
-<center><a href="https://gamestheory.substack.com/about?utm_source=menu-dropdown">Link</a></center>
 
 
 ---
