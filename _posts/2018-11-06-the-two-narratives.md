@@ -1,7 +1,7 @@
 ---
 layout: post
-title: The Two Narratives
-description: ""
+title: The Narratives about Creation
+description: "Marc Andreessen ∩ Peter Thiel ∩ Keith Rabois"
 date: 2018-11-06
 tags: 
 comments: true
