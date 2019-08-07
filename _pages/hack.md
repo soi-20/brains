@@ -1,10 +1,10 @@
 ---
 layout: content
-title:  𝌄𝌂Currently Building
+title:  
 permalink: /projects/
 ---
 
-
+# 𝌄𝌂Currently Building
 
 <p align="center">
   <img width="200" height="200" src="https://i.imgur.com/qYXww6S.png" alt="Sublime's custom image"/>
@@ -19,7 +19,7 @@ permalink: /projects/
 
 ---
 
-# Past𝌄𝌂
+# 𝌄𝌂Past
 
 
 
