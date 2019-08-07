@@ -1,8 +1,8 @@
 ---
 layout: post
 title: The Narratives about Creation
-description: "Marc Andreessen ∩ Peter Thiel ∩ Keith Rabois"
-date: 2018-11-06
+description: "a16z vs. Founders Fund"
+date: 2099-01-02
 tags: 
 comments: true
 ---
