@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Narratives about Creation
+title: The Narratives of Creation
 description: "a16z vs. Founders Fund"
 date: 2099-01-02
 tags: 
@@ -15,11 +15,11 @@ Their disagreement can be viewed through the lens of how they view Twitter. Thie
 
 I created two theories to explain the difference in investing perspectives between Andreessen and Thiel.
 
-### Game of Window(Timing)
+### Game of Window(timing)
 
-There are lot's of rooms in this building(Market), and there are lots of treatures(Opportunities) in those rooms. You may know how many golds in some rooms, but you won't know when will it open. You need good tools and good timing to get those rewards. 
+There are lot's of rooms in this building(market), and there are lots of treatures(opportunities) in those rooms. You may know how many golds in some rooms, but you won't know when will it open. You need good tools and good timing to get those rewards. 
 
-### Game of Creation(A new game)
+### Game of Creation(a new game)
 
 You create another building, another layer of the game. You create new rooms others hard to even find it. Mostly, It's "unpopular idea" so no one but you wants to build it.
 
@@ -28,7 +28,7 @@ You create another building, another layer of the game. You create new rooms oth
 ## Marc Andreessen: Compete In the Game of Window
 
 <p align="center">
-  <img width="200" height="200" src="https://i.imgur.com/RnW59C3.png" alt="Sublime's custom image"/>
+  <img width="100" height="100" src="https://i.imgur.com/RnW59C3.png" alt="Sublime's custom image"/>
 </p>
 
 
@@ -43,7 +43,6 @@ On Marc's philosophy that software is eating the world, and timing is everything
 In this game, he thinks the timing is everything. You need to execute your idea within the critical window to succeed. Most importantly, you need to find the right window.
 
 
-
 *-The big, almost philosophical difference goes back to the timing issue. For entrepreneurs, timing is a huge risk. You have to innovate at the right time. You can’t be too early. This is really dangerous because you essentially make a one-time bet. It’s rare are to start the same company five years later if you try it once and were wrong on timing. Jonathan Abrams did Friendster but not Facebook.*
 
 *-Things are different with venture capital. To stay in business for 20 years or more, you have to take a portfolio approach. Ideas are no longer one-time bets. If we believe in an idea and back the company that fails at it, it’s probably still a good idea. If someone good wants to do the same thing four years later, that’s probably a good investment. Most VCs won’t do this. They’ll be too scarred from the initial failure. But tracking systematically failures is important.*
@@ -52,17 +51,19 @@ In this game, he thinks the timing is everything. You need to execute your idea 
 
 
 
-## Peter Thiel: Create A Game with Unique Moats
+## Peter Thiel: Create A Game with Your Unique Moats
 
 <p align="center">
-  <img width="200" height="200" src="https://i.imgur.com/5zToWHI.png" alt="Sublime's custom image"/>
+  <img width="100" height="100" src="https://i.imgur.com/5zToWHI.png" alt="Sublime's custom image"/>
 </p>
 
-Is your market big enough? Who cares—create a new one if it isn’t. Peter Thiel argues good innovation sells itself. “If your product requires advertising or salespeople to sell it, it’s not good enough.” He wrote in Zero to One. “Technology is primarily about product development, not distribution.”
+Is your market big enough? Who cares—create a new one if it isn’t. 
+
+Peter Thiel argues good innovation sells itself. “If your product requires advertising or salespeople to sell it, it’s not good enough.” He wrote in Zero to One. “Technology is primarily about product development, not distribution.”
 
 The Founder’s Fund, which Peter Thiel co-founded, has a longer manifesto here that explains in greater detail their investment philosophy on startups.
 
-Peter believes in determinate optimism: the future is made by exceptional people who have a definite plan and execute on it. That meaningful, big-leap innovations are often not obvious from the start: If you're creating something that will be a great company 10 years from now, most people will probably not get it at first. Just see the [Airbnb's 7 Rejections](https://medium.com/@bchesky/7-rejections-7d894cbaa084) from investors as evidence.
+Peter believes in determinate optimism: the future is made by exceptional people who have a definite plan and execute on it. That meaningful, big-leap innovations are often not obvious from the start: If you're creating something that will be a great company 10 years from now, most people will probably not get it at first. 
 
 In other words: Founders who want to create radical innovation should have a big, audacious plan and ignore mundane thinking.
 
@@ -73,7 +74,7 @@ Peter's logic works well in long-term view: finding a frontier of value which wi
 
 ### Higher: Investing for Control
 
-First, you can term Peter's approach to entrepreneurial strategy: investing for control.
+You can term Peter's approach to entrepreneurial strategy: investing for control.
 
 You achieve it by patiently building your business at the same time as ensuring that you will be insulated from future competition. It takes time and it takes investment dollars as resources. Put out some crappy minimum viable product and you lose some options to control because you have shown your hand to others. Instead, what you want to do is put out a complete product with a strategy to acquire the complementary resources to insulate it from future competition. 
 
@@ -82,7 +83,7 @@ There is, however, another sort of monopoly — a path that gets you 100 percent
 
 ### Faster: Focusing on finding the timing
 
-Second, you can term Marc's approach to entrepreneurial strategy: focusing on execution(finding the timing). 
+You can term Marc's approach to entrepreneurial strategy: focusing on execution(finding the timing). 
 
 It is not so obvious that one path to monopoly is more profitable than the other. If you focus on execution you can get to market quicker and with fewer resources. You can learn as you go and actually invest for the capabilities that will give you a competitive advantage in the future. In other words, while it takes on-going work — no resting on your monopoly laurels here — you can still ‘own’ a market. The difference is that your pricing is constrained by potential competition from other firms. 
 
@@ -90,13 +91,17 @@ Finding the timing is the most important part of the execution. You need to exec
 
 ## There Is No One Right Way 
 
-The point here is just as an entrepreneur can choose a strategy of competing versus cooperating with established firms, it can also choose between investing in control or focusing on execution. Which is the right path is hard to tell at the outset and it may be that a start-up will want to switch between strategies as it learns more; so long as that switch is feasible. So both Marc Andreessen and Peter Thiel can have different preferences regarding control versus execution and still both be right.
+The point here is just as an entrepreneur can choose between investing in control or focusing on execution. Which is the right path is hard to tell at the outset and it may be that a start-up will want to switch between strategies as it learns more; so long as that switch is feasible. 
 
-Usually, **the misunderstood dogma here is to have no definite plan, work in incremental iterations to find out what's most valuable to customers today**. This approach will probably lead you to very incremental solutions or even make you run around in circles achieving nothing. It lowers the cost of failure, but also the potential impact of success. The process becomes more important than the end goal. It's literally the opposite of what Peter propagates. He has indeed expressed his dislike for this approach.
+So both Marc Andreessen and Peter Thiel can have different preferences regarding control versus execution and still both be right. 
 
-Founders should have a goal on the horizon, a vision, and then validate parts of that vision along the way. Note that Peter advises starting small with an offering that can monopolize a small market, then grow the eventual company out of that. 
+## Don't "Lean"
 
-The real difference between these two types of vision are: You choose to run faster or jump higher at the beginning of the game?
+Usually, **the misunderstood dogma here is to have no definite plan, work in incremental iterations to find out what's most valuable to customers today(Lean Startup Methodology)**. 
+
+This approach will probably lead you to very incremental solutions or even make you run around in circles achieving nothing. It lowers the cost of failure, but also the potential impact of success. The process becomes more important than the end goal. It's literally the opposite of what Peter propagates. 
+
+The real question for yourself: You choose to run faster or jump higher?
 
 
 
