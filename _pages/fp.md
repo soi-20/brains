@@ -24,15 +24,16 @@ Haskell programmers love their abstractions, and it's easy to fall into the trap
 Rather, write the program like you would naturally, then when you recognize the patterns (i.e. Monad, Applicative, ...), rewrite it using the abstractions. Use higher order functions to separate similar functionality, and before you know it you have a nice combinator library which describes your problem domain well. 
 
 
-### From 101 to think functionally:
+### Think functionally:
 
 [0] [The Structure and Interpretation of Computer Programs](https://github.com/allenleein/brains/blob/master/Zen-of-Functional-Programming/(883)The%20Structure%20and%20Interpretation%20of%20Computer%20Programs.pdf)
 
 [1] [The Little Schemer](https://github.com/allenleein/brains/blob/master/Zen-of-Functional-Programming/The_Little_Schemer_4th.pdf)
 
 
-### Haskell vs. Purescript
-
+<p align="center">
+  <img width="150" height="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfWJ9iqfQr5C0ChCOtDk3K-Rd8gt7xJnF_gQS5O5Dhcuu30t4a" alt="Sublime's custom image"/>
+</p>
 
 # Purescript
 
@@ -52,6 +53,10 @@ Rather, write the program like you would naturally, then when you recognize the 
 
 [Purescript Book](https://github.com/dwhitney/purescript-book)
 
+
+<p align="center">
+  <img width="150" height="100" src="https://png.pngtree.com/svg/20160624/c291bd6c9e.svg" alt="Sublime's custom image"/>
+</p>
 
 # Haskell
 
