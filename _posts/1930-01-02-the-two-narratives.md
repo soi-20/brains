@@ -9,9 +9,9 @@ comments: true
 
 It is always interesting when two famous prestigious venture capitalists disagree on something fundamental. In this case, it's [Marc Andreessen from a16z and Peter Thiel from Founders Fund debating about business creation.](https://www.youtube.com/watch?v=PUhtHojSphk)
 
-Their disagreement can be viewed through the lens of how they view Twitter. Thiel sees it as "we cwanted flying cars, instead we got 140 characters" (a Founders Fund slogan). He thinks it's an unimpressive, incremental advancement. Andreessen, however, views it as "instant global public messaging for free". In other words, fundamentally transformative.
+Their disagreement can be viewed through the lens of how they view Twitter. Thiel sees it as "we wanted flying cars, instead we got 140 characters" (a Founders Fund slogan). He thinks it's an unimpressive, incremental advancement. Andreessen, however, views it as "instant global public messaging for free". In other words, fundamentally transformative.
 
-# Open at the Right Time vs. Create Your Own Door
+# Open at the Right Time vs. Create Your Door
 
 I created two theories to explain the difference in investing perspectives between Andreessen and Thiel.
 
@@ -35,7 +35,7 @@ You create another building, another layer of the game. You create new rooms oth
 On Marc's philosophy that software is eating the world, and timing is everything.  
 
 
-*-The strongest form is that, as a consequence of all this, Silicon Valley type software companies will end up eating everything. The kinds of companies we build in the Valley will rule pretty much every industry. These companies have software at their very core. They know how to develop software. They know the economics of software. They make engineering the priority. And that’s why they’ll win.*
+*-The strongest form is that, as a consequence of all this, Silicon Valley-type software companies will end up eating everything. The kinds of companies we build in the Valley will rule pretty much every industry. These companies have software at their very core. They know how to develop software. They know the economics of software. They make engineering the priority. And that’s why they’ll win.*
 
 *-All this is reflected in the Andreessen Horowitz investment thesis. We don’t do cleantech or biotech. We do things that are based on software. If software is the heart of the company—if things would collapse if you ripped out your key development team—perfect. The companies that will end up dominating most industries are the ones with the same set of management practices and characteristics that you see at Facebook or Google. It will be a rolling process, of course, and the backlash will be intense. Dinosaurs are not in favor or being replaced by birds.- Marc Andreessen*
 
@@ -79,7 +79,7 @@ You can term Peter's approach to entrepreneurial strategy: investing for control
 You achieve it by patiently building your business at the same time as ensuring that you will be insulated from future competition. It takes time and it takes investment dollars as resources. Put out some crappy minimum viable product and you lose some options to control because you have shown your hand to others. Instead, what you want to do is put out a complete product with a strategy to acquire the complementary resources to insulate it from future competition. 
 
 
-There is, however, another sort of monopoly — a path that gets you 100 percent of a real market. This is done by having the capabilities to beat all rivals on either quality or cost. To see how this arises consider a very structurally price competitive market (in economics, Bertrand competition). Now suppose that you develop an innovation that allows having lower marginal costs than everyone else. In this situation, you will be able to capture 100 percent of the market and so you will be a technical monopoly. 
+There is, however, another sort of monopoly — a path that gets you 100 percent of a real market. This is done by having the capabilities to beat all rivals on either quality or cost. To see how this arises consider a very structurally price-competitive market (in economics, Bertrand competition). Now suppose that you develop an innovation that allows having lower marginal costs than everyone else. In this situation, you will be able to capture 100 percent of the market and so you will be a technical monopoly. 
 
 ### Faster: Focusing on finding the timing
 
