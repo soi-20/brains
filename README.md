@@ -4,7 +4,7 @@
 </p>
 
 
-# `Gh0sts`
+# `Brains`
 `(An Experiental Psychology Project In Process)`
 
 
