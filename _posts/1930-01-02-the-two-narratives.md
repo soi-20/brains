@@ -101,8 +101,10 @@ Usually, **the misunderstood dogma here is to have no definite plan, work in inc
 
 This approach will probably lead you to very incremental solutions or even make you run around in circles achieving nothing. It lowers the cost of failure, but also the potential impact of success. The process becomes more important than the end goal. It's literally the opposite of what Peter propagates. 
 
-The real question for yourself: You choose to run faster or jump higher?
+The real question for yourself: Run faster or jump higher?
 
+---
 
+**Read**: [Games Theory: Changing, Maintaining, Creating](https://allenleein.github.io/brains/1930/01/the-games)
 
 
