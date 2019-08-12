@@ -5,7 +5,7 @@ permalink: /output/
 ---
 
 <p align="center">
-  <img width="150" height="150" src="https://i.imgur.com/jQ0HwNv.png" alt="Sublime's custom image"/>
+  <img width="180" height="150" src="https://i.imgur.com/sZ5A4QG.png" alt="Sublime's custom image"/>
 </p>
 
 
@@ -16,4 +16,4 @@ permalink: /output/
 
 ---
 
-[Email](mailto:allenleein@gmail.com) / [Essays](https://allenleein.github.io/brains/) / [Projects](https://allenleein.github.io/brains/projects/) / [Functional Programming](https://allenleein.github.io/brains/fp/)
+[Email](mailto:allenleein@gmail.com) / [Essays](https://allenleein.github.io/brains/) / [Built/Building](https://allenleein.github.io/brains/projects/) / [Functional Programming](https://allenleein.github.io/brains/fp/)
