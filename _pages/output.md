@@ -16,4 +16,4 @@ permalink: /output/
 
 ---
 
-[Email](mailto:allenleein@gmail.com) / [Essays](https://allenleein.github.io/brains/) / [Building](https://allenleein.github.io/brains/projects/) / [The Future of Programming](https://allenleein.github.io/brains/fp/)
+[Email](mailto:allenleein@gmail.com) / [Essays](https://allenleein.github.io/brains/) / [Building](https://allenleein.github.io/brains/projects/) / [FP](https://allenleein.github.io/brains/fp/)
