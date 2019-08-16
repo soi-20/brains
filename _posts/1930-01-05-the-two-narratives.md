@@ -1,8 +1,8 @@
 ---
 layout: post
-title: The Narratives of Creation
-description: "a16z vs. Founders Fund"
-date: 1930-01-02
+title: The Narratives of Creation I
+description: "Marc Andreessen vs. Peter Thiel"
+date: 1930-01-05
 tags: 
 comments: true
 ---
