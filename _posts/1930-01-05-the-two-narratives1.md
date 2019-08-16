@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Narratives of Creation I
+title: The Narratives of Creation II
 description: "Marc Andreessen vs. Peter Thiel"
 date: 1930-01-05
 tags: 
@@ -105,6 +105,6 @@ The real question for yourself: Run faster or jump higher?
 
 ---
 
-**Read**: [Games Theory: Changing, Maintaining, Creating](https://allenleein.github.io/brains/1930/01/the-games)
+**Read**: [The Narratives of Creation I](https://allenleein.github.io/brains/1930/01/the-narratives0)
 
 

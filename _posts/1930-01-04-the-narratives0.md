@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Games Theory
+title: The Narratives of Creation I
 description: "Changing, Maintaining, Creating"
 date: 1930-01-04
 tags: 
@@ -93,5 +93,5 @@ Maximaze the odds to create your own category(game).
 
 ---
 
-**Read**: [The Narratives of Creation](https://allenleein.github.io/brains/1930/01/the-two-narratives)
+**Read**: [The Narratives of Creation II](https://allenleein.github.io/brains/1930/01/the-two-narratives1)
 
