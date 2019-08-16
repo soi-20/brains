@@ -10,10 +10,8 @@ permalink: /fp/
 " alt="Sublime's custom image"/>
 </p>
 
----
 
-
-# 101
+# Think Functionally
 
 ### Advice for Beginners
 
@@ -31,31 +29,10 @@ Rather, write the program like you would naturally, then when you recognize the 
 [1] [The Little Schemer](https://github.com/allenleein/brains/blob/master/Zen-of-Functional-Programming/The_Little_Schemer_4th.pdf)
 
 
-<p align="center">
-  <img width="150" height="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfWJ9iqfQr5C0ChCOtDk3K-Rd8gt7xJnF_gQS5O5Dhcuu30t4a" alt="Sublime's custom image"/>
-</p>
-
-# Purescript
-
-### Purescript Docs
-
-[Documentation for the PureScript language, compiler, and tools.](https://github.com/purescript/documentation)
-
-[Purescript Documentation Discussion](https://github.com/chexxor/purescript-documentation-discussion/blob/50351c1aae/01-Sources-and-Interpretation/Learning-Resources-Analysis.md)
-
-
-
-### Purescript Learning
-
-[PureScript Resources by Justin Woo](https://purescript-resources.readthedocs.io/en/latest/)
-
-[Learn PureScript with this "clone and play" repository by Jordan Martinez](https://github.com/JordanMartinez/purescript-jordans-reference)
-
-[Purescript Book](https://github.com/dwhitney/purescript-book)
-
+---
 
 <p align="center">
-  <img width="150" height="100" src="https://png.pngtree.com/svg/20160624/c291bd6c9e.svg" alt="Sublime's custom image"/>
+  <img width="120" height="100" src="https://png.pngtree.com/svg/20160624/c291bd6c9e.svg" alt="Sublime's custom image"/>
 </p>
 
 # Haskell
@@ -84,6 +61,31 @@ Rather, write the program like you would naturally, then when you recognize the 
 
 [Haskell's kind system - a primer](https://diogocastro.com/blog/2018/10/17/haskells-kind-system-a-primer/)
 
+
+---
+
+<p align="center">
+  <img width="100" height="100" src="https://i.imgur.com/JaU0lD3.png" alt="Sublime's custom image"/>
+</p>
+
+
+# Purescript
+
+### Purescript Docs
+
+[Documentation for the PureScript language, compiler, and tools.](https://github.com/purescript/documentation)
+
+[Purescript Documentation Discussion](https://github.com/chexxor/purescript-documentation-discussion/blob/50351c1aae/01-Sources-and-Interpretation/Learning-Resources-Analysis.md)
+
+
+
+### Purescript Learning
+
+[PureScript Resources by Justin Woo](https://purescript-resources.readthedocs.io/en/latest/)
+
+[Learn PureScript with this "clone and play" repository by Jordan Martinez](https://github.com/JordanMartinez/purescript-jordans-reference)
+
+[Purescript Book](https://github.com/dwhitney/purescript-book)
 
 
 
