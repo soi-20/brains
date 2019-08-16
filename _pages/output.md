@@ -16,4 +16,4 @@ permalink: /output/
 
 ---
 
-[Essays](https://allenleein.github.io/brains/) / [Building](https://allenleein.github.io/brains/projects/) / [FP](https://allenleein.github.io/brains/fp/)
+[Essays](https://allenleein.github.io/brains/) / [FP](https://allenleein.github.io/brains/fp/)
