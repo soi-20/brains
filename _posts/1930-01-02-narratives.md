@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The Narratives of Creation I"
+description: This tutorial explains how you can very easily deploy your game to itch.io
 tags: 
 ---
 
