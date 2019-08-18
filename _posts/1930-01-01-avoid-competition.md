@@ -77,7 +77,7 @@ Most failed companies made the wrong “awesome product” by choosing the wrong
 The real question is : Do you have a vision of the future and design a market that only you can build and dominate?
 
 <p align="center">
-  <img width="400" height="300" src="https://miro.medium.com/max/1400/0*KKjAGgisLltRE597.jpg" alt="Sublime's custom image"/>
+  <img width="100" height="100" src="https://miro.medium.com/max/1400/0*KKjAGgisLltRE597.jpg" alt="Sublime's custom image"/>
 </p>
 
 ### The market-size is not as important as you think

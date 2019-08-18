@@ -22,10 +22,6 @@ Rather, write the program like you would naturally, then when you recognize the 
 
 ---
 
-<p align="center">
-  <img width="120" height="100" src="https://png.pngtree.com/svg/20160624/c291bd6c9e.svg" alt="Sublime's custom image"/>
-</p>
-
 # Haskell
 
 ### Haskell 101
@@ -54,11 +50,6 @@ Rather, write the program like you would naturally, then when you recognize the 
 
 
 ---
-
-<p align="center">
-  <img width="100" height="100" src="https://i.imgur.com/JaU0lD3.png" alt="Sublime's custom image"/>
-</p>
-
 
 # Purescript
 

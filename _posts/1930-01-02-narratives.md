@@ -26,10 +26,6 @@ You create another building, another layer of the game. You create new rooms oth
 
 ## Marc Andreessen: Compete In the Game of Window
 
-<p align="center">
-  <img width="100" height="100" src="https://i.imgur.com/RnW59C3.png" alt="Sublime's custom image"/>
-</p>
-
 
 On Marc's philosophy that software is eating the world, and timing is everything.  
 
@@ -53,7 +49,7 @@ In this game, he thinks the timing is everything. You need to execute your idea 
 ## Peter Thiel: Create A Game with Your Unique Moats
 
 <p align="center">
-  <img width="100" height="100" src="https://i.imgur.com/5zToWHI.png" alt="Sublime's custom image"/>
+  <img width="50" height="50" src="https://i.imgur.com/5zToWHI.png" alt="Sublime's custom image"/>
 </p>
 
 Is your market big enough? Who cares—create a new one if it isn’t. 
