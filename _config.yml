@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "show_exerpts:"
   Haskell, Purescript, CS 1.6
 show_excerpts: false # set to true to show excerpts on the homepage
 
-paginate: 1
+paginate: 10
 paginate_path: "/blog/page:num/"
 
 tag_permalink_style: pretty
@@ -29,7 +29,9 @@ dash:
     - url: https://github.com/allenleein
       icon: github-square
       color: green
-
+    - url: https://soundcloud.com/gamestheory
+      icon: soundcloud
+      color: orange
 # Build settings
 theme: jekyll-dash
 
