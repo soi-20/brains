@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Before Creation: Compeitition
+title: Avoid Competition: Creation
 description: "Changing, Maintaining, Creating"
 date: 1930-01-04
 tags: 
