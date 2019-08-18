@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Narratives of Creation I"
-description: Marc Andreessen (Faster) vs. Peter Thiel (Higher)
+description: Marc Andreessen vs. Peter Thiel
 tags: 
 ---
 
