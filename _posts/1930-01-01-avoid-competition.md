@@ -44,7 +44,7 @@ What makes disruption so devastating is the fact that absent a crisis, it is alm
 ## Ignore Competition
 
 
-“In a big company, you can do what all the other big companies are doing. But a startup can’t do what all the other startups do. I don’t think a lot of people realize this, even in startups.
+> “In a big company, you can do what all the other big companies are doing. But a startup can’t do what all the other startups do. I don’t think a lot of people realize this, even in startups.
 
 The average big company grows at about ten percent a year. So if you’re running a big company and you do everything the way the average big company does it, you can expect to do as well as the average big company — that is, to grow about ten percent a year.
 
@@ -56,16 +56,16 @@ Counterintuitively, truly transformative companies rarely fit into pre-defined b
 
 The traditional business thinking process is like:
 
-1. Dissect the dominant business model in your industry.
-2. How big is the remaining market?
-3. Find a way to get in.
+- Dissect the dominant business model in your industry.
+- How big is the remaining market?
+- Find a way to get in.
 
 
 Instead, in order to maximize the odds of creating your own game, you should just totally ignore “the market things...the trend...the user” and think about:
 
-1. What’s the unique leverage other companies can’t/hard to clone? How to achieve and create that moat?
-2. What’s the opportunity cost of building that moat?
-3. How to maximize that leverage?
+- What’s the unique leverage other companies can’t/hard to clone? How to achieve and create that moat?
+- What’s the opportunity cost of building that moat?
+- How to maximize that leverage?
 
 
 ### Why ignore the user?
