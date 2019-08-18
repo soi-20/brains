@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Avoid Competition: Creation"
+description: Changing, Maintaining, Creating
 tags: Creation
 ---
 
@@ -44,7 +45,7 @@ What makes disruption so devastating is the fact that absent a crisis, it is alm
 ## Ignore Competition
 
 
-> “In a big company, you can do what all the other big companies are doing. But a startup can’t do what all the other startups do. I don’t think a lot of people realize this, even in startups.
+“In a big company, you can do what all the other big companies are doing. But a startup can’t do what all the other startups do. I don’t think a lot of people realize this, even in startups.
 
 The average big company grows at about ten percent a year. So if you’re running a big company and you do everything the way the average big company does it, you can expect to do as well as the average big company — that is, to grow about ten percent a year.
 
@@ -79,7 +80,7 @@ The real question is : Do you have a vision of the future and design a market th
 
 ### The market-size is not as important as you think
 
-Numbers are about the past if you wanna create new things(check the chart above - created by Bedrock Cap), you need to focus on what’s the one that can’t be copied and people don’t know they need it yet. If you thinking about the market-size, the market you are thinking about to get in is full of competitors.
+Numbers are about the past if you wanna create new things, you need to focus on what’s the one that can’t be copied and people don’t know they need it yet. If you thinking about the market-size, the market you are thinking about to get in is full of competitors.
 
 Ignore competition(avoid data-driven idea).
 
