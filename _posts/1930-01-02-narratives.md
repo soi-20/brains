@@ -48,10 +48,6 @@ In this game, he thinks the timing is everything. You need to execute your idea 
 
 ## Peter Thiel: Create A Game with Your Unique Moats
 
-<p align="center">
-  <img width="50" height="50" src="https://i.imgur.com/5zToWHI.png" alt="Sublime's custom image"/>
-</p>
-
 Is your market big enough? Who cares—create a new one if it isn’t. 
 
 Peter Thiel argues good innovation sells itself. “If your product requires advertising or salespeople to sell it, it’s not good enough.” He wrote in Zero to One. “Technology is primarily about product development, not distribution.”
