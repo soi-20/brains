@@ -76,8 +76,6 @@ Most failed companies made the wrong “awesome product” by choosing the wrong
 
 The real question is : Do you have a vision of the future and design a market that only you can build and dominate?
 
-![bedrock.jpg](/media/bedrock.jpg)
-
 
 ### The market-size is not as important as you think
 
