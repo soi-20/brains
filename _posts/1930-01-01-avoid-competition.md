@@ -26,12 +26,12 @@ In fact, the opportunity exists in the business world because when companies bec
 
 Things those companies doing regularly:
 
-1. View a temporary trend as a competitive advantage.
-2. Focus on building reputational momentum.
-3. Believe it’s easy to span across generations.
-4. Love being right.
-5. Love the new idea, not new way of thinking.
-6. Love being “Data-Driven”.
+- View a temporary trend as a competitive advantage.
+- Focus on building reputational momentum.
+- Believe it’s easy to span across generations.
+- Love being right.
+- Love the new idea, not new way of thinking.
+- Love being “Data-Driven”.
 
 
 Being right and staying right is totally different. Doing well reduces the incentive to explore other ideas, especially when those ideas conflict with your proven business model.

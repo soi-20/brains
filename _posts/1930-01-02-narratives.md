@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  "The Narratives of Creation I"
-description: This tutorial explains how you can very easily deploy your game to itch.io
+description: Marc Andreessen (Faster) vs. Peter Thiel (Higher)
 tags: 
 ---
 
-`Marc Andreessen vs. Peter Thiel`
 
 It is always interesting when two famous prestigious venture capitalists disagree on something fundamental. In this case, it's [Marc Andreessen from a16z and Peter Thiel from Founders Fund debating about business creation.](https://www.youtube.com/watch?v=PUhtHojSphk)
 
