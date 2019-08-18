@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Narratives of Creation I
+title: Before Creation: Compeitition
 description: "Changing, Maintaining, Creating"
 date: 1930-01-04
 tags: 
