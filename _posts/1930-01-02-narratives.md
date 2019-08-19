@@ -5,10 +5,9 @@ description: Marc Andreessen vs. Peter Thiel
 tags: 
 ---
 
+Most venture capitalists aren't original thinker, but not Peter Thiel and Marc Andreessen.
 
-It is always interesting when two famous prestigious venture capitalists disagree on something fundamental. In this case, it's [Marc Andreessen from a16z and Peter Thiel from Founders Fund debating about business creation.](https://www.youtube.com/watch?v=PUhtHojSphk)
-
-Their disagreement can be viewed through the lens of how they view Twitter. Thiel sees it as "we wanted flying cars, instead we got 140 characters" (a Founders Fund slogan). He thinks it's an unimpressive, incremental advancement. Andreessen, however, views it as "instant global public messaging for free". In other words, fundamentally transformative.
+The two famous prestigious venture capitalists had a [great debate](https://www.youtube.com/watch?v=PUhtHojSphk)on something fundamental: creation. Their disagreement can be viewed through the lens of how they view Twitter. Thiel sees it as "we wanted flying cars, instead we got 140 characters" (a Founders Fund slogan). He thinks it's an unimpressive, incremental advancement. Andreessen, however, views it as "instant global public messaging for free". In other words, fundamentally transformative.
 
 # Open at the Right Time vs. Create Your Door
 
@@ -21,7 +20,6 @@ There are lot's of rooms in this building(market), and there are lots of treatur
 ### Game of Creation(a new game)
 
 You create another building, another layer of the game. You create new rooms others hard to even find it. Mostly, It's "unpopular idea" so no one but you wants to build it.
-
 
 
 ## Marc Andreessen: Compete In the Game of Window
