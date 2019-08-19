@@ -5,9 +5,9 @@ description: Marc Andreessen vs. Peter Thiel
 tags: 
 ---
 
-Most venture capitalists aren't original thinker, but not Peter Thiel and Marc Andreessen.
+Most venture capitalists aren't original thinker, but not Peter Thiel and Marc Andreessen. The two famous prestigious venture capitalists had a [great debate](https://www.youtube.com/watch?v=PUhtHojSphk) on business creation. 
 
-The two famous prestigious venture capitalists had a [great debate](https://www.youtube.com/watch?v=PUhtHojSphk)on something fundamental: creation. Their disagreement can be viewed through the lens of how they view Twitter. Thiel sees it as "we wanted flying cars, instead we got 140 characters" (a Founders Fund slogan). He thinks it's an unimpressive, incremental advancement. Andreessen, however, views it as "instant global public messaging for free". In other words, fundamentally transformative.
+Their disagreement can be viewed through the lens of how they view Twitter. Thiel sees it as "we wanted flying cars, instead we got 140 characters" (a Founders Fund slogan). He thinks it's an unimpressive, incremental advancement. Andreessen, however, views it as "instant global public messaging for free". In other words, fundamentally transformative.
 
 # Open at the Right Time vs. Create Your Door
 
