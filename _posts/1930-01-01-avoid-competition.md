@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Avoid Competition: Creation"
+title:  "Beyond Competition: Creation"
 description: Changing, Maintaining, Creating
 tags: Creation
 ---
