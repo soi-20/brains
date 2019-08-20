@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Beyond Competition: Creation"
+title:  "The Nature of Competition"
 description: Changing, Maintaining, Creating
 tags: Creation
 ---
