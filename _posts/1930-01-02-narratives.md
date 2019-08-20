@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Narratives of Creation I"
+title:  "Games Theory: Creation I"
 description: Marc Andreessen vs. Peter Thiel
 tags: 
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Nature of Competition"
+title:  "Games Theory: Competition"
 description: Changing, Maintaining, Creating
 tags: Creation
 ---
