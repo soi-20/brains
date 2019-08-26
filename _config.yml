@@ -24,10 +24,10 @@ dash:
   # supported colors: green, red, orange, blue, cyan, pink, teal, yellow, indigo, purple
   social_links:
     - url: https://ghosts.wormhole.technology/
-      icon: app-store
+      icon: user-secret
       color: orange
     - url: https://github.com/allenleein
-      icon: github-square
+      icon: code-branch
       color: yellow
  
 # Build settings
