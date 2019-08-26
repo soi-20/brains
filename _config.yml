@@ -25,10 +25,10 @@ dash:
   social_links:
     - url: https://ghosts.wormhole.technology/
       icon: apple
-      color: orange
+      color: cyan
     - url: https://github.com/allenleein
       icon: github
-      color: yellow
+      color: green
  
 # Build settings
 theme: jekyll-dash
