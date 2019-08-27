@@ -24,7 +24,7 @@ dash:
   # supported colors: green, red, orange, blue, cyan, pink, teal, yellow, indigo, purple
   social_links:
     - url: https://ghosts.wormhole.technology/
-      icon: apple
+      icon: napster
       color: cyan
     - url: https://github.com/allenleein
       icon: github
