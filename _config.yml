@@ -27,7 +27,7 @@ dash:
       icon: napster
       color: cyan
     - url: https://github.com/allenleein
-      icon: code-branch
+      icon:  gitkraken
       color: green
  
 # Build settings
