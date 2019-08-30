@@ -12,6 +12,7 @@ Haskell programmers love their abstractions, and it's easy to fall into the trap
 
 Rather, write the program like you would naturally, then when you recognize the patterns (i.e. Monad, Applicative, ...), rewrite it using the abstractions. Use higher order functions to separate similar functionality, and before you know it you have a nice combinator library which describes your problem domain well. 
 
+Why: [The Haskell Pyramid](https://patrickmn.com/software/the-haskell-pyramid/)
 
 ### Think functionally:
 
@@ -24,7 +25,7 @@ Rather, write the program like you would naturally, then when you recognize the 
 
 # Haskell
 
-### Haskell 101
+### 101
 
 [For Beginners](https://argumatronic.com/posts/1970-01-01-beginners.html)
 
@@ -38,11 +39,13 @@ Rather, write the program like you would naturally, then when you recognize the 
 
 [Haskell Study Plan](https://github.com/soupi/haskell-study-plan)
 
+### Toturials
+
 [CIS 194 UPenn 2013](http://www.seas.upenn.edu/~cis194/spring13/lectures.html)
 
 [Haskell Programming From First Principle](https://github.com/allenleein/brains/blob/master/Zen-of-Functional-Programming/Haskell%20Programming%20From%20First%20Principle.pdf)
 
-### Haskell for Experienced
+### For Experienced
 
 [Haskell for Readers](http://haskell-for-readers.nomeata.de/)
 
@@ -53,7 +56,7 @@ Rather, write the program like you would naturally, then when you recognize the 
 
 # Purescript
 
-### Purescript Docs
+### Docs
 
 [Documentation for the PureScript language, compiler, and tools.](https://github.com/purescript/documentation)
 
@@ -61,7 +64,7 @@ Rather, write the program like you would naturally, then when you recognize the 
 
 
 
-### Purescript Learning
+### Toturials
 
 [PureScript Resources by Justin Woo](https://purescript-resources.readthedocs.io/en/latest/)
 
