@@ -33,11 +33,6 @@ Why: [The Haskell Pyramid](https://patrickmn.com/software/the-haskell-pyramid/)
 
 [An opinionated beginner's guide to Haskell in mid 2019](https://github.com/theindigamer/not-a-blog/blob/5ee43179fe4b148bd8c61680112b4e9e048481fc/opinionated-haskell-guide-2019.md)
 
-[Practical Haskell programs from scratch - a quick and easy guide](https://www.ahri.net/practical-haskell-programs-from-scratch/#a-repl-read-evaluate-print-loop)
-
-[Practical Haskell](http://seanhess.github.io/) 
-
-[Haskell Study Plan](https://github.com/soupi/haskell-study-plan)
 
 ### Toturials
 
@@ -45,31 +40,7 @@ Why: [The Haskell Pyramid](https://patrickmn.com/software/the-haskell-pyramid/)
 
 [Haskell Programming From First Principle](https://github.com/allenleein/brains/blob/master/Zen-of-Functional-Programming/Haskell%20Programming%20From%20First%20Principle.pdf)
 
-### For Experienced
-
 [Haskell for Readers](http://haskell-for-readers.nomeata.de/)
 
 [Haskell's kind system - a primer](https://diogocastro.com/blog/2018/10/17/haskells-kind-system-a-primer/)
-
-
----
-
-# Purescript
-
-### Docs
-
-[Documentation for the PureScript language, compiler, and tools.](https://github.com/purescript/documentation)
-
-[Purescript Documentation Discussion](https://github.com/chexxor/purescript-documentation-discussion/blob/50351c1aae/01-Sources-and-Interpretation/Learning-Resources-Analysis.md)
-
-
-
-### Toturials
-
-[PureScript Resources by Justin Woo](https://purescript-resources.readthedocs.io/en/latest/)
-
-[Learn PureScript with this "clone and play" repository by Jordan Martinez](https://github.com/JordanMartinez/purescript-jordans-reference)
-
-[Purescript Book](https://github.com/dwhitney/purescript-book)
-
 
