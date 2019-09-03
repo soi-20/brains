@@ -30,7 +30,7 @@ dash:
       icon:  gitkraken
       color: green
     - url: mailto:allenleein@gmail.com
-      icon:  voicemail
+      icon:  user-astronaut
       color: cyan
   
 # Build settings
