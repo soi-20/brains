@@ -29,7 +29,10 @@ dash:
     - url: https://github.com/allenleein
       icon:  gitkraken
       color: green
- 
+    - url: mailto:allenleein@gmail.com
+      icon:  inbox
+      color: cyan
+  
 # Build settings
 theme: jekyll-dash
 
