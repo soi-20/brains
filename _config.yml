@@ -30,7 +30,7 @@ dash:
       icon:  gitkraken
       color: green
     - url: mailto:allenleein@gmail.com
-      icon:  envelope
+      icon:  snapchat-ghost
       color: cyan
   
 # Build settings
