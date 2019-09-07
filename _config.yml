@@ -24,7 +24,7 @@ dash:
   # supported colors: green, red, orange, blue, cyan, pink, teal, yellow, indigo, purple
   social_links:
     - url: https://ghosts.wormhole.technology/
-      icon: microphone
+      icon: ghost
       color: purple
     - url: https://www.snapchat.com/add/allenleein
       icon:  snapchat-ghost
