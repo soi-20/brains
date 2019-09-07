@@ -23,12 +23,10 @@ dash:
   # generate social links in footer
   # supported colors: green, red, orange, blue, cyan, pink, teal, yellow, indigo, purple
   social_links:
-    - url: https://ghosts.wormhole.technology/
-      icon: ghost
-      color: purple
+  
     - url: https://www.snapchat.com/add/allenleein
       icon:  snapchat-ghost
-      color: yellow
+      color: purple
   
 # Build settings
 theme: jekyll-dash
