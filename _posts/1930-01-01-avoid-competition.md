@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Games Theory: Competition"
+title:  "Games Theory: The Odds of Creating Your Own Game"
 description: Changing, Maintaining, Creating
 tags: Creation
 ---
@@ -84,5 +84,5 @@ Numbers are about the past if you wanna create new things, you need to focus on 
 
 Ignore competition(avoid data-driven idea).
 
-Maximaze the odds to create your own category(game).
+Maximize the odds to create your own category(game).
 
