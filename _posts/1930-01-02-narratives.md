@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Games Theory: Marc Andreessen vs. Peter Thiel"
+title:  "Marc Andreessen vs. Peter Thiel"
 description: Faster vs. Higher
 tags: 
 ---

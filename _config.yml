@@ -27,8 +27,11 @@ dash:
   social_links:
   
     - url: https://www.snapchat.com/add/allenleein
-      icon:  snapchat-ghost
-      color: purple
+      icon:  napster
+      color: pink
+    - url: https://gamestheory.substack.com/subscribe?utm_source=menu&simple=true&next=https%3A%2F%2Fgamestheory.substack.com%2F
+      icon:  voicemail
+      color: pink
   
 # Build settings
 theme: jekyll-dash

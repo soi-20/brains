@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Games Theory: The Odds of Creating Your Own Game"
+title:  "The Odds of Creating Your Own Game"
 description: Changing, Maintaining, Creating
 tags: Creation
 ---
