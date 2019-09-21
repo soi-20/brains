@@ -30,7 +30,7 @@ dash:
       icon:  napster
       color: pink
     - url: https://gamestheory.substack.com/subscribe?utm_source=menu&simple=true&next=https%3A%2F%2Fgamestheory.substack.com%2F
-      icon:  folder
+      icon:  at
       color: pink
   
 # Build settings
