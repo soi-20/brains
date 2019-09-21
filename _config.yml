@@ -26,9 +26,7 @@ dash:
   # supported colors: green, red, orange, blue, cyan, pink, teal, yellow, indigo, purple
   social_links:
   
-    - url: https://www.snapchat.com/add/allenleein
-      icon:  napster
-      color: pink
+ 
 
   
 # Build settings
