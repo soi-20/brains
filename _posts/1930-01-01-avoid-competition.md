@@ -82,7 +82,5 @@ The real question is : Do you have a vision of the future and design a market th
 
 Numbers are about the past if you wanna create new things, you need to focus on what’s the one that can’t be copied and people don’t know they need it yet. If you thinking about the market-size, the market you are thinking about to get in is full of competitors.
 
-Ignore competition(avoid data-driven idea).
-
-Maximize the odds to create your own category(game).
+Ignore competition(avoid data-driven idea). Maximize the odds to create your own category(game).
 
