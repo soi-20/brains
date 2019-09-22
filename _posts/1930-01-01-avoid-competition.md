@@ -5,6 +5,9 @@ description: Changing, Maintaining, Creating
 tags: Creation
 ---
 
+![drone1](/public/media/drone1.gif)
+
+
 ## The Nature of the Game: Changing
 
 In the game of creation, knowing how your idea evolving is more important to "have a good idea" in the long term. Because you will realize how to generate your own point of view, not just follow the trend(a game invented by other players).
