@@ -9,44 +9,40 @@ Most venture capitalists aren't original thinker, but not Peter Thiel and Marc A
 
 Their disagreement can be viewed through the lens of how they view Twitter. Thiel sees it as "we wanted flying cars, instead we got 140 characters" (a Founders Fund slogan). He thinks it's an unimpressive, incremental advancement. Andreessen, however, views it as "instant global public messaging for free". In other words, fundamentally transformative.
 
-# Open at the Right Time vs. Create Your Door
+## Open at the Right Time vs. Create Your Door
 
 I created two theories to explain the difference in investing perspectives between Andreessen and Thiel.
 
-### Game of Window (Timing)
+- Game of Window (Timing)
 
 There are lot's of rooms in this building(market), and there are lots of treatures(opportunities) in those rooms. You may know how many golds in some rooms, but you won't know when will it open. You need good tools and good timing to open the doors to get those rewards. 
 
-### Game of Creation (A New Game)
+- Game of Creation (A New Game)
 
 In this game, you create another building, another layer of the game. 
 
 You create new rooms others hard to even find it. Mostly, It's "unpopular idea" so no one but you wants to build it.
 
 
-## Marc Andreessen: Compete In the Game of Window
+### Marc Andreessen: Compete In the Game of Window
 
 
-On Marc's philosophy that software is eating the world, and timing is everything.  
+On Marc's philosophy that software is eating the world, and timing is everything. In this game, he thinks the timing is everything. You need to execute your idea within the critical window to succeed. Most importantly, you need to find the right window.
 
 
-*-The strongest form is that, as a consequence of all this, Silicon Valley-type software companies will end up eating everything. The kinds of companies we build in the Valley will rule pretty much every industry. These companies have software at their very core. They know how to develop software. They know the economics of software. They make engineering the priority. And that’s why they’ll win.*
+- "The strongest form is that, as a consequence of all this, Silicon Valley-type software companies will end up eating everything. The kinds of companies we build in the Valley will rule pretty much every industry. These companies have software at their very core. They know how to develop software. They know the economics of software. They make engineering the priority. And that’s why they’ll win.
 
-*-All this is reflected in the Andreessen Horowitz investment thesis. We don’t do cleantech or biotech. We do things that are based on software. If software is the heart of the company—if things would collapse if you ripped out your key development team—perfect. The companies that will end up dominating most industries are the ones with the same set of management practices and characteristics that you see at Facebook or Google. It will be a rolling process, of course, and the backlash will be intense. Dinosaurs are not in favor or being replaced by birds.- Marc Andreessen*
+- All this is reflected in the Andreessen Horowitz investment thesis. We don’t do cleantech or biotech. We do things that are based on software. If software is the heart of the company—if things would collapse if you ripped out your key development team—perfect. The companies that will end up dominating most industries are the ones with the same set of management practices and characteristics that you see at Facebook or Google. It will be a rolling process, of course, and the backlash will be intense. Dinosaurs are not in favor or being replaced by birds."- Marc Andreessen
 
+- "The big, almost philosophical difference goes back to the timing issue. For entrepreneurs, timing is a huge risk. You have to innovate at the right time. You can’t be too early. This is really dangerous because you essentially make a one-time bet. It’s rare are to start the same company five years later if you try it once and were wrong on timing. Jonathan Abrams did Friendster but not Facebook.
 
-In this game, he thinks the timing is everything. You need to execute your idea within the critical window to succeed. Most importantly, you need to find the right window.
-
-
-*-The big, almost philosophical difference goes back to the timing issue. For entrepreneurs, timing is a huge risk. You have to innovate at the right time. You can’t be too early. This is really dangerous because you essentially make a one-time bet. It’s rare are to start the same company five years later if you try it once and were wrong on timing. Jonathan Abrams did Friendster but not Facebook.*
-
-*-Things are different with venture capital. To stay in business for 20 years or more, you have to take a portfolio approach. Ideas are no longer one-time bets. If we believe in an idea and back the company that fails at it, it’s probably still a good idea. If someone good wants to do the same thing four years later, that’s probably a good investment. Most VCs won’t do this. They’ll be too scarred from the initial failure. But tracking systematically failures is important.*
+- Things are different with venture capital. To stay in business for 20 years or more, you have to take a portfolio approach. Ideas are no longer one-time bets. If we believe in an idea and back the company that fails at it, it’s probably still a good idea. If someone good wants to do the same thing four years later, that’s probably a good investment. Most VCs won’t do this. They’ll be too scarred from the initial failure. But tracking systematically failures is important." - Marc Andreessen
 
 *-But seriously—if you think you can execute on an idea that someone tried 5-10 years ago and failed, good VCs will be open to it. You just have to be able to show that now is the time.- Marc Andreessen*
 
 
 
-## Peter Thiel: Create A Game with Your Unique Moats
+### Peter Thiel: Create A Game with Your Unique Moats
 
 Is your market big enough? Who cares—create a new one if it isn’t. 
 
