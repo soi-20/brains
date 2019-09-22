@@ -5,7 +5,7 @@ description: Changing, Maintaining, Creating
 tags: Creation
 ---
 
-![drone1](media/drone1.gif)
+![drone1](/media/drone1.gif)
 
 
 ## The Nature of the Game: Changing
