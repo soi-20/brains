@@ -5,11 +5,14 @@ description: Changing, Maintaining, Creating
 tags: Creation
 ---
 
-# The Nature of the Game: Changing
+![scape-animation-style](https://i.imgur.com/19ltpwK.mp4)
+
+
+## The Nature of the Game: Changing
 
 In the game of creation, knowing how your idea evolving is more important to "have a good idea" in the long term. Because you will realize how to generate your own point of view, not just follow the trend(a game invented by other players).
 
-**“Being right is the enemy of staying right because it leads you to forget the way the world works.” — Jason Zweig.**
+> “Being right is the enemy of staying right because it leads you to forget the way the world works.” — Jason Zweig.
 
 This is exactly the reason why companies rise and fall. Because they learned to play one game and got good at it. But the market constantly changes to a new kind of game.
 
@@ -17,9 +20,9 @@ Disruption is the art of calculated risk-taking. Before you start to think somet
 
 So, where is the business opportunity for a startup founder? What’s the right strategy to leverage the odds of creating the game? Why Sean Parker said,[”Facebook should not have won, MySpace Blew It”?](https://www.youtube.com/watch?v=zVIhUVid4fA)
 
-# The Window of the Game: Maintaining
+## The Window of the Game: Maintaining
 
-**The outliners in the tech business wars are pirates(startups), not Navy Seals(incumbents).**
+- The outliners in the tech business wars are pirates(startups), not Navy Seals(incumbents).
 
 The current business models are actually less durable than they used to be while software are eating the world.
 
@@ -40,9 +43,9 @@ Being right and staying right is totally different. Doing well reduces the incen
 What makes disruption so devastating is the fact that absent a crisis, it is almost impossible to avoid. Managers are paid to leverage their advantages, not destroy them; to increase margins, not obliterate them.
 
 
-# The Odds of the New Game: Creating
+## The Odds of the New Game: Creating
 
-## Ignore Competition
+### Ignore Competition
 
 
 “In a big company, you can do what all the other big companies are doing. But a startup can’t do what all the other startups do. I don’t think a lot of people realize this, even in startups.
