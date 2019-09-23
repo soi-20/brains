@@ -45,11 +45,11 @@ What makes disruption so devastating is the fact that absent a crisis, it is alm
 ### Ignore Competition
 
 
-“In a big company, you can do what all the other big companies are doing. But a startup can’t do what all the other startups do. I don’t think a lot of people realize this, even in startups.
+> “In a big company, you can do what all the other big companies are doing. But a startup can’t do what all the other startups do. I don’t think a lot of people realize this, even in startups.
 
-The average big company grows at about ten percent a year. So if you’re running a big company and you do everything the way the average big company does it, you can expect to do as well as the average big company — that is, to grow about ten percent a year.
+> The average big company grows at about ten percent a year. So if you’re running a big company and you do everything the way the average big company does it, you can expect to do as well as the average big company — that is, to grow about ten percent a year.
 
-The same thing will happen if you’re running a startup, of course. If you do everything the way the average startup does it, you should expect average performance. The problem here is, average performance means that you’ll go out of business.”- Paul Graham
+> The same thing will happen if you’re running a startup, of course. If you do everything the way the average startup does it, you should expect average performance. The problem here is, average performance means that you’ll go out of business.”- Paul Graham
 
 ---
 
@@ -62,25 +62,28 @@ The traditional business thinking process is like:
 - Find a way to get in.
 
 
-Instead, in order to maximize the odds of creating your own game, you should just totally ignore “the market things...the trend...the user” and think about:
+Instead, in order to maximize the odds of creating your own game, you should just totally ignore “the market things...the trend...the user”. Numbers are about the past if you wanna create new things, you need to focus on what’s the one that can’t be copied and people don’t know they need it yet. If you thinking about the market-size, the market you are thinking about to get in is full of competitors.
+
+So you should think about:
 
 - What’s the unique leverage other companies can’t/hard to clone? How to achieve and create that moat?
 - What’s the opportunity cost of building that moat?
 - How to maximize that leverage?
+- Where is the upside? How to "upside" the upside?
 
 
-### Why ignore the user?
+### Category Creation = Game Creation
 
-Because which market depend on you, not on the user. You’re not in the market the user think you’re in — you’re in the market you think you’re in. 
+Which market depend on you, not on the user. You’re not in the market the user think you’re in — you’re in the market you believe you’re in. I believe in the power of a single visionary to bend the future to their will. I believe in creating, not finding.
 
 Most failed companies made the wrong “awesome product” by choosing the wrong market and following the wrong direction "told by the user you talked to". Most user get pitched "understandable idea" because founders think they have to prove market fit before building product depth. If your business fits in a market design by someone else, you are “default dead”. 
 
 The real question is : Do you have a vision of the future and design a market that only you can build and dominate?
 
+Ignore competition(avoid data-driven idea). 
 
-### The market-size is not as important as you think
+Maximize the odds to create your own category(game).
 
-Numbers are about the past if you wanna create new things, you need to focus on what’s the one that can’t be copied and people don’t know they need it yet. If you thinking about the market-size, the market you are thinking about to get in is full of competitors.
+---
 
-Ignore competition(avoid data-driven idea). Maximize the odds to create your own category(game).
-
+[Read Next: Marc Andreessen vs. Peter Thiel](https://allenleein.github.io/games/1930/01/02/narratives.html)
