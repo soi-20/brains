@@ -86,4 +86,4 @@ Maximize the odds to create your own category(game).
 
 ---
 
-[Read Next: Marc Andreessen vs. Peter Thiel](https://allenleein.github.io/games/1930/01/02/narratives.html)
+## [Read Next: Marc Andreessen vs. Peter Thiel](https://allenleein.github.io/games/1930/01/02/narratives.html)
