@@ -69,19 +69,15 @@ It is not so obvious that one path to monopoly is more profitable than the other
 
 Finding the timing is the most important part of the execution. You need to execute your idea fast and good enough within the critical window to succeed. Most importantly, you may need to survive long enough to find the right window.
 
-## There Is No One Right Way 
+## There Is Only One Right Way In Your Game
 
-The point here is just as an entrepreneur can choose between investing in control or focusing on execution. Which is the right path is hard to tell at the outset and it may be that a start-up will want to switch between strategies as it learns more; so long as that switch is feasible. 
+So both Marc Andreessen and Peter Thiel can have different preferences regarding control versus execution and still both be right as a investor. 
 
-So both Marc Andreessen and Peter Thiel can have different preferences regarding control versus execution and still both be right. 
+As an entrepreneur, you can choose between investing in control or focusing on execution. Which is the right path is base on what kind of business you want to create. The worst founder switch between strategies then call it "pivot".
 
-## Don't "Lean"
+The misunderstood dogma here is to have no definite plan, work in incremental iterations to find out what's most valuable to customers today(Lean Startup Methodology). This approach will probably lead you to very incremental solutions or even make you run around in circles achieving nothing. It lowers the cost of failure, but also the potential impact of success. The process becomes more important than the end goal. 
 
-Usually, **the misunderstood dogma here is to have no definite plan, work in incremental iterations to find out what's most valuable to customers today(Lean Startup Methodology)**. 
-
-This approach will probably lead you to very incremental solutions or even make you run around in circles achieving nothing. It lowers the cost of failure, but also the potential impact of success. The process becomes more important than the end goal. It's literally the opposite of what Peter propagates. 
-
-The real question for yourself: Run faster or jump higher?
+The real question: Run faster or jump higher?
 
 ---
 
