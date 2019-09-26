@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Marc Andreessen vs. Peter Thiel"
-description: Faster vs. Higher
+title:  "Run Faster vs. Jump Higher"
+description: Marc Andreessen vs. Peter Thiel
 tags: 
 ---
 
-Most venture capitalists aren't original thinker, but not Peter Thiel and Marc Andreessen. The two prestigious venture capitalists had a [great debate](https://www.youtube.com/watch?v=PUhtHojSphk) on business creation I think it's worth to dig in. 
+Most venture capitalists aren't original thinker, but not Peter Thiel and Marc Andreessen. The two prestigious venture capitalists had a great debate[1] on business creation I think it's worth to dig in. 
 
 Their disagreement can be viewed through the lens of how they view Twitter. Thiel sees it as "we wanted flying cars, instead we got 140 characters" (a Founders Fund slogan). He thinks it's an unimpressive, incremental advancement. Andreessen, however, views it as "instant global public messaging for free". In other words, fundamentally transformative.
 
@@ -82,3 +82,7 @@ Usually, **the misunderstood dogma here is to have no definite plan, work in inc
 This approach will probably lead you to very incremental solutions or even make you run around in circles achieving nothing. It lowers the cost of failure, but also the potential impact of success. The process becomes more important than the end goal. It's literally the opposite of what Peter propagates. 
 
 The real question for yourself: Run faster or jump higher?
+
+---
+
+[1](https://www.youtube.com/watch?v=PUhtHojSphk)
