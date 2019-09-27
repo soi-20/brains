@@ -9,22 +9,20 @@ Most venture capitalists aren't original thinker, but not Peter Thiel and Marc A
 
 Their disagreement can be viewed through the lens of how they view Twitter. Thiel sees it as "we wanted flying cars, instead we got 140 characters" (a Founders Fund slogan). He thinks it's an unimpressive, incremental advancement. Andreessen, however, views it as "instant global public messaging for free". In other words, fundamentally transformative.
 
-## Open at the Right Time vs. Create Your Door
+## Finding vs. Creating
 
-I created two theories to explain the difference in investing perspectives between Andreessen and Thiel.
+Here are the differences in investing perspectives between Andreessen and Thiel.
 
-- Game of Window (Timing)
+- The Game of Finding 
 
 There are lot's of rooms in this building(market), and there are lots of treatures(opportunities) in those rooms. You may know how many golds in some rooms, but you won't know when will it open. You need good tools and good timing to open the doors to get those rewards. 
 
-- Game of Creation (A New Game)
+- The Game of Creating
 
-In this game, you create another building, another layer of the game. 
-
-You create new rooms others hard to even find it. Mostly, It's "unpopular idea" so no one but you wants to build it.
+You create another building, another layer of the game. You create new rooms others hard to even find it. Mostly, It's "unpopular idea" so no one but you wants to build it.
 
 
-### Marc Andreessen: Compete In the Game of Window
+### Marc Andreessen: Open at the Right Time
 
 On Marc's philosophy that software is eating the world, and timing is everything. In this game, he thinks the timing is everything. You need to execute your idea within the critical window to succeed. Most importantly, you need to find the right window.
 
@@ -35,7 +33,7 @@ On Marc's philosophy that software is eating the world, and timing is everything
 > But seriously—if you think you can execute on an idea that someone tried 5-10 years ago and failed, good VCs will be open to it. You just have to be able to show that now is the time.- Marc Andreessen*
 
 
-### Peter Thiel: Create A Game with Your Unique Moats
+### Peter Thiel: Create Your Own Door
 
 Is your market big enough? Who cares—create a new one if it isn’t. Peter Thiel argues good innovation sells itself.
 
@@ -69,9 +67,9 @@ It is not so obvious that one path to monopoly is more profitable than the other
 
 Finding the timing is the most important part of the execution. You need to execute your idea fast and good enough within the critical window to succeed. Most importantly, you may need to survive long enough to find the right window.
 
-## There Is Only One Right Way In Your Game
+## Which Game?
 
-So both Marc Andreessen and Peter Thiel can have different preferences regarding control versus execution and still both be right as a investor. 
+So both Marc Andreessen and Peter Thiel can have different preferences regarding control versus execution and still both be right as an investor. 
 
 As an entrepreneur, you can choose between investing in control or focusing on execution. Which is the right path is base on what kind of business you want to create. The worst founder switch between strategies then call it "pivot".
 
