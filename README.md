@@ -2,7 +2,7 @@
 # `Games Theory`
 
 <p align="center">
-  <img width="200" height="200" src="https://i.imgur.com/Il5kkUs.png" alt="Sublime's custom image"/>
+  <img width="200" height="200" src="https://cdn.substack.com/image/fetch/w_170,c_limit,f_auto,q_auto:best/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb2975263-8b88-4297-9750-7ad66b6dcdd9_256x256.png" alt="Sublime's custom image"/>
 </p>
 
 ### A Book about How to Leverage the Odds to Create Your Own Game
