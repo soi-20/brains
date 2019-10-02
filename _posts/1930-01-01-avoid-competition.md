@@ -86,6 +86,4 @@ Maximize the odds to create your own category(game).
 
 ---
 
-## Subscribe Games Theory Newsletter
-
-[Click Here](https://gamestheory.substack.com/subscribe?utm_source=menu)
+## [➩Subscribe Games Theory Newsletter](https://gamestheory.substack.com/subscribe?utm_source=menu)
