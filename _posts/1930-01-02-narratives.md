@@ -5,7 +5,7 @@ description: Marc Andreessen vs. Peter Thiel
 tags: 
 ---
 
-Most venture capitalists aren't original thinker, but not Peter Thiel and Marc Andreessen. The two prestigious venture capitalists had a great debate[1] on business creation I think it's worth to dig in. 
+Most venture capitalists aren't original thinkers, but not Peter Thiel and Marc Andreessen. The two prestigious venture capitalists had a great debate[1] on business creation I think it's worth to dig in. 
 
 Their disagreement can be viewed through the lens of how they view Twitter. Thiel sees it as "we wanted flying cars, instead we got 140 characters" (a Founders Fund slogan). He thinks it's an unimpressive, incremental advancement. Andreessen, however, views it as "instant global public messaging for free". In other words, fundamentally transformative.
 
@@ -15,11 +15,11 @@ Here are the differences in investing perspectives between Andreessen and Thiel.
 
 - The Game of Finding 
 
-There are lot's of rooms in this building(market), and there are lots of treatures(opportunities) in those rooms. You may know how many golds in some rooms, but you won't know when will it open. You need good tools and good timing to open the doors to get those rewards. 
+There are lots of rooms in this building(market), and there are lots of treatures(opportunities) in those rooms. You may know how many golds in some rooms, but you won't know when will it open. You need good tools and good timing to open the doors to get those rewards. 
 
 - The Game of Creating
 
-You create another building, another layer of the game. You create new rooms others hard to even find it. Mostly, It's "unpopular idea" so no one but you wants to build it.
+You create another building, another layer of the game. You create new rooms others hard to even find it. Mostly, It's an "unpopular idea" so no one but you want to build it.
 
 
 ### Marc Andreessen: Open at the Right Time
@@ -45,7 +45,7 @@ Peter believes in determinate optimism: the future is made by exceptional people
 
 In other words: Founders who want to create radical innovation should have a big, audacious plan and ignore mundane thinking.
 
-Peter's logic works well in long-term view: finding a frontier of value which will be a great company years from now. A frontier that only a few people believe exists (but you have strong proof and conviction that it does). 
+Peter's logic works well in a long-term view: finding a frontier of value which will be a great company years from now. A frontier that only a few people believe exists (but you have strong proof and conviction that it does). 
 
 
 ## Run Faster vs. Jump Higher
@@ -63,7 +63,7 @@ There is, however, another sort of monopoly — a path that gets you 100 percent
 
 You can term Marc's approach to entrepreneurial strategy: focusing on execution(finding the timing). 
 
-It is not so obvious that one path to monopoly is more profitable than the other. If you focus on execution you can get to market quicker and with fewer resources. You can learn as you go and actually invest for the capabilities that will give you a competitive advantage in the future. In other words, while it takes on-going work — no resting on your monopoly laurels here — you can still ‘own’ a market. The difference is that your pricing is constrained by potential competition from other firms. 
+It is not so obvious that one path to monopoly is more profitable than the other. If you focus on execution you can get to market quicker and with fewer resources. You can learn as you go and actually invest in the capabilities that will give you a competitive advantage in the future. In other words, while it takes on-going work — no resting on your monopoly laurels here — you can still ‘own’ a market. The difference is that your pricing is constrained by potential competition from other firms. 
 
 Finding the timing is the most important part of the execution. You need to execute your idea fast and good enough within the critical window to succeed. Most importantly, you may need to survive long enough to find the right window.
 
@@ -71,12 +71,14 @@ Finding the timing is the most important part of the execution. You need to exec
 
 So both Marc Andreessen and Peter Thiel can have different preferences regarding control versus execution and still both be right as an investor. 
 
-As an entrepreneur, you can choose between investing in control or focusing on execution. Which is the right path is base on what kind of business you want to create. The worst founder switch between strategies then call it "pivot".
-
-The misunderstood dogma here is to have no definite plan, work in incremental iterations to find out what's most valuable to customers today(Lean Startup Methodology). This approach will probably lead you to very incremental solutions or even make you run around in circles achieving nothing. It lowers the cost of failure, but also the potential impact of success. The process becomes more important than the end goal. 
+As an entrepreneur, you can choose between investing in control or focusing on execution. Which is the right path is base on what kind of business you want to create. But, the worst founders switch between strategies then call it "pivot". The misunderstood dogma here is to have no definite plan, work in incremental iterations to find out what's most valuable to customers today(Lean Startup Methodology). This approach will probably lead you to very incremental solutions or even make you run around in circles achieving nothing. It lowers the cost of failure, but also the potential impact of success. The process becomes more important than the end goal. 
 
 The real question: Run faster or jump higher?
 
 ---
 
 Source:[[1]](https://www.youtube.com/watch?v=PUhtHojSphk)
+
+## Subscribe Games Theory Newsletter
+
+[Click Here](https://gamestheory.substack.com/subscribe?utm_source=menu)

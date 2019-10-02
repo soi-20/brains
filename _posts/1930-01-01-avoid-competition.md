@@ -7,7 +7,7 @@ tags: Creation
 
 ## The Nature of the Game: Changing
 
-In the game of creation, knowing how your idea evolving is more important to "have a good idea" in the long term. Because you will realize how to generate your own point of view, not just follow the trend(a game invented by other players).
+In the game of creation, knowing how your idea evolving is more important to "have a good idea" in the long term. Because you will realize how to generate your point of view, not just follow the trend(a game invented by other players).
 
 > “Being right is the enemy of staying right because it leads you to forget the way the world works.” — Jason Zweig.
 
@@ -21,9 +21,9 @@ So, where is the business opportunity for a startup founder? What’s the right 
 
 - The outliners in the tech business wars are pirates(startups), not Navy Seals(incumbents).
 
-The current business models are actually less durable than they used to be while software are eating the world.
+The current business models are less durable than they used to be while the software is eating the world.
 
-In fact, the opportunity exists in the business world because when companies become successful is when collective leadership becomes most focused on maintaining success. Usually, leadership tends to see more risk in the downside of the current plan and than upside in taking on new things.
+The opportunity exists in the business world because when companies become successful is when collective leadership becomes most focused on maintaining success. Usually, leadership tends to see more risk in the downside of the current plan and than the upside in taking on new things.
 
 Things those companies doing regularly:
 
@@ -35,7 +35,7 @@ Things those companies doing regularly:
 - Love being “Data-Driven”.
 
 
-Being right and staying right is totally different. Doing well reduces the incentive to explore other ideas, especially when those ideas conflict with your proven business model.
+Being right and staying right is different. Doing well reduces the incentive to explore other ideas, especially when those ideas conflict with your proven business model.
 
 What makes disruption so devastating is the fact that absent a crisis, it is almost impossible to avoid. Managers are paid to leverage their advantages, not destroy them; to increase margins, not obliterate them.
 
@@ -53,7 +53,7 @@ What makes disruption so devastating is the fact that absent a crisis, it is alm
 
 ---
 
-Counterintuitively, truly transformative companies rarely fit into pre-defined boxes. Limiting focus to “yesterday’s” best-performing industries couldn’t see the new opportunities. Like I said, those business leaders who are running the show are very bad at telling you what you shouldn’t do and what should do, even they are successful.
+Counterintuitively, truly transformative companies rarely fit into pre-defined boxes. Limiting focus to “yesterday’s” best-performing industries couldn’t see the new opportunities. As I said, those business leaders who are running the show are very bad at telling you what you shouldn’t do and what should do, even they are successful.
 
 The traditional business thinking process is like:
 
@@ -62,7 +62,7 @@ The traditional business thinking process is like:
 - Find a way to get in.
 
 
-Instead, in order to maximize the odds of creating your own game, you should just totally ignore “the market things...the trend...the user”. Numbers are about the past if you wanna create new things, you need to focus on what’s the one that can’t be copied and people don’t know they need it yet. If you thinking about the market-size, the market you are thinking about to get in is full of competitors.
+Instead, to maximize the odds of creating your own game, you should just totally ignore “the market things...the trend...the user”. Numbers are about the past if you wanna create new things, you need to focus on what’s the one that can’t be copied and people don’t know they need it yet. If you thinking about the market size, the market you are thinking about to get in is full of competitors.
 
 So you should think about:
 
@@ -74,9 +74,9 @@ So you should think about:
 
 ### Category Creation = Game Creation
 
-Which market depend on you, not on the user. You’re not in the market the user think you’re in — you’re in the market you believe you’re in. I believe in the power of a single visionary to bend the future to their will. I believe in creating, not finding.
+Which market depends on you, not on the user. You’re not in the market the users think you’re in — you’re in the market you believe you’re in. I believe in the power of a single visionary to bend the future to their will. I believe in creating, not finding.
 
-Most failed companies made the wrong “awesome product” by choosing the wrong market and following the wrong direction "told by the user you talked to". Most user get pitched "understandable idea" because founders think they have to prove market fit before building product depth. If your business fits in a market design by someone else, you are “default dead”. 
+Most failed companies made the wrong “awesome product” by choosing the wrong market and following the wrong direction "told by the user you talked to". Most users get pitched "understandable idea" because founders think they have to prove market fit before building product depth. If your business fits in a market design by someone else, you are “default dead”. 
 
 The real question is : Do you have a vision of the future and design a market that only you can build and dominate?
 
@@ -86,5 +86,6 @@ Maximize the odds to create your own category(game).
 
 ---
 
-## Read Next: 
-### [Marc Andreessen vs. Peter Thiel](https://allenleein.github.io/games/1930/01/02/narratives.html)
+## Subscribe Games Theory Newsletter
+
+[Click Here](https://gamestheory.substack.com/subscribe?utm_source=menu)
