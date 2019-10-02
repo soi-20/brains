@@ -79,6 +79,4 @@ The real question: Run faster or jump higher?
 
 Source:[[1]](https://www.youtube.com/watch?v=PUhtHojSphk)
 
-## Subscribe Games Theory Newsletter
-
-[Click Here](https://gamestheory.substack.com/subscribe?utm_source=menu)
+## [➩ Subscribe Games Theory Newsletter](https://gamestheory.substack.com/subscribe?utm_source=menu)
