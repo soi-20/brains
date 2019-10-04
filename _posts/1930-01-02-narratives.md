@@ -74,14 +74,6 @@ So both Marc Andreessen and Peter Thiel can have different preferences regarding
 As an entrepreneur, you can choose between investing in control or focusing on execution. Which is the right path is base on what kind of business you want to create. But, the worst founders switch between strategies then call it "pivot". The misunderstood dogma here is to have no definite plan, work in incremental iterations to find out what's most valuable to customers today(Lean Startup Methodology). This approach will probably lead you to very incremental solutions or even make you run around in circles achieving nothing. It lowers the cost of failure, but also the potential impact of success. The process becomes more important than the end goal. 
 
 The real question: Run faster or jump higher?
-
-
-
-{% highlight haskell %}
-listToHeap :: Ord a => [a] -> Tree a
-listToHeap = foldr insert Leaf
-{% endhighlight %}
-
 ---
 
 Source:[[1]](https://www.youtube.com/watch?v=PUhtHojSphk)
