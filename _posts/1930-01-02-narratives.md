@@ -75,6 +75,13 @@ As an entrepreneur, you can choose between investing in control or focusing on e
 
 The real question: Run faster or jump higher?
 
+
+
+{% highlight haskell %}
+listToHeap :: Ord a => [a] -> Tree a
+listToHeap = foldr insert Leaf
+{% endhighlight %}
+
 ---
 
 Source:[[1]](https://www.youtube.com/watch?v=PUhtHojSphk)
