@@ -2,7 +2,7 @@
 # `Games Theory`
 
 
-<center>![Alt Text](https://media.giphy.com/media/dXpEFuXdilI8x6D1Qw/giphy.gif)</center>
+![Alt Text](https://media.giphy.com/media/dXpEFuXdilI8x6D1Qw/giphy.gif)
 
 - [The Odds of Creating Your Own Game](https://allenleein.github.io/games/1930/01/01/avoid-competition.html)
 - [Marc Andreessen vs. Peter Thiel (Faster vs. Higher)](https://allenleein.github.io/games/1930/01/02/narratives.html)
