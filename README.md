@@ -4,8 +4,8 @@
 
 ![alt text](https://i.imgur.com/P7PjCzH.jpg)
 
-- [The Odds of Creating Your Own Game](https://allenleein.github.io/games/1930/01/01/avoid-competition.html)
-- [Marc Andreessen vs. Peter Thiel (Faster vs. Higher)](https://allenleein.github.io/games/1930/01/02/narratives.html)
+- [The Odds of Creating Your Own Game](https://allenleein.github.io/2019/06/11/gamesthoery1.html)
+- [Marc Andreessen vs. Peter Thiel (Faster vs. Higher)](https://allenleein.github.io/2019/06/12/games2.html)
 - Subscribe:[Don't Find the Future, Bend it](https://gamestheory.substack.com/subscribe?utm_source=menu&simple=true&next=https%3A%2F%2Fgamestheory.substack.com%2F)
 - Subscribe:[Peter Thiel vs. Keith Rabois (Niche vs. Wide)](https://gamestheory.substack.com/subscribe?utm_source=menu&simple=true&next=https%3A%2F%2Fgamestheory.substack.com%2F)
 
