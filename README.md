@@ -1,7 +1,7 @@
 
 # `Knowledge Base`
 
-### `The Input-Functions-Output of My Thinking` 
+### `The Input and Functions of My Thinking ` 
 
 
 <p align="center">
