@@ -13,7 +13,7 @@
 - Status: Still in process 
 - Goal: Decentralizing my brain to a network of brains
 
-### Table of Contents
+### Table of Contents (In Process)
 **Talent:**
 - [Finding Genius](https://github.com/allenleein/knowledge-base/tree/gh-pages/Finding%20Genius)
   - [Great Hiring](https://github.com/allenleein/knowledge-base/tree/gh-pages/Finding%20Genius/Great%20Hiring)
