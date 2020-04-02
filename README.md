@@ -13,6 +13,17 @@
 - Status: Still in process 
 - Goal: Decentralizing my brain to a network of brains
 
+### Table of Contents
+**Team Building:**
+- [Finding Genius](https://github.com/allenleein/knowledge-base/tree/gh-pages/Finding%20Genius)
+  - [Great Hiring](https://github.com/allenleein/knowledge-base/tree/gh-pages/Finding%20Genius/Great%20Hiring)
+    -[Open AI](https://github.com/allenleein/knowledge-base/tree/gh-pages/Finding%20Genius/Great%20Hiring/Open%20AI)
+    - [Jane Street](https://github.com/allenleein/knowledge-base/tree/gh-pages/Finding%20Genius/Great%20Hiring/Jane%20Street)
+
+- [Lead](https://github.com/allenleein/knowledge-base/tree/gh-pages/Lead)
+
+
+
 ### Search the Base in Shell
 
 I use [rga](https://github.com/phiresky/ripgrep-all): ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
