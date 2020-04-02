@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="200" height="150" src="https://i.imgur.com/p9GzLj6.gif" alt="Sublime's custom image"/>
+  <img width="200" height="150" src="https://i.imgur.com/14A6pGC.png" alt="Sublime's custom image"/>
 </p>
 
 ## `Knowledge Base: The Input and Functions of My Thinking` 
