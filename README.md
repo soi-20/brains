@@ -14,13 +14,15 @@
 - Goal: Decentralizing my brain to a network of brains
 
 ### Table of Contents
-**Team Building:**
+**Talent:**
 - [Finding Genius](https://github.com/allenleein/knowledge-base/tree/gh-pages/Finding%20Genius)
   - [Great Hiring](https://github.com/allenleein/knowledge-base/tree/gh-pages/Finding%20Genius/Great%20Hiring)
-    -[Open AI](https://github.com/allenleein/knowledge-base/tree/gh-pages/Finding%20Genius/Great%20Hiring/Open%20AI)
+    - [Open AI](https://github.com/allenleein/knowledge-base/tree/gh-pages/Finding%20Genius/Great%20Hiring/Open%20AI)
     - [Jane Street](https://github.com/allenleein/knowledge-base/tree/gh-pages/Finding%20Genius/Great%20Hiring/Jane%20Street)
 
 - [Lead](https://github.com/allenleein/knowledge-base/tree/gh-pages/Lead)
+  - [Execution](https://github.com/allenleein/knowledge-base/tree/gh-pages/Execution)
+    - [10x Engineering](https://github.com/allenleein/knowledge-base/tree/gh-pages/Execution/10x%20Engineering)
 
 
 
