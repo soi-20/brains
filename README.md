@@ -3,17 +3,15 @@
   <img width="200" height="150" src="https://i.imgur.com/p9GzLj6.gif" alt="Sublime's custom image"/>
 </p>
 
-## `Knowledge Base`
+## `Knowledge Base: The Input and Functions of My Thinking` 
 
-### `The Input and Functions of My Thinking ` 
-
-### Intro
+### `Intro`
 
 - Wiki: [Ghosts In the Shell](https://github.com/allenleein/knowledge-base/wiki/Ghosts-in-the-Shell)
 - Status: Still in process 
 - Goal: Decentralizing my brain to a network of brains
 
-### Table of Contents (In Process)
+### `Table of Contents (In Process)`
 **Talent:**
 - [Finding Genius](https://github.com/allenleein/knowledge-base/tree/gh-pages/Finding%20Genius)
   - [Great Hiring](https://github.com/allenleein/knowledge-base/tree/gh-pages/Finding%20Genius/Great%20Hiring)
@@ -26,7 +24,7 @@
 
 
 
-### Search the Base in Shell
+### `Search the Base in Shell`
 
 I use [rga](https://github.com/phiresky/ripgrep-all): ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 
