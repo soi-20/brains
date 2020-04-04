@@ -42,7 +42,7 @@ If you don't have Rust on your machine yet, please use [rustup](https://doc.rust
     - [No MVP](https://github.com/allenleein/knowledge-base/tree/gh-pages/Product-Strategy/No%20MVP)
 
 - [Deck](https://github.com/allenleein/knowledge-base/tree/gh-pages/Product-Deck)
-    - [Deck](https://github.com/allenleein/knowledge-base/tree/gh-pages/Product-Deck/PRD)
+    - [PRD](https://github.com/allenleein/knowledge-base/tree/gh-pages/Product-Deck/PRD)
     - [Sequoia](https://github.com/allenleein/knowledge-base/tree/gh-pages/Product-Deck/Sequoia)
     - [YC](https://github.com/allenleein/knowledge-base/tree/gh-pages/Product-Deck/YC)
     - [KV](https://github.com/allenleein/knowledge-base/tree/gh-pages/Product-Deck/KV)
