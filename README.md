@@ -8,7 +8,6 @@
 ### `Intro`
 
 - Wiki: [Ghosts In the Shell](https://github.com/allenleein/knowledge-base/wiki/Ghosts-in-the-Shell)
-- Status: Still in process 
 - Goal: Decentralizing my brain to a network of brains
 
 ### `Table of Contents (In Process)`
@@ -20,12 +19,33 @@
 
 **🔅Product:**
 
+- [Strategy](https://github.com/allenleein/knowledge-base/tree/gh-pages/Product-Strategy)
+    - [Peter Thiel](https://github.com/allenleein/knowledge-base/tree/gh-pages/Product-Strategy/CS183-Peter-Thiel-Notes)
+    - [Distribution](https://github.com/allenleein/knowledge-base/tree/gh-pages/Product-Strategy/Distribution)
+    - [Failed to Upside the Upside](https://github.com/allenleein/knowledge-base/tree/gh-pages/Product-Strategy/Failed%20to%20Upside%20the%20Upside)
+    - [Founding Stories](https://github.com/allenleein/knowledge-base/tree/gh-pages/Product-Strategy/Founding%20Stories)
+    - [Marketplace](https://github.com/allenleein/knowledge-base/tree/gh-pages/Product-Strategy/Marketplace)
+    - [Moat and Leverage](https://github.com/allenleein/knowledge-base/tree/gh-pages/Product-Strategy/Moat%20and%20Leverage)
+    - [No MVP](https://github.com/allenleein/knowledge-base/tree/gh-pages/Product-Strategy/No%20MVP)
+
+- [Deck](https://github.com/allenleein/knowledge-base/tree/gh-pages/Product-Deck)
+    - [Deck]()
+    - [Sequoia](https://github.com/allenleein/knowledge-base/tree/gh-pages/Product-Deck/Sequoia)
+    - [YC](https://github.com/allenleein/knowledge-base/tree/gh-pages/Product-Deck/YC)
+    - [KV](https://github.com/allenleein/knowledge-base/tree/gh-pages/Product-Deck/KV)
+    - [Floodgate](https://github.com/allenleein/knowledge-base/tree/gh-pages/Product-Deck/Floodgate)
 
 - [Lead](https://github.com/allenleein/knowledge-base/tree/gh-pages/Lead)
-  - [Execution](https://github.com/allenleein/knowledge-base/tree/gh-pages/Execution)
+
+- [Design](https://github.com/allenleein/knowledge-base/tree/gh-pages/Product-Design)
+
+- [Execution](https://github.com/allenleein/knowledge-base/tree/gh-pages/Execution)
     - [10x Engineering](https://github.com/allenleein/knowledge-base/tree/gh-pages/Execution/10x%20Engineering)
 
-**🔅Bio**
+**🔅Thinking Models**
+
+
+**🔅Pruductivity**
 
 **🔅Energy**
 
