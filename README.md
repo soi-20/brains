@@ -3,9 +3,9 @@
   <img width="200" height="200" src="https://i.imgur.com/14A6pGC.png" alt="Sublime's custom image"/>
 </p>
 
-## `Knowledge Base: The Input and Functions of My Thinking` 
+## `Knowledge Base` 
 
-### `Intro`
+### `Intro: The Input and Functions of My Thinking`
 
 - Wiki: [Ghosts In the Shell](https://github.com/allenleein/knowledge-base/wiki/Ghosts-in-the-Shell)
 - Goal: Decentralizing my brain to a network of brains
