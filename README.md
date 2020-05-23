@@ -12,6 +12,36 @@
 - File system: current repo
 - Functions (In process): [Link](https://allen-lee.gitbook.io/knowledge-base/)
 
+### `Structure`
+
+```
+├─Tool
+│   ├── SICP
+│   │   ├── Scheme ├── Haskell ├── Rust ├── Typescript ├── Swift
+│   ├── Vim
+│   ├── OSX 
+│   ├── Lin
+│   ├── ML
+│   └── Problem Solving
+├─Input
+├── Thinking
+│   ├── Problem Solving 
+│   ├── Thinking Models
+│   ├── Strategy ├── Moat ├── Leverage
+│   ├── Design
+├── Building
+│   ├── Lead
+│   ├── 10x Engineering
+│   ├── Strategy ├── Moat ├── Leverage
+│   ├── Design
+├─Functions
+│   ├── Games Theory
+│   ├── The Art of Focus
+├─Output
+│   ├── Pending Future ├── Nuclear Reactor ├── Space Traveler
+│   ├── In Process ├── TARS ├── Enders
+└── .gitignore
+```
 
 ### `How to Search`
 
