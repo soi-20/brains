@@ -9,6 +9,7 @@
 
 - Wiki: [Ghosts In the Shell](https://github.com/allenleein/knowledge-base/wiki/Ghosts-in-the-Shell)
 - Goal: Decentralizing my brain to a network of brains
+- Status: Migration in Progress
 - File system: current repo
 - Functions (In process): [Link](https://allen-lee.gitbook.io/knowledge-base/)
 
