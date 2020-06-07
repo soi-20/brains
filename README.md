@@ -52,4 +52,4 @@ If you don't have Rust on your machine yet, please use [rustup](https://doc.rust
 
 **Demo:**
 
-<center>[![asciicast](https://asciinema.org/a/337203.svg)](https://asciinema.org/a/337203)</center>
+[![asciicast](https://asciinema.org/a/337203.svg)](https://asciinema.org/a/337203)
