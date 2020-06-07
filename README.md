@@ -52,8 +52,4 @@ If you don't have Rust on your machine yet, please use [rustup](https://doc.rust
 
 **Demo:**
 
-<p align="center">
-  <img width="750" height="650" src="https://i.imgur.com/PJGt5pt.jpg" alt="Sublime's custom image"/>
-</p>
-
-
+[![asciicast](https://asciinema.org/a/337203.svg)](https://asciinema.org/a/337203)
