@@ -7,8 +7,8 @@
 
 ### `Intro: The Input and Functions of My Thinking`
 
-- Wiki: [Ghosts In the Shell](https://github.com/allenleein/knowledge-base/wiki/Ghosts-in-the-Shell)
-- Goal: Decentralizing my brain to a network of brains
+- Original Wiki: [Ghosts In the Shell](https://github.com/allenleein/knowledge-base/wiki/Ghosts-in-the-Shell)
+- Goal: Decentralize my brain to a network of brains
 - Status: Migration in Progress
 - File system: current repo
 - Functions (In process): [Link](https://allen-lee.gitbook.io/knowledge-base/)
@@ -39,7 +39,7 @@
 │   ├── Games Theory
 │   ├── The Art of Focus
 ├─Output
-│   ├── Pending Future ├── Nuclear Reactor ├── Space Traveler
+│   ├── Pending Future ├── Nuclear Reactor ├── Space Travel
 │   ├── In Process ├── TARS ├── Enders
 └── .gitignore
 ```
