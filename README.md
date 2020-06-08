@@ -7,7 +7,7 @@
 
 ### `Intro: The Input and Functions of My Thinking`
 
-- Original Wiki: [Ghosts In the Shell](https://github.com/allenleein/knowledge-base/wiki/Ghosts-in-the-Shell)
+- Original wiki: [Ghosts In the Shell](https://github.com/allenleein/knowledge-base/wiki/Ghosts-in-the-Shell)
 - Goal: Decentralize my brain to a network of brains
 - Status: Migration in Progress
 - File system: current repo
