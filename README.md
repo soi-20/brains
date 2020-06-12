@@ -21,8 +21,10 @@
 │   │   ├── Scheme ├── Haskell ├── Rust ├── Typescript ├── Swift
 │   ├── Vim
 │   ├── OSX 
-│   ├── Lin
+│   ├── Linux
 │   ├── ML
+│   ├── Biohacking
+│   ├── Hacking
 │   └── Problem Solving
 ├─Input
 ├── Thinking
@@ -40,15 +42,16 @@
 │   ├── The Art of Focus
 ├─Output
 │   ├── Pending Future ├── Nuclear Reactor ├── Space Travel
-│   ├── In Process ├── TARS ├── Enders
+│   ├── In Process ├── TARS ├── Enders ├── Gargantua
 └── .gitignore
+
 ```
 
 ### `How to Search`
 
 I use [rga](https://github.com/phiresky/ripgrep-all): ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 
-If you don't have Rust on your machine yet, please use [rustup](https://doc.rust-lang.org/book/ch01-01-installation.html).
+If you don't have Rust on your machine yet, please use [rustup](https://doc.rust-lang.org/book/ch01-01-installation.html) to install.
 
 **Demo:**
 
