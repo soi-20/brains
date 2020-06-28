@@ -49,20 +49,17 @@
 
 ### `How to Search`
 
-Find files:
-
-<p align="center">
-  <img width="600" height="200" src="https://i.imgur.com/MtU3suN.jpg" alt="Sublime's custom image"/>
-</p>
+**Find files:**
 
 I use [ff](https://github.com/vishaltelangre/ff). If you don't have Rust on your machine yet, please use [rustup](https://doc.rust-lang.org/book/ch01-01-installation.html) to install.
 
+<p align="center">
+  <img width="680" height="200" src="https://i.imgur.com/MtU3suN.jpg" alt="Sublime's custom image"/>
+</p>
 
-Everything:
+**Everything:**
 
 I recommend to use [rga](https://github.com/phiresky/ripgrep-all): ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 
-
-**Demo:**
 
 [![asciicast](https://asciinema.org/a/337203.svg)](https://asciinema.org/a/337203)
