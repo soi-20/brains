@@ -11,7 +11,7 @@
 - Goal: Decentralize my brain to a network of brains
 - Status: Migration in Progress
 - File system: current repo
-- Functions (In process): [Link](https://app.tarsmachine.com/)
+- Search Engine (In process): [Link](https://app.tarsmachine.com/)
 
 ### `Structure`
 
