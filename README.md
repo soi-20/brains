@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="200" height="200" src="https://i.imgur.com/14A6pGC.png" alt="Sublime's custom image"/>
+  <img width="200" height="200" src="https://i.imgur.com/PQWeolj.png" alt="Sublime's custom image"/>
 </p>
 
 ## `Knowledge Base` 
