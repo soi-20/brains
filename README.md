@@ -9,9 +9,8 @@
 
 - Original wiki: [Ghosts In the Shell](https://github.com/allenleein/knowledge-base/wiki/Ghosts-in-the-Shell)
 - Goal: Decentralize my brain to a network of brains
-- Status: Migration in Progress
 - File system: current repo
-- Search Engine (In process): [Link](https://app.tarsmachine.com/)
+- Search Engine (In Process): [Link](http://ios.pensieves.co/)
 
 ### `Structure`
 
