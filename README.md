@@ -3,11 +3,11 @@
   <img width="200" height="200" src="https://i.imgur.com/PQWeolj.png" alt="Sublime's custom image"/>
 </p>
 
-## `Knowledge Base` 
+## `My Digital Brain` 
 
 ### `Intro: The Input and Functions of My Thinking`
 
-- Original wiki: [Ghosts In the Shell](https://github.com/allenleein/knowledge-base/wiki/Ghosts-in-the-Shell)
+- Original wiki: [Brains: Ghosts In the Shell](https://github.com/allenleein/knowledge-base/wiki/Ghosts-in-the-Shell)
 - Goal: Decentralize my brain to a network of brains
 - File system: current repo
 - Search Engine (In Process): [Link](http://ios.pensieves.co/)
@@ -15,7 +15,7 @@
 ### `Structure`
 
 ```
-├─Tool
+├─<00>Tool
 │   ├── SICP
 │   │   ├── Scheme ├── Haskell ├── Rust ├── Typescript ├── Swift
 │   ├── Vim
@@ -24,24 +24,28 @@
 │   ├── ML
 │   ├── Biohacking
 │   ├── Hacking
+│   ├── Venture Capital
 │   └── Problem Solving
-├─Input
-├── Thinking
+├─<01>Input
+├── <010>Thinking
 │   ├── Problem Solving 
 │   ├── Thinking Models
+│   ├── Storytelling
 │   ├── Strategy ├── Moat ├── Leverage
 │   ├── Design
-├── Building
+│   ├── Macro
+│   ├── Micro
+├── <011>Building
 │   ├── Lead
 │   ├── 10x Engineering
-│   ├── Strategy ├── Moat ├── Leverage
+│   ├── Execution
 │   ├── Design
-├─Functions
+├─  <012>Functions
 │   ├── Games Theory
 │   ├── The Art of Focus
-├─Output
+├─<090>Output
 │   ├── Pending Future ├── Nuclear Reactor ├── Space Travel
-│   ├── In Process ├── TARS ├── Enders ├── Gargantua
+│   ├── In Process ├── TARS(Pensieves) ├── Enders ├── Gargantua
 └── .gitignore
 
 ```
