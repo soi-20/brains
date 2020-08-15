@@ -63,6 +63,3 @@ I use [ff](https://github.com/vishaltelangre/ff). If you don't have Rust on your
 **Everything:**
 
 I recommend to use [rga](https://github.com/phiresky/ripgrep-all): ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
-
-
-[![asciicast](https://asciinema.org/a/337203.svg)](https://asciinema.org/a/337203)
