@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img width="200" height="200" src="https://i.imgur.com/PQWeolj.png" alt="Sublime's custom image"/>
+<img width="500" src="https://media.giphy.com/media/YO4N1CZ2Z0Kzk2eO8q/giphy.gif" />
 </p>
 
 ## `My Digital Brain` 
