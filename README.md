@@ -9,7 +9,7 @@
 - Original wiki: [Brains: Ghosts In the Shell](https://github.com/allenleein/knowledge-base/wiki/Ghosts-in-the-Shell)
 - Goal: Decentralize my brain to a network of brains
 - File system: current repo
-- Search Engine (In Process): [Link](http://ios.pensieves.co/)
+- Search Engine (In Process)
 
 ### `Structure`
 
