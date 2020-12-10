@@ -1,6 +1,3 @@
-<p align="center">
-<img width="500" src="https://media.giphy.com/media/YO4N1CZ2Z0Kzk2eO8q/giphy.gif" />
-</p>
 
 ## `My Digital Brain` 
 
