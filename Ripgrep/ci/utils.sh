@@ -24,8 +24,6 @@ host() {
         osx)
             echo x86_64-apple-darwin
             ;;
-        windows)
-            echo x86_64-pc-windows-msvc
     esac
 }
 
@@ -95,13 +93,6 @@ is_linux() {
 is_osx() {
     case "$TRAVIS_OS_NAME" in
         osx) return 0 ;;
-        *)   return 1 ;;
-    esac
-}
-
-is_windows() {
-    case "$TRAVIS_OS_NAME" in
-        windows) return 0 ;;
         *)   return 1 ;;
     esac
 }
