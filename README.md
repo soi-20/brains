@@ -16,14 +16,13 @@
 │   ├── Vim
 │   ├── OSX 
 │   ├── Linux
-│   ├── ML
-│   ├── Biohacking
-│   ├── Hacking
+│   ├── Intelligence
+│   ├── Machine Learning
 │   ├── Venture Capital
+│   ├── Scale
 │   └── Problem Solving
-├─<01>Input
+├─<01>Functions
 ├── <010>Thinking
-│   ├── Problem Solving 
 │   ├── Thinking Models
 │   ├── Storytelling
 │   ├── Strategy ├── Moat ├── Leverage
@@ -35,6 +34,8 @@
 │   ├── 10x Engineering
 │   ├── Execution
 │   ├── Design
+├── <090>Nuclear Reactor Design
+├── <090>Space Travel ├── Longevity
 └── .gitignore
 
 ```
