@@ -3,9 +3,8 @@
 
 ### `Intro: The Inputs and Functions of My Thinking`
 
-- Original wiki: [Brains: Ghosts In the Shell](https://github.com/allenleein/knowledge-base/wiki/Ghosts-in-the-Shell)
 - Goal: Decentralize my brain to a network of brains
-- Daily funnel: [Link](http://www.ab0ve.co/2040/12/06/thinking.html)
+- Daily flow funnel: [Link](http://www.ab0ve.co/2040/12/06/thinking.html)
 
 
 ### `Structure`
@@ -36,12 +35,6 @@
 │   ├── 10x Engineering
 │   ├── Execution
 │   ├── Design
-├─  <012>Functions
-│   ├── Games Theory
-│   ├── The Art of Focus
-├─<090>Output
-│   ├── Pending Future ├── Nuclear Reactor ├── Space Travel
-│   ├── In Process ├── TARS(Pensieves) ├── Enders ├── Gargantua
 └── .gitignore
 
 ```
@@ -60,4 +53,4 @@ I use [ff](https://github.com/vishaltelangre/ff). If you don't have Rust on your
 
 I recommend to use [rga](https://github.com/phiresky/ripgrep-all): ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 
-Just in case: [Backup](https://github.com/allenleein/brains/tree/gh-pages/Ripgrep)
+
