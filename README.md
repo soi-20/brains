@@ -4,8 +4,6 @@
 ### `Intro: The Inputs and Functions of My Thinking`
 
 - Goal: Decentralize my brain to a network of brains
-- Daily digesting notes: [Link](https://www.notion.so/ab0ve/Digesting-Notes-3973d3c6fd5a4fd48d298c778d3636ad)
-
 
 
 ### `Structure`
@@ -41,7 +39,7 @@
 
 ```
 
-### `How to Search`
+### `How to Search (clone to local)`
 
 **Find files:**
 
