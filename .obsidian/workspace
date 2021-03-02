@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "0047a00c861cbae7",
+    "type": "split",
+    "children": [
+      {
+        "id": "5dc88b152661608b",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fc51ffb2ca145cb8",
+    "type": "split",
+    "children": [
+      {
+        "id": "83acb582098b191d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "939474fe8a30f8ff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1830a400d6a2e81d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "30507341e19173d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "9dbe3415bc30e390",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53856980d1850365",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "README.md",
+    "<00>Scale/A Beginner's Guide to Scaling to 11 Million+ Users on Amazon's AWS - High Scalability - __ Reader View.pdf",
+    "Ripgrep/README.md",
+    "<00>Venture Capital/Benchmark/Sarah on Grounding.png",
+    "<00>Venture Capital/Benchmark/Peter-Trends.png",
+    "<011>Design/User Research/MVP_Sample.pdf",
+    "<011>Design/Steve Jobs Archive/WIRED Steve Jobs, Revolutionary by Steven Levy (z-lib.org).pdf",
+    "<011>Design/Steve Jobs Archive/The Presentation Secrets of Steve Jobs How to Be Insanely Great in Front of Any Audience by Carmine Gallo.pdf",
+    "<011>Design/Steve Jobs Archive/Bloomberg Businessweek - 10 October - Steve Jobs by Bloomberg.pdf",
+    "<01>Macro/Reports/The-Infinite-Dial-2020-from-Edison-Research-and-Triton-Digital.pdf"
+  ]
+}

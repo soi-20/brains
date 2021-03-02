@@ -4,7 +4,8 @@
 ### `Intro: The Inputs and Functions of My Thinking`
 
 - Goal: Decentralize my brain to a network of brains
-- Daily flow funnel: [Link](http://www.ab0ve.co/2040/12/06/thinking.html)
+- Daily digesting notes: [Link](https://www.notion.so/ab0ve/Digesting-Notes-3973d3c6fd5a4fd48d298c778d3636ad)
+
 
 
 ### `Structure`
@@ -23,12 +24,12 @@
 │   └── Problem Solving
 ├─<01>Functions
 ├── <010>Thinking
-│   ├── Thinking Models
-│   ├── Storytelling
+│   ├── Thinking Models ├── Ambition ├── Finding Genius ├── Input ├── Principals ├── Structures
+│   ├── Storytelling ├── Branding ├── Bret Victor ├── Decks ├── YC
 │   ├── Strategy ├── Moat ├── Leverage
-│   ├── Design
-│   ├── Macro
-│   ├── Micro
+│   ├── Design ├── Steve Jobs Archive ├── UX ├── User Research
+│   ├── Macro ├── History ├── Innovation and Stagnation ├── Reports ├── Unpopular
+│   ├── Micro ├── Bias
 ├── <011>Building
 │   ├── Lead
 │   ├── 10x Engineering
@@ -50,7 +51,7 @@ I use [ff](https://github.com/vishaltelangre/ff). If you don't have Rust on your
   <img width="680" height="200" src="https://i.imgur.com/MtU3suN.jpg" alt="Sublime's custom image"/>
 </p>
 
-**Everything:**
+**Find anything:**
 
 I recommend to use [rga](https://github.com/phiresky/ripgrep-all): ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 
