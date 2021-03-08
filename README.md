@@ -39,6 +39,15 @@
 
 ```
 
+### `Functions (WIP)`
+
+- Thinking Model
+- Storytelling and Lead
+- Strategy
+- Design and Engineering
+- Macro and Micro
+
+
 ### `How to Search (clone to local)`
 
 **Find files:**
