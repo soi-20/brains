@@ -8,9 +8,10 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "<201>Digital Memories/Products/Google-1M-Deal.png"
+            "file": "README.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "<201>Digital Memories/Products/Google-1M-Deal.png",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,8 +86,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "<201>Digital Memories/Products/Google-1M-Deal.png",
     "README.md",
+    "<201>Digital Memories/Products/Google-1M-Deal.png",
     "<01>Macro/Innovation and Stagnation/Academic Progress_ An Outsider’s Perspective.pdf",
     "<01>Micro/Bias/從三個不同的角度來觀察博客來電子書的新手上路：電商、出版社、電子書平台 - INSIDE.pdf",
     "<01>Micro/Bias/Facebook首席科学家：AR眼镜需5-10年才能成主流 - 知乎.pdf",
