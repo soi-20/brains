@@ -9,7 +9,7 @@
 ### `Structure`
 
 <p align="center">
-  <img width="400" height="700" src="https://i.imgur.com/kwsbMGB.jpg" alt="Sublime's custom image"/>
+  <img width="550" height="700" src="https://i.imgur.com/kwsbMGB.jpg" alt="Sublime's custom image"/>
 </p>
 
 ```
