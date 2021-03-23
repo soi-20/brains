@@ -8,10 +8,14 @@
 
 ### `Structure`
 
+<p align="center">
+  <img width="700" height="400" src="https://i.imgur.com/MtU3suN.jpg" alt="Sublime's custom image"/>
+</p>
+
 ```
 ├─<00>Tool
 │   ├── SICP
-│   │   ├── Scheme ├── Haskell ├── Rust ├── Typescript ├── Swift
+│   │   ├── Scheme ├── Haskell ├── Rust ├── Purescript ├── SwiftUI
 │   ├── Vim
 │   ├── OSX 
 │   ├── Linux
@@ -23,7 +27,7 @@
 ├─<01>Functions
 ├── <010>Thinking
 │   ├── Thinking Models ├── Ambition ├── Finding Genius ├── Input ├── Principals ├── Structures
-│   ├── Storytelling ├── Branding ├── Bret Victor ├── Decks ├── YC
+│   ├── Storytelling ├── Branding ├── Decks
 │   ├── Strategy ├── Moat ├── Leverage
 │   ├── Design ├── Steve Jobs Archive ├── UX ├── User Research
 │   ├── Macro ├── History ├── Innovation and Stagnation ├── Reports ├── Unpopular
@@ -41,11 +45,9 @@
 
 ### `Functions (WIP)`
 
-- Thinking Model
-- Storytelling and Lead
-- Strategy
-- Design and Engineering
-- Macro and Micro
+- Thinking Models
+- Strategy and Lead
+- Execution
 
 
 ### `How to Search (clone to local)`
