@@ -13,11 +13,9 @@
 </p>
 
 
-### `Functions (WIP)`
+### `A Network of Brains (WIP)`
 
-- Thinking Models
-- Strategy and Lead
-- Execution
+[Sign Up Update](https://tarsmachine.substack.com/welcome)
 
 
 ### `How to Search (clone to local)`
