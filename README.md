@@ -1,5 +1,5 @@
 
-## `My Digital Brain` 
+## `Digital Brain` 
 
 ### `Intro: The Inputs and Functions of My Thinking`
 
@@ -9,7 +9,7 @@
 ### `Structure`
 
 <p align="center">
-  <img width="550" height="700" src="https://i.imgur.com/kwsbMGB.jpg" alt="Sublime's custom image"/>
+  <img width="600" height="700" src="https://i.imgur.com/kwsbMGB.jpg" alt="Sublime's custom image"/>
 </p>
 
 ```

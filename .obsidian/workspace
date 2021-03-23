@@ -8,10 +8,9 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "README.md",
-            "mode": "source"
+            "file": "<01>Macro/Innovation and Stagnation/Academic Progress_ An Outsider’s Perspective.pdf"
           }
         }
       }
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "<01>Macro/Innovation and Stagnation/Academic Progress_ An Outsider’s Perspective.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +85,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "README.md",
-    "vault/haskell.md",
-    "vault/root.md",
-    "<101>Functions/Functions-Venture-Capital.md",
-    "<00>Venture Capital/Angel Investing/How to Angel Invest, Part 2 .pdf",
-    "<00>Venture Capital/Angel Investing/How to Angel Invest, Part 1 .pdf",
-    "<00>Venture Capital/Angel Investing/11 angel investing lessons .pdf",
-    "<011>Design/User Research/User Observations.pdf",
-    "Functions/Functions-Venture-Capital.md",
-    "<00>Venture Capital/VCs Fight Like Teens/VCBrags did one last thing before deleting their account- a frame-up .pdf"
+    "<01>Macro/Innovation and Stagnation/Academic Progress_ An Outsider’s Perspective.pdf",
+    "<01>Micro/Bias/從三個不同的角度來觀察博客來電子書的新手上路：電商、出版社、電子書平台 - INSIDE.pdf",
+    "<01>Micro/Bias/Facebook首席科学家：AR眼镜需5-10年才能成主流 - 知乎.pdf",
+    "<01>Micro/Bias/Founder-Investor Fit .pdf",
+    "<01>Micro/Bias/Generational Transitions at VC Firms « Top Tier Capital Partners Blog .pdf",
+    "<01>Micro/Bias/A_100x_Investment_(Part_1)_-_comma_ai_-_Medium.pdf",
+    "<01>Micro/Bias/2000px-Graham's_Hierarchy_of_Disagreement.svg.png",
+    "<01>Micro/Bias/“Ascend the Hierarchy”- Let's improve online discourse .pdf",
+    "<01>Micro/Bias/Atrium /On HN-Atrium shuts down, laying off 100 __ Reader View.pdf",
+    "<01>Micro/Bias/Atrium /Justin Kan confirms $10.5 million in funding for his legal tech startup Atrium LTS – TechCrunch.pdf"
   ]
 }
