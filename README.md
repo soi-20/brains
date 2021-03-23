@@ -12,36 +12,6 @@
   <img width="700" height="700" src="https://i.imgur.com/MWjCHbk.jpg" alt="Sublime's custom image"/>
 </p>
 
-```
-├─<00>Tool
-│   ├── SICP
-│   │   ├── Scheme ├── Haskell ├── Rust ├── Purescript ├── SwiftUI
-│   ├── Vim
-│   ├── OSX 
-│   ├── Linux
-│   ├── Intelligence
-│   ├── Machine Learning
-│   ├── Venture Capital
-│   ├── Scale
-│   └── Problem Solving
-├─<01>Functions
-├── <010>Thinking
-│   ├── Thinking Models ├── Ambition ├── Finding Genius ├── Input ├── Principals ├── Structures
-│   ├── Storytelling ├── Branding ├── Decks
-│   ├── Strategy ├── Moat ├── Leverage
-│   ├── Design ├── Steve Jobs Archive ├── UX ├── User Research
-│   ├── Macro ├── History ├── Innovation and Stagnation ├── Reports ├── Unpopular
-│   ├── Micro ├── Bias
-├── <011>Building
-│   ├── Lead
-│   ├── 10x Engineering
-│   ├── Execution
-│   ├── Design
-├── <090>Nuclear Reactor Design
-├── <090>Space Travel ├── Longevity
-└── .gitignore
-
-```
 
 ### `Functions (WIP)`
 
@@ -52,16 +22,17 @@
 
 ### `How to Search (clone to local)`
 
-**Find files:**
+**Browse:**
 
-I use [ff](https://github.com/vishaltelangre/ff). If you don't have Rust on your machine yet, please use [rustup](https://doc.rust-lang.org/book/ch01-01-installation.html) to install.
+Highly recommend to use [Obsidian](https://obsidian.md/) or vscode + [Foam](https://foambubble.github.io/foam/) extention.
+
+**Find Anything (PDF, ePub, Markdown...):**
+
+Use [ff](https://github.com/vishaltelangre/ff) or [rga](https://github.com/phiresky/ripgrep-all).  If you don't have Rust on your machine yet, please use [rustup](https://doc.rust-lang.org/book/ch01-01-installation.html) to install.
 
 <p align="center">
   <img width="680" height="200" src="https://i.imgur.com/MtU3suN.jpg" alt="Sublime's custom image"/>
 </p>
 
-**Find anything:**
-
-I recommend to use [rga](https://github.com/phiresky/ripgrep-all): ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 
 
