@@ -3,7 +3,7 @@
 
 ### `Intro: The Inputs and Functions of My Thinking`
 
-- Goal: Decentralize my brain to a network of brains
+- Goal: Decentralize my brain to [a network of brains](https://tarsmachine.substack.com/welcome).(WIP)
 
 
 ### `Structure`
@@ -11,11 +11,6 @@
 <p align="center">
   <img width="700" height="700" src="https://i.imgur.com/MWjCHbk.jpg" alt="Sublime's custom image"/>
 </p>
-
-
-### `A Network of Brains (WIP)`
-
-[Sign Up Update](https://tarsmachine.substack.com/welcome)
 
 
 ### `How to Search (clone to local)`
