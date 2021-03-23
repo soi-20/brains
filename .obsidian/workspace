@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "5dc88b152661608b",
+        "id": "9835e69e04ab0094",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "vault/haskell.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "vault/haskell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "README.md",
-    "<00>Venture Capital/Bloomberg Beta/Manual-master/4 - Reading list.md",
-    "<00>Compiler/Build a monadic interpreter in one day(Haskell).pdf",
-    "<010>Storytelling/Lachy Groom.png",
-    "<00>Venture Capital/Bad/Snapchat Founders’ Grip Tightened After a Spat With an Early Investor.pdf",
-    "<00>Venture Capital/Benchmark/Benchmark x Sketch .pdf",
-    "<00>Scale/What Makes A Good Engineer.pdf",
-    "<00>Scale/A Beginner's Guide to Scaling to 11 Million+ Users on Amazon's AWS - High Scalability - __ Reader View.pdf",
-    "Ripgrep/README.md",
-    "<00>Venture Capital/Benchmark/Sarah on Grounding.png"
+    "vault/haskell.md",
+    "vault/root.md",
+    "<101>Functions/Functions-Venture-Capital.md",
+    "<00>Venture Capital/Angel Investing/How to Angel Invest, Part 2 .pdf",
+    "<00>Venture Capital/Angel Investing/How to Angel Invest, Part 1 .pdf",
+    "<00>Venture Capital/Angel Investing/11 angel investing lessons .pdf",
+    "<011>Design/User Research/User Observations.pdf",
+    "Functions/Functions-Venture-Capital.md",
+    "<00>Venture Capital/VCs Fight Like Teens/VCBrags did one last thing before deleting their account- a frame-up .pdf",
+    "<00>Venture Capital/VCs Fight Like Teens/VC Marvel Trailer.mp4"
   ]
 }
