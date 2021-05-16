@@ -7,9 +7,10 @@
         "id": "181290e97abc48ac",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "<201>Screenshots/VCs Fight Like Teens/3DE52700-4E81-4AF8-8658-3B88FF818215.png"
+            "file": "README.md",
+            "mode": "source"
           }
         }
       }
@@ -67,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "<201>Screenshots/VCs Fight Like Teens/3DE52700-4E81-4AF8-8658-3B88FF818215.png",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +88,15 @@
   },
   "active": "181290e97abc48ac",
   "lastOpenFiles": [
+    "README.md",
+    "<201>Screenshots/VCs Fight Like Teens/3DE52700-4E81-4AF8-8658-3B88FF818215.png",
     "<201>Digital Memories/VCs Fight Like Teens/3DE52700-4E81-4AF8-8658-3B88FF818215.png",
     "<201>Digital Memories/VCs Fight Like Teens/0FBC5BA4-1B51-4357-ADFE-E4A555C3E013.png",
-    "README.md",
     "<❍>-Functions/△ Idea Maze to PMF.md",
     "Untitled.md",
     "<00>Venture Capital/Angel Investing/11 angel investing lessons .pdf",
     "<201>Digital Memories/Products/Google-1M-Deal.png",
     "<01>Macro/Innovation and Stagnation/Academic Progress_ An Outsider’s Perspective.pdf",
-    "<01>Micro/Bias/從三個不同的角度來觀察博客來電子書的新手上路：電商、出版社、電子書平台 - INSIDE.pdf",
-    "<01>Micro/Bias/Facebook首席科学家：AR眼镜需5-10年才能成主流 - 知乎.pdf"
+    "<01>Micro/Bias/從三個不同的角度來觀察博客來電子書的新手上路：電商、出版社、電子書平台 - INSIDE.pdf"
   ]
 }

@@ -1,17 +1,23 @@
 
-## `Digital Brain` 
+# `Digital Brain` 
 
-### `Intro: The Inputs and Functions of My Thinking`
+## `Intro: The Inputs and Functions of My Thinking`
 
 
-### `Structure`
+## `Structure`
 
 <p align="center">
   <img width="700" height="700" src="https://i.imgur.com/MWjCHbk.jpg" alt="Sublime's custom image"/>
 </p>
 
 
-### `How to Search (clone to local)`
+```
+❍: Functions
+△: Inputs (notes)
+```
+
+
+## `How to Search (clone to local)`
 
 **Browse:**
 
@@ -24,6 +30,10 @@ Use [ff](https://github.com/vishaltelangre/ff) or [rga](https://github.com/phire
 <p align="center">
   <img width="680" height="200" src="https://i.imgur.com/MtU3suN.jpg" alt="Sublime's custom image"/>
 </p>
+
+
+
+
 
 
 
