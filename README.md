@@ -3,8 +3,6 @@
 
 ### `Intro: The Inputs and Functions of My Thinking`
 
-- Goal: Decentralize my brain to [a network of brains](https://tarsmachine.substack.com/welcome).(WIP)
-
 
 ### `Structure`
 
