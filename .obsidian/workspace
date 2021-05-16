@@ -4,9 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "9835e69e04ab0094",
+        "id": "181290e97abc48ac",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -73,6 +72,8 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -85,8 +86,10 @@
     "width": 300,
     "collapsed": true
   },
+  "active": "181290e97abc48ac",
   "lastOpenFiles": [
     "README.md",
+    "<00>Venture Capital/Angel Investing/11 angel investing lessons .pdf",
     "Untitled.md",
     "<201>Digital Memories/Products/Google-1M-Deal.png",
     "<01>Macro/Innovation and Stagnation/Academic Progress_ An Outsider’s Perspective.pdf",
@@ -94,7 +97,6 @@
     "<01>Micro/Bias/Facebook首席科学家：AR眼镜需5-10年才能成主流 - 知乎.pdf",
     "<01>Micro/Bias/Founder-Investor Fit .pdf",
     "<01>Micro/Bias/Generational Transitions at VC Firms « Top Tier Capital Partners Blog .pdf",
-    "<01>Micro/Bias/A_100x_Investment_(Part_1)_-_comma_ai_-_Medium.pdf",
-    "<01>Micro/Bias/2000px-Graham's_Hierarchy_of_Disagreement.svg.png"
+    "<01>Micro/Bias/A_100x_Investment_(Part_1)_-_comma_ai_-_Medium.pdf"
   ]
 }

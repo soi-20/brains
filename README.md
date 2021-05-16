@@ -17,7 +17,7 @@
 
 **Browse:**
 
-Highly recommend to use [Obsidian](https://obsidian.md/) or vscode + [Foam](https://foambubble.github.io/foam/) extention.
+Highly recommend to use [Obsidian](https://obsidian.md/).
 
 **Find Anything (PDF, ePub, Markdown...):**
 
