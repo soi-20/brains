@@ -7,10 +7,9 @@
         "id": "181290e97abc48ac",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "README.md",
-            "mode": "source"
+            "file": "<090>Space/starship_users_guide_v1.pdf"
           }
         }
       }
@@ -68,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "<090>Space/starship_users_guide_v1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +87,15 @@
   },
   "active": "181290e97abc48ac",
   "lastOpenFiles": [
+    "<090>Space/starship_users_guide_v1.pdf",
+    "<090>Space/falcon_users_guide_10_2019.pdf",
+    "<010>Strategy/Sequoia - Elements of Enduring Companies .pdf",
+    "<010>Strategy/starting vs investing.jpeg",
+    "<❍>-Functions/△ Idea Maze to PMF.md",
     "README.md",
     "<201>Screenshots/VCs Fight Like Teens/3DE52700-4E81-4AF8-8658-3B88FF818215.png",
     "<201>Digital Memories/VCs Fight Like Teens/3DE52700-4E81-4AF8-8658-3B88FF818215.png",
     "<201>Digital Memories/VCs Fight Like Teens/0FBC5BA4-1B51-4357-ADFE-E4A555C3E013.png",
-    "<❍>-Functions/△ Idea Maze to PMF.md",
-    "Untitled.md",
-    "<00>Venture Capital/Angel Investing/11 angel investing lessons .pdf",
-    "<201>Digital Memories/Products/Google-1M-Deal.png",
-    "<01>Macro/Innovation and Stagnation/Academic Progress_ An Outsider’s Perspective.pdf",
-    "<01>Micro/Bias/從三個不同的角度來觀察博客來電子書的新手上路：電商、出版社、電子書平台 - INSIDE.pdf"
+    "Untitled.md"
   ]
 }

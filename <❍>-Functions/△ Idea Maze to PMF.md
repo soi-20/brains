@@ -1,1 +1,0 @@
-[Link](http://www.ab0ve.co/1713/01/03/pmf.html)

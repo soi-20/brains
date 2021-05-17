@@ -1,23 +1,17 @@
 
-# `Digital Brain` 
+## `Digital Brain` 
 
-## `Intro: The Inputs and Functions of My Thinking`
+### `Intro: The Inputs and Functions of My Thinking`
 
 
-## `Structure`
+### `Structure`
 
 <p align="center">
   <img width="700" height="700" src="https://i.imgur.com/MWjCHbk.jpg" alt="Sublime's custom image"/>
 </p>
 
 
-```
-❍: Functions
-△: Inputs (notes)
-```
-
-
-## `How to Search (clone to local)`
+### `How to Search (Clone to local)`
 
 **Browse:**
 
