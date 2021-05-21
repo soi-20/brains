@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "181290e97abc48ac",
+        "id": "fd4476796166e28d",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "<090>Space/starship_users_guide_v1.pdf"
+            "file": "README.md",
+            "mode": "source"
           }
         }
       }
@@ -67,35 +68,56 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "<090>Space/starship_users_guide_v1.pdf",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "07cb3ffdc3352d58",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "50600d3d8ce1bbbb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 216
   },
-  "active": "181290e97abc48ac",
+  "active": "fd4476796166e28d",
   "lastOpenFiles": [
-    "<090>Space/starship_users_guide_v1.pdf",
-    "<090>Space/falcon_users_guide_10_2019.pdf",
-    "<010>Strategy/Sequoia - Elements of Enduring Companies .pdf",
-    "<010>Strategy/starting vs investing.jpeg",
-    "<❍>-Functions/△ Idea Maze to PMF.md",
     "README.md",
-    "<201>Screenshots/VCs Fight Like Teens/3DE52700-4E81-4AF8-8658-3B88FF818215.png",
-    "<201>Digital Memories/VCs Fight Like Teens/3DE52700-4E81-4AF8-8658-3B88FF818215.png",
-    "<201>Digital Memories/VCs Fight Like Teens/0FBC5BA4-1B51-4357-ADFE-E4A555C3E013.png",
-    "Untitled.md"
+    "<00>-Functional-Programming/ Writing A Lisp Interpreter In Haskell.pdf",
+    "<❍>-Functions/△❍ Index.md",
+    "<201>Screenshots/Visual Values/scrnli_5_16_2021_3-21-07 PM.png",
+    "<201>Screenshots/Visual Values/scrnli_5_16_2021_3-20-13 PM.png",
+    "<201>Screenshots/Visual Values/scrnli_5_16_2021_3-19-27 PM.png",
+    "<201>Screenshots/Visual Values/scrnli_5_16_2021_3-18-07 PM.png",
+    "<201>Screenshots/Visual Values/scrnli_5_16_2021_3-17-27 PM.png",
+    "<201>Screenshots/Visual Values/E1YVUy7XIAE9Qlb.jpeg",
+    "Day Planners/Day Planner-20210517.md"
   ]
 }
