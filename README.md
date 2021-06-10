@@ -1,5 +1,5 @@
 
-## `Digital Brain` 
+## `Digital Brain (WIP)` 
 
 ### `Intro: The Inputs and Functions of My Thinking`
 
@@ -10,6 +10,24 @@
   <img width="700" height="700" src="https://i.imgur.com/MWjCHbk.jpg" alt="Sublime's custom image"/>
 </p>
 
+                                                         _ooλoo_
+                                                        o111111o
+                                                        01" . "10
+                                                        (| -_- |)
+                                                         O\ = /O
+                                                     ____/`---'\____
+                                                   .   ' \\| |// `.
+                                                    / \\||| λ |||// \
+                                                  / _||||| -Δ- |||||- \
+                                                    | | \\\ - /// | |
+                                                  | \_| ''\---/'' | |
+                                                   \ .-\__ `-` ___/-. /
+                                                ___`. .' /--.--\ `. . __
+                                             ."" '< `.___\_<λ>_/___.' >'"".
+                                            | | : `- \`.;`\ _ /`;.`/ - ` : | |
+                                              \ \ `-. \_ __\ /__ _/ .-` / /
+                                      ======`-.____`-.___\_____/___.-`____.-'======
+                                                         `=---='
 
 ### `How to Search (Clone to local)`
 

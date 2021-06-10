@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fd4476796166e28d",
+        "id": "45318a8bfc46ca0f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -107,8 +101,9 @@
     "direction": "horizontal",
     "width": 216
   },
-  "active": "fd4476796166e28d",
+  "active": "45318a8bfc46ca0f",
   "lastOpenFiles": [
+    "<00>Security/zen.md",
     "README.md",
     "<00>-Functional-Programming/ Writing A Lisp Interpreter In Haskell.pdf",
     "<❍>-Functions/△❍ Index.md",
@@ -117,7 +112,6 @@
     "<201>Screenshots/Visual Values/scrnli_5_16_2021_3-19-27 PM.png",
     "<201>Screenshots/Visual Values/scrnli_5_16_2021_3-18-07 PM.png",
     "<201>Screenshots/Visual Values/scrnli_5_16_2021_3-17-27 PM.png",
-    "<201>Screenshots/Visual Values/E1YVUy7XIAE9Qlb.jpeg",
-    "Day Planners/Day Planner-20210517.md"
+    "<201>Screenshots/Visual Values/E1YVUy7XIAE9Qlb.jpeg"
   ]
 }
