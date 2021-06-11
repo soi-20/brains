@@ -3,13 +3,6 @@
 
 `The Inputs and Functions of My Thinking`
 
-### `Structure`
-
-<p align="center">
-  <img width="700" height="700" src="https://i.imgur.com/MWjCHbk.jpg" alt="Sublime's custom image"/>
-</p>
-
-
 
                                                _λλλλλ_
                                               _0101010_
@@ -30,6 +23,12 @@
                             ======`-.____`-.___\_____/___.-`____.-'======
                                                `=---='
 
+
+### `Outline`
+
+<p align="center">
+  <img width="700" height="700" src="https://i.imgur.com/MWjCHbk.jpg" alt="Sublime's custom image"/>
+</p>
 
 ### `How to Search (Clone to local)`
 
