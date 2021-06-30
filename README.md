@@ -34,14 +34,13 @@
 
 **Browse:**
 
-Highly recommend to use [Obsidian](https://obsidian.md/).
+Highly recommend to use [Obsidian](https://obsidian.md/) or Vscode + [Foam](https://foambubble.github.io/foam/) extention.
 
 **Find Anything (PDF, ePub, Markdown...):**
 
 Use [fzf](https://github.com/junegunn/fzf#usage) or [rga](https://github.com/phiresky/ripgrep-all).  If you don't have Rust on your machine yet, please use [rustup](https://doc.rust-lang.org/book/ch01-01-installation.html) to install.
 
-<p align="center">
-  <img width="680" height="200" src="https://i.imgur.com/MtU3suN.jpg" alt="Sublime's custom image"/>
-</p>
+![image](https://github.com/ale0sx/brains/blob/gh-pages/%3C201%3EScreenshots/Fzh-demo.gif)
+
 
 
