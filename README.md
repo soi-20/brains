@@ -38,14 +38,10 @@ Highly recommend to use [Obsidian](https://obsidian.md/).
 
 **Find Anything (PDF, ePub, Markdown...):**
 
-I recommend to use [rga](https://github.com/phiresky/ripgrep-all) or [fzf](https://github.com/junegunn/fzf#usage). 
+Use [fzf](https://github.com/junegunn/fzf#usage) or [rga](https://github.com/phiresky/ripgrep-all).  If you don't have Rust on your machine yet, please use [rustup](https://doc.rust-lang.org/book/ch01-01-installation.html) to install.
 
 <p align="center">
-<img width="400" src="https://i.imgur.com/buckecN.gif"/>
+  <img width="680" height="200" src="https://i.imgur.com/MtU3suN.jpg" alt="Sublime's custom image"/>
 </p>
-
-If you don't have Rust on your machine yet, please use [rustup](https://doc.rust-lang.org/book/ch01-01-installation.html) to install.
-
-
 
 
