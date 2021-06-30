@@ -36,7 +36,7 @@
 
 Highly recommend to use [Obsidian](https://obsidian.md/) or Vscode + [Foam](https://foambubble.github.io/foam/) extention.
 
-**Find Anything (PDF, ePub, Markdown...):**
+**Search Anything (PDF, ePub, Markdown...) in Terminal:**
 
 Use [fzf](https://github.com/junegunn/fzf#usage) or [rga](https://github.com/phiresky/ripgrep-all).  If you don't have Rust on your machine yet, please use [rustup](https://doc.rust-lang.org/book/ch01-01-installation.html) to install.
 
