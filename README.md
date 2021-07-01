@@ -34,9 +34,13 @@ $ cd brains
 
 **Search Anything (PDF, ePub, Markdown...):**
 
-Use [fzf](https://github.com/junegunn/fzf#usage) or [rga](https://github.com/phiresky/ripgrep-all).  If you don't have Rust on your machine yet, please use [rustup](https://doc.rust-lang.org/book/ch01-01-installation.html) to install.
+Use [fzf](https://github.com/junegunn/fzf#usage) + [rga](https://github.com/phiresky/ripgrep-all).  If you don't have Rust on your machine yet, please use [rustup](https://doc.rust-lang.org/book/ch01-01-installation.html) to install.
 
 ![image](https://github.com/ale0sx/brains/blob/gh-pages/%3C201%3EScreenshots/Fzh-demo.gif)
+
+![image](https://github.com/ale0sx/brains/blob/gh-pages/%3C201%3EScreenshots/rga-fzf2.gif)
+
+
 
 **Browse:**
 
