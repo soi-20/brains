@@ -24,23 +24,22 @@
                                                `=---='
 
 
-### `Outline`
+## `How to Explore`
 
-<p align="center">
-  <img width="700" height="700" src="https://i.imgur.com/MWjCHbk.jpg" alt="Sublime's custom image"/>
-</p>
+```bash
+$ git clone https://github.com/ale0sx/brains.git
+$ cd brains
 
-### `How to Search (Clone to local)`
+```
 
-**Browse:**
-
-Highly recommend to use [Obsidian](https://obsidian.md/) or Vscode + [Foam](https://foambubble.github.io/foam/) extention.
-
-**Search Anything (PDF, ePub, Markdown...) in Terminal:**
+**Search Anything (PDF, ePub, Markdown...):**
 
 Use [fzf](https://github.com/junegunn/fzf#usage) or [rga](https://github.com/phiresky/ripgrep-all).  If you don't have Rust on your machine yet, please use [rustup](https://doc.rust-lang.org/book/ch01-01-installation.html) to install.
 
 ![image](https://github.com/ale0sx/brains/blob/gh-pages/%3C201%3EScreenshots/Fzh-demo.gif)
 
+**Browse:**
+
+Highly recommend to use [Obsidian](https://obsidian.md/) or Vscode + [Foam](https://foambubble.github.io/foam/) extention.
 
 
