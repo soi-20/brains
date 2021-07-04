@@ -36,9 +36,9 @@ $ cd brains
 
 Use the powerful [fzf](https://github.com/junegunn/fzf#usage) + [rga](https://github.com/phiresky/ripgrep-all).
 
-![image](https://github.com/ale0sx/brains/blob/gh-pages/%3C201%3EScreenshots/Fzh-demo.gif)
+![image](https://github.com/ale0sx/brains/blob/%3C201%3EScreenshots/Fzh-demo.gif)
 
-![image](https://github.com/ale0sx/brains/blob/gh-pages/%3C201%3EScreenshots/rga-fzf2.gif)
+![image](https://github.com/ale0sx/brains/blob/%3C201%3EScreenshots/rga-fzf2.gif)
 
 
 
